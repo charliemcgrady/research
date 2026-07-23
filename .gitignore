@@ -12,3 +12,6 @@ asta_lit/*.log
 lag3_validation/refs/
 lag3_validation/runs_dv/*.log
 lag3_validation/runs_dv/q_*.txt
+lag3_validation/scrna/**/*.txt.gz
+lag3_validation/scrna/**/*.rds.gz
+lag3_validation/scrna/**/*.h5ad
