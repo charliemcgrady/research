@@ -51,3 +51,21 @@ atlas's own `patient_metadata_corrected.xlsx`, 303 patients.)
    Datar/Schalper-style TMA, access-gated).
 4. Kim remains a **smoke-test/descriptive** cohort only (~13 tumors); the pipeline + smoke test are
    ready (`pipeline/`), and the Kim full-matrix download is capped in this container.
+
+---
+
+## EXACT counts — LuCA core `--audit-only` (computed directly from the 13 GB h5ad obs)
+Confirmed by reading the atlas obs (h5py) and applying eligibility thresholds
+(≥50 malignant "Tumor cells" & ≥20 "T cell CD8" per sample):
+
+| Filter (LUAD) | N tumors |
+|---|---|
+| LUAD samples total (156 patients, 411k cells) | 277 |
+| eligible (≥50 malignant & ≥20 CD8) | 66 |
+| eligible & **primary** | **43** ← feasible for a general all-LUAD analysis |
+| eligible & primary & onco-annotated | 13 |
+| eligible & primary & **onco-negative** | **1** ← driver-negative single-cell INFEASIBLE (confirmed) |
+
+The per-sample audit table is `scrna/luca/luca_luad_audit.csv`. This confirms the plan:
+run the **general all-LUAD** single-cell analysis on ~43 eligible primary LUAD tumors;
+the driver-negative-specific single-cell test is not possible (n=1).

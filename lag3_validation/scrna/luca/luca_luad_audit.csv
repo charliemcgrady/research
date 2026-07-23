@@ -1,0 +1,278 @@
+sample,patient,origin,n_mal,n_cd8,EGFR,KRAS,ALK,BRAF,ERBB2,ROS,TP53,any_onco_annotated,onco_positive,onco_negative,eligible
+Goveia_Carmeliet_2020_patient_45_normal_adjacent,Goveia_Carmeliet_2020_patient_45,normal_adjacent,2,3,,,,,,,,False,False,False,False
+Goveia_Carmeliet_2020_patient_45_tumor_primary,Goveia_Carmeliet_2020_patient_45,tumor_primary,28,7,,,,,,,,False,False,False,False
+Goveia_Carmeliet_2020_patient_46_normal_adjacent,Goveia_Carmeliet_2020_patient_46,normal_adjacent,3,0,,,,,,,,False,False,False,False
+Goveia_Carmeliet_2020_patient_46_tumor_primary,Goveia_Carmeliet_2020_patient_46,tumor_primary,86,9,,,,,,,,False,False,False,False
+Goveia_Carmeliet_2020_patient_50_normal_adjacent,Goveia_Carmeliet_2020_patient_50,normal_adjacent,0,39,,,,,,,,False,False,False,False
+Goveia_Carmeliet_2020_patient_50_tumor_primary,Goveia_Carmeliet_2020_patient_50,tumor_primary,15,27,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0616A_TTC,Guo_Zhang_2018_P0616A,tumor_primary,0,168,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0616A_TTH,Guo_Zhang_2018_P0616A,tumor_primary,0,11,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0616A_TTR,Guo_Zhang_2018_P0616A,tumor_primary,0,1,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0616A_TTY,Guo_Zhang_2018_P0616A,tumor_primary,0,5,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0616P_NTC,Guo_Zhang_2018_P0616P,normal_adjacent,0,48,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0616P_TTC,Guo_Zhang_2018_P0616P,tumor_primary,0,77,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0616P_TTH,Guo_Zhang_2018_P0616P,tumor_primary,0,8,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0617_NTC,Guo_Zhang_2018_P0617,normal_adjacent,0,99,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0617_NTH,Guo_Zhang_2018_P0617,normal_adjacent,0,78,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0617_NTR,Guo_Zhang_2018_P0617,normal_adjacent,0,65,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0617_TTC,Guo_Zhang_2018_P0617,tumor_primary,0,118,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0617_TTH,Guo_Zhang_2018_P0617,tumor_primary,0,18,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0617_TTR,Guo_Zhang_2018_P0617,tumor_primary,0,15,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0729_NTC,Guo_Zhang_2018_P0729,normal_adjacent,0,113,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0729_NTH,Guo_Zhang_2018_P0729,normal_adjacent,0,6,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0729_NTR,Guo_Zhang_2018_P0729,normal_adjacent,0,14,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0729_TTC,Guo_Zhang_2018_P0729,tumor_primary,0,141,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P0729_TTH,Guo_Zhang_2018_P0729,tumor_primary,0,20,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1010_NTC,Guo_Zhang_2018_P1010,normal_adjacent,0,86,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1010_NTH,Guo_Zhang_2018_P1010,normal_adjacent,0,67,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1010_NTY,Guo_Zhang_2018_P1010,normal_adjacent,0,0,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1010_TTC,Guo_Zhang_2018_P1010,tumor_primary,0,169,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1010_TTH,Guo_Zhang_2018_P1010,tumor_primary,0,38,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1010_TTR,Guo_Zhang_2018_P1010,tumor_primary,0,0,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1010_TTY,Guo_Zhang_2018_P1010,tumor_primary,0,3,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1118_NTC,Guo_Zhang_2018_P1118,normal_adjacent,0,96,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1118_NTH,Guo_Zhang_2018_P1118,normal_adjacent,0,29,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1118_TTC,Guo_Zhang_2018_P1118,tumor_primary,0,156,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1118_TTH,Guo_Zhang_2018_P1118,tumor_primary,0,26,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1120_NTC,Guo_Zhang_2018_P1120,normal_adjacent,0,29,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1120_TTC,Guo_Zhang_2018_P1120,tumor_primary,0,186,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1120_TTH,Guo_Zhang_2018_P1120,tumor_primary,0,36,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1120_TTR,Guo_Zhang_2018_P1120,tumor_primary,0,3,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1120_TTY,Guo_Zhang_2018_P1120,tumor_primary,0,24,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1202_NTC,Guo_Zhang_2018_P1202,normal_adjacent,0,62,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1202_NTH,Guo_Zhang_2018_P1202,normal_adjacent,0,10,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1202_NTY,Guo_Zhang_2018_P1202,normal_adjacent,0,10,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1202_TTC,Guo_Zhang_2018_P1202,tumor_primary,0,145,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1202_TTH,Guo_Zhang_2018_P1202,tumor_primary,0,49,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1202_TTR,Guo_Zhang_2018_P1202,tumor_primary,0,9,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1202_TTY,Guo_Zhang_2018_P1202,tumor_primary,0,4,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1208_TTC,Guo_Zhang_2018_P1208,tumor_primary,0,66,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1208_TTH,Guo_Zhang_2018_P1208,tumor_primary,0,25,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1219_NTC,Guo_Zhang_2018_P1219,normal_adjacent,0,32,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1219_NTY,Guo_Zhang_2018_P1219,normal_adjacent,0,14,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1219_TTC,Guo_Zhang_2018_P1219,tumor_primary,0,30,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1219_TTH,Guo_Zhang_2018_P1219,tumor_primary,0,18,,,,,,,,False,False,False,False
+Guo_Zhang_2018_P1219_TTY,Guo_Zhang_2018_P1219,tumor_primary,0,14,,,,,,,,False,False,False,False
+He_Fan_2021_LUAD1,He_Fan_2021_P1,tumor_primary,717,264,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,True
+He_Fan_2021_LUAD2,He_Fan_2021_P2,tumor_primary,554,1454,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,True
+He_Fan_2021_LUAD3,He_Fan_2021_P3,tumor_primary,2764,241,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,True
+He_Fan_2021_LUAD4,He_Fan_2021_P4,tumor_primary,302,98,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,True
+He_Fan_2021_LUAD5,He_Fan_2021_P5,tumor_primary,296,1488,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,True
+He_Fan_2021_N1,He_Fan_2021_P1,normal_adjacent,3,802,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+He_Fan_2021_N2,He_Fan_2021_P2,normal_adjacent,6,586,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+He_Fan_2021_N3,He_Fan_2021_P3,normal_adjacent,9,596,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+He_Fan_2021_N4,He_Fan_2021_P4,normal_adjacent,33,651,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+He_Fan_2021_N5,He_Fan_2021_P5,normal_adjacent,0,1295,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Kim_Lee_2020_BRONCHO_11,Kim_Lee_2020_P1011,tumor_metastasis,138,219,,,,,,,,False,False,False,True
+Kim_Lee_2020_BRONCHO_58,Kim_Lee_2020_P1058,tumor_primary,289,662,,,,,,,,False,False,False,True
+Kim_Lee_2020_EBUS_06,Kim_Lee_2020_P1006,tumor_primary,699,232,,,,,,,,False,False,False,True
+Kim_Lee_2020_EBUS_10,Kim_Lee_2020_P1010,tumor_metastasis,206,329,,,,,,,,False,False,False,True
+Kim_Lee_2020_EBUS_12,Kim_Lee_2020_P1012,tumor_metastasis,103,49,,,,,,,,False,False,False,True
+Kim_Lee_2020_EBUS_13,Kim_Lee_2020_P1013,tumor_metastasis,271,202,,,,,,,,False,False,False,True
+Kim_Lee_2020_EBUS_15,Kim_Lee_2020_P1015,tumor_metastasis,159,126,,,,,,,,False,False,False,True
+Kim_Lee_2020_EBUS_19,Kim_Lee_2020_P1019,tumor_metastasis,123,432,,,,,,,,False,False,False,True
+Kim_Lee_2020_EBUS_28,Kim_Lee_2020_P1028,tumor_primary,2567,80,,,,,,,,False,False,False,True
+Kim_Lee_2020_EBUS_49,Kim_Lee_2020_P1049,tumor_primary,101,436,,,,,,,,False,False,False,True
+Kim_Lee_2020_EBUS_51,Kim_Lee_2020_P1051,tumor_metastasis,795,159,,,,,,,,False,False,False,True
+Kim_Lee_2020_EFFUSION_06,Kim_Lee_2020_P1006,tumor_metastasis,128,1471,,,,,,,,False,False,False,True
+Kim_Lee_2020_EFFUSION_11,Kim_Lee_2020_P1011,tumor_metastasis,52,1068,,,,,,,,False,False,False,True
+Kim_Lee_2020_EFFUSION_12,Kim_Lee_2020_P1012,tumor_metastasis,6,559,,,,,,,,False,False,False,False
+Kim_Lee_2020_EFFUSION_13,Kim_Lee_2020_P1013,tumor_metastasis,0,517,,,,,,,,False,False,False,False
+Kim_Lee_2020_EFFUSION_64,Kim_Lee_2020_P1064,tumor_metastasis,11,471,,,,,,,,False,False,False,False
+Kim_Lee_2020_LN_01,Kim_Lee_2020_P2001,normal,0,276,,,,,,,,False,False,False,False
+Kim_Lee_2020_LN_02,Kim_Lee_2020_P2002,normal,0,254,,,,,,,,False,False,False,False
+Kim_Lee_2020_LN_03,Kim_Lee_2020_P2003,normal,0,374,,,,,,,,False,False,False,False
+Kim_Lee_2020_LN_04,Kim_Lee_2020_P2004,normal,0,334,,,,,,,,False,False,False,False
+Kim_Lee_2020_LN_05,Kim_Lee_2020_P2005,normal,0,377,,,,,,,,False,False,False,False
+Kim_Lee_2020_LN_06,Kim_Lee_2020_P2006,normal,1,187,,,,,,,,False,False,False,False
+Kim_Lee_2020_LN_07,Kim_Lee_2020_P2007,normal,0,1008,,,,,,,,False,False,False,False
+Kim_Lee_2020_LN_08,Kim_Lee_2020_P2008,normal,0,651,,,,,,,,False,False,False,False
+Kim_Lee_2020_LN_11,Kim_Lee_2020_P2011,normal,1,316,,,,,,,,False,False,False,False
+Kim_Lee_2020_LN_12,Kim_Lee_2020_P2012,normal,0,400,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_N01,Kim_Lee_2020_P0001,normal_adjacent,3,621,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_N06,Kim_Lee_2020_P0006,normal_adjacent,1,765,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_N08,Kim_Lee_2020_P0008,normal_adjacent,0,272,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_N09,Kim_Lee_2020_P0009,normal_adjacent,2,233,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_N18,Kim_Lee_2020_P0018,normal_adjacent,2,564,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_N19,Kim_Lee_2020_P0019,normal_adjacent,2,355,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_N20,Kim_Lee_2020_P0020,normal_adjacent,0,473,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_N28,Kim_Lee_2020_P0028,normal_adjacent,2,837,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_N30,Kim_Lee_2020_P0030,normal_adjacent,1,707,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_N31,Kim_Lee_2020_P0031,normal_adjacent,3,298,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_N34,Kim_Lee_2020_P0034,normal_adjacent,6,641,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_T06,Kim_Lee_2020_P0006,tumor_primary,50,559,,,,,,,,False,False,False,True
+Kim_Lee_2020_LUNG_T08,Kim_Lee_2020_P0008,tumor_primary,0,403,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_T09,Kim_Lee_2020_P0009,tumor_primary,3,996,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_T18,Kim_Lee_2020_P0018,tumor_primary,791,346,,,,,,,,False,False,False,True
+Kim_Lee_2020_LUNG_T19,Kim_Lee_2020_P0019,tumor_primary,72,343,,,,,,,,False,False,False,True
+Kim_Lee_2020_LUNG_T20,Kim_Lee_2020_P0020,tumor_primary,293,833,,,,,,,,False,False,False,True
+Kim_Lee_2020_LUNG_T25,Kim_Lee_2020_P0025,tumor_primary,11,377,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_T28,Kim_Lee_2020_P0028,tumor_primary,682,723,,,,,,,,False,False,False,True
+Kim_Lee_2020_LUNG_T30,Kim_Lee_2020_P0030,tumor_primary,11,385,,,,,,,,False,False,False,False
+Kim_Lee_2020_LUNG_T31,Kim_Lee_2020_P0031,tumor_primary,96,1708,,,,,,,,False,False,False,True
+Kim_Lee_2020_LUNG_T34,Kim_Lee_2020_P0034,tumor_primary,353,119,,,,,,,,False,False,False,True
+Kim_Lee_2020_NS_02,Kim_Lee_2020_P3002,tumor_metastasis,134,170,,,,,,,,False,False,False,True
+Kim_Lee_2020_NS_03,Kim_Lee_2020_P3003,tumor_metastasis,1555,27,,,,,,,,False,False,False,True
+Kim_Lee_2020_NS_04,Kim_Lee_2020_P3004,tumor_metastasis,658,28,,,,,,,,False,False,False,True
+Kim_Lee_2020_NS_06,Kim_Lee_2020_P3006,tumor_metastasis,63,177,,,,,,,,False,False,False,True
+Kim_Lee_2020_NS_07,Kim_Lee_2020_P3007,tumor_metastasis,3883,9,,,,,,,,False,False,False,False
+Kim_Lee_2020_NS_12,Kim_Lee_2020_P3012,tumor_metastasis,1147,4,,,,,,,,False,False,False,False
+Kim_Lee_2020_NS_13,Kim_Lee_2020_P3013,tumor_metastasis,69,612,,,,,,,,False,False,False,True
+Kim_Lee_2020_NS_16,Kim_Lee_2020_P3016,tumor_metastasis,58,193,,,,,,,,False,False,False,True
+Kim_Lee_2020_NS_17,Kim_Lee_2020_P3017,tumor_metastasis,603,127,,,,,,,,False,False,False,True
+Kim_Lee_2020_NS_19,Kim_Lee_2020_P3019,tumor_metastasis,473,79,,,,,,,,False,False,False,True
+Lambrechts_Thienpont_2018_6149v2_BT1290,Lambrechts_Thienpont_2018_6149v2_3,tumor_primary,313,662,,,,,,,,False,False,False,True
+Lambrechts_Thienpont_2018_6149v2_BT1291,Lambrechts_Thienpont_2018_6149v2_3,tumor_primary,394,794,,,,,,,,False,False,False,True
+Lambrechts_Thienpont_2018_6149v2_BT1292,Lambrechts_Thienpont_2018_6149v2_3,tumor_primary,421,366,,,,,,,,False,False,False,True
+Lambrechts_Thienpont_2018_6149v2_BT1293,Lambrechts_Thienpont_2018_6149v2_3,normal_adjacent,66,385,,,,,,,,False,False,False,True
+Lambrechts_Thienpont_2018_6149v2_BT1294,Lambrechts_Thienpont_2018_6149v2_4,normal_adjacent,0,439,,,,,,,,False,False,False,False
+Lambrechts_Thienpont_2018_6149v2_BT1295,Lambrechts_Thienpont_2018_6149v2_4,tumor_primary,252,1282,,,,,,,,False,False,False,True
+Lambrechts_Thienpont_2018_6149v2_BT1296,Lambrechts_Thienpont_2018_6149v2_4,tumor_primary,657,1594,,,,,,,,False,False,False,True
+Lambrechts_Thienpont_2018_6149v2_BT1297,Lambrechts_Thienpont_2018_6149v2_4,tumor_primary,775,1592,,,,,,,,False,False,False,True
+Lambrechts_Thienpont_2018_6653_scrBT1429m,Lambrechts_Thienpont_2018_6653_6,normal_adjacent,1,215,,,,,,,,False,False,False,False
+Lambrechts_Thienpont_2018_6653_scrBT1430m,Lambrechts_Thienpont_2018_6653_6,tumor_primary,184,335,,,,,,,,False,False,False,True
+Lambrechts_Thienpont_2018_6653_scrBT1431m,Lambrechts_Thienpont_2018_6653_6,tumor_primary,6,438,,,,,,,,False,False,False,False
+Lambrechts_Thienpont_2018_6653_scrBT1432m,Lambrechts_Thienpont_2018_6653_6,tumor_primary,56,304,,,,,,,,False,False,False,True
+Laughney_Massague_2020_GSM3516662,Laughney_Massague_2020_LX653,tumor_primary,10,5,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Laughney_Massague_2020_GSM3516663,Laughney_Massague_2020_LX661,tumor_primary,5,1102,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,True,False,False
+Laughney_Massague_2020_GSM3516664,Laughney_Massague_2020_LX666,tumor_metastasis,485,53,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,True
+Laughney_Massague_2020_GSM3516665,Laughney_Massague_2020_LX675,tumor_primary,94,272,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,True
+Laughney_Massague_2020_GSM3516666,Laughney_Massague_2020_LX675,normal_adjacent,1,248,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Laughney_Massague_2020_GSM3516667,Laughney_Massague_2020_LX676,tumor_primary,23,1140,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,False,True,False
+Laughney_Massague_2020_GSM3516668,Laughney_Massague_2020_LX255B,tumor_metastasis,73,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,True,False,False
+Laughney_Massague_2020_GSM3516669,Laughney_Massague_2020_LX679,tumor_primary,237,6,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Laughney_Massague_2020_GSM3516670,Laughney_Massague_2020_LX680,tumor_primary,99,75,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,False,True,True
+Laughney_Massague_2020_GSM3516671,Laughney_Massague_2020_LX681,tumor_metastasis,480,9,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,False,True,False
+Laughney_Massague_2020_GSM3516672,Laughney_Massague_2020_LX682,tumor_primary,45,953,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Laughney_Massague_2020_GSM3516673,Laughney_Massague_2020_LX682,normal_adjacent,0,225,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Laughney_Massague_2020_GSM3516674,Laughney_Massague_2020_LX684,tumor_primary,18,10,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Laughney_Massague_2020_GSM3516675,Laughney_Massague_2020_LX684,normal_adjacent,1,913,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Laughney_Massague_2020_GSM3516676,Laughney_Massague_2020_LX685,normal_adjacent,0,610,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,False,True,False
+Laughney_Massague_2020_GSM3516677,Laughney_Massague_2020_LX699,tumor_metastasis,9,1216,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,True,False,False
+Laughney_Massague_2020_GSM3516678,Laughney_Massague_2020_LX701,tumor_metastasis,22,10,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,True,False,False
+Maier_Merad_2020_100,Maier_Merad_2020_695,normal_adjacent,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_103,Maier_Merad_2020_695,tumor_primary,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_104,Maier_Merad_2020_695,normal_adjacent,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_107,Maier_Merad_2020_695,tumor_primary,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_108,Maier_Merad_2020_695,normal_adjacent,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_112,Maier_Merad_2020_695,normal_adjacent,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_310,Maier_Merad_2020_370,normal_adjacent,0,0,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,False,True,False
+Maier_Merad_2020_311,Maier_Merad_2020_370,tumor_primary,0,0,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,False,True,False
+Maier_Merad_2020_312,Maier_Merad_2020_371,normal_adjacent,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_313,Maier_Merad_2020_371,tumor_primary,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_316,Maier_Merad_2020_378,normal_adjacent,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_317,Maier_Merad_2020_378,tumor_primary,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_318,Maier_Merad_2020_393,tumor_primary,0,0,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,False,True,False
+Maier_Merad_2020_319,Maier_Merad_2020_403,normal_adjacent,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_323,Maier_Merad_2020_406,normal_adjacent,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_324,Maier_Merad_2020_406,tumor_primary,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_325,Maier_Merad_2020_408,normal_adjacent,0,0,not mutated,not mutated,not mutated,not mutated,mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_327,Maier_Merad_2020_410,normal_adjacent,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_328,Maier_Merad_2020_410,tumor_primary,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_337,Maier_Merad_2020_514,normal_adjacent,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_338,Maier_Merad_2020_514,tumor_primary,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_341,Maier_Merad_2020_532,normal_adjacent,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_36,Maier_Merad_2020_558,tumor_primary,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_37,Maier_Merad_2020_564,normal_adjacent,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_38,Maier_Merad_2020_564,tumor_primary,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_39,Maier_Merad_2020_569,normal_adjacent,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,True,False,False
+Maier_Merad_2020_40,Maier_Merad_2020_569,tumor_primary,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,True,False,False
+Maier_Merad_2020_41,Maier_Merad_2020_570,normal_adjacent,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,True,False,False
+Maier_Merad_2020_413,Maier_Merad_2020_729,normal_adjacent,0,0,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,False,True,False
+Maier_Merad_2020_414,Maier_Merad_2020_729,tumor_primary,0,0,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,False,True,False
+Maier_Merad_2020_43,Maier_Merad_2020_571,tumor_primary,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_44,Maier_Merad_2020_572,normal_adjacent,0,0,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,False,True,False
+Maier_Merad_2020_45,Maier_Merad_2020_572,tumor_primary,0,0,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,False,True,False
+Maier_Merad_2020_46,Maier_Merad_2020_578,normal_adjacent,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,True,False,False
+Maier_Merad_2020_47,Maier_Merad_2020_578,tumor_primary,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,True,False,False
+Maier_Merad_2020_48,Maier_Merad_2020_581,tumor_primary,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_49,Maier_Merad_2020_581,normal_adjacent,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_50,Maier_Merad_2020_581,normal_adjacent,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_51,Maier_Merad_2020_581,tumor_primary,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_56,Maier_Merad_2020_593,normal_adjacent,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_57,Maier_Merad_2020_593,tumor_primary,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_58,Maier_Merad_2020_596,tumor_primary,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_59,Maier_Merad_2020_596,tumor_primary,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_60,Maier_Merad_2020_596,normal_adjacent,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_61,Maier_Merad_2020_596,normal_adjacent,0,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maier_Merad_2020_62,Maier_Merad_2020_630,tumor_primary,0,0,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,False,True,False
+Maier_Merad_2020_63,Maier_Merad_2020_630,normal_adjacent,0,0,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,True,False,True,False
+Maier_Merad_2020_95,Maier_Merad_2020_626,tumor_primary,0,0,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,False,True,False
+Maier_Merad_2020_96,Maier_Merad_2020_626,normal_adjacent,0,0,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,False,True,False
+Maier_Merad_2020_97,Maier_Merad_2020_626,tumor_primary,0,0,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,False,True,False
+Maier_Merad_2020_99,Maier_Merad_2020_695,tumor_primary,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S01,Maynard_Bivona_2020_TH158,tumor_primary,0,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S02,Maynard_Bivona_2020_TH157,tumor_metastasis,0,0,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S03,Maynard_Bivona_2020_TH156,tumor_metastasis,5,0,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S07,Maynard_Bivona_2020_TH103,tumor_metastasis,16,0,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S08,Maynard_Bivona_2020_TH103,tumor_metastasis,53,0,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S11,Maynard_Bivona_2020_TH169,tumor_primary,88,4,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S14,Maynard_Bivona_2020_TH153,tumor_metastasis,0,28,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S16,Maynard_Bivona_2020_TH146,tumor_metastasis,0,30,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S21,Maynard_Bivona_2020_TH185,tumor_metastasis,952,41,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,True
+Maynard_Bivona_2020_LT_S23,Maynard_Bivona_2020_TH185,tumor_metastasis,0,119,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S28,Maynard_Bivona_2020_TH185,tumor_metastasis,2,68,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S34,Maynard_Bivona_2020_TH205,tumor_metastasis,7,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S41,Maynard_Bivona_2020_TH210,tumor_metastasis,15,11,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S42,Maynard_Bivona_2020_TH158,tumor_primary,0,53,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S43,Maynard_Bivona_2020_TH217,tumor_metastasis,1,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S45,Maynard_Bivona_2020_TH218,tumor_metastasis,4,49,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S47,Maynard_Bivona_2020_TH220,tumor_metastasis,112,37,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,True
+Maynard_Bivona_2020_LT_S48,Maynard_Bivona_2020_TH155,tumor_metastasis,21,2,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S49,Maynard_Bivona_2020_TH223,tumor_metastasis,1,5,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S50,Maynard_Bivona_2020_TH225,tumor_metastasis,18,0,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S51,Maynard_Bivona_2020_TH227,tumor_metastasis,53,1,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S52,Maynard_Bivona_2020_TH226,tumor_primary,14,0,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S53,Maynard_Bivona_2020_TH067,tumor_metastasis,65,56,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,True
+Maynard_Bivona_2020_LT_S54,Maynard_Bivona_2020_TH222,tumor_metastasis,0,0,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S55,Maynard_Bivona_2020_TH218,tumor_metastasis,12,92,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S56,Maynard_Bivona_2020_TH231,tumor_primary,74,1,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S57,Maynard_Bivona_2020_TH226,tumor_primary,171,58,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,True
+Maynard_Bivona_2020_LT_S58,Maynard_Bivona_2020_TH179,tumor_primary,58,32,not mutated,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,True,True,False,True
+Maynard_Bivona_2020_LT_S65,Maynard_Bivona_2020_TH238_NAT,nan,1,83,not mutated,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S66,Maynard_Bivona_2020_TH238,tumor_primary,246,147,not mutated,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,True,True,False,True
+Maynard_Bivona_2020_LT_S67,Maynard_Bivona_2020_TH231,tumor_primary,0,0,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S69,Maynard_Bivona_2020_TH248,tumor_metastasis,241,34,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,True
+Maynard_Bivona_2020_LT_S71,Maynard_Bivona_2020_TH236,tumor_primary,86,75,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,True
+Maynard_Bivona_2020_LT_S72,Maynard_Bivona_2020_TH222,tumor_metastasis,8,31,not mutated,not mutated,not mutated,not mutated,not mutated,mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S74,Maynard_Bivona_2020_TH248,tumor_primary,51,75,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,True
+Maynard_Bivona_2020_LT_S75,Maynard_Bivona_2020_TH266,tumor_metastasis,27,24,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S78,Maynard_Bivona_2020_TH179_NAT,nan,2,19,not mutated,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S79,Maynard_Bivona_2020_TH179,tumor_primary,55,163,not mutated,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,True,True,False,True
+Maynard_Bivona_2020_LT_S80,Maynard_Bivona_2020_TH179,tumor_metastasis,14,67,not mutated,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S81,Maynard_Bivona_2020_TH266,tumor_metastasis,47,197,not mutated,not mutated,mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+Maynard_Bivona_2020_LT_S82,Maynard_Bivona_2020_TH226,tumor_primary,28,68,mutated,not mutated,not mutated,not mutated,not mutated,not mutated,not mutated,True,True,False,False
+UKIM-V_P1_normal_adjacent,UKIM-V_P1,normal_adjacent,6,471,,,,,,,,False,False,False,False
+UKIM-V_P1_tumor_primary,UKIM-V_P1,tumor_primary,113,53,,,,,,,,False,False,False,True
+UKIM-V_P3_normal_adjacent,UKIM-V_P3,normal_adjacent,11,452,,,,,,,,False,False,False,False
+UKIM-V_P3_tumor_primary,UKIM-V_P3,tumor_primary,326,827,,,,,,,,False,False,False,True
+Wu_Zhou_2021_GSM4453577,Wu_Zhou_2021_P2,tumor_primary,184,0,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453580,Wu_Zhou_2021_P5,tumor_primary,695,1,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453583,Wu_Zhou_2021_P8,tumor_primary,174,14,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453584,Wu_Zhou_2021_P9,tumor_primary,1472,4,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453587,Wu_Zhou_2021_P12,tumor_primary,61,14,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453588,Wu_Zhou_2021_P13,tumor_primary,118,9,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453591,Wu_Zhou_2021_P16,tumor_primary,619,0,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453595,Wu_Zhou_2021_P20,tumor_primary,176,0,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453596,Wu_Zhou_2021_P21,tumor_primary,1215,2,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453599,Wu_Zhou_2021_P24,tumor_primary,74,26,,,,,,,,False,False,False,True
+Wu_Zhou_2021_GSM4453603,Wu_Zhou_2021_P28,tumor_primary,389,15,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453604,Wu_Zhou_2021_P29,tumor_primary,528,0,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453607,Wu_Zhou_2021_P32,tumor_primary,112,15,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453608,Wu_Zhou_2021_P33,tumor_primary,142,0,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453609,Wu_Zhou_2021_P34,tumor_primary,265,5,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453610,Wu_Zhou_2021_P35,tumor_primary,36,1,,,,,,,,False,False,False,False
+Wu_Zhou_2021_GSM4453613,Wu_Zhou_2021_P38,tumor_primary,134,43,,,,,,,,False,False,False,True
+Wu_Zhou_2021_GSM4453614,Wu_Zhou_2021_P39,tumor_primary,269,71,,,,,,,,False,False,False,True
+Zilionis_Klein_2019_p3t1,Zilionis_Klein_2019_patient_3,tumor_primary,94,191,,,,,,,,False,False,False,True
+Zilionis_Klein_2019_p3t2,Zilionis_Klein_2019_patient_3,tumor_primary,105,172,,,,,,,,False,False,False,True
+Zilionis_Klein_2019_p3t3,Zilionis_Klein_2019_patient_3,tumor_primary,119,130,,,,,,,,False,False,False,True
+Zilionis_Klein_2019_p4t1,Zilionis_Klein_2019_patient_4,tumor_primary,17,278,,,,,,,,False,False,False,False
+Zilionis_Klein_2019_p4t2,Zilionis_Klein_2019_patient_4,tumor_primary,22,230,,,,,,,,False,False,False,False
+Zilionis_Klein_2019_p4t3,Zilionis_Klein_2019_patient_4,tumor_primary,27,243,,,,,,,,False,False,False,False
+Zilionis_Klein_2019_p5t1,Zilionis_Klein_2019_patient_5,tumor_primary,118,2,,,,,,,,False,False,False,False
+Zilionis_Klein_2019_p5t2,Zilionis_Klein_2019_patient_5,tumor_primary,124,134,,,,,,,,False,False,False,True
+Zilionis_Klein_2019_p6t1,Zilionis_Klein_2019_patient_6,tumor_primary,4,270,,,,,,,,False,False,False,False
+Zilionis_Klein_2019_p6t2,Zilionis_Klein_2019_patient_6,tumor_primary,7,215,,,,,,,,False,False,False,False
+Zilionis_Klein_2019_p7t1,Zilionis_Klein_2019_patient_7,tumor_primary,219,51,,,,,,,,False,False,False,True
+Zilionis_Klein_2019_p7t2,Zilionis_Klein_2019_patient_7,tumor_primary,219,48,,,,,,,,False,False,False,True
