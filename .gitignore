@@ -1,0 +1,5 @@
+# Large raw TCGA/AutoDS input data (re-downloadable from source Google Drive; not versioned)
+asta_autods_data/
+
+# Transient logs from asta literature searches
+asta_lit/*.log
