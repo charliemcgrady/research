@@ -59,3 +59,39 @@ sharpens the next question.
    yet checkpoint-high (residual analysis) — the exceptions may reveal the escape route.
 
 *Run IDs and configs in `RUNS.md`; per-experiment JSON in `runs/exp_<runid>.json`.*
+
+---
+
+## Run 6 — Infiltration-normalized re-test (the decisive follow-up)
+
+**Question:** once you adjust for how many T cells are actually present
+(`tcell_infiltration_score`), does CIN still predict TIGIT/LAG3 — a *per-cell* effect —
+or was the negative bulk signal entirely reduced infiltration?
+
+**Result — a dissociation, and a partial (LAG3-specific) rescue of the hypothesis:**
+
+1. **CIN strongly reduces T-cell infiltration** — confirmed and large: CIN→infiltration
+   β=−4.10, p<0.0001. This is the dominant effect and explains most of the negative *bulk*
+   CIN→checkpoint association from runs 1–5. (The reduction is **not** mediated by CXCL9 —
+   Path A n.s.)
+2. **Per infiltrating T cell, the axes diverge (adjusting for infiltration + TMB):**
+   - **LAG3: significant POSITIVE** with CIN — β=+2.81, **p=0.001**. ⬅ per-cell up-regulation.
+   - **TIGIT: null** — β=0.03, p=0.95.
+   - **PD-L1: null** — β=−0.34, p=0.75.
+   - **IFNG: significant POSITIVE** per T cell — β=+3.74, p=0.015 (the residing T cells are
+     *more*, not less, functionally activated in high-CIN tumors).
+3. **Checkpoint/CD8 ratio method (weaker):** TIGIT/CD8A and LAG3/CD8A vs CIN were negative
+   but non-significant (p≈0.12, TMB-adjusted only) — not concordant with the stronger
+   covariate-adjusted regression; treat the per-cell LAG3 signal as suggestive, not settled.
+
+**Verdict:** The theorizer's hypothesis is **rescued in a refined, LAG3-specific form.**
+The net bulk story is immune *exclusion* (CIN → fewer T cells), but the T cells that remain
+show a **per-cell LAG3 up-regulation and elevated IFN-γ** as CIN rises — TIGIT and PD-L1 show
+no per-cell effect. So CIN-high driver-negative tumors are simultaneously **colder (fewer T
+cells) yet carry a more LAG3-marked / activated residual T-cell compartment.**
+
+**Implication:** LAG3 — not TIGIT — is the checkpoint that behaves as the original hypothesis
+predicted, but only after correcting for infiltration. This is the highest-novelty finding of
+the study and the cleanest lead for follow-up (ideally single-cell / deconvolution to confirm
+the per-cell interpretation, since regression-adjustment and ratio methods disagree at the
+margin).
