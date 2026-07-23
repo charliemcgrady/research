@@ -1,0 +1,36 @@
+{
+  "contextId": "6d7ca4b8-4367-48b0-90da-232b690ef959",
+  "history": [
+    {
+      "contextId": "6d7ca4b8-4367-48b0-90da-232b690ef959",
+      "kind": "message",
+      "messageId": "e6a53c4a-ca60-4cff-9a40-10cbb1803a92",
+      "parts": [
+        {
+          "kind": "text",
+          "text": "Task accepted"
+        }
+      ],
+      "role": "agent",
+      "taskId": "320045b7-701c-46c1-84f4-5a1126c0451a"
+    }
+  ],
+  "id": "320045b7-701c-46c1-84f4-5a1126c0451a",
+  "kind": "task",
+  "status": {
+    "message": {
+      "contextId": "6d7ca4b8-4367-48b0-90da-232b690ef959",
+      "kind": "message",
+      "messageId": "f5d8c9fa-d3ce-42c4-98c4-6016d6a19b38",
+      "parts": [
+        {
+          "kind": "text",
+          "text": "Task accepted"
+        }
+      ],
+      "role": "agent",
+      "taskId": "320045b7-701c-46c1-84f4-5a1126c0451a"
+    },
+    "state": "submitted"
+  }
+}
