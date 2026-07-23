@@ -1,0 +1,3271 @@
+{
+  "query": "Single-cell RNA sequencing studies linking tumor chromosomal instability or aneuploidy to CD8 T-cell infiltration, T-cell exhaustion, and LAG3 expression in lung adenocarcinoma and non-small cell lung cancer.",
+  "results": [
+    {
+      "corpusId": 248498852,
+      "title": "High-throughput single-\u0441ell sequencing in cancer research",
+      "abstract": "With advances in sequencing and instrument technology, bioinformatics analysis is being applied to batches of massive cells at single-cell resolution. High-throughput single-cell sequencing can be utilized for multi-omics characterization of tumor cells, stromal cells or infiltrated immune cells to evaluate tumor progression, responses to environmental perturbations, heterogeneous composition of the tumor microenvironment, and complex intercellular interactions between these factors. Particularly, single-cell sequencing of T cell receptors, alone or in combination with single-cell RNA sequencing, is useful in the fields of tumor immunology and immunotherapy. Clinical insights obtained from single-cell analysis are critically important for exploring the biomarkers of disease progression or antitumor treatment, as well as for guiding precise clinical decision-making for patients with malignant tumors. In this review, we summarize the clinical applications of single-cell sequencing in the fields of tumor cell evolution, tumor immunology, and tumor immunotherapy. Additionally, we analyze the tumor cell response to antitumor treatment, heterogeneity of the tumor microenvironment, and response or resistance to immune checkpoint immunotherapy. The limitations of single-cell analysis in cancer research are also discussed.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Q. Jia",
+          "id": ""
+        },
+        {
+          "name": "Han Chu",
+          "id": ""
+        },
+        {
+          "name": "Zheng Jin",
+          "id": ""
+        },
+        {
+          "name": "H. Long",
+          "id": ""
+        },
+        {
+          "name": "B. Zhu",
+          "id": ""
+        }
+      ],
+      "venue": "Signal Transduction and Targeted Therapy",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:248498852",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.7668187025629304,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 244831720,
+      "title": "Mad2 Induced Aneuploidy Contributes to Eml4-Alk Driven Lung Cancer by Generating an Immunosuppressive Environment",
+      "abstract": "Simple Summary In tissue homeostasis, aneuploid cells have been suggested to be recognized and eliminated by immune cells. However, these initiating cancer cells can evade the immune system and ultimately derivate a tumor. To better understand how aneuploidy might contribute to tumor initiation and/or progression, we used two lung cancer models: one in which cancer cells are aneuploid and the surrounding normal epithelial cells are diploid, and a second one in which both tumor and normal cells are aneuploid. We show that aneuploid cells surrounding the tumor generate an immunosuppressive environment that contributes to lung cancer initiation. Abstract Aneuploidy, an imbalance number of chromosomes, is frequently observed in lung cancer and inversely correlates with patient survival. Paradoxically, an aneuploid karyotype has detrimental consequences on cellular fitness, and it has been proposed that aneuploid cells, at least in vitro, generate signals for their own elimination by NK cells. However, how aneuploidy affects tumor progression as well as the interplay between aneuploid tumor cells and the tumor microenvironment is still unclear. We generated a new mouse model in which overexpression of Mad2 was almost entirely restricted to normal epithelial cells of the lung, and combined it with an oncogenic Eml4-Alk chromosome inversion. This combination resulted in a higher tumor burden and an increased number of tumor nodules compared to control Eml4-Alk mice alone. The FISH analysis detected significant differences in the aneuploidy levels in the non-tumor regions of Eml4-Alk+Mad2 compared to Eml4-Alk alone, although both tumor groups presented similar levels of aneuploidy. We further show that aneuploid cells in the non-tumor areas adjacent to lung tumors recruit immune cells, such as tumor-associated macrophages. In fact, these areas presented an increase in alveolar macrophages, neutrophils, decreased cytotoxic CD8+ T cells, and IFN-\u03b3, suggesting that aneuploid cells in the surrounding tumor areas create an immunosuppressive signature that might contribute to lung tumor initiation and progression.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "K. Alikhanyan",
+          "id": ""
+        },
+        {
+          "name": "Yuanyuan Chen",
+          "id": ""
+        },
+        {
+          "name": "K\u00e1lm\u00e1n Somogyi",
+          "id": ""
+        },
+        {
+          "name": "S. Kraut",
+          "id": ""
+        },
+        {
+          "name": "R. Sotillo",
+          "id": ""
+        }
+      ],
+      "venue": "Cancers",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:244831720",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.7540293683000284,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 49404928,
+      "title": "Global characterization of T cells in non-small-cell lung cancer by single-cell sequencing",
+      "abstract": "Cancer immunotherapies have shown sustained clinical responses in treating non-small-cell lung cancer1\u20133, but efficacy varies and depends in part on the amount and properties of tumor infiltrating lymphocytes4\u20136. To depict the baseline landscape of the composition, lineage and functional states of tumor infiltrating lymphocytes, here we performed deep single-cell RNA sequencing for 12,346\u2009T cells from 14 treatment-na\u00efve non-small-cell lung cancer patients. Combined expression and T cell antigen receptor based lineage tracking revealed a significant proportion of inter-tissue effector T cells with a highly migratory nature. As well as tumor-infiltrating CD8+ T cells undergoing exhaustion, we observed two clusters of cells exhibiting states preceding exhaustion, and a high ratio of \u201cpre-exhausted\u201d to exhausted T cells was associated with better prognosis of lung adenocarcinoma. Additionally, we observed further heterogeneity within the tumor regulatory T cells (Tregs), characterized by the bimodal distribution of TNFRSF9, an activation marker for antigen-specific Tregs. The gene signature of those activated tumor Tregs, which included IL1R2, correlated with poor prognosis in lung adenocarcinoma. Our study provides a new approach for patient stratification and will help further understand the functional states and dynamics of T cells in lung cancer. Deep single-cell RNA sequencing of tumor-infiltrating T cells in non-small-cell lung cancer identifies features associated with functional states and clinical outcome",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Xinyi Guo",
+          "id": ""
+        },
+        {
+          "name": "Yuanyuan Zhang",
+          "id": ""
+        },
+        {
+          "name": "Liangtao Zheng",
+          "id": ""
+        },
+        {
+          "name": "Chunhong Zheng",
+          "id": ""
+        },
+        {
+          "name": "Jintao Song",
+          "id": ""
+        },
+        {
+          "name": "Qiming Zhang",
+          "id": ""
+        },
+        {
+          "name": "Boxi Kang",
+          "id": ""
+        },
+        {
+          "name": "Zhouzerui Liu",
+          "id": ""
+        },
+        {
+          "name": "Liang Jin",
+          "id": ""
+        },
+        {
+          "name": "Rui Xing",
+          "id": ""
+        },
+        {
+          "name": "Ranran Gao",
+          "id": ""
+        },
+        {
+          "name": "Lei Zhang",
+          "id": ""
+        },
+        {
+          "name": "Minghui Dong",
+          "id": ""
+        },
+        {
+          "name": "Xueda Hu",
+          "id": ""
+        },
+        {
+          "name": "Xianwen Ren",
+          "id": ""
+        },
+        {
+          "name": "Dennis Kirchhoff",
+          "id": ""
+        },
+        {
+          "name": "H. Roider",
+          "id": ""
+        },
+        {
+          "name": "T. Yan",
+          "id": ""
+        },
+        {
+          "name": "Zemin Zhang",
+          "id": ""
+        }
+      ],
+      "venue": "Nature Medicine",
+      "journal": null,
+      "url": "https://doi.org/10.1038/s41591-018-0045-3",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6269122772151757,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 268788201,
+      "title": "Multicellular ecotypes shape progression of lung adenocarcinoma from ground-glass opacity toward advanced stages",
+      "abstract": "Summary Lung adenocarcinoma is a type of cancer that exhibits a wide range of clinical radiological manifestations, from ground-glass opacity (GGO) to pure solid nodules, which vary greatly in terms of their biological characteristics. Our current understanding of this heterogeneity is limited. To address this gap, we analyze 58 lung adenocarcinoma patients via machine learning, single-cell RNA sequencing (scRNA-seq), and whole-exome sequencing, and we identify six lung multicellular ecotypes (LMEs) correlating with distinct radiological patterns and cancer cell states. Notably, GGO-associated neoantigens in early-stage cancers are recognized by CD8+ T cells, indicating an immune-active environment, while solid nodules feature an immune-suppressive LME with exhausted CD8+ T cells, driven by specific stromal cells such as CTHCR1+ fibroblasts. This study also highlights EGFR(L858R) neoantigens in GGO samples, suggesting potential CD8+ T cell activation. Our findings offer valuable insights into lung adenocarcinoma heterogeneity, suggesting avenues for targeted therapies in early-stage disease.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Yulan Deng",
+          "id": ""
+        },
+        {
+          "name": "Liang Xia",
+          "id": ""
+        },
+        {
+          "name": "Jian Zhang",
+          "id": ""
+        },
+        {
+          "name": "Senyi Deng",
+          "id": ""
+        },
+        {
+          "name": "Mengyao Wang",
+          "id": ""
+        },
+        {
+          "name": "Shiyou Wei",
+          "id": ""
+        },
+        {
+          "name": "Kaixiu Li",
+          "id": ""
+        },
+        {
+          "name": "Hongjin Lai",
+          "id": ""
+        },
+        {
+          "name": "Yunhao Yang",
+          "id": ""
+        },
+        {
+          "name": "Yu Bai",
+          "id": ""
+        },
+        {
+          "name": "Yongcheng Liu",
+          "id": ""
+        },
+        {
+          "name": "L. Luo",
+          "id": ""
+        },
+        {
+          "name": "Zhenyu Yang",
+          "id": ""
+        },
+        {
+          "name": "Yaohui Chen",
+          "id": ""
+        },
+        {
+          "name": "Ran Kang",
+          "id": ""
+        },
+        {
+          "name": "Fanyi Gan",
+          "id": ""
+        },
+        {
+          "name": "Q. Pu",
+          "id": ""
+        },
+        {
+          "name": "J. Mei",
+          "id": ""
+        },
+        {
+          "name": "Lin Ma",
+          "id": ""
+        },
+        {
+          "name": "Feng Lin",
+          "id": ""
+        },
+        {
+          "name": "Chenglin Guo",
+          "id": ""
+        },
+        {
+          "name": "H. Liao",
+          "id": ""
+        },
+        {
+          "name": "Yunke Zhu",
+          "id": ""
+        },
+        {
+          "name": "Zheng Liu",
+          "id": ""
+        },
+        {
+          "name": "Chengwu Liu",
+          "id": ""
+        },
+        {
+          "name": "Yang Hu",
+          "id": ""
+        },
+        {
+          "name": "Yong Yuan",
+          "id": ""
+        },
+        {
+          "name": "Zhengyu Zha",
+          "id": ""
+        },
+        {
+          "name": "Gang Yuan",
+          "id": ""
+        },
+        {
+          "name": "Gao Zhang",
+          "id": ""
+        },
+        {
+          "name": "Luonan Chen",
+          "id": ""
+        },
+        {
+          "name": "Qinglei Cheng",
+          "id": ""
+        },
+        {
+          "name": "Shensi Shen",
+          "id": ""
+        },
+        {
+          "name": "Lunxu Liu",
+          "id": ""
+        }
+      ],
+      "venue": "Cell Reports Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:268788201",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6156559902650899,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 285286968,
+      "title": "Molecular architecture of the tumor microenvironment caused by BRCA1 and BRCA2 somatic mutations in human lung adenocarcinoma",
+      "abstract": "Objectives Homologous recombination repair (HRR) deficiency is associated with improved immunotherapy responses in non-small cell lung cancer (NSCLC) patients. The HRR genes BRCA1/2 are key regulators of DNA repair, yet their impact on the tumor microenvironment (TME) in lung adenocarcinoma (LUAD) remains unclear. Methods Using single-cell sequencing and multi-omics data, we characterized BRCA1/2 mutation-associated transcriptional programs, immune cell composition, and functional alterations in T cells, investigating the molecular and immune architecture of BRCA-mutant LUAD patients. Results BRCA1/2 mutations were associated with increased genomic instability and poor prognosis in LUAD patients, but predicted better clinical outcomes following immune checkpoint blockade (ICB) treatment. BRCA1 mutations correlated with an upregulated type I IFN/IFN-\u03b3 signature and CD8+ T cell activation. BRCA2 mutations were associated with alveolar/stress/inflammatory responses and enhanced MHC-II antigen presentation, linked to CD4+ T cell differentiation. Both alterations coincided with reduced CD28 co-stimulation and CTL activity, hinting of immune evasion. We identified two tissue-resident memory T cell (Trm) subsets as predictors of clinical outcomes and ICB response. BRCA1 mutations were associated with CD8+ Trm expansion, whereas BRCA2 mutations linked to tumor CD4+ Trm expansion and peripheral T/NK cell cytotoxicity. Furthermore, a cancer-promoting program activated by BRCA1 mutation was vulnerable to histone deacetylase inhibitors, which inhibited LUAD tumor growth. Conclusions This study provides a preliminary characterization of the BRCA-mutant TME in LUAD patients, revealing distinct transcriptional and immune patterns that highlight differences in BRCA1/2-associated molecular architecture and offer a framework for improving therapy efficacy in LUAD.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Gaoming Liao",
+          "id": ""
+        },
+        {
+          "name": "Xinbin Yang",
+          "id": ""
+        },
+        {
+          "name": "Qi Liu",
+          "id": ""
+        },
+        {
+          "name": "S. Nan",
+          "id": ""
+        },
+        {
+          "name": "Yan Liu",
+          "id": ""
+        },
+        {
+          "name": "Jinwei Li",
+          "id": ""
+        },
+        {
+          "name": "Si Huang",
+          "id": ""
+        },
+        {
+          "name": "Wang Ning",
+          "id": ""
+        },
+        {
+          "name": "X. Qin",
+          "id": ""
+        },
+        {
+          "name": "Gang Xu",
+          "id": ""
+        }
+      ],
+      "venue": "bioRxiv",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:285286968",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.612610816629902,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 264520085,
+      "title": "CD28/PD1 co-expression: dual impact on CD8+ T cells in peripheral blood and tumor tissue, and its significance in NSCLC patients' survival and ICB response",
+      "abstract": "Background Immune checkpoint blockade (ICB) has significantly prolonged survival of non-small cell lung cancer (NSCLC) patients, although most patients develop mechanisms of resistance. Recently single-cell RNA-sequencing (scRNA-Seq) revealed a huge T-cell phenotypic and (dys)functional state variability. Accordingly, T-cell exhaustion is recognized as a functional adaptation, with a dynamic progression from a long-lived \u201cpre-exhausted stem-like progenitor\u201d to a \u201cterminally exhausted\u201d state. In this scenario it is crucial to understand the complex interplay between co-stimulatory and inhibitory molecules in CD8^+ T-cell functionality. Methods To gain a baseline landscape of the composition, functional states, and transcriptomic signatures predictive of prognosis, we analyzed CD8^+ T-cell subsets characterized by the presence/absence of PD1 and CD28 from periphery, adjacent non-tumor tissue and tumor site of a cohort of treatment-na\u00efve NSCLC patients, by integrated multiparametric flow cytometry, targeted multi-omic scRNA-seq analyses, and computational pipelines. Results Despite the increased PD1 levels, an improved PD1^+CD28^+ T-cell polyfunctionality was observed with the transition from periphery to tumor site, associated with lack of TIGIT, TIM-3 and LAG-3, but not with Ag-experienced-marker CD11a. Differently from CD28^+ T cells, the increased PD1 levels in the tumor were associated with reduced functionality in PD1^+CD28^\u2212 T cells. CD11a^high, although expressed only in a small fraction of this subset, still sustained its functionality. Absence of TIGIT, TIM-3 and CTLA-4, alone or combined, was beneficial to CD28^\u2212 T cells. Notably, we observed distinct T_RM phenotypes in the different districts, with CD28^+ T cells more capable of producing TGF\u03b2 in the periphery, potentially contributing to elevated CD103 levels. In contrast CD28^\u2212 T_RM mainly produced CXCL13 within the tumor. ScRNA-seq revealed 5 different clusters for each of the two subsets, with distinctive transcriptional profiles in the three districts. By interrogating the TCGA dataset of patients with lung adenocarcinoma (LUAD) and metastatic NSCLC treated with atezolizumab, we found signatures of heterogeneous T_RM and \"pre-exhausted\" long-lived effector memory CD8^+ T cells associated with improved response to ICB only in the presence of CD28. Conclusions Our findings identify signatures able to stratify survival of LUAD patients and predict ICB response in advanced NSCLC. CD28 is advocated as a key determinant in the signatures identified, in both periphery and tumor site, thus likely providing feasible biomarkers of ICB response. Graphical Abstract",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "B. Palermo",
+          "id": ""
+        },
+        {
+          "name": "O. Franzese",
+          "id": ""
+        },
+        {
+          "name": "G. Frisullo",
+          "id": ""
+        },
+        {
+          "name": "L. D\u2019Ambrosio",
+          "id": ""
+        },
+        {
+          "name": "Mariangela Panetta",
+          "id": ""
+        },
+        {
+          "name": "Giulia Campo",
+          "id": ""
+        },
+        {
+          "name": "Daniel D\u2019Andrea",
+          "id": ""
+        },
+        {
+          "name": "I. Sperduti",
+          "id": ""
+        },
+        {
+          "name": "F. De Nicola",
+          "id": ""
+        },
+        {
+          "name": "F. Goeman",
+          "id": ""
+        },
+        {
+          "name": "F. Gallina",
+          "id": ""
+        },
+        {
+          "name": "Paolo Visca",
+          "id": ""
+        },
+        {
+          "name": "F. Facciolo",
+          "id": ""
+        },
+        {
+          "name": "P. Nistic\u00f2",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of experimental & clinical cancer research : CR",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:264520085",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6109702499709451,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 280332889,
+      "title": "Clinical Features, Molecular Biology, and the Metastatic Microenvironment in Lung Cancer Brain Metastases: Implications for Treatment Decisions",
+      "abstract": "Brain metastases (BM) represent a highly aggressive, clinically distinct subtype of lung cancer, often associated with poor prognosis. Historically, treatment options for BM have been limited and largely nonspecific. However, recent advancements in clinical and preclinical research have led to substantial improvements in patient outcomes. This review focuses on BM arising from lung cancer, providing an overview of recent findings related to clinical characteristics, diagnostic strategies, and early metastatic processes. Multi\u2010omics analyses have elucidated the molecular mechanisms underlying tumor initiation and progression, with particular emphasis on the role of the tumor microenvironment. In this review, preclinical BM models, detailed signaling pathways, and emerging clinical therapies are also discussed. Current treatment approaches are multidisciplinary, and multi\u2010omics technologies enhance both diagnosis and therapeutic strategies by revealing the complex biology of BM. Continued research is needed to identify BM\u2010specific drug targets, particularly those involved in crossing the blood\u2013brain barrier and remodeling the brain microenvironment. Addressing these challenges is crucial for improving clinical outcomes in patients with BM.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Yixiang Zhu",
+          "id": ""
+        },
+        {
+          "name": "DanMing He",
+          "id": ""
+        },
+        {
+          "name": "Zan Hou",
+          "id": ""
+        },
+        {
+          "name": "Mei Lan",
+          "id": ""
+        },
+        {
+          "name": "Ye Zhang",
+          "id": ""
+        },
+        {
+          "name": "Qifeng Wang",
+          "id": ""
+        }
+      ],
+      "venue": "Advancement of science",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:280332889",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6016254991981432,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 258965757,
+      "title": "Acquired DNA damage repairs deficiency-driven immune evolution and involved immune factors of local versus distant metastases in non-small cell lung cancer",
+      "abstract": "ABSTRACT The evolution of immune profile from primary tumors to distant and local metastases in non-small cell lung cancer (NSCLC), as well as the impact of the immune background of primary tumors on metastatic potential, remains unclear. To address this, we performed whole-exome sequencing and immunohistochemistry for 73 paired primary and metastatic tumor samples from 41 NSCLC patients, and analyzed the change of immune profile from primary tumors to metastases and involved genetic factors. We found that distant metastases tended to have a decreased CD8+ T cell level along with an increased chromosomal instability (CIN) compared with primary tumors, which was partially ascribed to acquired DNA damage repair (DDR) deficiency. Distant metastases were characterized by immunosuppression (low CD8+ T cell level) and immune evasion (high PD-L1 level) whereas local metastases (pleura) were immune-competent with high CD8+ T cell, low CD4+ T cell and low PD-L1 level. Primary tumors with high levels of CD4+ T cells were associated with distant metastases rather than local metastases. Analysis of TCGA data and a single-cell RNA-sequencing dataset revealed a decreasing trend of major immune cells, such as CD8+ T cells, and an increasing trend of CD4 T helper cells (Th2 and Th1) in primary tumors with metastases from local to distant sites. Our study indicates that there are differences in the immune evolution between distant and local metastases, and that acquired DDR deficiency contributes to the immunosuppression in distant metastases of NSCLC. Moreover, the immune background of primary tumors may affect their metastatic potential.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Wen-Fang Tang",
+          "id": ""
+        },
+        {
+          "name": "Xiaojun Fan",
+          "id": ""
+        },
+        {
+          "name": "H. Bao",
+          "id": ""
+        },
+        {
+          "name": "R. Fu",
+          "id": ""
+        },
+        {
+          "name": "Yi Liang",
+          "id": ""
+        },
+        {
+          "name": "Min Wu",
+          "id": ""
+        },
+        {
+          "name": "Chao Zhang",
+          "id": ""
+        },
+        {
+          "name": "J. Su",
+          "id": ""
+        },
+        {
+          "name": "Yi\u2010Long Wu",
+          "id": ""
+        },
+        {
+          "name": "W. Zhong",
+          "id": ""
+        }
+      ],
+      "venue": "Oncoimmunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:258965757",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.601248887292991,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 260680022,
+      "title": "Single-cell sequencing on CD8+ TILs revealed the nature of exhausted T cells recognizing neoantigen and cancer/testis antigen in non-small cell lung cancer",
+      "abstract": "Background CD8+tumor infiltrating lymphocytes (TILs) are often observed in non-small cell lung cancers (NSCLC). However, the characteristics of CD8+ TILs, especially T-cell populations specific for tumor antigens, remain poorly understood. Methods High throughput single-cell RNA sequencing and single-cell T-cell receptor (TCR) sequencing were performed on CD8+ TILs from three surgically-resected lung cancer specimens. Dimensional reduction for clustering was performed using Uniform Manifold Approximation and Projection. CD8+ TIL TCR specific for the cancer/testis antigen KK-LC-1 and for predicted neoantigens were investigated. Differentially-expressed gene analysis, Gene Set Enrichment Analysis (GSEA) and single sample GSEA was performed to characterize antigen-specific T cells. Results A total of 6998\u2009CD8+ T cells was analyzed, divided into 10 clusters according to their gene expression profile. An exhausted T-cell (exhausted T (Tex)) cluster characterized by the expression of ENTPD1 (CD39), TOX, PDCD1 (PD1), HAVCR2 (TIM3) and other genes, and by T-cell oligoclonality, was identified. The Tex TCR repertoire (Tex-TCRs) contained nine different TCR clonotypes recognizing five tumor antigens including a KK-LC-1 antigen and four neoantigens. By re-clustering the tumor antigen-specific T cells (n=140), it could be seen that the individual T-cell clonotypes were present on cells at different stages of differentiation and functional states even within the same Tex cluster. Stimulating these T cells with predicted cognate peptide indicated that TCR signal strength and subsequent T-cell proliferation and cytokine production was variable but always higher for neoantigens than KK-LC-1. Conclusions Our approach focusing on T cells with an exhausted phenotype among CD8+ TILs may facilitate the identification of tumor antigens and clarify the nature of the antigen-specific T cells to specify the promising immunotherapeutic targets in patients with NSCLC.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Hiroyasu Komuro",
+          "id": ""
+        },
+        {
+          "name": "Shuichi Shinohara",
+          "id": ""
+        },
+        {
+          "name": "Yasunori Fukushima",
+          "id": ""
+        },
+        {
+          "name": "Ayako Demachi-Okamura",
+          "id": ""
+        },
+        {
+          "name": "D. Muraoka",
+          "id": ""
+        },
+        {
+          "name": "K. Masago",
+          "id": ""
+        },
+        {
+          "name": "T. Matsui",
+          "id": ""
+        },
+        {
+          "name": "Y. Sugita",
+          "id": ""
+        },
+        {
+          "name": "Yusuke Takahashi",
+          "id": ""
+        },
+        {
+          "name": "Reina Nishida",
+          "id": ""
+        },
+        {
+          "name": "Chieko Takashima",
+          "id": ""
+        },
+        {
+          "name": "T. Ohki",
+          "id": ""
+        },
+        {
+          "name": "Y. Shigematsu",
+          "id": ""
+        },
+        {
+          "name": "Fumiaki Watanabe",
+          "id": ""
+        },
+        {
+          "name": "K. Adachi",
+          "id": ""
+        },
+        {
+          "name": "Takashi Fukuyama",
+          "id": ""
+        },
+        {
+          "name": "H. Hamana",
+          "id": ""
+        },
+        {
+          "name": "H. Kishi",
+          "id": ""
+        },
+        {
+          "name": "Daiki Miura",
+          "id": ""
+        },
+        {
+          "name": "Yuki Tanaka",
+          "id": ""
+        },
+        {
+          "name": "K. Onoue",
+          "id": ""
+        },
+        {
+          "name": "K. Onoguchi",
+          "id": ""
+        },
+        {
+          "name": "Yoshiko Yamashita",
+          "id": ""
+        },
+        {
+          "name": "R. Stratford",
+          "id": ""
+        },
+        {
+          "name": "T. Clancy",
+          "id": ""
+        },
+        {
+          "name": "Rui Yamaguchi",
+          "id": ""
+        },
+        {
+          "name": "H. Kuroda",
+          "id": ""
+        },
+        {
+          "name": "K. Doi",
+          "id": ""
+        },
+        {
+          "name": "H. Iwata",
+          "id": ""
+        },
+        {
+          "name": "H. Matsushita",
+          "id": ""
+        }
+      ],
+      "venue": "Journal for ImmunoTherapy of Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:260680022",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5482502523022359,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 231731242,
+      "title": "Contribution of resident and circulating precursors to tumor-infiltrating CD8+ T cell populations in lung cancer",
+      "abstract": "CD8+ T cells in lung tumors differentiate through convergent pathways to an expanded and actively cycling terminal state. Tumor-infiltrating lymphocyte lessons The presence of intratumoral CD8+ tumor-infiltrating lymphocytes (TILs) is associated with better outcomes for patients with non\u2013small cell lung cancer (NSCLC). These TILs consist of multiple subpopulations, and Gueguen et al. use single-cell RNA and T cell receptor sequencing to examine the origins and functional organization of TILs in NSCLC. They identified two precursor CD8+ TIL subpopulations with memory-like gene signatures. One of these subpopulations is detected in peripheral blood, whereas the other population is detected in juxtatumor tissue. Both subsets differentiate through a similar transitional stage into terminal effector TILs, which appear to be actively cycling within the tumor. Together, these results better define the origins and differentiation of CD8+ TILs associated with NSCLC. Tumor-infiltrating lymphocytes (TILs), in general, and especially CD8+ TILs, represent a favorable prognostic factor in non\u2013small cell lung cancer (NSCLC). The tissue origin, regenerative capacities, and differentiation pathways of TIL subpopulations remain poorly understood. Using a combination of single-cell RNA and T cell receptor (TCR) sequencing, we investigate the functional organization of TIL populations in primary NSCLC. We identify two CD8+ TIL subpopulations expressing memory-like gene modules: one is also present in blood (circulating precursors) and the other one in juxtatumor tissue (tissue-resident precursors). In tumors, these two precursor populations converge through a unique transitional state into terminally differentiated cells, often referred to as dysfunctional or exhausted. Differentiation is associated with TCR expansion, and transition from precursor to late-differentiated states correlates with intratumor T cell cycling. These results provide a coherent working model for TIL origin, ontogeny, and functional organization in primary NSCLC.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "P. Gueguen",
+          "id": ""
+        },
+        {
+          "name": "Christina Metoikidou",
+          "id": ""
+        },
+        {
+          "name": "T. Dupic",
+          "id": ""
+        },
+        {
+          "name": "Myriam Lawand",
+          "id": ""
+        },
+        {
+          "name": "C. Goudot",
+          "id": ""
+        },
+        {
+          "name": "S. Baulande",
+          "id": ""
+        },
+        {
+          "name": "S. Lameiras",
+          "id": ""
+        },
+        {
+          "name": "O. Lantz",
+          "id": ""
+        },
+        {
+          "name": "N. Girard",
+          "id": ""
+        },
+        {
+          "name": "A. Seguin-Givelet",
+          "id": ""
+        },
+        {
+          "name": "M. Lefevre",
+          "id": ""
+        },
+        {
+          "name": "T. Mora",
+          "id": ""
+        },
+        {
+          "name": "A. Walczak",
+          "id": ""
+        },
+        {
+          "name": "J. Waterfall",
+          "id": ""
+        },
+        {
+          "name": "S. Amigorena",
+          "id": ""
+        }
+      ],
+      "venue": "Science immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:231731242",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5479857494661667,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 211539812,
+      "title": "Single-cell transcriptome analysis reveals TOX as a promoting factor for T cell exhaustion and a predictor for anti-PD-1 responses in human cancer",
+      "abstract": "T cells exhibit heterogeneous functional states in the tumor microenvironment. Immune checkpoint inhibitors (ICIs) can reinvigorate only the stem cell-like progenitor exhausted T cells, which suggests that inhibiting the exhaustion progress will improve the efficacy of immunotherapy. Thus, regulatory factors promoting T cell exhaustion could serve as potential targets for delaying the process and improving ICI efficacy. We analyzed the single-cell transcriptome data derived from human melanoma and non-small cell lung cancer (NSCLC) samples and classified the tumor-infiltrating (TI) CD8+ T cell population based on PDCD1 (PD-1) levels, i.e., PDCD1-high and PDCD1-low cells. Additionally, we identified differentially expressed genes as candidate factors regulating intra-tumoral T cell exhaustion. The co-expression of candidate genes with immune checkpoint (IC) molecules in the TI CD8+ T cells was confirmed by single-cell trajectory and flow cytometry analyses. The loss-of-function effect of the candidate regulator was examined by a cell-based knockdown assay. The clinical effect of the candidate regulator was evaluated based on the overall survival and anti-PD-1 responses. We retrieved many known factors for regulating T cell exhaustion among the differentially expressed genes between PDCD1-high and PDCD1-low subsets of the TI CD8+ T cells in human melanoma and NSCLC. TOX was the only transcription factor (TF) predicted in both tumor types. TOX levels tend to increase as CD8+ T cells become more exhausted. Flow cytometry analysis revealed a correlation between TOX expression and severity of intra-tumoral T cell exhaustion. TOX knockdown in the human TI CD8+ T cells resulted in downregulation of PD-1, TIM-3, TIGIT, and CTLA-4, which suggests that TOX promotes intra-tumoral T cell exhaustion by upregulating IC proteins in cancer. Finally, the TOX level in the TI T cells was found to be highly predictive of overall survival and anti-PD-1 efficacy in melanoma and NSCLC. We predicted the regulatory factors involved in T cell exhaustion using single-cell transcriptome profiles of human TI lymphocytes. TOX promoted intra-tumoral CD8+ T cell exhaustion via upregulation of IC molecules. This suggested that TOX inhibition can potentially impede T cell exhaustion and improve ICI efficacy. Additionally, TOX expression in the TI T cells can be used for patient stratification during anti-tumor treatments, including anti-PD-1 immunotherapy.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "K. Kim",
+          "id": ""
+        },
+        {
+          "name": "Seyeon Park",
+          "id": ""
+        },
+        {
+          "name": "S. Park",
+          "id": ""
+        },
+        {
+          "name": "Gamin Kim",
+          "id": ""
+        },
+        {
+          "name": "Su Myeong Park",
+          "id": ""
+        },
+        {
+          "name": "Jae-Won Cho",
+          "id": ""
+        },
+        {
+          "name": "Da Hee Kim",
+          "id": ""
+        },
+        {
+          "name": "Y. M. Park",
+          "id": ""
+        },
+        {
+          "name": "Y. Koh",
+          "id": ""
+        },
+        {
+          "name": "Hye Ryun Kim",
+          "id": ""
+        },
+        {
+          "name": "S. Ha",
+          "id": ""
+        },
+        {
+          "name": "Insuk Lee",
+          "id": ""
+        }
+      ],
+      "venue": "Genome Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:211539812",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5455458562651431,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 253135638,
+      "title": "Heterogeneity and Differentiation Trajectories of Infiltrating CD8+ T Cells in Lung Adenocarcinoma",
+      "abstract": "Simple Summary CD8+ T cells infiltrating the tumor microenvironment (TME) of lung adenocarcinoma (LUAD) play a crucial role in establishing anti-tumor immunotherapy. The number of CD8+ T cells affects the treatment response, but their functional status plays a more critical role, and this global landscape is still unclear. We divided CD8+ T cells into ten subsets by analyzing a LUAD single-cell dataset. The dynamic process of cell differentiation and functional exhaustion of CD8+ T cells was further discussed, and potential biomarkers in this process were screened. This study deepens the understanding of the heterogeneity of infiltrating CD8+ T cells in LUAD, and the prognostic marker provides a new target for targeted therapy and immunotherapy in LUAD patients. Abstract CD8+ T cells infiltrating the tumor microenvironment (TME) of lung adenocarcinoma (LUAD) are critical for establishing antitumor immunity. Nevertheless, the global landscape of their numbers, functional status, and differentiation trajectories remains unclear. In the single-cell RNA-sequencing (scRNA-seq) dataset GSE131907 of LUAD, the CD8+T cells were selected for TSNE clustering, and the results showed that they could be divided into ten subsets. The cell differentiation trajectory showed the presence of abundant transition-state CD8+ T cells during the differentiation of naive-like CD8+ T cells into cytotoxic CD8+ T cells and exhausted CD8+ T cells. The differentially expressed marker genes among subsets were used to construct the gene signature matrix, and the proportion of each subset was identified and calculated in The Cancer Genome Atlas (TCGA) samples. Survival analysis showed that the higher the proportion of the exhausted CD8+ T lymphocyte (ETL) subset, the shorter the overall survival (OS) time of LUAD patients (p = 0.0098). A total of 61 genes were obtained by intersecting the differentially expressed genes (DEGs) of the ETL subset, and the DEGs of the TCGA samples were divided into a high and a low group according to the proportion of the ETL subset. Through protein interaction network analysis and survival analysis, four hub genes that can significantly affect the prognosis of LUAD patients were finally screened, and RT-qPCR and Western blot verified the differential expression of the above four genes. Our study further deepens the understanding of the heterogeneity and functional exhaustion of infiltrating CD8+ T cells in LUAD. The screened prognostic marker genes provide potential targets for targeted therapy and immunotherapy in LUAD patients.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Xiaojie Song",
+          "id": ""
+        },
+        {
+          "name": "Guanghui Zhao",
+          "id": ""
+        },
+        {
+          "name": "Guang-lan Wang",
+          "id": ""
+        },
+        {
+          "name": "Haidong Gao",
+          "id": ""
+        }
+      ],
+      "venue": "Cancers",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:253135638",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5445612320641415,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 274289835,
+      "title": "Analysis of PD1, LAG3, TIGIT, and TIM3 expression in human lung adenocarcinoma reveals a 25-gene signature predicting immunotherapy response",
+      "abstract": "Summary Immune checkpoint inhibitors (ICIs) have advanced the treatment of non-small cell lung cancer (NSCLC). This study evaluates the predictive value of CD8+ T cell exhaustion in patients with lung adenocarcinoma treated with ICIs. By analyzing tumor samples from 166 patients through multiplex immunofluorescence, we quantify tumor-infiltrating lymphocytes (TILs) expressing exhaustion markers programmed cell death-1 (PD1), lymphocyte activation gene 3 (LAG3), T cell immunoreceptor with Ig and ITIM domains (TIGIT), and T cell immunoglobulin and mucin domain 3 (TIM3). Their co-expression is associated with ICI resistance, irrespective of programmed cell death ligand-1 (PD-L1) status. We also identify a 25-gene signature indicative of CD8+ T cell exhaustion with high predictive accuracy for ICI response. Validated using several datasets from various clinical trials, this signature accurately predicts ICI responsiveness. Our findings highlight T cell exhaustion\u2019s significance in lung adenocarcinoma responses to ICIs and suggest the 25-gene signature as a potential universal biomarker to reinforce precision medicine. This was registered under Clinical Trial registration number NCT02534649.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "J. Gu\u00e9gan",
+          "id": ""
+        },
+        {
+          "name": "F. Peyraud",
+          "id": ""
+        },
+        {
+          "name": "B. Dadone-Montaudi\u00e9",
+          "id": ""
+        },
+        {
+          "name": "D. Teyssonneau",
+          "id": ""
+        },
+        {
+          "name": "Lola-Jade Palmieri",
+          "id": ""
+        },
+        {
+          "name": "Emma Clot",
+          "id": ""
+        },
+        {
+          "name": "S. Cousin",
+          "id": ""
+        },
+        {
+          "name": "G. Roubaud",
+          "id": ""
+        },
+        {
+          "name": "M. Cabart",
+          "id": ""
+        },
+        {
+          "name": "Laura Leroy",
+          "id": ""
+        },
+        {
+          "name": "C. Lebreton",
+          "id": ""
+        },
+        {
+          "name": "C. Rey",
+          "id": ""
+        },
+        {
+          "name": "Oren Lara",
+          "id": ""
+        },
+        {
+          "name": "Oph\u00e9lie Odin",
+          "id": ""
+        },
+        {
+          "name": "M. Brunet",
+          "id": ""
+        },
+        {
+          "name": "Lucile Vanhersecke",
+          "id": ""
+        },
+        {
+          "name": "Ezogelin Oflazoglu Gruyters",
+          "id": ""
+        },
+        {
+          "name": "I. Achour",
+          "id": ""
+        },
+        {
+          "name": "Leila Belcaid",
+          "id": ""
+        },
+        {
+          "name": "S. Le Moulec",
+          "id": ""
+        },
+        {
+          "name": "T. Grellety",
+          "id": ""
+        },
+        {
+          "name": "A. Bessede",
+          "id": ""
+        },
+        {
+          "name": "A. Italiano",
+          "id": ""
+        }
+      ],
+      "venue": "Cell Reports Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:274289835",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5433116841550416,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 261114428,
+      "title": "How single-cell techniques help us look into lung cancer heterogeneity and immunotherapy",
+      "abstract": "Lung cancer patients tend to have strong intratumoral and intertumoral heterogeneity and complex tumor microenvironment, which are major contributors to the efficacy of and drug resistance to immunotherapy. From a new perspective, single-cell techniques offer an innovative way to look at the intricate cellular interactions between tumors and the immune system and help us gain insights into lung cancer and its response to immunotherapy. This article reviews the application of single-cell techniques in lung cancer, with focuses directed on the heterogeneity of lung cancer and the efficacy of immunotherapy. This review provides both theoretical and experimental information for the future development of immunotherapy and personalized treatment for the management of lung cancer.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "P. Liao",
+          "id": ""
+        },
+        {
+          "name": "Qi Huang",
+          "id": ""
+        },
+        {
+          "name": "Jiwei Zhang",
+          "id": ""
+        },
+        {
+          "name": "Yuan Su",
+          "id": ""
+        },
+        {
+          "name": "Rui Xiao",
+          "id": ""
+        },
+        {
+          "name": "Shengquan Luo",
+          "id": ""
+        },
+        {
+          "name": "Zengbao Wu",
+          "id": ""
+        },
+        {
+          "name": "Liping Zhu",
+          "id": ""
+        },
+        {
+          "name": "Jian-sha Li",
+          "id": ""
+        },
+        {
+          "name": "Q. Hu",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:261114428",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5412289979074293,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 279019034,
+      "title": "T lymphocyte heterogeneity in NSCLC: implications for biomarker development and therapeutic innovation",
+      "abstract": "Non-small cell lung cancer (NSCLC) immunotherapy has been revolutionized by immune checkpoint inhibitors (ICIs), yet response heterogeneity persists due to dynamic tumor-immune interactions. This review summarizes recent studies in understanding tumor-infiltrating lymphocyte (TIL) biology, highlighting CD8+ cytotoxic T cells and regulatory T cells (Tregs) as pivotal regulators of immune surveillance and suppression. We summarize emerging biomarkers such as TCR clonality, spatial distribution of tumor-infiltrating lymphocytes (TILs), and exhaustion markers including PD-1, TCF1, and TIM-3, which predict immune checkpoint inhibitor (ICI) efficacy beyond PD-L1 expression. This review specifically describes radiotherapy-induced immunogenic remodeling and peripheral T cell dynamics as innovative strategies to monitor immune response and resistance mechanisms. By integrating results from single-cell omics and AI-driven spatial analysis, we propose multidimensional frameworks of TIL in NSCLC to overcome resistance and optimize immunotherapy combinations. These insights collectively advance NSCLC immunotherapy toward precision modulation of the tumor immune microenvironment.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Yu Liu",
+          "id": ""
+        },
+        {
+          "name": "D. Qin",
+          "id": ""
+        },
+        {
+          "name": "Jiejun Fu",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:279019034",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5400601229179482,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 284716055,
+      "title": "T-cell exhaustion indicator characterizes the tumor microenvironment landscape and predicts colon adenocarcinoma prognosis via integrating single-cell RNA-seq and bulk RNA-sequencing",
+      "abstract": "Colon adenocarcinoma (COAD) is the most common type of colon cancer, posing a significant threat to public health. In the tumor microenvironment (TME), T cells differentiate into terminally exhausted T cells (TEX), but the relationship between TEX and COAD has not been fully elucidated. To identify TEX-related signatures, we integrated transcriptomic data from TCGA and GEO databases (GSE103479, GSE17536). A prognostic model was constructed using GSVA, univariate Cox, LASSO, and random forest algorithms. The tumor immune microenvironment was characterized using CIBERSORTx and GSEA. The functional role of FAT4 was validated in vitro using FAT4-knockdown COAD cell lines assessed by flow cytometry and RT-qPCR. We developed a prognostic signature based on five TEX-related genes (IL21R, FCRL3, TIFAB, TNFSF14, SLAMF1). Patients in the high-risk group showed significantly poorer overall survival and distinct immune cell infiltration patterns, characterized by decreased CD8\u2009+\u2009T cells and M1 macrophages. At single-cell resolution, CD8\u2009+\u2009TEX cells exhibited high expression of immune checkpoints like LAG3. Furthermore, in vitro experiments demonstrated that knockdown of FAT4, a frequently mutated gene in COAD, promoted apoptosis and induced G0/G1 cell cycle arrest in COAD cells. We proposed a non-invasive prediction method based on TEX-related genes, which effectively predicts survival outcomes and therapeutic responses in COAD patients. Additionally, FAT4 was found to regulate proliferative and apoptotic phenotypes in COAD.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Haifeng Sun",
+          "id": ""
+        },
+        {
+          "name": "Ning Hu",
+          "id": ""
+        },
+        {
+          "name": "Shaowei Ma",
+          "id": ""
+        },
+        {
+          "name": "Yu Zheng",
+          "id": ""
+        },
+        {
+          "name": "Ren Niu",
+          "id": ""
+        },
+        {
+          "name": "Wenyao Zhu",
+          "id": ""
+        },
+        {
+          "name": "Shaofan Qiu",
+          "id": ""
+        }
+      ],
+      "venue": "BMC Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:284716055",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5359293976654762,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 220716493,
+      "title": "TOX correlates with prognosis, immune infiltration, and T cells exhaustion in lung adenocarcinoma",
+      "abstract": "Thymocyte selection\u2010associated high mobility group box (TOX) plays a crucial role on the development of innate immunity and tumor microenvironment. This study aims to explore the prognostic potential of TOX and comprehensively analyze the correlations between TOX, immune infiltration, and T cells function in diverse cancers particularly lung adenocarcinoma (LUAD).",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Longbin Guo",
+          "id": ""
+        },
+        {
+          "name": "Xuanzi Li",
+          "id": ""
+        },
+        {
+          "name": "Rongping Liu",
+          "id": ""
+        },
+        {
+          "name": "Yulei Chen",
+          "id": ""
+        },
+        {
+          "name": "Chen Ren",
+          "id": ""
+        },
+        {
+          "name": "Shasha Du",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:220716493",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5355320795083881,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 288158728,
+      "title": "Multi-omics profiling reveals tumor microenvironment characteristics linked to immunotherapy response and prognosis in non-small cell lung cancer",
+      "abstract": "Non-small cell lung cancer (NSCLC) patients frequently develop resistance to immunotherapy, underscoring the need for novel predictive biomarkers and a deeper understanding of the underlying mechanisms. In this study, we integrated bulk and single-cell transcriptomic analyses across 31 datasets to elucidate the immune infiltration features distinguishing immunotherapy responders from non-responders. We identified elevated infiltration of ZNF683\u2009+\u2009CD8\u2009+\u2009T cells as a crucial subset enriched in responders, with ZNF683 expression serving as a robust indicator of immunotherapy responsiveness. By screening 296 algorithm combinations, a ZNF683\u2009+\u2009CD8\u2009+\u2009T cell-related Riskscore (ZNFRS) was constructed using the optimal StepCox[forward] + Ridge combination, which demonstrated superior prognostic capability for lung adenocarcinoma patients. High-ZNFRS tumors exhibited a \u201ccold\u201d tumor microenvironment (TME) characterized by reduced immune infiltration, immunotherapy resistance, and enhanced SPP1 signaling. In vivo experiments revealed that anti-SPP1 treatment suppressed tumor growth, restored CD8\u2009+\u2009T cell effector function, inhibited M2-like macrophage polarization, and significantly enhanced the efficacy of anti-PD-1 therapy. Our findings highlight ZNF683 as a promising biomarker for immunotherapy response and establish the ZNFRS as a robust prognostic indicator. Furthermore, targeting the SPP1 pathway, identified as a key driver of immunosuppression in high-risk patients, represents a viable strategy to enhance anti-PD-1 therapy efficacy in NSCLC.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Liangyu Zhang",
+          "id": ""
+        },
+        {
+          "name": "Jianshen Zeng",
+          "id": ""
+        },
+        {
+          "name": "Junkai Wen",
+          "id": ""
+        },
+        {
+          "name": "Zhenyuan Yang",
+          "id": ""
+        },
+        {
+          "name": "Zhiyi Tian",
+          "id": ""
+        },
+        {
+          "name": "Menglong Zhang",
+          "id": ""
+        },
+        {
+          "name": "Xun Zhang",
+          "id": ""
+        },
+        {
+          "name": "Bin Zheng",
+          "id": ""
+        },
+        {
+          "name": "Yilin Lin",
+          "id": ""
+        },
+        {
+          "name": "Fancai Lai",
+          "id": ""
+        }
+      ],
+      "venue": "npj Precision Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:288158728",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5350395891904761,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 250329787,
+      "title": "Single-Cell Transcriptomics of Immune Cells Reveal Diversity and Exhaustion Signatures in Non-Small-Cell Lung Cancer",
+      "abstract": "Understanding immune cell phenotypes in the tumor microenvironment (TME) is essential for explaining and predicting progression of non-small cell lung cancer (NSCLC) and its response to immunotherapy. Here we describe the single-cell transcriptomics of CD45+ immune cells from tumors, normal tissues and blood of NSCLC patients. We identified three clusters of immune cells exerting immunosuppressive effects: CD8+ T cells with exhausted phenotype, tumor-associated macrophages (TAMs) with a pro-inflammatory M2 phenotype, and regulatory B cells (B regs) with tumor-promoting characteristics. We identified genes that may be mediating T cell phenotypes, including the transcription factors ONECUT2 and ETV4 in exhausted CD8+ T cells, TIGIT and CTL4 high expression in regulatory T cells. Our results highlight the heterogeneity of CD45+ immune cells in the TME and provide testable hypotheses about the cell types and genes that define the TME.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Ying-Ling Zhao",
+          "id": ""
+        },
+        {
+          "name": "Qilin Zhang",
+          "id": ""
+        },
+        {
+          "name": "Kailing Tu",
+          "id": ""
+        },
+        {
+          "name": "Yanmei Chen",
+          "id": ""
+        },
+        {
+          "name": "Yu-Sheng Peng",
+          "id": ""
+        },
+        {
+          "name": "Yinyun Ni",
+          "id": ""
+        },
+        {
+          "name": "Guonian Zhu",
+          "id": ""
+        },
+        {
+          "name": "Cheng Cheng",
+          "id": ""
+        },
+        {
+          "name": "Xue Xiao",
+          "id": ""
+        },
+        {
+          "name": "Chunyan Yu",
+          "id": ""
+        },
+        {
+          "name": "Keying Lu",
+          "id": ""
+        },
+        {
+          "name": "Yaxin Chen",
+          "id": ""
+        },
+        {
+          "name": "Chengping Li",
+          "id": ""
+        },
+        {
+          "name": "Jun Tang",
+          "id": ""
+        },
+        {
+          "name": "Gangqiang Wang",
+          "id": ""
+        },
+        {
+          "name": "Wenxin Luo",
+          "id": ""
+        },
+        {
+          "name": "Wengeng Zhang",
+          "id": ""
+        },
+        {
+          "name": "Guowei Che",
+          "id": ""
+        },
+        {
+          "name": "Wei-Min Li",
+          "id": ""
+        },
+        {
+          "name": "Zhoufeng Wang",
+          "id": ""
+        },
+        {
+          "name": "D. Xie",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:250329787",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5349871646838414,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 239599085,
+      "title": "Tertiary lymphoid structure and decreased CD8+ T cell infiltration in minimally invasive adenocarcinoma",
+      "abstract": "Summary Knowledge of the tumor microenvironment (TME) in patients with early lung cancer, especially in comparison with the matched adjacent tissues, remains lacking. To characterize TME of early-stage lung adenocarcinoma, we performed RNA-seq profiling on 58 pairs of minimally invasive adenocarcinoma (MIA) tumors and matched adjacent normal tissues. MIA tumors exhibited an adaptive TME characterized by high CD4+ T cell infiltration, high B-cell activation, and low CD8+ T cell infiltration. The high expression of markers for B cells, activated CD4+ T cells, and follicular helper T (Tfh) cells in bulk MIA samples and three independent single-cell RNA-seq datasets implied tertiary lymphoid structures (TLS) formation. Multiplex immunohistochemistry staining validated TLS formation and revealed an enrichment of follicular regulatory T cells (Tfr) in TLS follicles, which may explain the lower CD8+ T cell infiltration and attenuated anti-tumor immunity in MIA. Our study demonstrates how integrating transcriptome and pathology characterize TME and elucidate potential mechanisms of tumor immune evasion.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Jin Wang",
+          "id": ""
+        },
+        {
+          "name": "Dongbo Jiang",
+          "id": ""
+        },
+        {
+          "name": "Xiaoqi Zheng",
+          "id": ""
+        },
+        {
+          "name": "Wang Li",
+          "id": ""
+        },
+        {
+          "name": "Tian Zhao",
+          "id": ""
+        },
+        {
+          "name": "Di Wang",
+          "id": ""
+        },
+        {
+          "name": "Huansha Yu",
+          "id": ""
+        },
+        {
+          "name": "Dongqing Sun",
+          "id": ""
+        },
+        {
+          "name": "Ziyi Li",
+          "id": ""
+        },
+        {
+          "name": "Jian Zhang",
+          "id": ""
+        },
+        {
+          "name": "Zhe Zhang",
+          "id": ""
+        },
+        {
+          "name": "L. Hou",
+          "id": ""
+        },
+        {
+          "name": "G. Jiang",
+          "id": ""
+        },
+        {
+          "name": "K. Fei",
+          "id": ""
+        },
+        {
+          "name": "Fan Zhang",
+          "id": ""
+        },
+        {
+          "name": "Kun Yang",
+          "id": ""
+        },
+        {
+          "name": "Peng Zhang",
+          "id": ""
+        }
+      ],
+      "venue": "iScience",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:239599085",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5340703522084128,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 226338428,
+      "title": "Single-cell RNA Sequencing in Immunology",
+      "abstract": "The complex immune system is involved in multiple pathological processes. Single-cell RNA sequencing (scRNA-seq) is able to analyze complex cell mixtures correct to a single cell and single molecule, thus is qualified to analyze immune reactions in several diseases. In recent years, scRNA-seq has been applied in many researching fields and has presented many innovative results. In this review, we intend to provide an overview of single-cell RNA sequencing applications in immunology and a prospect of future directions.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Yirui Cao",
+          "id": ""
+        },
+        {
+          "name": "Yue Qiu",
+          "id": ""
+        },
+        {
+          "name": "Guowei Tu",
+          "id": ""
+        },
+        {
+          "name": "Cheng Yang",
+          "id": ""
+        }
+      ],
+      "venue": "Current Genomics",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:226338428",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.532149977045739,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 214426795,
+      "title": "Single cell transcriptome of CD8+ T cells in multiple cancers reveals comprehensive exhaustion associated mechanisms",
+      "abstract": "T cell exhaustion is one of the mechanisms that cancer cells get rid of control from the immune system. Single-cell RNA sequencing has showed superiority on immunity mechanism in recent studies. Here, we collected more than 6000 single CD8+ T cells from three cancers including CRC, HCC and NSCLC, and identified five clusters of each cancer. We obtained 71 and 159 DEGs for pre_exhausted or exhausted vs. effector comparison in all three cancers, respectively. Specially, we found some key genes including the four exhaustion associated genes of PDCD1, HAVCR2, TIGIT and TOX, and two vital genes of CD69 and JUN in the interaction network. Additionally, we identified the gene SAMSN1 which highly expressed in the exhausted cells had a poor overall survival and played a negative role in immunity. We summarized the putative interrelated mechanisms of above key genes identified in this study by integrating the reported knowledge. Furthermore, we explored the heterogeneous and preference of exhausted CD8+ T cells in each patient and found only one exhausted sub-cluster existed in the most of patients, especially in CRC and HCC. As far as we know, this is the first time to study the mechanism of T cell exhaustion with the data of single-cell RNA sequencing of multiple cancers. Our study may facilitate the understanding of the mechanism of T cell exhaustion, and provide a new way for functional research of single-cell RNA sequencing data across cancers.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Yunmeng Bai",
+          "id": ""
+        },
+        {
+          "name": "Zixi Chen",
+          "id": ""
+        },
+        {
+          "name": "Xiaoshi Chen",
+          "id": ""
+        },
+        {
+          "name": "Zi-hong He",
+          "id": ""
+        },
+        {
+          "name": "J. Long",
+          "id": ""
+        },
+        {
+          "name": "Shudai Lin",
+          "id": ""
+        },
+        {
+          "name": "Lizhen Huang",
+          "id": ""
+        },
+        {
+          "name": "H. Du",
+          "id": ""
+        }
+      ],
+      "venue": "bioRxiv",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:214426795",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5234222892297794,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 213034905,
+      "title": "Single-cell transcriptome analysis revealed a role of the transcription factor TOX in promoting CD8+ T-cell exhaustion in cancer",
+      "abstract": "Background Functional states of T cells are heterogeneous in tumor microenvironment. Immune checkpoint inhibitor (ICI) can reinvigorate only stem-like exhausted T cells, suggesting that impeding progress of exhaustion will improve immunotherapy efficacy. Transcription factors promoting T-cell exhaustion could be potential targets for delaying the process, improving efficacy of ICI. Methods Analyzing single-cell transcriptome data derived from melanoma and non-small cell lung cancer (NSCLC), we divided tumor-infiltrating CD8+ T-cell population by PDCD1 (also known as PD-1) expression level into PDCD1-high cells and PDCD1-low cells and identified differentially expressed genes as candidate factors promoting intratumoral T-cell exhaustion. Co-expression of candidate genes with immune checkpoint molecules among tumor-infiltrating CD8+ T cells was confirmed by single-cell trajectory analysis and flow-cytometry analysis. Loss-of-function effect of the candidate regulator was examined by cell-based knockdown assay. Clinical effect of the candidate regulator was evaluated based on overall survival and anti-PD-1 responses. Results We identified TOX among the most differentially expressed transcription factors between PDCD1-high subset and PDCD1-low subset of tumor-infiltrating CD8+ T cells in melanoma and NSCLC. TOX expression level tend to increase as CD8+ T cells become more exhausted. Flow-cytometry analysis of tumor-infiltrating T cells showed correlation of TOX expression with severity of intratumoral T-cell exhaustion. TOX knockdown resulted in downregulation of PD-1 and TIM-3, suggesting that TOX promotes intratumoral T-cell exhaustion by inducing immune checkpoint molecules. Finally, we found that TOX expression in tumor-infiltrating T cells was predictive for overall survival and anti-PD-1 efficacy in melanoma and NSCLC. Conclusions We found TOX to promote intratumoral CD8+ T-cell exhaustion via positive regulation of PD-1\u2014TIM-3 cooperation, suggesting that inhibition of TOX potentially impede T-cell exhaustion and improve efficacy of ICI. In addition, TOX expression in tumor-infiltrating T cells would be a useful feature for patient stratification in anti-tumor treatments including anti-PD-1 immunotherapy.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "K. Kim",
+          "id": ""
+        },
+        {
+          "name": "Seyeon Park",
+          "id": ""
+        },
+        {
+          "name": "Gamin Kim",
+          "id": ""
+        },
+        {
+          "name": "Su Myeong Park",
+          "id": ""
+        },
+        {
+          "name": "Seong Yong Park",
+          "id": ""
+        },
+        {
+          "name": "Da Hee Kim",
+          "id": ""
+        },
+        {
+          "name": "Y. M. Park",
+          "id": ""
+        },
+        {
+          "name": "Y. Koh",
+          "id": ""
+        },
+        {
+          "name": "Hye Ryun Kim",
+          "id": ""
+        },
+        {
+          "name": "S. Ha",
+          "id": ""
+        },
+        {
+          "name": "Insuk Lee",
+          "id": ""
+        }
+      ],
+      "venue": "bioRxiv",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:213034905",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5226464886710481,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 243950181,
+      "title": "303\u2005Non-functional T cell responses in non-small cell lung cancer are induced during tumor antigen-specific T cell priming in the mediastinal lymph node",
+      "abstract": "In non-small cell lung cancer (NSCLC), response to checkpoint blockade therapy (CBT) is associated with tumor-infiltrating CD8+ T cells, but not all T cell-infiltrated tumors respond to CBT. The subgroup of T cell-infiltrated but CBT-resistant tumors has been clinically described as containing \u201dnon-functional\u201d T cell responses. Mechanisms governing the generation of non-functional T cell responses remain poorly understood, and treatment options for this subgroup are limited.We utilized a transplantable, syngeneic murine NSCLC cell line derived from an autochthonous NSCLC driven by KrasG12D expression and p53 deletion (KP cell line) to model non-functional T cell responses. To study antigen-specific responses, we engineered KP cells to express the model CD8+ T cell antigen SIY for certain experiments. CBT consisted of combined anti-CTLA-4 and anti-PD-L1 therapy.Orthotopic KP lung tumors failed to respond to CBT, but KP flank tumors were controlled by CBT. Lung and flank tumors contained activated CD8+ T cells, providing a platform to compare functional and non-functional CD8+ T cell responses in NSCLC. Single-cell RNA sequencing revealed that lung tumor-infiltrating CD8+ T cells lacked effector and exhaustion molecules despite clonal expansion. Analysis of antigen-specific CD8+ T cells revealed that this lung cancer-specific T cell dysfunction was established during priming in lung-draining mediastinal lymph nodes (mLN) despite robust T cell proliferation. RNA sequencing and flow cytometry of antigen-specific CD8+ T cells found that T cells primed in the mLN underwent blunted effector differentiation characterized by a lack of effector molecules CD25, Granzyme B, and TIM-3, but retention of TCF-1. This phenotype persisted in lung tumors, consistent with our initial observations of absent effector and exhaustion molecule expression. Many CD8+ T cells from NSCLC patients expressed an analogous gene expression program distinct from T cell exhaustion. TCF-1+ CD8+ T cells in lung tumors did not mediate tumor control and failed to differentiate into effector cells after CBT. To investigate alternative therapeutic strategies of reinvigorating lung tumor-reactive T cells, we focused on IL-2 and IL-12, as expression of their receptors was reduced in mLN-primed T cells. Administering recombinant IL-2 and IL-12 was sufficient to restore effector T cell differentiation, induce lung tumor control, and significantly extend survival of lung tumor-bearing mice.Our results suggest that non-functional CD8+ T cell responses in NSCLC arise from failed effector T cell differentiation during priming. Transient combination therapy with IL-2 and IL-12 overcomes this dysfunctional state to induce protective T cell responses in CBT-resistant tumors.All mouse experiments were approved by MIT\u2019s Committee on Animal Care (CAC) - DHHS Animal Welfare Assurance # D16-00078",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "B. Horton",
+          "id": ""
+        },
+        {
+          "name": "D. Morgan",
+          "id": ""
+        },
+        {
+          "name": "Elen Torres-Mejia",
+          "id": ""
+        },
+        {
+          "name": "Maria Zagorulya",
+          "id": ""
+        },
+        {
+          "name": "Vidit Bhandarkar",
+          "id": ""
+        },
+        {
+          "name": "Noor Momin",
+          "id": ""
+        },
+        {
+          "name": "K. Wittrup",
+          "id": ""
+        },
+        {
+          "name": "J. Love",
+          "id": ""
+        },
+        {
+          "name": "S. Spranger",
+          "id": ""
+        }
+      ],
+      "venue": "Journal for ImmunoTherapy of Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:243950181",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5216989449669407,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 2751113,
+      "title": "Analysis of non\u2010small cell lung cancer microenvironment indicates preponderance of T cell exhaustion marker expression",
+      "abstract": "Abstract Lung cancer metastasis causes 70% of an estimated 1.4 million deaths per annum. The major shortcoming in lung cancer is the tendency to have inherent or develop acquired resistance to chemotherapy. It is now evolving that such resistance might develop due to differential contribution and interaction with tumor microenvironment, stromal cells, and the extracellular matrix. The objective of the current study was to define the lung cancer tumor microenvironment. We have identified multiple tumor\u2010infiltrating T lymphocyte subsets in patients with lung cancer, which were independent of disease stage. Functional analysis indicated high expression of the inhibitory receptors, cytotoxic T\u2010lymphocyte\u2010associated protein 4 (CTLA4), lymphocyte activated gene 3 (LAG3) and programmed cell death protein 1 (PD\u20101) in both CD4 and CD8 subsets, compared to non\u2010malignant controls. Inhibitory receptors expressed by the tumor infiltrating T cells might mediate tolerance to tumor antigens with co\u2010expression of these receptors exacerbating lung carcinogenesis and metastatic progression. HighlightsCD3+ T cells form the major component of immune cells within the microenvironment of malignant lung lesion.Both CD4+ helper T\u2010cells and CD8+ cytotoxic T cells expressed high levels of immune exhaustion markers.Exhaustion markers that were tested and found high were CTLA4, lLAG3, and PD\u20101.High expression of exhaustion markers might explain dysfunctional T cells within the lung cancer microenvironment.",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Hui Zhou",
+          "id": ""
+        },
+        {
+          "name": "Tingwei Liu",
+          "id": ""
+        },
+        {
+          "name": "Zanfeng Wang",
+          "id": ""
+        }
+      ],
+      "venue": "Experimental Cell Research",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:2751113",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5149722618603704,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 277541310,
+      "title": "Deciphering T-cell exhaustion in the tumor microenvironment: paving the way for innovative solid tumor therapies",
+      "abstract": "In solid tumors, the tumor microenvironment (TME) is a complex mix of tumor, immune, stromal cells, fibroblasts, and the extracellular matrix. Cytotoxic T lymphocytes (CTLs) constitute a fraction of immune cells that may infiltrate into the TME. The primary function of these T-cells is to detect and eliminate tumor cells. However, due to the immunosuppressive factors present in the TME primarily mediated by Myeloid-Derived Suppressor Cells (MDSCs), Tumor associated macrophages (TAMs), Cancer Associated Fibroblasts (CAFs) as well as the tumor cells themselves, T-cells fail to differentiate into effector cells or become dysfunctional and are unable to eliminate the tumor. In addition, chronic antigen stimulation within the TME also leads to a phenomenon, first identified in chronic lymphocytic choriomeningitis virus (LCMV) infection in mice, where the T-cells become exhausted and lose their effector functions. Exhausted T-cells (Tex) are characterized by the presence of remarkably conserved inhibitory receptors, transcription and signaling factors and the downregulation of key effector molecules. Tex cells have been identified in various malignancies, including melanoma, colorectal and hepatocellular cancers. Recent studies have indicated novel strategies to reverse T-cell exhaustion. These include checkpoint inhibitor blockade targeting programmed cell death protein 1 (PD-1), T-cell immunoglobulin and mucin-domain containing-3 (Tim-3), cytotoxic T-lymphocyte associated protein 4 (CTLA-4), or combinations of different immune checkpoint therapies (ICTs) or combination of ICTs with cytokine co-stimulation. In this review, we discuss aspects of T-cell dysfunction within the TME with a focus on T-cell exhaustion. We believe that gaining insight into the mechanisms of T-cell exhaustion within the TME of human solid tumors will pave the way for developing therapeutic strategies to target and potentially re-invigorate exhausted T-cells in cancer.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Reshmi Nair",
+          "id": ""
+        },
+        {
+          "name": "Veena Somasundaram",
+          "id": ""
+        },
+        {
+          "name": "Anshu Kuriakose",
+          "id": ""
+        },
+        {
+          "name": "S. Krishn",
+          "id": ""
+        },
+        {
+          "name": "David Raben",
+          "id": ""
+        },
+        {
+          "name": "Rachel L. Salazar",
+          "id": ""
+        },
+        {
+          "name": "P. Nair",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:277541310",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.47801394618855797,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 237198087,
+      "title": "Cancer biology deciphered by single-cell transcriptomic sequencing",
+      "abstract": "Tumors are complex ecosystems in which heterogeneous cancer cells interact with their microenvironment composed of diverse immune, endothelial, and stromal cells. Cancer biology had been studied using bulk genomic and gene expression profiling, which however mask the cellular diversity and average the variability among individual molecular programs. Recent advances in single-cell transcriptomic sequencing have enabled a detailed dissection of tumor ecosystems and promoted our understanding of tumorigenesis at single-cell resolution. In the present review, we discuss the main topics of recent cancer studies that have implemented single-cell RNA sequencing (scRNA-seq). To study cancer cells, scRNA-seq has provided novel insights into the cancer stem-cell model, treatment resistance, and cancer metastasis. To study the tumor microenvironment, scRNA-seq has portrayed the diverse cell types and complex cellular states of both immune and non-immune cells interacting with cancer cells, with the promise to discover novel targets for future immunotherapy.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Yanmeng Li",
+          "id": ""
+        },
+        {
+          "name": "Jianshi Jin",
+          "id": ""
+        },
+        {
+          "name": "F. Bai",
+          "id": ""
+        }
+      ],
+      "venue": "Protein & Cell",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:237198087",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.47624739768631646,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 253382206,
+      "title": "Single\u2010cell RNA sequencing reveals cellular and molecular reprograming landscape of gliomas and lung cancer brain metastases",
+      "abstract": "Background Brain malignancies encompass gliomas and brain metastases originating from extracranial tumours including lung cancer. Approximately 50% of patients with lung adenocarcinoma (LUAD) will eventually develop brain metastases. However, the specific characteristics of gliomas and lung\u2010to\u2010brain metastases (LC) are largely unknown. Methods We applied single\u2010cell RNA sequencing to profile immune and nonimmune cells in 4 glioma and 10 LC samples. Results Our analysis revealed that tumour microenvironment (TME) cells are present in heterogeneous subpopulations. LC reprogramed cells into immune suppressed state, including microglia, macrophages, endothelial cells, and CD8+ T cells, with unique cell proportions and gene signatures. Particularly, we identified that a subset of macrophages was associated with poor prognosis. ROS (reactive oxygen species)\u2010producing neutrophils was found to participant in angiogenesis. Furthermore, endothelial cells participated in active communication with fibroblasts. Metastatic epithelial cells exhibited high heterogeneity in chromosomal instability (CIN) and cell population. Conclusions Our findings provide a comprehensive understanding of the heterogenicity of the tumor microenvironment and tumour cells and it will be crucial for successful immunotherapy development for brain metastasis of lung cancer.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Hefen Sun",
+          "id": ""
+        },
+        {
+          "name": "Liangdong Li",
+          "id": ""
+        },
+        {
+          "name": "I. Lao",
+          "id": ""
+        },
+        {
+          "name": "Xuan Li",
+          "id": ""
+        },
+        {
+          "name": "Baojin Xu",
+          "id": ""
+        },
+        {
+          "name": "Yiqun Cao",
+          "id": ""
+        },
+        {
+          "name": "W. Jin",
+          "id": ""
+        }
+      ],
+      "venue": "Clinical and Translational Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:253382206",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.47083377099772633,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 245635690,
+      "title": "Deciphering the Immune\u2013Tumor Interplay During Early-Stage Lung Cancer Development via Single-Cell Technology",
+      "abstract": "Lung cancer is the leading cause of cancer-related death worldwide. Cancer immunotherapy has shown great success in treating advanced-stage lung cancer but has yet been used to treat early-stage lung cancer, mostly due to lack of understanding of the tumor immune microenvironment in early-stage lung cancer. The immune system could both constrain and promote tumorigenesis in a process termed immune editing that can be divided into three phases, namely, elimination, equilibrium, and escape. Current understanding of the immune response toward tumor is mainly on the \u201cescape\u201d phase when the tumor is clinically detectable. The detailed mechanism by which tumor progenitor lesions was modulated by the immune system during early stage of lung cancer development remains elusive. The advent of single-cell sequencing technology enables tumor immunologists to address those fundamental questions. In this perspective, we will summarize our current understanding and big gaps about the immune response during early lung tumorigenesis. We will then present the state of the art of single-cell technology and then envision how single-cell technology could be used to address those questions. Advances in the understanding of the immune response and its dynamics during malignant transformation of pre-malignant lesion will shed light on how malignant cells interact with the immune system and evolve under immune selection. Such knowledge could then contribute to the development of precision and early intervention strategies toward lung malignancy.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Wei Liu",
+          "id": ""
+        },
+        {
+          "name": "Yingze Li",
+          "id": ""
+        },
+        {
+          "name": "Jun Wang",
+          "id": ""
+        },
+        {
+          "name": "Yijiu Ren",
+          "id": ""
+        },
+        {
+          "name": "Guangsuo Wang",
+          "id": ""
+        },
+        {
+          "name": "Chang Chen",
+          "id": ""
+        },
+        {
+          "name": "Hanjie Li",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:245635690",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.46807821628245433,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 262146981,
+      "title": "Decoding Human Biology and Disease Using Single-cell Omics Technologies",
+      "abstract": "Over the past decade, advances in single-cell omics (SCO) technologies have enabled the investigation of cellular heterogeneity at an unprecedented resolution and scale, opening a new avenue for understanding human biology and disease. In this review, we summarize the developments of sequencing-based SCO technologies and computational methods, and focus on considerable insights acquired from SCO sequencing studies to understand normal and diseased properties, with a particular emphasis on cancer research. We also discuss the technological improvements of SCO and its possible contribution to fundamental research of the human, as well as its great potential in clinical diagnoses and personalized therapies of human disease.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Qiang Shi",
+          "id": ""
+        },
+        {
+          "name": "Xueyan Chen",
+          "id": ""
+        },
+        {
+          "name": "Zemin Zhang",
+          "id": ""
+        }
+      ],
+      "venue": "Genomics, Proteomics & Bioinformatics",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:262146981",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4644890487504472,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 276299650,
+      "title": "Single-Cell RNA Sequencing in Unraveling Acquired Resistance to EGFR-TKIs in Non-Small Cell Lung Cancer: New Perspectives",
+      "abstract": "Epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs) have demonstrated remarkable efficacy in treating non-small cell lung cancer (NSCLC), but acquired resistance greatly reduces efficacy and poses a significant challenge to patients. While numerous studies have investigated the mechanisms underlying EGFR-TKI resistance, its complexity and diversity make the existing understanding still incomplete. Traditional approaches frequently struggle to adequately reveal the process of drug resistance development through mean value analysis at the overall cellular level. In recent years, the rapid development of single-cell RNA sequencing technology has introduced a transformative method for analyzing gene expression changes within tumor cells at a single-cell resolution. It not only deepens our understanding of the tumor microenvironment and cellular heterogeneity associated with EGFR-TKI resistance but also identifies potential biomarkers of resistance. In this review, we highlight the critical role of single-cell RNA sequencing in lung cancer research, with a particular focus on its application to exploring the mechanisms of EGFR-TKI-acquired resistance in NSCLC. We emphasize its potential for elucidating the complexity of drug resistance mechanism and its promise in informing more precise and personalized treatment strategies. Ultimately, this approach aims to advance NSCLC treatment toward a new era of precision medicine.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Lin Peng",
+          "id": ""
+        },
+        {
+          "name": "Siyou Deng",
+          "id": ""
+        },
+        {
+          "name": "Jinjie Li",
+          "id": ""
+        },
+        {
+          "name": "Yujie Zhang",
+          "id": ""
+        },
+        {
+          "name": "Li Zhang",
+          "id": ""
+        }
+      ],
+      "venue": "International Journal of Molecular Sciences",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:276299650",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4627868799481433,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 289081040,
+      "title": "Single-cell transcriptomics reveals ADRB1 as a key immune checkpoint regulating T cell exhaustion in lung cancer and its prognostic value in lung cancer",
+      "abstract": "Lung cancer, LUAD, and LUSC are both among the leading causes of cancer-related deaths. T cell exhaustion within the tumor microenvironment compromises the immune response and limits the benefits of immune checkpoint therapy. Adrenergic signaling primarily through ADRB1 induces T cell exhaustion and immune suppression. ADRB1\u2009+\u2009T cells have not yet been studied regarding their role in lung cancer progression or prognosis. scRNA-seq analysis for tumor and adjacent nontumor tissues from patients with LUAD and LUSC. Dimensionality reduction and clustering with Scanpy, followed by ssGSEA for adrenergic signaling activity. CNV was processed with inferCNV, and cell-to-cell communication was inferred via CellChat. Integration with TCGA bulk RNA-seq data enables prognostic modeling of ADRB1+ T cells. Kaplan-Meier survival analysis and univariate Cox regression were used to study the signature of ADRB1\u2009+\u2009T cells for prognostic value. scRNA-seq data confirm the presence of exhausted markers in ADRB1\u2009+\u2009T cells. The higher proportion in LUAD tumors as compared to LUSC was linked to more pronounced immune suppression and decreased T cell diversity. CellChat predicted extensive contacts between ADRB1\u2009+\u2009T cells and macrophages, mainly through CCL and IFN-II signaling pathways. Inferred CNV evidenced evidence of malignant cells interacting with ADRB1\u2009+\u2009T cells. In prognostic modeling based on ADRB1\u2009+\u2009T cell signatures, high-risk populations were characterized by very poor overall survival, and ADRB1 was an independent prognostic factor in LUAD and LUSC. This paper describes ADRB1 for the first time as a novel immune checkpoint involved in T cell exhaustion in lung cancer. Indeed, ADRB1\u2009+\u2009T cells are promising biomarker candidates; they may even become therapeutic targets in lung cancer. Indeed, proposing a pathway by which ADRB1 may be targeted, anti-tumor immunity may be boosted and better patient prognosis secured. Thus, functional studies and clinical trials will have to be done to test and discuss this proposed concept under a new heading in therapeutic strategy.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Zhanqi Cao",
+          "id": ""
+        },
+        {
+          "name": "Fan Su",
+          "id": ""
+        },
+        {
+          "name": "Xinjie Dun",
+          "id": ""
+        },
+        {
+          "name": "Qiancheng Lu",
+          "id": ""
+        },
+        {
+          "name": "Haoran Xu",
+          "id": ""
+        },
+        {
+          "name": "Pengyan Su",
+          "id": ""
+        },
+        {
+          "name": "Zhongkai Xue",
+          "id": ""
+        },
+        {
+          "name": "Shibo Wang",
+          "id": ""
+        },
+        {
+          "name": "Xiuzhi Yang",
+          "id": ""
+        },
+        {
+          "name": "Hanlin Xu",
+          "id": ""
+        }
+      ],
+      "venue": "Discover Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:289081040",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4621635031654762,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 270490059,
+      "title": "Identification of JUN gene and cellular microenvironment in response to PD-1 blockade treatment in lung cancer patients via single-cell RNA sequencing",
+      "abstract": "Exploring the molecular mechanisms of PD-1/PDL-1 blockade for non-small cell lung cancer (NSCLC) would facilitate understanding for tumor microenvironment (TME) and development of individualized medicine. To date, biomarkers of response to PD-1 blockade therapy were still limited. In this study, we hypothesize that cell type in the tumor microenvironment can influence the effect of PD-1 blockade immunotherapy through specific genes. Therefore, we re-analyze the single-cell RNA sequencing data and validation in tissue from lung adenocarcinoma patients. Dynamic changes of cellular subpopulation were observed after anti-PD-1 immunotherapy among TMEs between primary/metastasis or good/poor response patients. Non-exhausted CD8 T cells and dysregulated genes were observed in responsing patients from PD-1 blockade therapy. Among all changed genes, JUN, involved in PD-1 blockade immunotherapy pathway, and could be considered as a PD-1 responsing biomarker.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Yuxuan Wang",
+          "id": ""
+        },
+        {
+          "name": "T. Ran",
+          "id": ""
+        },
+        {
+          "name": "Yunke Li",
+          "id": ""
+        },
+        {
+          "name": "Lei Tian",
+          "id": ""
+        },
+        {
+          "name": "Lifeng Yang",
+          "id": ""
+        },
+        {
+          "name": "Zhidong Liu",
+          "id": ""
+        },
+        {
+          "name": "Biao Yao",
+          "id": ""
+        }
+      ],
+      "venue": "Aging",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:270490059",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.46128596890627094,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 282988479,
+      "title": "Comprehensive characterization of early-stage Non-Small Cell Lung cancers with multi-modal data integration",
+      "abstract": "Non-small cell lung cancer (NSCLC) is one of the leading causes of cancer-related death despite the availability of therapies targeting the tumor microenvironment (TME) and/or the tumor. Immunotherapy and novel targeted therapy have improved the management of NSCLC, but the heterogeneity of the disease still hampers treatment efficacy as well as further therapeutic advances. Here, we used spatial single-cell data complemented with bulk RNAseq and whole exome sequencing to investigate the TME of 192 resected, mostly early-stage NSCLC tumors and to characterize associations of genetic, clinical and lifestyle factors with cellular and histological properties of the TME. We found that the TME of squamous cell carcinoma (LUSC) harbored stronger signs of inflammation and immune exhaustion than adenocarcinoma (LUAD), but interestingly that elevated PD-L1 expression was associated with inflammation and markers of lymphocyte activation/exhaustion only in LUAD. Smoking correlated with T cell infiltration and TP53 mutation in LUAD, and TP53 mutation was associated with proliferation of tumor cells. In both histologies, naive and BCL2+ T cells decreased with higher clinical stages. EGFR-driven tumors showed fewer proliferating, activated and exhausted T cells, but more CD4 T cells and HLA-DR+ tumor cells, than tumors with wild type EGFR. Multi-modal integration of our four data types showed that most variation in our cohort was along the axes of histology, smoking, TP53 mutation, and inflammation. Our integration identified histology-specific prognostic signatures, with a LUSC-enriched profile of proliferation, inflammation, and smoking associated with poor prognosis in LUAD. In summary, we provide a rich, multimodal, single-cell characterization of a large NSCLC cohort as a resource and suggest that future investigations of biomarkers for ICI in NSCLC will benefit from stratification by histology.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "D. Schulz",
+          "id": ""
+        },
+        {
+          "name": "M. Morfouace",
+          "id": ""
+        },
+        {
+          "name": "B. P. Fernandez",
+          "id": ""
+        },
+        {
+          "name": "M. Mo\u017cejko",
+          "id": ""
+        },
+        {
+          "name": "S. D\u00e9glise",
+          "id": ""
+        },
+        {
+          "name": "M. Daniel",
+          "id": ""
+        },
+        {
+          "name": "N. Eling",
+          "id": ""
+        },
+        {
+          "name": "H. Hong",
+          "id": ""
+        },
+        {
+          "name": "S. Tissot",
+          "id": ""
+        },
+        {
+          "name": "S. Rusakiewicz",
+          "id": ""
+        },
+        {
+          "name": "T. Trefzer",
+          "id": ""
+        },
+        {
+          "name": "J. Merlevede",
+          "id": ""
+        },
+        {
+          "name": "F. Marzetta",
+          "id": ""
+        },
+        {
+          "name": "N. D. de Souza",
+          "id": ""
+        },
+        {
+          "name": "D. W\u00f3jtowicz",
+          "id": ""
+        },
+        {
+          "name": "E. Szczurek",
+          "id": ""
+        },
+        {
+          "name": "B. Besse",
+          "id": ""
+        },
+        {
+          "name": "B. Bodenmiller",
+          "id": ""
+        }
+      ],
+      "venue": "medRxiv",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:282988479",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.46039866483564434,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 218540332,
+      "title": "Single-cell RNA sequencing demonstrates the molecular and cellular reprogramming of metastatic lung adenocarcinoma",
+      "abstract": "Advanced metastatic cancer poses utmost clinical challenges and may present molecular and cellular features distinct from an early-stage cancer. Herein, we present single-cell transcriptome profiling of metastatic lung adenocarcinoma, the most prevalent histological lung cancer type diagnosed at stage IV in over 40% of all cases. From 208,506 cells populating the normal tissues or early to metastatic stage cancer in 44 patients, we identify a cancer cell subtype deviating from the normal differentiation trajectory and dominating the metastatic stage. In all stages, the stromal and immune cell dynamics reveal ontological and functional changes that create a pro-tumoral and immunosuppressive microenvironment. Normal resident myeloid cell populations are gradually replaced with monocyte-derived macrophages and dendritic cells, along with T-cell exhaustion. This extensive single-cell analysis enhances our understanding of molecular and cellular dynamics in metastatic lung cancer and reveals potential diagnostic and therapeutic targets in cancer-microenvironment interactions. Understanding the mechanisms that lead to lung adenocarcinoma metastasis is important for identifying new therapeutics. Here, the authors document the changes in the transcriptome of human lung adenocarcinoma using single-cell sequencing and link cancer cell signatures to immune cell dynamics.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "N. Kim",
+          "id": ""
+        },
+        {
+          "name": "H. Kim",
+          "id": ""
+        },
+        {
+          "name": "K. Lee",
+          "id": ""
+        },
+        {
+          "name": "Yourae Hong",
+          "id": ""
+        },
+        {
+          "name": "J. Cho",
+          "id": ""
+        },
+        {
+          "name": "J. Choi",
+          "id": ""
+        },
+        {
+          "name": "Jung-Il Lee",
+          "id": ""
+        },
+        {
+          "name": "Y. Suh",
+          "id": ""
+        },
+        {
+          "name": "B. Ku",
+          "id": ""
+        },
+        {
+          "name": "Hye Hyeon Eum",
+          "id": ""
+        },
+        {
+          "name": "Soyean Choi",
+          "id": ""
+        },
+        {
+          "name": "Yoon-La Choi",
+          "id": ""
+        },
+        {
+          "name": "Je-Gun Joung",
+          "id": ""
+        },
+        {
+          "name": "W. Park",
+          "id": ""
+        },
+        {
+          "name": "H. Jung",
+          "id": ""
+        },
+        {
+          "name": "Jong-Mu Sun",
+          "id": ""
+        },
+        {
+          "name": "Se-Hoon Lee",
+          "id": ""
+        },
+        {
+          "name": "J. Ahn",
+          "id": ""
+        },
+        {
+          "name": "Keunchil Park",
+          "id": ""
+        },
+        {
+          "name": "M. Ahn",
+          "id": ""
+        },
+        {
+          "name": "Hae-Ock Lee",
+          "id": ""
+        }
+      ],
+      "venue": "Nature Communications",
+      "journal": null,
+      "url": "https://doi.org/10.1038/s41467-020-16164-1",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4200227644688417,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 226231381,
+      "title": "Single-cell RNA sequencing reveals heterogeneous tumor and immune cell populations in early-stage lung adenocarcinomas harboring EGFR mutations",
+      "abstract": "Lung adenocarcinoma (LUAD) harboring EGFR mutations prevails in Asian population. However, the inter-patient and intra-tumor heterogeneity has not been addressed at single-cell resolution. Here we performed single-cell RNA sequencing (scRNA-seq) of total 125,674 cells from seven stage-I/II LUAD samples harboring EGFR mutations and five tumor-adjacent lung tissues. We identified diverse cell types within the tumor microenvironment (TME) in which myeloid cells and T cells were the most abundant stromal cell types in tumors and adjacent lung tissues. Within tumors, accompanied by an increase in CD1C + dendritic cells, the tumor-associated macrophages (TAMs) showed pro-tumoral functions without signature gene expression of defined M1 or M2 polarization. Tumor-infiltrating T cells mainly displayed exhausted and regulatory T-cell features. The adenocarcinoma cells can be categorized into different subtypes based on their gene expression signatures in distinct pathways such as hypoxia, glycolysis, cell metabolism, translation initiation, cell cycle, and antigen presentation. By performing pseudotime trajectory, we found that ELF3 was among the most upregulated genes in more advanced tumor cells. In response to secretion of inflammatory cytokines (e.g., IL1B) from immune infiltrates, ELF3 in tumor cells was upregulated to trigger the activation of PI3K/Akt/NF-\u03baB pathway and elevated expression of proliferation and anti-apoptosis genes such as BCL2L1 and CCND1 . Taken together, our study revealed substantial heterogeneity within early-stage LUAD harboring EGFR mutations, implicating complex interactions among tumor cells, stromal cells and immune infiltrates in the TME.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Di He",
+          "id": ""
+        },
+        {
+          "name": "Di Wang",
+          "id": ""
+        },
+        {
+          "name": "P. Lu",
+          "id": ""
+        },
+        {
+          "name": "Nan Yang",
+          "id": ""
+        },
+        {
+          "name": "Zhigang Xue",
+          "id": ""
+        },
+        {
+          "name": "Xianmin Zhu",
+          "id": ""
+        },
+        {
+          "name": "Peng Zhang",
+          "id": ""
+        },
+        {
+          "name": "G. Fan",
+          "id": ""
+        }
+      ],
+      "venue": "Oncogene",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:226231381",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4067452900892984,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 233868551,
+      "title": "Single-cell profiling of tumor heterogeneity and the microenvironment in advanced non-small cell lung cancer",
+      "abstract": "Lung cancer is a highly heterogeneous disease. Cancer cells and cells within the tumor microenvironment together determine disease progression, as well as response to or escape from treatment. To map the cell type-specific transcriptome landscape of cancer cells and their tumor microenvironment in advanced non-small cell lung cancer (NSCLC), we analyze 42 tissue biopsy samples from stage III/IV NSCLC patients by single cell RNA sequencing and present the large scale, single cell resolution profiles of advanced NSCLCs. In addition to cell types described in previous single cell studies of early stage lung cancer, we are able to identify rare cell types in tumors such as follicular dendritic cells and T helper 17 cells. Tumors from different patients display large heterogeneity in cellular composition, chromosomal structure, developmental trajectory, intercellular signaling network and phenotype dominance. Our study also reveals a correlation of tumor heterogeneity with tumor associated neutrophils, which might help to shed light on their function in NSCLC. Comprehensive profiles of tumour and microenvironment are critical to understand heterogeneity in non-small cell lung cancer (NSCLC). Here, the authors profile 42 late-stage NSCLC patients with single-cell RNA-seq, revealing immune landscapes that are associated with cancer subtype or heterogeneity.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Fengying Wu",
+          "id": ""
+        },
+        {
+          "name": "Jue Fan",
+          "id": ""
+        },
+        {
+          "name": "Yayi He",
+          "id": ""
+        },
+        {
+          "name": "Anwen Xiong",
+          "id": ""
+        },
+        {
+          "name": "J. Yu",
+          "id": ""
+        },
+        {
+          "name": "Yixin Li",
+          "id": ""
+        },
+        {
+          "name": "Yan Zhang",
+          "id": ""
+        },
+        {
+          "name": "Wencheng Zhao",
+          "id": ""
+        },
+        {
+          "name": "F. Zhou",
+          "id": ""
+        },
+        {
+          "name": "Wei Li",
+          "id": ""
+        },
+        {
+          "name": "J Zhang",
+          "id": ""
+        },
+        {
+          "name": "Xiaoshen Zhang",
+          "id": ""
+        },
+        {
+          "name": "M. Qiao",
+          "id": ""
+        },
+        {
+          "name": "G. Gao",
+          "id": ""
+        },
+        {
+          "name": "Shanhao Chen",
+          "id": ""
+        },
+        {
+          "name": "Xiao-xia Chen",
+          "id": ""
+        },
+        {
+          "name": "Xuefei Li",
+          "id": ""
+        },
+        {
+          "name": "L. Hou",
+          "id": ""
+        },
+        {
+          "name": "Chunyan Wu",
+          "id": ""
+        },
+        {
+          "name": "C. Su",
+          "id": ""
+        },
+        {
+          "name": "S. Ren",
+          "id": ""
+        },
+        {
+          "name": "M. Odenthal",
+          "id": ""
+        },
+        {
+          "name": "R. Buettner",
+          "id": ""
+        },
+        {
+          "name": "N. Fang",
+          "id": ""
+        },
+        {
+          "name": "Caicun Zhou",
+          "id": ""
+        }
+      ],
+      "venue": "Nature Communications",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:233868551",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.40388592187788686,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 247497882,
+      "title": "Expression of the mono-ADP-ribosyltransferase ART1 by tumor cells mediates immune resistance in non-small cell lung cancer",
+      "abstract": "Most patients with non\u2013small cell lung cancer (NSCLC) do not achieve durable clinical responses from immune checkpoint inhibitors, suggesting the existence of additional resistance mechanisms. Nicotinamide adenine dinucleotide (NAD)\u2013induced cell death (NICD) of P2X7 receptor (P2X7R)\u2013expressing T cells regulates immune homeostasis in inflamed tissues. This process is mediated by mono\u2013adenosine 5\u2032-diphosphate (ADP)\u2013ribosyltransferases (ARTs). We found an association between membranous expression of ART1 on tumor cells and reduced CD8 T cell infiltration. Specifically, we observed a reduction in the P2X7R+ CD8 T cell subset in human lung adenocarcinomas. In vitro, P2X7R+ CD8 T cells were susceptible to ART1-mediated ADP-ribosylation and NICD, which was exacerbated upon blockade of the NAD+-degrading ADP-ribosyl cyclase CD38. Last, in murine NSCLC and melanoma models, we demonstrate that genetic and antibody-mediated ART1 inhibition slowed tumor growth in a CD8 T cell\u2013dependent manner. This was associated with increased infiltration of activated P2X7R+CD8 T cells into tumors. In conclusion, we describe ART1-mediated NICD as a mechanism of immune resistance in NSCLC and provide preclinical evidence that antibody-mediated targeting of ART1 can improve tumor control, supporting pursuit of this approach in clinical studies. Description Tumor cell\u2013expressed ART1 eliminates CD8 T cells through NAD-induced cell death, driving immune escape in lung cancer. An ARTistic approach Immune checkpoint inhibitors have revolutionized cancer immunotherapy, but some patients with non\u2013small cell lung cancer (NSCLC) do not respond. Here, Wennerberg et al. investigated whether additional mechanisms of immune suppression may drive lack of responses in these patients. The authors found that membranous expression of the mono-ADP-ribosyltransferase 1 (ART1) was associated with poorer CD8 T cell infiltration in tumor samples from patients. Using mouse models, the authors showed that ART1 mediated immune resistance by driving NAD-induced cell death of CD8 T cells, which could be reversed with an antibody targeting ART1. Together, these findings identify ART1 as a targetable mediator of immune resistance in NSCLC.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "E. Wennerberg",
+          "id": ""
+        },
+        {
+          "name": "S. Mukherjee",
+          "id": ""
+        },
+        {
+          "name": "Sheila Spada",
+          "id": ""
+        },
+        {
+          "name": "Clarey Hung",
+          "id": ""
+        },
+        {
+          "name": "Christopher J. Agrusa",
+          "id": ""
+        },
+        {
+          "name": "Chuang Chen",
+          "id": ""
+        },
+        {
+          "name": "Amanda Valeta-Magara",
+          "id": ""
+        },
+        {
+          "name": "N. Rudqvist",
+          "id": ""
+        },
+        {
+          "name": "Samantha J. Van Nest",
+          "id": ""
+        },
+        {
+          "name": "Mohamed K. Kamel",
+          "id": ""
+        },
+        {
+          "name": "A. Nasar",
+          "id": ""
+        },
+        {
+          "name": "N. Narula",
+          "id": ""
+        },
+        {
+          "name": "V. Mittal",
+          "id": ""
+        },
+        {
+          "name": "G. Markowitz",
+          "id": ""
+        },
+        {
+          "name": "X. Zhou",
+          "id": ""
+        },
+        {
+          "name": "P. Adusumilli",
+          "id": ""
+        },
+        {
+          "name": "A. Borczuk",
+          "id": ""
+        },
+        {
+          "name": "Thomas E White",
+          "id": ""
+        },
+        {
+          "name": "Abdul G Khan",
+          "id": ""
+        },
+        {
+          "name": "P. Balderes",
+          "id": ""
+        },
+        {
+          "name": "I. Lorenz",
+          "id": ""
+        },
+        {
+          "name": "N. Altorki",
+          "id": ""
+        },
+        {
+          "name": "S. Demaria",
+          "id": ""
+        },
+        {
+          "name": "T. McGraw",
+          "id": ""
+        },
+        {
+          "name": "B. Stiles",
+          "id": ""
+        }
+      ],
+      "venue": "Science Translational Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:247497882",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3979083231117937,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 258620559,
+      "title": "Functional status and spatial architecture of tumor-infiltrating CD8+\u2009T cells are associated with lymph node metastases in non-small cell lung cancer",
+      "abstract": "Background Anti-PD-(L)1 immunotherapy has been recommended for non-small cell lung cancer (NSCLC) patients with lymph node metastases (LNM). However, the exact functional feature and spatial architecture of tumor-infiltrating CD8\u2009+\u2009T cells remain unclear in these patients. Methods Tissue microarrays (TMAs) from 279 IA-IIIB NSCLC samples were stained by multiplex immunofluorescence (mIF) for 11 markers (CD8, CD103, PD-1, Tim3, GZMB, CD4, Foxp3, CD31, \u03b1SMA, Hif-1\u03b1, pan-CK). We evaluated the density of CD8\u2009+\u2009T-cell functional subsets, the mean nearest neighbor distance (mNND) between CD8\u2009+\u2009T cells and neighboring cells, and the cancer-cell proximity score (CCPS) in invasive margin (IM) as well as tumor center (TC) to investigate their relationships with LNM and prognosis. Results The densities of CD8\u2009+\u2009T-cell functional subsets, including predysfunctional CD8\u2009+\u2009T cells (T_predys) and dysfunctional CD8\u2009+\u2009T cells (T_dys), in IM predominated over those in TC ( P \u2009<\u20090.001). Multivariate analysis identified that the densities of CD8\u2009+\u2009T_predys cells in TC and CD8\u2009+\u2009T_dys cells in IM were significantly associated with LNM [OR\u2009=\u20090.51, 95%CI (0.29\u20130.88), P \u2009=\u20090.015; OR\u2009=\u20095.80, 95%CI (3.19\u201310.54), P \u2009<\u20090.001; respectively] and recurrence-free survival (RFS) [HR\u2009=\u20090.55, 95%CI (0.34\u20130.89), P \u2009=\u20090.014; HR\u2009=\u20092.49, 95%CI (1.60\u20134.13), P \u2009=\u20090.012; respectively], independent of clinicopathological factors. Additionally, shorter mNND between CD8\u2009+\u2009T cells and their neighboring immunoregulatory cells indicated a stronger interplay network in the microenvironment of NSCLC patients with LNM and was associated with worse prognosis. Furthermore, analysis of CCPS suggested that cancer microvessels (CMVs) and cancer-associated fibroblasts (CAFs) selectively hindered CD8\u2009+\u2009T cells from contacting with cancer cells, and were associated with the dysfunction of CD8\u2009+\u2009T cells. Conclusion Tumor-infiltrating CD8\u2009+\u2009T cells were in a more dysfunctional status and in a more immunosuppressive microenvironment in patients with LNM compared with those without LNM.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Guanqun Yang",
+          "id": ""
+        },
+        {
+          "name": "Siqi Cai",
+          "id": ""
+        },
+        {
+          "name": "Mengyu Hu",
+          "id": ""
+        },
+        {
+          "name": "Chao Li",
+          "id": ""
+        },
+        {
+          "name": "Liying Yang",
+          "id": ""
+        },
+        {
+          "name": "Wei Zhang",
+          "id": ""
+        },
+        {
+          "name": "Jujie Sun",
+          "id": ""
+        },
+        {
+          "name": "F. Sun",
+          "id": ""
+        },
+        {
+          "name": "L. Xing",
+          "id": ""
+        },
+        {
+          "name": "Xiaorong Sun",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Translational Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:258620559",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.397693827784457,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 268413615,
+      "title": "Identification of T-cell exhaustion-related genes and prediction of their immunotherapeutic role in lung adenocarcinoma",
+      "abstract": "Background: Lung adenocarcinoma ranks as the second most widespread form of cancer globally, accompanied by a significant mortality rate. Several studies have shown that T cell exhaustion is associated with immunotherapy of tumours. Consequently, it is essential to comprehend the possible impact of T cell exhaustion on the tumor microenvironment. The purpose of this research was to create a TEX-based model that would use single-cell RNA-seq (scRNA-seq) and bulk-RNA sequencing to explore new possibilities for assessing the prognosis and immunotherapeutic response of LUAD patients. Methods: RNA-seq data from LUAD patients was downloaded from the Cancer Genome Atlas (TCGA) database and the National Center for Biotechnology Information (GEO). 10X scRNA sequencing data, as reported by Bischoff P et al., was utilized for down-sampling clustering and subgroup identification using TSNE. TEX-associated genes were identified through gene set variance analysis (GSVA) and weighted gene correlation network analysis (WGCNA). We utilized LASSO-Cox analysis to establish predicted TEX features. External validation was conducted in GSE31210 and GSE30219 cohorts. Immunotherapeutic response was assessed in IMvigor210, GSE78220, GSE35640 and GSE100797 cohorts. Furthermore, we investigated differences in mutational profiles and immune microenvironment between various risk groups. We then screened TEXRS key regulatory genes using ROC diagnostic curves and KM survival curves. Finally, we verified the differential expression of key regulatory genes through RT-qPCR. Results: Nine TEX genes were identified as highly predictive of LUAD prognosis and strongly correlated with disease outcome. Univariate and multivariate analysis revealed that patients in the low-risk group had significantly better overall survival rates compared with those in the high-risk group, highlighting the model's ability to independently predict LUAD prognosis. Our analysis revealed significant variation in the biological function, mutational landscape, and immune cell infiltration within the tumor microenvironment of both high-risk and low-risk groups. Additionally, immunotherapy was found to have a significant impact on both groups, indicating strong predictive efficacy of the model. Conclusions: The TEX model showed good predictive performance and provided a new perspective for evaluating the efficacy of preimmunization, which provides a new strategy for the future treatment of lung adenocarcinoma.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Chaoqun Lian",
+          "id": ""
+        },
+        {
+          "name": "Feifan Li",
+          "id": ""
+        },
+        {
+          "name": "Yiluo Xie",
+          "id": ""
+        },
+        {
+          "name": "Linxiang Zhang",
+          "id": ""
+        },
+        {
+          "name": "Huili Chen",
+          "id": ""
+        },
+        {
+          "name": "Ziqiang Wang",
+          "id": ""
+        },
+        {
+          "name": "Xinyu Pan",
+          "id": ""
+        },
+        {
+          "name": "Xiaojing Wang",
+          "id": ""
+        },
+        {
+          "name": "Jing Zhang",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:268413615",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3926459612961703,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 258143057,
+      "title": "Single-Cell RNA Sequencing Analysis of Gene Regulatory Network Changes in the Development of Lung Adenocarcinoma",
+      "abstract": "Lung cancer is a highly heterogeneous disease. Cancer cells and other cells within the tumor microenvironment interact to determine disease progression, as well as response to or escape from treatment. Understanding the regulatory relationship between cancer cells and their tumor microenvironment in lung adenocarcinoma is of great significance for exploring the heterogeneity of the tumor microenvironment and its role in the genesis and development of lung adenocarcinoma. This work uses public single-cell transcriptome data (distant normal, nLung; early LUAD, tLung; advanced LUAD, tL/B), to draft a cell map of lung adenocarcinoma from onset to progression, and provide a cell-cell communication view of lung adenocarcinoma in the different disease stages. Based on the analysis of cell populations, it was found that the proportion of macrophages was significantly reduced in the development of lung adenocarcinoma, and patients with lower proportions of macrophages exhibited poor prognosis. We therefore constructed a process to screen an intercellular gene regulatory network that reduces any error generated by single cell communication analysis and increases the credibility of selected cell communication signals. Based on the key regulatory signals in the macrophage-tumor cell regulatory network, we performed a pseudotime analysis of the macrophages and found that signal molecules (TIMP1, VEGFA, SPP1) are highly expressed in immunosuppression-associated macrophages. These molecules were also validated using an independent dataset and were significantly associated with poor prognosis. Our study provides an effective method for screening the key regulatory signals in the tumor microenvironment and the selected signal molecules may serve as a reference to guide the development of diagnostic biomarkers for risk stratification and therapeutic targets for lung adenocarcinoma.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Dongshuo Yu",
+          "id": ""
+        },
+        {
+          "name": "Siwen Zhang",
+          "id": ""
+        },
+        {
+          "name": "Zhenhao Liu",
+          "id": ""
+        },
+        {
+          "name": "Linfeng Xu",
+          "id": ""
+        },
+        {
+          "name": "Lanming Chen",
+          "id": ""
+        },
+        {
+          "name": "Lu Xie",
+          "id": ""
+        }
+      ],
+      "venue": "Biomolecules",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:258143057",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.39230405896800347,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 282793735,
+      "title": "MiR-4664-3p as a potential diagnostic, prognostic, and immunotherapeutic biomarker in NSCLC: modulation of tumor progression through CD8 + T cell regulation",
+      "abstract": "Introduction Non-small cell lung cancer (NSCLC) is one of the leading causes of cancer-related deaths worldwide, largely due to complex interactions within the tumor-immune microenvironment that limit treatment efficacy. MicroRNAs (miRNAs) play critical roles in the regulation of tumor progression and immune evasion. This study systematically evaluated the expression characteristics, clinical significance, and role of miR-4664-3p in tumor immune regulation in NSCLC. Methods We analyzed an NSCLC dataset from The Cancer Genome Atlas (TCGA) and identified miR-4664-3p as a potential diagnostic, prognostic, and immunotherapeutic biomarker. Bioinformatic approaches have been used to assess miRNA expression and clinical significance. The regulatory role of the miR-4664-3p/Protein Kinase C Beta (PRKCB) axis was further examined using correlation analysis, nomogram construction, and experimental validation in cell lines and animal models. Results MiR-4664-3p was significantly upregulated in NSCLC tissues and served as an independent predictor of poor prognosis. Its increased expression was linked to reduced immune cell infiltration and enhanced immune escape. PRKCB was validated as a direct downstream target of miR-4664-3p and showed a positive association with CD8 + T cell infiltration and favorable outcomes. Functional assays confirmed that miR-4664-3p promoted NSCLC cell proliferation, migration, and invasion. Conversely, the inhibition of miR-4664-3p increased PRKCB expression, boosted CD8 + T cell activity, strengthened anti-tumor immunity, and suppressed tumor growth. Conclusion These results suggest that the miR-4664-3p/PRKCB axis is crucial in NSCLC progression and immune modulation. Hence, MiR-4664-3p is a potential diagnostic and prognostic indicator, as well as therapeutic target in immunotherapy strategies for NSCLC.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Chun Yi",
+          "id": ""
+        },
+        {
+          "name": "Hao Zhang",
+          "id": ""
+        },
+        {
+          "name": "Qianqian Guo",
+          "id": ""
+        },
+        {
+          "name": "Linzhu Lu",
+          "id": ""
+        },
+        {
+          "name": "C. Gao",
+          "id": ""
+        },
+        {
+          "name": "Yunlong Zhao",
+          "id": ""
+        },
+        {
+          "name": "Yan Su",
+          "id": ""
+        },
+        {
+          "name": "Jingjing Lu",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:282793735",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.39150941691244756,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 248969834,
+      "title": "Decoding Lung Cancer at Single-Cell Level",
+      "abstract": "Lung cancer is the leading cause of cancer death due to its high degree of malignancy, rapid growth, and early metastasis. Recent studies have found that lung cancer has a high degree of heterogeneity which is characterized by the mixture of different tumor cell types. However, the driving genetic/epigenetic mechanism of lung cancer heterogeneity, how different types of cells interact, and the relationship between heterogeneity and drug resistance have been poorly understood. Single-cell technology can decompose high throughput sequencing information into each cell and provide single-cell information in high resolution. By using single-cell analysis, researchers can not only fully understand the molecular characteristics of different cell types in the same tissue, but also define completely new cell types. Thus, single-cell analysis has been widely utilized in systems biology, drug discovery, disease diagnosis and precision medicine. We review recent exploration of the mechanism of heterogeneity, tumor microenvironment and drug resistance in lung cancer by using single-cell analysis. We propose that the recent findings may pave new ways for the treatment strategies of lung cancer.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Xing-Xing Fan",
+          "id": ""
+        },
+        {
+          "name": "Qiang Wu",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:248969834",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.39061473972016947,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 289864795,
+      "title": "Single-Cell Pan-Cancer Atlas Reveals GPR171 as a Candidate Marker of CD8+ T-Cell Dysfunction",
+      "abstract": "CD8+ T-cell exhaustion is a key mechanism of tumor immune evasion and a major limitation of current cancer immunotherapy. However, the molecular factors sustaining dysfunctional CD8+ T-cell states across cancers are not fully understood. Here, we identify GPR171 as a common feature of exhausted CD8+ T cells across multiple solid tumors based on integrated pan-cancer single-cell transcriptomic analyses. GPR171 is enriched in exhausted CD8+ T cells and is closely associated with immunosuppressive and exhaustion-related gene programs. It also shows a strong association with key immune regulatory genes such as CTLA4 and NR4A2. Functional analyses suggest that reduced GPR171 activity is associated with decreased expression of exhaustion-related genes and a shift toward cytotoxic and immune-activating programs. In parallel, a CREM-centered regulatory network emerges in exhausted CD8+ T cells and may act in concert with GPR171-associated programs to reinforce dysfunctional states. Overall, our results identify GPR171 as a candidate marker of CD8+ T-cell dysfunction across cancers and provide a systematic pan-cancer single-cell characterization of its association with immunosuppressive T-cell states, supporting its potential as a therapeutic target for restoring antitumor immunity.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Xinyu Pan",
+          "id": ""
+        },
+        {
+          "name": "Ao Zhang",
+          "id": ""
+        },
+        {
+          "name": "Yuanyan Xiong",
+          "id": ""
+        }
+      ],
+      "venue": "International Journal of Molecular Sciences",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:289864795",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3903737031904762,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 285199141,
+      "title": "T cell immunotherapy for solid tumors: limitations, progress, and future prospects",
+      "abstract": "T cell-based immunotherapies have achieved notable success in the treatment of hematological malignancies, particularly through the application of chimeric antigen receptor (CAR) T cells. However, the clinical efficacy of such approaches in solid tumors remains limited due to a range of intrinsic and extrinsic barriers, including tumor antigen heterogeneity, the immunosuppressive tumor microenvironment (TME), and insufficient T cell infiltration and persistence. Despite these challenges, significant advances have been made in recent years in the development of CAR-T cells, T cell receptor-engineered T cells (TCR-T), and tumor-infiltrating lymphocytes (TILs) for solid tumors. This review provides a comprehensive overview of the current landscape of T cell immunotherapies targeting solid tumors. We examine the underlying mechanisms and design principles of each therapeutic modality and summarize the clinical progress in a tumor-specific context. Particular attention is given to the biological and technical challenges that impede treatment efficacy, including antigen escape, on-target off-tumor toxicity, and the suppressive features of the TME. Furthermore, we discuss emerging strategies aimed at overcoming these obstacles, such as combinatorial antigen targeting, immune checkpoint blockade, synthetic biology tools, and gene editing technologies. Finally, we outline future perspectives in the field, emphasizing the importance of precision immunotherapy and the integration of multi-omics data to enhance T cell functionality and specificity. This review aims to inform ongoing research and guide the clinical translation of T cell-based therapies for solid tumors.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Yinuo Wang",
+          "id": ""
+        },
+        {
+          "name": "Boyu Zhang",
+          "id": ""
+        },
+        {
+          "name": "Yajie Wang",
+          "id": ""
+        },
+        {
+          "name": "Y. Tan",
+          "id": ""
+        },
+        {
+          "name": "Xiaoqian Hu",
+          "id": ""
+        },
+        {
+          "name": "Xuan Che",
+          "id": ""
+        },
+        {
+          "name": "Mei Feng",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:285199141",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.38842282429604824,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 257024015,
+      "title": "NLRC3 is a potential prognostic biomarker that is correlated with immune cell infiltration in lung adenocarcinoma",
+      "abstract": "The NLR family CARD domain containing 3 ( NLRC3 ) gene has been reported to have a crucial effect on immunity, inflammation, and tumorigenesis. However, the clinical relevance of NLRC3 in lung adenocarcinoma (LUAD) remains unclear. This study analyzed both RNA sequencing data and corresponding clinical outcomes obtained from public databases to identify (i) NLRC3 as a tumor suppressor in LUAD and (ii) its predictive value for the likelihood of patient responsiveness to immunotherapy. The results showed that NLRC3 expression was reduced in LUAD and was lower in advanced-stage tumors. Additionally, reduced NLRC3 expression was correlated with worse patient prognosis. The protein level of NLRC3 was also observed to have prognostic significance. Moreover, downregulation of NLRC3 was found to suppress the chemotaxis and infiltration of antitumor lymphocyte subpopulations as well as natural killer cells. Mechanistic analysis indicated that NLRC3 may be involved in immune infiltration by regulating chemokines and their receptors in LUAD. Furthermore, NLRC3 functions as a molecular switch in macrophages, whereby it mediates the polarization of M1 macrophages. Patients with high NLRC3 expression were also found to exhibit a more promising response to immunotherapy. In conclusion, NLRC3 could serve as a potential prognostic biomarker for LUAD, help predict the immunotherapeutic response of patients, and guide personalized strategies for the treatment of LUAD.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Yingchen Zhuo",
+          "id": ""
+        },
+        {
+          "name": "Xueqian Li",
+          "id": ""
+        },
+        {
+          "name": "Weiyi Feng",
+          "id": ""
+        }
+      ],
+      "venue": "Scientific Reports",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:257024015",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3869084941400831,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 259996896,
+      "title": "Single-cell characterization of pulmonary nodules implicates suppression of immunosurveillance across early stages of lung adenocarcinoma",
+      "abstract": "A greater understanding of molecular, cellular, and immunological changes during the early stages of lung adenocarcinoma development could improve diagnostic and therapeutic approaches in patients with pulmonary nodules at risk for lung cancer. To elucidate the immunopathogenesis of early lung tumorigenesis, we evaluated surgically resected pulmonary nodules representing the spectrum of early lung adenocarcinoma as well as associated normal lung tissues utilizing single-cell RNA sequencing and validated the results by flow cytometry and multiplex immunofluorescence. Single-cell transcriptomics revealed a significant decrease in gene expression associated with cytolytic activities of tumor-infiltrating natural killer and natural killer T cells. This was accompanied by a reduction in effector T cells and an increase of CD4+ regulatory T cells in subsolid nodules. An independent set of resected pulmonary nodules consisting of both adenocarcinomas and associated premalignant lesions corroborated the early increment of regulatory T cells in premalignant lesions compared to the associated normal lung tissues by multiplex immunofluorescence. Gene expression analysis indicated that cancer-associated alveolar type 2 cells and fibroblasts may contribute to the deregulation of the extracellular matrix, potentially affecting immune infiltration in subsolid nodules through ligand-receptor interactions. These findings suggest that there is a suppression of immune surveillance across the spectrum of early-stage lung adenocarcinoma. Statement of significance: Analysis of a spectrum of subsolid pulmonary nodules by single-cell RNA-sequencing provides insights into the immune regulation and cell-cell interactions in the tumor microenvironment during early lung tumor development.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "J. Yanagawa",
+          "id": ""
+        },
+        {
+          "name": "L. Tran",
+          "id": ""
+        },
+        {
+          "name": "R. Salehi-Rad",
+          "id": ""
+        },
+        {
+          "name": "R. Lim",
+          "id": ""
+        },
+        {
+          "name": "C. Dumitras",
+          "id": ""
+        },
+        {
+          "name": "E. Fung",
+          "id": ""
+        },
+        {
+          "name": "W. Wallace",
+          "id": ""
+        },
+        {
+          "name": "A. Prosper",
+          "id": ""
+        },
+        {
+          "name": "G. Fishbein",
+          "id": ""
+        },
+        {
+          "name": "C. Shea",
+          "id": ""
+        },
+        {
+          "name": "R. Hong",
+          "id": ""
+        },
+        {
+          "name": "B. Kahangi",
+          "id": ""
+        },
+        {
+          "name": "John Z Deng",
+          "id": ""
+        },
+        {
+          "name": "A. Gower",
+          "id": ""
+        },
+        {
+          "name": "Bin Liu",
+          "id": ""
+        },
+        {
+          "name": "J. D. Campbell",
+          "id": ""
+        },
+        {
+          "name": "Sarah A. Mazzilli",
+          "id": ""
+        },
+        {
+          "name": "J. Beane",
+          "id": ""
+        },
+        {
+          "name": "H. Kadara",
+          "id": ""
+        },
+        {
+          "name": "M. Lenburg",
+          "id": ""
+        },
+        {
+          "name": "A. Spira",
+          "id": ""
+        },
+        {
+          "name": "D. Aberle",
+          "id": ""
+        },
+        {
+          "name": "K. Krysan",
+          "id": ""
+        },
+        {
+          "name": "S. Dubinett",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Research",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:259996896",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.38641034636243615,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 243957503,
+      "title": "Exposure to Tobacco Smoking Induces a subset of Activated Tumor-resident Tregs in Non-Small Cell Lung Cancer",
+      "abstract": "Highlights \u2022 Tumor-specific smoking-induced differentially expressed genes are different in male and female patients.\u2022 A smoking-related tumor-specific Treg subset is defined, highly expressed ADAM12.\u2022 ADAM12+ CTLA4+ Tregs actively communicated with exhausted T cells than other Tregs.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Yudi Hu",
+          "id": ""
+        },
+        {
+          "name": "Chaoqun Xu",
+          "id": ""
+        },
+        {
+          "name": "Junkai Ren",
+          "id": ""
+        },
+        {
+          "name": "Yuanyuan Zeng",
+          "id": ""
+        },
+        {
+          "name": "F. Cao",
+          "id": ""
+        },
+        {
+          "name": "Hongkun Fang",
+          "id": ""
+        },
+        {
+          "name": "Guo Jintao",
+          "id": ""
+        },
+        {
+          "name": "Ying Zhou",
+          "id": ""
+        },
+        {
+          "name": "Qiyuan Li",
+          "id": ""
+        }
+      ],
+      "venue": "Translational Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:243957503",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.38588682720498435,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 276112796,
+      "title": "Targeting HVEM-GPT2 axis: a novel approach to T cell activation and metabolic reprogramming in non-small cell lung cancer therapy",
+      "abstract": "The modulation of tumor microenvironments through immune checkpoint pathways is pivotal for the development of effective cancer immunotherapies. This study aims to explore the role of HVEM in non-small cell lung cancer (NSCLC) microenvironment. The lung cancer datasets for this study were directly downloaded from The Cancer Genome Atlas (TCGA). Single-cell data were sourced from the Tumor Immune Single-cell Hub (TISCH). Multiplex immunohistochemistry (mIHC) was used to explore the cellular composition and spatial distribution of HVEM in lung cancer immune microenvironment. The immune microenvironment of HVEM KO mice bearing mouse lung cancer cell was also evaluated. Co-cultured system and phenotype assays facilitated the examination of Jurkat T cells\u2019 effect on A549 and H1299 lung cancer cells. Quantitative PCR and Western blotting determined gene and protein expression, respectively, cellular respiration was measured through oxygen consumption rate (OCR) assays. Lung cancer cells co-cultured with Jurkat T cells were xenografted into nude mice to evaluate tumor growth and metastatic potential. Next, RNA-seq, COIP, Dual-luciferase reporter experiment, and CHIP-seq were used to explore the potential underlying mechanism. In our study, we investigated the role of HVEM in the microenvironment of NSCLC and its implications in immunotherapy. Crucially, HVEM, part of the tumor necrosis factor receptor superfamily, influences T cell activation, potentially impacting immunotherapeutic outcomes. Using the TIDE algorithm, our results showcased a link between HVEM levels and immune dysfunction in NSCLC patients. Delving deeper into the NSCLC microenvironment, we found HVEM predominantly expressed in T cell subpopulations. CD8\u2009+\u2009HVEM\u2009+\u2009and CD4\u2009+\u2009HVEM\u2009+\u2009indicated better prognosis in lung adenocarcinoma tissue microarray using multiplex immunohistochemistry. Activated T cells, particularly from the Jurkat cell line, significantly inhibited NSCLC progression, reducing both proliferation and invasion capabilities of A549 and H1299 lung cancer cell lines. In vivo models reinforced these observations. Manipulating HVEM expression revealed its essential role in T cell survival and activation. In addition, animal experiments revealed the importance of HVEM in maintaining activated peripheral immunity and inflamed local tumor microenvironment. Furthermore, our data suggest that HVEM is pivotal in T cell metabolic reprogramming, transitioning from oxidative phosphorylation to aerobic glycolysis. RNA sequencing illuminated a potential relationship between HVEM and GPT2, an enzyme tied to amino acid metabolism and cellular energetics. Subsequent experiments confirmed that HVEM\u2019s influence on T cell activation and metabolism is potentially mediated through its regulation of GPT2. In addition, GATA1 was validated to regulate HVEM expression in activated Jurkat T cells. Our study establishes that HVEM significantly influences T cell functionality and NSCLC cell dynamics, pinpointing the HVEM-GPT2 axis as a promising target for NSCLC therapy.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Yuanshan Yao",
+          "id": ""
+        },
+        {
+          "name": "Chunji Chen",
+          "id": ""
+        },
+        {
+          "name": "Bin Li",
+          "id": ""
+        },
+        {
+          "name": "Wen Gao",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Immunology and Immunotherapy",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:276112796",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3856034567569392,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 3599917,
+      "title": "Mutations in DNA repair genes are associated with increased neo-antigen load and activated T cell infiltration in lung adenocarcinoma",
+      "abstract": "Mutations in DNA repair genes lead to increased genomic instability and mutation frequency. These mutations represent potential biomarkers for cancer immunotherapy efficacy, as high tumor mutational burden has been associated with increased neo-antigens and tumor infiltrating lymphocytes. While mismatch repair mutations have successfully predicted response to anti-PD-1 therapy in colorectal and other cancers, they have not yet been tested for lung cancer, and few have investigated genes from other DNA repair pathways. We utilized TCGA samples to comprehensively immunophenotype lung tumors and analyze the links between DNA repair mutations, neo-antigen and total mutational burden, and tumor immune infiltration. Overall, 73% of lung tumors contained infiltration by at least one T cell subset, with high mutational burden tumors containing significantly increased infiltration by activated CD4 and CD8 T cells. Further, mutations in mismatch repair genes, homologous recombination genes, or POLE accurately predicted increased tumor mutational burden, neo-antigen load, and T cell infiltration. Finally, neo-antigen load correlated with expression of M1-polarized macrophage genes, PD-1, PD-L1, IFN\u03b3, GZMB, and FASLG, among other immune-related genes. Overall, after defining the immune infiltrate in lung tumors, we demonstrate the potential value of utilizing gene mutations from multiple DNA repair pathways as biomarkers for lung cancer immunotherapy.",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Y. Chae",
+          "id": ""
+        },
+        {
+          "name": "J. Anker",
+          "id": ""
+        },
+        {
+          "name": "P. Bais",
+          "id": ""
+        },
+        {
+          "name": "Sandeep Namburi",
+          "id": ""
+        },
+        {
+          "name": "F. Giles",
+          "id": ""
+        },
+        {
+          "name": "Jeffrey H. Chuang",
+          "id": ""
+        }
+      ],
+      "venue": "OncoTarget",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:3599917",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3854467751496151,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 276989363,
+      "title": "Artificial intelligence-driven integration of single-cell RNA sequencing and transcriptome analysis to decipher APOE\u2019s role in gastric cancer prognosis and therapy",
+      "abstract": "Gastric cancer (GC) remains a global health challenge due to its high mortality rate and the lack of specific diagnostic methods. Tumor heterogeneity significantly hinders effective treatment, necessitating advanced techniques to dissect its complexity. Artificial intelligence (AI) offers transformative potential in uncovering intricate cellular dynamics and gene regulatory networks. This study leverages single-cell RNA sequencing (scRNA-seq) combined with transcriptome analysis, enhanced by AI-driven analytics, to explore the tumor microenvironment and identify novel prognostic markers and therapeutic targets in GC. scRNA-seq and transcriptome datasets of GC patients were analyzed using AI-enhanced methodologies to unravel tumor heterogeneity and microenvironmental dynamics. Macrophage subsets were identified as critical components within the GC microenvironment. High-variance gene screening in these subsets pinpointed apolipoprotein E (APOE) as a hub gene. Experimental validation of APOE expression in GC samples and functional studies in GC cell lines were conducted. Bioinformatics and AI-enabled analyses confirmed the immunosuppressive role of APOE in GC. An immune-related survival model was developed to predict immunotherapy responses and patient prognoses. Mechanistically, APOE was found to induce immunosuppression through M2 macrophage polarization, promoting tumor progression and leading to poorer outcomes in GC patients. This study highlights the potential of AI-driven approaches in elucidating the role of APOE in GC progression. APOE\u2019s regulatory effects on M2 macrophages underscore its value as a prognostic marker and therapeutic target, paving the way for precision medicine in GC management.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Ni Li",
+          "id": ""
+        },
+        {
+          "name": "Jinquan Lin",
+          "id": ""
+        },
+        {
+          "name": "Chunyu Wang",
+          "id": ""
+        },
+        {
+          "name": "Xiaomin Ran",
+          "id": ""
+        },
+        {
+          "name": "Zhi Zhao",
+          "id": ""
+        }
+      ],
+      "venue": "Discover Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:276989363",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.38414038574121645,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 265668442,
+      "title": "Non-Coding RNAs: Foes or Friends for Targeting Tumor Microenvironment",
+      "abstract": "Non-coding RNAs (ncRNAs) are a group of molecules critical for cell development and growth regulation. They are key regulators of important cellular pathways in the tumor microenvironment. To analyze ncRNAs in the tumor microenvironment, the use of RNA sequencing technology has revolutionized the field. The advancement of this technique has broadened our understanding of the molecular biology of cancer, presenting abundant possibilities for the exploration of novel biomarkers for cancer treatment. In this review, we will summarize recent achievements in understanding the complex role of ncRNA in the tumor microenvironment, we will report the latest studies on the tumor microenvironment using RNA sequencing, and we will discuss the potential use of ncRNAs as therapeutics for the treatment of cancer.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "A. Szymanowska",
+          "id": ""
+        },
+        {
+          "name": "Cristian Rodr\u00edguez-Aguayo",
+          "id": ""
+        },
+        {
+          "name": "G. Lopez-Berestein",
+          "id": ""
+        },
+        {
+          "name": "P. Amero",
+          "id": ""
+        }
+      ],
+      "venue": "Non-Coding RNA",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:265668442",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3837785465267994,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 272992041,
+      "title": "Single\u2010cell multi\u2010omics reveals tumor microenvironment factors underlying poor immunotherapy responses in ALK\u2010positive lung cancer",
+      "abstract": "Anaplastic lymphoma kinase (ALK) rearrangement is a major oncogenic driver in non-small cell lung cancer (NSCLC). While ALK tyrosine kinase inhibitors have shown promising therapeutic effects, overcoming resistance with immunotherapy becomes necessary when resistance develops. However, various clinical trials have revealed that their efficacies remain limited. To investigate the tumor microenvironment (TME) factors contributing to poor immune checkpoint blockade responses in ALK-positive patients, we performed single-cell RNA and ATAC sequencing on lung adenocarcinoma (LUAD) tumors with and without ALK rearrangements. Integrative analysis with additional public LUAD cohorts revealed distinct immune landscapes in ALK-positive tumors, marked by enriched innate immunity and depleted adaptive immunity. ALK-positive malignant cells exhibit higher stemness and aggressive phenotype. Tumor-associated macrophages (TAMs) in these tumors predominantly maintain pro-tumoral M2-like states, reinforcing immune suppression. B cells show reduced immune reactivity and impaired tertiary lymphoid structure formation, while CD8+ T cells display bystander-like signatures and reduced tumor reactivity. Single-cell chromatin accessibility profiles combined with regulatory network analysis suggest that differences in transcription factor activities, rather than chromatin accessibility, may underlie T cell dysfunction. These findings provide insights into the immunosuppressive TME of ALK-positive LUAD, potentially explaining the failure of recent immunotherapy trials and highlighting targets for improving efficacy.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "S. Baek",
+          "id": ""
+        },
+        {
+          "name": "Euijeong Sung",
+          "id": ""
+        },
+        {
+          "name": "Gamin Kim",
+          "id": ""
+        },
+        {
+          "name": "M. Hong",
+          "id": ""
+        },
+        {
+          "name": "Chang Young Lee",
+          "id": ""
+        },
+        {
+          "name": "H. Shim",
+          "id": ""
+        },
+        {
+          "name": "Seong Yong Park",
+          "id": ""
+        },
+        {
+          "name": "Hye Ryun Kim",
+          "id": ""
+        },
+        {
+          "name": "Insuk Lee",
+          "id": ""
+        }
+      ],
+      "venue": "bioRxiv",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:272992041",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3833230546291351,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    }
+  ],
+  "thread_id": null,
+  "narrative": null
+}

@@ -1,0 +1,3231 @@
+{
+  "query": "LAG3 biology in cancer: ligands FGL1 and MHC class II, distinction between T-cell activation and exhaustion, and LAG3 as a marker on tumor-infiltrating lymphocytes in lung adenocarcinoma.",
+  "results": [
+    {
+      "corpusId": 245987099,
+      "title": "Immune Checkpoint LAG3 and Its Ligand FGL1 in Cancer",
+      "abstract": "LAG3 is the most promising immune checkpoint next to PD-1 and CTLA-4. High LAG3 and FGL1 expression boosts tumor growth by inhibiting the immune microenvironment. This review comprises four sections presenting the structure/expression, interaction, biological effects, and clinical application of LAG3/FGL1. D1 and D2 of LAG3 and FD of FGL1 are the LAG3-FGL1 interaction domains. LAG3 accumulates on the surface of lymphocytes in various tumors, but is also found in the cytoplasm in non-small cell lung cancer (NSCLC) cells. FGL1 is found in the cytoplasm in NSCLC cells and on the surface of breast cancer cells. The LAG3-FGL1 interaction mechanism remains unclear, and the intracellular signals require elucidation. LAG3/FGL1 activity is associated with immune cell infiltration, proliferation, and secretion. Cytokine production is enhanced when LAG3/FGL1 are co-expressed with PD-1. IMP321 and relatlimab are promising monoclonal antibodies targeting LAG3 in melanoma. The clinical use of anti-FGL1 antibodies has not been reported. Finally, high FGL1 and LAG3 expression induces EGFR-TKI and gefitinib resistance, and anti-PD-1 therapy resistance, respectively. We present a comprehensive overview of the role of LAG3/FGL1 in cancer, suggesting novel anti-tumor therapy strategies.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Anqi Shi",
+          "id": ""
+        },
+        {
+          "name": "Xiyang Tang",
+          "id": ""
+        },
+        {
+          "name": "Y. Xiong",
+          "id": ""
+        },
+        {
+          "name": "Kaifeng Zheng",
+          "id": ""
+        },
+        {
+          "name": "Yu-Jian Liu",
+          "id": ""
+        },
+        {
+          "name": "Xianpeng Shi",
+          "id": ""
+        },
+        {
+          "name": "Yao Lv",
+          "id": ""
+        },
+        {
+          "name": "Tao Jiang",
+          "id": ""
+        },
+        {
+          "name": "N. Ma",
+          "id": ""
+        },
+        {
+          "name": "Jinbo Zhao",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:245987099",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.7662150423654064,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 266743866,
+      "title": "Mechanisms of immune checkpoint inhibitors: insights into the regulation of circular RNAS involved in cancer hallmarks",
+      "abstract": "Current treatment strategies for cancer, especially advanced cancer, are limited and unsatisfactory. One of the most substantial advances in cancer therapy, in the last decades, was the discovery of a new layer of immunotherapy approach, immune checkpoint inhibitors (ICIs), which can specifically activate immune cells by targeting immune checkpoints. Immune checkpoints are a type of immunosuppressive molecules expressed on immune cells, which can regulate the degree of immune activation and avoid autoimmune responses. ICIs, such as anti-PD-1/PD-L1 drugs, has shown inspiring efficacy and broad applicability across various cancers. Unfortunately, not all cancer patients benefit remarkably from ICIs, and the overall response rates to ICIs remain relatively low for most cancer types. Moreover, the primary and acquired resistance to ICIs pose serious challenges to the clinical application of cancer immunotherapy. Thus, a deeper understanding of the molecular biological properties and regulatory mechanisms of immune checkpoints is urgently needed to improve clinical options fo r current therapies. Recently, circular RNAs (circRNAs) have attracted increasing attention, not only due to their involvement in various aspects of cancer hallmarks, but also for their impact on immune checkpoints in shaping the tumor immune microenvironment. In this review, we systematically summarize the current status of immune checkpoints in cancer and the existing regulatory roles of circRNAs on immune checkpoints. Meanwhile, we also aim to settle the issue in an evidence-oriented manner that circRNAs involved in cancer hallmarks regulate the effects and resistance of ICIs by targeting immune checkpoints.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "L. Meng",
+          "id": ""
+        },
+        {
+          "name": "Haotian Wu",
+          "id": ""
+        },
+        {
+          "name": "Jiaxiang Wu",
+          "id": ""
+        },
+        {
+          "name": "P. Ding",
+          "id": ""
+        },
+        {
+          "name": "Jinchen He",
+          "id": ""
+        },
+        {
+          "name": "Meixiang Sang",
+          "id": ""
+        },
+        {
+          "name": "Lihua Liu",
+          "id": ""
+        }
+      ],
+      "venue": "Cell Death and Disease",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:266743866",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.75674252594494,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 204754252,
+      "title": "The Rise of NK Cell Checkpoints as Promising Therapeutic Targets in Cancer Immunotherapy",
+      "abstract": "Checkpoint immunotherapy that targets inhibitory receptors of T cells, thereby reversing the functional exhaustion of T cells, marks a breakthrough in anticancer therapy. The success of T cell-directed checkpoint inhibitors of CTLA-4 and PD-1/PD-L1 has opened a new approach for cancer immunotherapy and resulted in extensive research on immune checkpoints. However, it is only in recent years that research on NK cell exhaustion and potential checkpoints impacting NK cells has become popular. NK cells, as the major player in innate immunity, are critical for immune surveillance, particularly the control of metastasis and hematological cancers. The balance between activating and inhibitory signals fine tunes the activation and effector functions of NK cells, and transformed cells modulate NK cells by upregulating negative signaling that \u201cexhausts\u201d NK cells. Exhausted NK cells with excessive expression of inhibitory receptors (checkpoint molecules) are impaired in the recognition of tumor cells as well as antitumor cytotoxicity and cytokine secretion. Therefore, an understanding of the potential checkpoint molecules involved in NK cell exhaustion is particularly important in terms of NK cell-targeted cancer immunotherapy. In this review, we summarize recent advances in NK cell checkpoint inhibitors and their progress in clinical trials. Moreover, we highlight some of the latest findings in fundamental NK cell receptor biology and propose potential NK cell checkpoint molecules for future immunotherapeutic applications.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Haoyu Sun",
+          "id": ""
+        },
+        {
+          "name": "Cheng-song Sun",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:204754252",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.7492185752997953,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 266394222,
+      "title": "Development of LAG-3/FGL1 blocking peptide and combination with radiotherapy for cancer immunotherapy",
+      "abstract": "Aside from antibodies, peptides show great potential as immune checkpoint inhibitors (ICIs) due to several advantages, such as better tumor penetration and lower cost. Lymphocyte-activation gene 3 (LAG-3) is an immune checkpoint which can induce T cell dysfunction through interaction with its soluble ligand fibrinogen like protein-1 (FGL1). Here, we found that LAG-3 expression was higher than programmed cell death protein 1 (PD-1) in multiple human cancers by TCGA databases, and successfully identified a LAG-3 binding peptide LFP-6 by phage display bio-panning, which specifically blocks the interaction of LAG-3/FGL1 but not LAG-3/MHC-II. Subsequently, d-amino acids were introduced to substitute the N- and C-terminus of LFP-6 to obtain the proteolysis-resistant peptide LFP-D1, which restores T cell function in vitro and inhibits tumor growth in vivo. Further, a bispecific peptide LFOP targeting both PD-1/PD-L1 and LAG-3/FGL1 was designed by conjugating LFP-D1 with PD-1/PD-L1 blocking peptide OPBP-1(8\u201312), which activates T cell with enhanced proliferation and IFN-\u03b3 production. More importantly, LFOP combined with radiotherapy significantly improve the T cell infiltration in tumor and elevate systemic antitumor immune response. In conclusion, we developed a novel peptide blocking LAG-3/FGL1 which can restore T cell function, and the bispecific peptide synergizes with radiotherapy to further enhance the antitumor immune response.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Yuzhen Qian",
+          "id": ""
+        },
+        {
+          "name": "Yixuan Sun",
+          "id": ""
+        },
+        {
+          "name": "Peishang Shi",
+          "id": ""
+        },
+        {
+          "name": "Xiuman Zhou",
+          "id": ""
+        },
+        {
+          "name": "Qiongqiong Zhang",
+          "id": ""
+        },
+        {
+          "name": "Qingyu Dong",
+          "id": ""
+        },
+        {
+          "name": "Shengzhe Jin",
+          "id": ""
+        },
+        {
+          "name": "L. Qiu",
+          "id": ""
+        },
+        {
+          "name": "X. Niu",
+          "id": ""
+        },
+        {
+          "name": "Xiaowen Zhou",
+          "id": ""
+        },
+        {
+          "name": "Wenshan Zhao",
+          "id": ""
+        },
+        {
+          "name": "Yahong Wu",
+          "id": ""
+        },
+        {
+          "name": "Wenjie Zhai",
+          "id": ""
+        },
+        {
+          "name": "Yanfeng Gao",
+          "id": ""
+        }
+      ],
+      "venue": "Acta Pharmaceutica Sinica B",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:266394222",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.74693174420292,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 219971449,
+      "title": "Targeting NK Cell Checkpoint Receptors or Molecules for Cancer Immunotherapy",
+      "abstract": "Checkpoint blockade therapy, for example using antibodies against CTLA-4 and PD-1/PD-L1, relieves T cells from the suppression by inhibitory checkpoints in the tumor microenvironment; thereby achieving good outcomes in the treatment of different cancer types. Like T cells, natural killer (NK) cell inhibitory receptors function as checkpoints for NK cell activation. Upon interaction with their cognate ligands on infected cells, tumor cells, dendritic cells and regulatory T cells, signals from these receptors severely affect NK cells' activation and effector functions, resulting in NK cell exhaustion. Checkpoint inhibition with antagonistic antibodies (Abs) can rescue NK cell exhaustion and arouse their robust anti-tumor capacity. Most notably, the response to anti-PD-1 therapy can be enhanced by the increased frequency and activation of NK cells, thereby increasing the overall survival of patients with multiple types of cancer. In addition, rescue of NK cell activity could enhance adaptive T cells' anti-tumor activity. Some antagonistic Abs (e.g., anti-TIGIT and anti-NKG2A monoclonal Abs) have extraordinary potential in cancer therapy, as evidenced by their induction of potent anti-tumor immunity through recovering both NK and T cell function. In this review, we summarize the dysfunction of NK cells in the tumor microenvironment and the key NK cell checkpoint receptors or molecules that control NK cell function. We particularly focus on recent advances in the most promising strategies through blockade of NK cell checkpoints or their combination with other approaches to more effectively reject tumors.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Cai Zhang",
+          "id": ""
+        },
+        {
+          "name": "Yuxia Liu",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:219971449",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.745121850545057,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 253293015,
+      "title": "The Proliferative Role of Immune Checkpoints in Tumors: Double Regulation",
+      "abstract": "Simple Summary Cancer remains a serious health problem owing to its high morbidity and mortality. Immunotherapy, represented by anti-programmed death-1D1/anti-PD-Ligand 1 treatments, has become one of the most important methods for cancer treatment. However, there are still some challenges in this method such as low response rate, limited therapeutic targets, and unclear underlying molecular mechanisms of immune checkpoints. Thus, in this review, we aim to focus on the proliferative role of fifteen immune checkpoints that occur in various tumors. This has provided more clarity on the functions and mechanisms of immune checkpoints in tumors, especially on their proliferation role. This may provide better insights in developing more therapeutic targets and strategies in tumor immunotherapy. Abstract Cancer remains a serious social health problem, and immunotherapy has become the major treatments in tumor treatment. Additionally, improving the efficiency and safety of treatment is necessary. Further, more therapy targets are warranted for future tumor treatments. In this review, in addition to examining the currently recognized role of immune regulation, we focus on the proliferative role of 15 immune checkpoints in various tumors, including PD1, PD-L1, FGL1, CD155, CD47, SIRP\u03b1, CD276, IDO1, SIGLEC-15, TIM3, Galectin-9, CD70, CD27, 4-1BBL, and HVEM. We managed to conclude that various immune checkpoints such as PD1/PD-L1, FGL1, CD155, CD47/SIRP\u03b1, CD276, and SIGLEC-15 all regulate the cell cycle, and specifically through Cyclin D1 regulation. Furthermore, a variety of signal pathways engage in proliferation regulation, such as P13K, AKT, mTOR, and NK-\u03baB, which are also the most common pathways involved in the regulation of immune checkpoint proliferation. Currently, only PD1/PD-L1, CD47/SIRP\u03b1, TIM3/Galectin-9, and CD70/CD27 checkpoints have been shown to interact with each other to regulate tumor proliferation in pairs. However, for other immune checkpoints, the role of their receptors or ligands in tumor proliferation regulation is still unknown, and we consider the enormous potential in this area. An increasing number of studies have validated the various role of immune checkpoints in tumors, and based on this literature review, we found that most of the immune checkpoints play a dual regulatory role in immunity and proliferation. Therefore, the related pathways in proliferation regulation can served the role of therapy targets in tumor therapy. Further, great potential is displayed by IDO1, SIGLEC-15, 4-1BBL, and HVEM in tumor proliferation regulation, which may become novel therapy targets in tumor treatment.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Xiyang Tang",
+          "id": ""
+        },
+        {
+          "name": "Zhonghu Luo",
+          "id": ""
+        },
+        {
+          "name": "Yanyan Xiong",
+          "id": ""
+        },
+        {
+          "name": "Jie Yang",
+          "id": ""
+        },
+        {
+          "name": "Anqi Shi",
+          "id": ""
+        },
+        {
+          "name": "Kai-Fu Zheng",
+          "id": ""
+        },
+        {
+          "name": "Yujian Liu",
+          "id": ""
+        },
+        {
+          "name": "Chen Shu",
+          "id": ""
+        },
+        {
+          "name": "N. Ma",
+          "id": ""
+        },
+        {
+          "name": "Q. Lu",
+          "id": ""
+        },
+        {
+          "name": "Jinbo Zhao",
+          "id": ""
+        }
+      ],
+      "venue": "Cancers",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:253293015",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.7431303720991863,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 278121060,
+      "title": "New Therapeutic Targets TIGIT, LAG-3 and TIM-3 in the Treatment of Advanced, Non-Small-Cell Lung Cancer",
+      "abstract": "The introduction of immunotherapy and target therapy into clinical practice has become a chance for many patients with cancer to prolong their survival while maintaining optimal quality of life. Treatment of lung cancer is excellent evidence of the progress of medical therapies. An understanding of the mechanisms of tumor development has led to the evolution of new methods of treatment. Immunoreceptors of T cells with the immunoglobulin domain ITIM, TIM-3 (T-cell immunoglobulin- and mucin domain-3-containing molecule 3), and LAG-3 (lymphocyte activation gene-3) represent new interesting therapeutic targets. The combination of anti-PD-1 and anti-CTLA-4 blockade has proven the possibility of strengthening the anti-tumor response by acting via two separate mechanisms. Adding additional checkpoints to the PD-1 blockade offers hope for further improvements in the effects of the treatment of patients and expanding the group responding to immunotherapy. This paper presents new promising molecular targets along with studies demonstrating the treatment results using them.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Jacek Kabut",
+          "id": ""
+        },
+        {
+          "name": "Anita Gorzelak-Magiera",
+          "id": ""
+        },
+        {
+          "name": "Iwona Gisterek-Grocholska",
+          "id": ""
+        }
+      ],
+      "venue": "International Journal of Molecular Sciences",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:278121060",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.7428281743250691,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 267552192,
+      "title": "NSCLC: from tumorigenesis, immune checkpoint misuse to current and future targeted therapy",
+      "abstract": "Non-small cell lung cancer (NSCLC) is largely promoted by a multistep tumorigenesis process involving various genetic and epigenetic alterations, which essentially contribute to the high incidence of mortality among patients with NSCLC. Clinical observations revealed that NSCLC also co-opts a multifaceted immune checkpoint dysregulation as an important driving factor in NSCLC progression and development. For example, a deregulated PI3K/AKT/mTOR pathway has been noticed in 50-70% of NSCLC cases, primarily modulated by mutations in key oncogenes such as ALK, EGFR, KRAS, and others. Additionally, genetic association studies containing patient-specific factors and local reimbursement criteria expose/reveal mutations in EGFR/ALK/ROS/BRAF/KRAS/PD-L1 proteins to determine the suitability of available immunotherapy or tyrosine kinase inhibitor therapy. Thus, the expression of such checkpoints on tumors and immune cells is pivotal in understanding the therapeutic efficacy and has been extensively studied for NSCLC treatments. Therefore, this review summarizes current knowledge in NSCLC tumorigenesis, focusing on its genetic and epigenetic intricacies, immune checkpoint dysregulation, and the evolving landscape of targeted therapies. In the context of current and future therapies, we emphasize the significance of antibodies targeting PD-1/PD-L1 and CTLA-4 interactions as the primary therapeutic strategy for immune system reactivation in NSCLC. Other approaches involving the promising potential of nanobodies, probodies, affibodies, and DARPINs targeting immune checkpoints are also described; these are under active research or clinical trials to mediate immune regulation and reduce cancer progression. This comprehensive review underscores the multifaceted nature, current state and future directions of NSCLC research and treatment.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Leona Raskova Kafkova",
+          "id": ""
+        },
+        {
+          "name": "J. M. Mierzwicka",
+          "id": ""
+        },
+        {
+          "name": "Prosenjit Chakraborty",
+          "id": ""
+        },
+        {
+          "name": "P. Jakubec",
+          "id": ""
+        },
+        {
+          "name": "Ond\u0159ej Fischer",
+          "id": ""
+        },
+        {
+          "name": "Jozef Skarda",
+          "id": ""
+        },
+        {
+          "name": "Petr Mal\u00fd",
+          "id": ""
+        },
+        {
+          "name": "M. Ra\u0161ka",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:267552192",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.7427434426881447,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 279990626,
+      "title": "Therapeutic potential of targeting LAG-3 in cancer",
+      "abstract": "Immune checkpoint inhibitors targeting negative regulatory checkpoints including programmed death-1 (PD-1) and cytotoxic T-lymphocyte-associated protein 4 have produced significant improvements in progression-free survival (PFS) and overall survival in multiple solid tumors. Lymphocyte activation gene 3 (LAG-3) is an inhibitory receptor that is highly expressed by exhausted T cells. Dual blockade of LAG-3 and PD-1 with monoclonal antibodies relatlimab and nivolumab has improved PFS in advanced melanoma, leading to Food and Drug Administration approval for this indication. Concurrently, enthusiasm for targeting LAG-3 has been tempered by negative results in multiple indications, although novel approaches including LAG-3-directed bispecifics tebotelimab continue to demonstrate promise. In this review, we discuss the current understanding of LAG-3 in regulating antitumor immunity and the ongoing state of clinical development of LAG-3-directed agents in cancer.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "D. Davar",
+          "id": ""
+        },
+        {
+          "name": "A. C. Anderson",
+          "id": ""
+        },
+        {
+          "name": "Ivan Diaz-Padilla",
+          "id": ""
+        }
+      ],
+      "venue": "Journal for ImmunoTherapy of Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:279990626",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.7372820154463999,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 287990446,
+      "title": "A Potent Single-Domain Antibody Targeting LAG-3 for Efficient Tumor Immunotherapy",
+      "abstract": "Lymphocyte activation gene-3 (LAG-3) is a pivotal immune checkpoint receptor that exerts a negative regulatory effect on T-cell function. Although LAG-3-blocking antibodies have shown promising clinical potential, the inherent limitations of conventional monoclonal antibodies necessitate the development of novel antibody formats with enhanced biological and pharmacological properties. In this study, a panel of single-domain antibodies (sdAbs) targeting human LAG-3 was generated via phage display technology. Among these candidates, 2H-G7 was identified as a high-affinity sdAb that binds to LAG-3 with an equilibrium dissociation constant (KD) in the nanomolar range. Notably, 2H-G7 potently blocks the interactions of LAG-3 with both of its key ligands, fibrinogen-like protein 1 (FGL1) and major histocompatibility complex class II (MHC-II). Its capacity to restore impaired T-cell function was validated by quantifying interleukin-2 (IL-2) secretion and CD69 expression in stimulated primary human peripheral blood mononuclear cells (PBMCs). Epitope mapping studies localized the binding site of 2H-G7 to the D1D2 extracellular domains of LAG-3, distinct from relatlimab, a clinically approved LAG-3-blocking antibody serving as the benchmark. In a xenogeneic mouse model of non-small-cell lung cancer (NSCLC), 2H-G7-Fc exhibited superior tumor growth inhibition efficacy compared with relatlimab. These findings demonstrate that 2H-G7 is a promising lead candidate for the development of next-generation LAG-3-targeted tumor immunotherapies.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Mengfei Dong",
+          "id": ""
+        },
+        {
+          "name": "Wenjie Li",
+          "id": ""
+        },
+        {
+          "name": "Tailin Wang",
+          "id": ""
+        },
+        {
+          "name": "Ming Li",
+          "id": ""
+        },
+        {
+          "name": "Jingyi Zhang",
+          "id": ""
+        },
+        {
+          "name": "Xianglei Liu",
+          "id": ""
+        }
+      ],
+      "venue": "Current Issues in Molecular Biology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:287990446",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.735680895202976,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 80628693,
+      "title": "A Threshold Model for T-Cell Activation in the Era of Checkpoint Blockade Immunotherapy",
+      "abstract": "Continued discoveries of negative regulators of inflammatory signaling provide detailed molecular insights into peripheral tolerance and anti-tumor immunity. Accumulating evidence indicates that peripheral tolerance is maintained at multiple levels of immune responses by negative regulators of proinflammatory signaling, soluble anti-inflammatory factors, inhibitory surface receptors & ligands, and regulatory cell subsets. This review provides a global overview of these regulatory machineries that work in concert to maintain peripheral tolerance at cellular and host levels, focusing on the direct and indirect regulation of T cells. The recent success of checkpoint blockade immunotherapy (CBI) has initiated a dramatic shift in the paradigm of cancer treatment. Unprecedented responses to CBI have highlighted the central role of T cells in both anti-tumor immunity and peripheral tolerance and underscored the importance of T cell exhaustion in cancer. We discuss the therapeutic implications of modulating the negative regulators of T cell function for tumor immunotherapy with an emphasis on inhibitory surface receptors & ligands\u2014central players in T cell exhaustion and targets of checkpoint blockade immunotherapies. We then introduce a Threshold Model for Immune Activation\u2014the concept that these regulatory mechanisms contribute to defining a set threshold of immunogenic (proinflammatory) signaling required to elicit an anti-tumor or autoimmune response. We demonstrate the value of the Threshold Model in understanding clinical responses and immune related adverse events in the context of peripheral tolerance, tumor immunity, and the era of Checkpoint Blockade Immunotherapy.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "K. Guram",
+          "id": ""
+        },
+        {
+          "name": "S. Kim",
+          "id": ""
+        },
+        {
+          "name": "Victoria H. Wu",
+          "id": ""
+        },
+        {
+          "name": "P. Sanders",
+          "id": ""
+        },
+        {
+          "name": "S. Patel",
+          "id": ""
+        },
+        {
+          "name": "S. Schoenberger",
+          "id": ""
+        },
+        {
+          "name": "S. Schoenberger",
+          "id": ""
+        },
+        {
+          "name": "E. Cohen",
+          "id": ""
+        },
+        {
+          "name": "Si-Yi Chen",
+          "id": ""
+        },
+        {
+          "name": "A. Sharabi",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:80628693",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.7320761282695075,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 221797497,
+      "title": "Emerging immunotherapy targets in lung cancer",
+      "abstract": "Abstract Immunotherapy has become the mainstay for lung cancer treatment, providing sustained therapeutic responses and improved prognosis compared with those obtained with surgery, chemotherapy, radiotherapy, and targeted therapy. It has the potential for anti-tumor treatment and killing tumor cells by activating human immunity and has moved the targets of anti-cancer therapy from malignant tumor cells to immune cell subsets. Two kinds of immune checkpoints, cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4) and programmed death-1 (PD-1)/programmed death ligand 1 (PD-L1), are the main targets of current immunotherapy in lung cancer. Despite the successful outcomes achieved by immune checkpoint inhibitors, a small portion of lung cancer patients remain unresponsive to checkpoint immunotherapy or may ultimately become resistant to these agents as a result of the complex immune modulatory network in the tumor microenvironment. Therefore, it is imperative to exploit novel immunotherapy targets to further expand the proportion of patients benefiting from immunotherapy. This review summarizes the molecular features, biological function, and clinical significance of several novel checkpoints that have important roles in lung cancer immune responses beyond the CTLA-4 and PD-1/PD-L1 axes, including the markers of co-inhibitory and co-stimulatory T lymphocyte pathways and inhibitory markers of macrophages and natural killer cells.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Haohua Zhu",
+          "id": ""
+        },
+        {
+          "name": "Yu Feng",
+          "id": ""
+        },
+        {
+          "name": "Xingsheng Hu",
+          "id": ""
+        }
+      ],
+      "venue": "Chinese Medical Journal",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:221797497",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.7295643775247268,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 268816863,
+      "title": "The immune checkpoint receptor LAG3: Structure, function, and target for cancer immunotherapy",
+      "abstract": "Lymphocyte activation gene 3 protein (LAG3) is an immune checkpoint receptor that is highly upregulated on exhausted T cells in the tumor microenvironment. LAG3 transmits inhibitory signals to T cells upon binding to MHC class II and other ligands, rendering T cells dysfunctional. Consequently, LAG3 is a major target for cancer immunotherapy with many anti-LAG3 monoclonal antibodies (mAbs) that block LAG3 inhibitory activity in clinical trials. In this review, we examine the molecular basis for LAG3 function in light of recently determined crystal and cryoEM structures of this inhibitory receptor. We review what is known about LAG3 interactions with MHC class II, its canonical ligand, and the newly discovered ligands FGL1 and the T cell receptor (TCR)\u2013CD3 complex, including current controversies over the relative importance of these ligands. We then address the development and mechanisms of action of anti-LAG3 mAbs in clinical trials for cancer immunotherapy. We discuss new strategies to therapeutically target LAG3 using mAbs that not only block the LAG3\u2013MHC class II interaction, but also LAG3 interactions with FGL1 or TCR\u2013CD3, or that disrupt LAG3 dimerization. Finally, we assess the possibility of developing mAbs that enhance, rather than block, LAG3 inhibitory activity as treatments for autoimmune diseases.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Roy A. Mariuzza",
+          "id": ""
+        },
+        {
+          "name": "Salman Shahid",
+          "id": ""
+        },
+        {
+          "name": "S. S. Karade",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:268816863",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.64426030077772,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 209388238,
+      "title": "The co-expression characteristics of LAG3 and PD-1 on the T cells of patients with breast cancer reveal a new therapeutic strategy.",
+      "abstract": "Many studies have shown a special interaction between LAG3 and PD-1 in T cell inhibition, while the co-expression and effect of LAG3 and PD-1 on T cells in breast cancer patients are still not very clear. Here, with strict exclusion criteria, 88 patients with breast cancer and 18 healthy controls were enrolled. The percentages of LAG3+PD-1+ T cells in their peripheral blood (PBL) and tumor infiltrating T cells (TIL) were analyzed by flow cytometry, which showed an increase in TILs but no difference in PBLs and presented differences in TILs in different molecular subtypes (P\u00a0<\u00a00.05). In triple-negative breast cancer (TNBC), the highest percentages were observed, while in ER+/PR+ breast cancer, the lowest percentages were observed; however, these percentages were not different in different clinical stages (P\u00a0>\u00a00.05). Immunohistochemical staining showed that the expression of their ligands, PD-L1, MHC class II molecular and FGL1, was inconsistent in different molecular subtypes and clinical stages. Analysis of the functions of T cells with different phenotypes showed that the proliferation and secretion capacity of LAG3+PD-1+ T cells was obviously exhausted, with more than a two-fold of decrease compared with the groups of single positive LAG3 or PD-1 (P\u00a0<\u00a00.05). Finally, in a mouse model of TNBC, the dual blockade of LAG3 and PD-1 was indicated to achieve a better anti-tumour effect than either one alone (P\u00a0<\u00a00.05), which may provide a new strategy for the immunoregulatory treatment of patients with TNBC in the future.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Huimin Du",
+          "id": ""
+        },
+        {
+          "name": "Ziying Yi",
+          "id": ""
+        },
+        {
+          "name": "Long Wang",
+          "id": ""
+        },
+        {
+          "name": "Zhi Li",
+          "id": ""
+        },
+        {
+          "name": "Bai-lin Niu",
+          "id": ""
+        },
+        {
+          "name": "G. Ren",
+          "id": ""
+        }
+      ],
+      "venue": "International Immunopharmacology",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/31841754",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6377550786769697,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 259361375,
+      "title": "Mechanisms of immune modulation in the tumor microenvironment and implications for targeted therapy",
+      "abstract": "The efficacy of cancer therapies is limited to a great extent by immunosuppressive mechanisms within the tumor microenvironment (TME). Numerous immune escape mechanisms have been identified. These include not only processes associated with tumor, immune or stromal cells, but also humoral, metabolic, genetic and epigenetic factors within the TME. The identification of immune escape mechanisms has enabled the development of small molecules, nanomedicines, immune checkpoint inhibitors, adoptive cell and epigenetic therapies that can reprogram the TME and shift the host immune response towards promoting an antitumor effect. These approaches have translated into series of breakthroughs in cancer therapies, some of which have already been implemented in clinical practice. In the present article the authors provide an overview of some of the most important mechanisms of immunosuppression within the TME and the implications for targeted therapies against different cancers.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Paulina Czajka-Francuz",
+          "id": ""
+        },
+        {
+          "name": "M. Prendes",
+          "id": ""
+        },
+        {
+          "name": "A. Mankan",
+          "id": ""
+        },
+        {
+          "name": "\u00c1. Quintana",
+          "id": ""
+        },
+        {
+          "name": "S. Pabla",
+          "id": ""
+        },
+        {
+          "name": "S. Ramkissoon",
+          "id": ""
+        },
+        {
+          "name": "T. Jensen",
+          "id": ""
+        },
+        {
+          "name": "S. Peir\u00f3",
+          "id": ""
+        },
+        {
+          "name": "E. Severson",
+          "id": ""
+        },
+        {
+          "name": "B. R. Achyut",
+          "id": ""
+        },
+        {
+          "name": "Laura Vidal",
+          "id": ""
+        },
+        {
+          "name": "M. Poelman",
+          "id": ""
+        },
+        {
+          "name": "K. Saini",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:259361375",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6343567403467976,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 204538749,
+      "title": "Prognostic Value of Lymphocyte-Activation Gene 3 (LAG3) in Cancer: A Meta-Analysis",
+      "abstract": "Introduction: Therapeutic targeting of inhibitors of the immune response has reached the clinical setting. Inhibitors of the novel receptor LAG3, which negatively regulates T-cell activation, are under investigation. Here we explore the presence and prognostic role of LAG3 in cancer. Methods: A systematic search of electronic databases identified publications exploring the effect of LAG3 on overall survival (OS) and (for early-stage cancers) disease-free survival (DFS). Hazard ratios (HR) were pooled in a meta-analysis using generic inverse-variance and random effect modeling. Subgroup analyses were conducted based on disease site and tumor type. Results: Fifteen studies met the inclusion criteria. LAG3 was associated with better overall survival [HR 0.81, 95% confidence interval (CI) 0.66\u20130.99; P = 0.04], with subgroup analysis showing no significant differences between disease-site subgroups. The beneficial effect of LAG3 on OS was of greater magnitude in early-stage malignancies (HR 0.73, 95% CI 0.60\u20130.88) than in the metastatic setting (HR 1.20, 95% CI 0.70\u20132.05), but this difference was not statistically significant (subgroup difference p = 0.18). LAG3 did not have a significant association with DFS [HR 1.02, 95% confidence interval (CI) 0.77\u20131.37; P = 0.87], with subgroup analysis showing worse DFS in patients with lymphoma and improved DFS in those with breast cancer. Conclusions: High expression of LAG3 is associated with favorable overall survival in several solid tumors. A trend toward an association in early-stage disease suggests the importance of immune surveillance in this setting.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "R. Saleh",
+          "id": ""
+        },
+        {
+          "name": "P. Peinado",
+          "id": ""
+        },
+        {
+          "name": "J. Fuentes-Antr\u00e1s",
+          "id": ""
+        },
+        {
+          "name": "P. P\u00e9rez-Segura",
+          "id": ""
+        },
+        {
+          "name": "A. Pandiella",
+          "id": ""
+        },
+        {
+          "name": "E. Amir",
+          "id": ""
+        },
+        {
+          "name": "A. Oca\u00f1a",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Oncology",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/31681578",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6319787752184388,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 252156215,
+      "title": "Emerging Trends in Immunotherapy for Cancer",
+      "abstract": "Recent advances in cancer immunology have enabled the discovery of promising immunotherapies for various malignancies that have shifted the cancer treatment paradigm. The innovative research and clinical advancements of immunotherapy approaches have prolonged the survival of patients with relapsed or refractory metastatic cancers. Since the U.S. FDA approved the first immune checkpoint inhibitor in 2011, the field of cancer immunotherapy has grown exponentially. Multiple therapeutic approaches or agents to manipulate different aspects of the immune system are currently in development. These include cancer vaccines, adoptive cell therapies (such as CAR-T or NK cell therapy), monoclonal antibodies, cytokine therapies, oncolytic viruses, and inhibitors targeting immune checkpoints that have demonstrated promising clinical efficacy. Multiple immunotherapeutic approaches have been approved for specific cancer treatments, while others are currently in preclinical and clinical trial stages. Given the success of immunotherapy, there has been a tremendous thrust to improve the clinical efficacy of various agents and strategies implemented so far. Here, we present a comprehensive overview of the development and clinical implementation of various immunotherapy approaches currently being used to treat cancer. We also highlight the latest developments, emerging trends, limitations, and future promises of cancer immunotherapy.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "A. Mishra",
+          "id": ""
+        },
+        {
+          "name": "Amjad Ali",
+          "id": ""
+        },
+        {
+          "name": "Shubham Dutta",
+          "id": ""
+        },
+        {
+          "name": "Shahid Banday",
+          "id": ""
+        },
+        {
+          "name": "S. K. Malonia",
+          "id": ""
+        }
+      ],
+      "venue": "Diseases",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:252156215",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6313976374730859,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 207950619,
+      "title": "Targeting Negative and Positive Immune Checkpoints with Monoclonal Antibodies in Therapy of Cancer",
+      "abstract": "The immune checkpoints are regulatory molecules that maintain immune homeostasis in physiological conditions. By sending T cells a series of co-stimulatory or co-inhibitory signals via receptors, immune checkpoints can both protect healthy tissues from adaptive immune response and activate lymphocytes to remove pathogens effectively. However, due to their mode of action, suppressive immune checkpoints may serve as unwanted protection for cancer cells. To restore the functioning of the immune system and make the patient\u2019s immune cells able to recognize and destroy tumors, monoclonal antibodies are broadly used in cancer immunotherapy to block the suppressive or to stimulate the positive immune checkpoints. In this review, we aim to present the current state of application of monoclonal antibodies in clinics, used either as single agents or in a combined treatment. We discuss the limitations of these therapies and possible problem-solving with combined treatment approaches involving both non-biological and biological agents. We also highlight the most promising strategies based on the use of monoclonal or bispecific antibodies targeted on immune checkpoints other than currently implemented in clinics.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Katsiaryna Marhelava",
+          "id": ""
+        },
+        {
+          "name": "Z. Pilch",
+          "id": ""
+        },
+        {
+          "name": "Malgorzata Bajor",
+          "id": ""
+        },
+        {
+          "name": "Agnieszka Graczyk-Jarzynka",
+          "id": ""
+        },
+        {
+          "name": "R. Zago\u017cd\u017con",
+          "id": ""
+        }
+      ],
+      "venue": "Cancers",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:207950619",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6297410406540543,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 260714973,
+      "title": "Role of Next Generation Immune Checkpoint Inhibitor (ICI) Therapy in Philadelphia Negative Classic Myeloproliferative Neoplasm (MPN): Review of the Literature",
+      "abstract": "The Philadelphia chromosome-negative (Ph\u2212) myeloproliferative neoplasms (MPNs), which include essential thrombocythemia (ET), polycythemia vera (PV), and myelofibrosis (MF), are enduring and well-known conditions. These disorders are characterized by the abnormal growth of one or more hematopoietic cell lineages in the body\u2019s stem cells, leading to the enlargement of organs and the manifestation of constitutional symptoms. Numerous studies have provided evidence indicating that the pathogenesis of these diseases involves the dysregulation of the immune system and the presence of chronic inflammation, both of which are significant factors. Lately, the treatment of cancer including hematological malignancy has progressed on the agents aiming for the immune system, cytokine environment, immunotherapy agents, and targeted immune therapy. Immune checkpoints are the molecules that regulate T cell function in the tumor microenvironment (TME). The first line of primary immune checkpoints are programmed cell death-1 (PD-1)/programmed cell death ligand-1 (PD-L1), and cytotoxic T-lymphocyte antigen-4 (CTLA-4). Immune checkpoint inhibitor therapy (ICIT) exerts its anti-tumor actions by blocking the inhibitory pathways in T cells and has reformed cancer treatment. Despite the impressive clinical success of ICIT, tumor internal resistance poses a challenge for oncologists leading to a low response rate in solid tumors and hematological malignancies. A Phase II trial on nivolumab for patients with post-essential thrombocythemia myelofibrosis, primary myelofibrosis, or post-polycythemia myelofibrosis was performed (Identifier: NCT02421354). This trial tested the efficacy of a PD-1 blockade agent, namely nivolumab, but was terminated prematurely due to adverse events and lack of efficacy. A multicenter, Phase II, single-arm open-label study was conducted including pembrolizumab in patients with primary thrombocythemia, post-essential thrombocythemia or post-polycythemia vera myelofibrosis that were ineligible for or were previously treated with ruxolitinib. This study showed that pembrolizumab treatment did not have many adverse events, but there were no pertinent clinical responses hence it was terminated after the first stage was completed. To avail the benefits from immunotherapy, the paradigm has shifted to new immune checkpoints in the TME such as lymphocyte activation gene-3 (LAG-3), T cell immunoglobulin and mucin domain 3 (TIM-3), T cell immunoglobulin and ITIM domain (TIGIT), V-domain immunoglobulin-containing suppressor of T cell activation (VISTA), and human endogenous retrovirus-H long terminal repeat-associating protein 2 (HHLA2) forming the basis of next-generation ICIT. The primary aim of this article is to underscore and elucidate the significance of next-generation ICIT in the context of MPN. Specifically, we aim to explore the potential of monoclonal antibodies as targeted immunotherapy and the development of vaccines targeting specific MPN epitopes, with the intent of augmenting tumor-related immune responses. It is anticipated that these therapeutic modalities rooted in immunotherapy will not only expand but also enhance the existing treatment regimens for patients afflicted with MPN. Preliminary studies from our laboratory showed over-expressed MDSC and over-expressed VISTA in MDSC, and in progenitor and immune cells directing the need for more clinical trials using next-generation ICI in the treatment of MPN.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "R. Yadav",
+          "id": ""
+        },
+        {
+          "name": "Narek Hakobyan",
+          "id": ""
+        },
+        {
+          "name": "Jen-Chin Wang",
+          "id": ""
+        }
+      ],
+      "venue": "International Journal of Molecular Sciences",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:260714973",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6283659655912253,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 287843514,
+      "title": "LAG3 as a potential biomarker in breast cancer: integrated tissue and peripheral blood analysis reveals clinical and pathomic insights in triple-negative disease",
+      "abstract": "Breast cancer is a heterogeneous disease. Triple-negative breast cancer (TNBC) is the most aggressive subtype and lacks reliable biomarkers for immunotherapy. This study aimed to evaluate lymphocyte activation gene 3 (LAG3) as a potential translational biomarker in breast cancer, assessing its expression across molecular subtypes and whether its levels in patients\u2019 peripheral blood match those in tumour tissue, thereby enabling non-invasive monitoring. The TCGA genomic database was analysed to investigate the association between LAG3 expression and breast cancer subtypes. These findings were then validated in an independent patient cohort of 50 patients using immunohistochemistry and molecular analysis of peripheral blood mononuclear cells (PBMCs). Digital pathology approaches were also employed, incorporating intensity- and texture-based feature extraction from DAB and ODsum channels to evaluate spatial patterns of marker distribution. A significant association was identified in the TCGA dataset between high LAG3 expression and the TNBC subtype, and this was confirmed in the validation cohort. LAG3 expression was found only in immune cells and was significantly more prevalent in TNBC. PBMC-derived mRNA levels were consistent with tissue expression, supporting systemic concordance. While the DAB-positive area did not significantly differ among subtypes, digital pathology analyses identified increased spatial heterogeneity in TNBC compared with luminal tumors using intensity - and texture - based features derived from DAB and ODsum channels, highlighting the value of computational pathology in TME characterization. LAG3 is emerging as a promising immune-related biomarker with translational relevance in breast cancer. The observed concordance between tissue and peripheral blood samples suggests that liquid biopsies could be used as a non-invasive tool for immune profiling, patient stratification and longitudinal disease monitoring. This could improve the selection of immunotherapies.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "A. Balestrieri",
+          "id": ""
+        },
+        {
+          "name": "V. Brancato",
+          "id": ""
+        },
+        {
+          "name": "S. Scippa",
+          "id": ""
+        },
+        {
+          "name": "R. Cirella",
+          "id": ""
+        },
+        {
+          "name": "G. Mossetti",
+          "id": ""
+        },
+        {
+          "name": "M. D\u2019Aiuto",
+          "id": ""
+        },
+        {
+          "name": "M. Salvatore",
+          "id": ""
+        },
+        {
+          "name": "A. Soricelli",
+          "id": ""
+        },
+        {
+          "name": "V. Ciaramella",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Translational Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:287843514",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.628333012629902,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 258487549,
+      "title": "Mechanisms of action of monoclonal antibodies in oncology integrated in IMGT/mAb-DB",
+      "abstract": "Background Cancer cells activate different immune checkpoint (IC) pathways in order to evade immunosurveillance. Immunotherapies involving ICs either block or stimulate these pathways and enhance the efficiency of the immune system to recognize and attack cancer cells. In this way, the development of monoclonal antibodies (mAbs) targeting ICs has significant success in cancer treatment. Recently, a systematic description of the mechanisms of action (MOA) of the mAbs has been introduced in IMGT/mAb-DB, the IMGT\u00ae database dedicated to mAbs for therapeutic applications. The characterization of these antibodies provides a comprehensive understanding of how mAbs work in cancer. Methods In depth biocuration taking advantage of the abundant literature data as well as amino acid sequence analyses from mAbs managed in IMGT/2Dstructure-DB, the IMGT\u00ae protein database, allowed to define a standardized and consistent description of the MOA of mAbs targeting immune checkpoints in cancer therapy. Results A fine description and a standardized graphical representation of the MOA of selected mAbs are integrated within IMGT/mAb-DB highlighting two main mechanisms in cancer immunotherapy, either Blocking or Agonist. In both cases, the mAbs enhance cytotoxic T lymphocyte (CTL)-mediated anti-tumor immune response (Immunostimulant effect) against tumor cells. On the one hand, mAbs targeting co-inhibitory receptors may have a functional Fc region to increase anti-tumor activity by effector properties that deplete Treg cells (Fc-effector function effect) or may have limited Fc\u03b3R binding to prevent Teff cells depletion and reduce adverse events. On the other hand, agonist mAbs targeting co-stimulatory receptors may bind to Fc\u03b3Rs, resulting in antibody crosslinking (Fc\u03b3R crosslinking effect) and substantial agonism. Conclusion In IMGT/mAb-DB, mAbs for cancer therapy are characterized by their chains, domains and sequence and by several therapeutic metadata, including their MOA. MOAs were recently included as a search criterion to query the database. IMGT\u00ae is continuing standardized work to describe the MOA of mAbs targeting additional immune checkpoints and novel molecules in cancer therapy, as well as expanding this study to other clinical domains. Graphical Abstract",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "T. Manso",
+          "id": ""
+        },
+        {
+          "name": "Anjana Kushwaha",
+          "id": ""
+        },
+        {
+          "name": "Nika Abdollahi",
+          "id": ""
+        },
+        {
+          "name": "P. Duroux",
+          "id": ""
+        },
+        {
+          "name": "V. Giudicelli",
+          "id": ""
+        },
+        {
+          "name": "Sofia Kossida",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:258487549",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.627962025934457,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 273124662,
+      "title": "Lymphocyte activation gene 3 served as a potential prognostic and immunological biomarker across various cancer types: a clinical and pan\u2010cancer analysis",
+      "abstract": "Lymphocyte activation gene 3 (LAG3), an inhibitory receptor in T\u2010cell activation, is a negative prognostic factor. However, its impact on tumours has yet to be comprehensively elucidated on a pan\u2010cancer scale. Thus, we aim to reveal its role at the pan\u2010cancer level.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Yifan Liu",
+          "id": ""
+        },
+        {
+          "name": "Yuntao Yao",
+          "id": ""
+        },
+        {
+          "name": "Xinyue Yang",
+          "id": ""
+        },
+        {
+          "name": "Maodong Wei",
+          "id": ""
+        },
+        {
+          "name": "Bingnan Lu",
+          "id": ""
+        },
+        {
+          "name": "Keqin Dong",
+          "id": ""
+        },
+        {
+          "name": "Donghao Lyu",
+          "id": ""
+        },
+        {
+          "name": "Yuanan Li",
+          "id": ""
+        },
+        {
+          "name": "W. Guan",
+          "id": ""
+        },
+        {
+          "name": "Runzhi Huang",
+          "id": ""
+        },
+        {
+          "name": "Guofeng Xu",
+          "id": ""
+        },
+        {
+          "name": "Xiuwu Pan",
+          "id": ""
+        }
+      ],
+      "venue": "Clinical & Translational Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:273124662",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6277906434457483,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 256702404,
+      "title": "Clinicopathological significance and prognostic role of LAG3\u2009+\u2009tumor-infiltrating lymphocytes in colorectal cancer; relationship with sidedness",
+      "abstract": "Background It is well-documented that the interplay between tumor-infiltrating lymphocytes (TILs) and tumor cells is a major determining factor in cancer progression. CD45RO seems to be a reliable indicator for predicting prognosis and disease outcome, along with CD3 and CD8 markers. LAG-3 is another important marker that overexpresses on TILs in a variety of cancers and is associated with disease prognosis; however, its prognostic impact is controversial. Hence, in the present study, we aimed to investigate the presence of CD45RO\u2009+\u2009, LAG3\u2009+\u2009, CD3\u2009+\u2009, and CD8\u2009+\u2009lymphocytes in CRC tumor tissues and their association with clinicopathological parameters of the disease as well as patients' survival, according to primary tumor locations. Methods Expression of CD45RO, LAG3, CD3, and CD8 was immunohistochemically assessed in tissue sections of 136 patients with CRC. The percentages of TILs expressing these markers were then separately determined in both invasive margin (IM) and center of tumor (CT). Their associations with clinicopathological factors and patients\u2019 survival were analyzed in the entire cohort and the subgroups of patients with right- and left- rectum tumors. Results Based on our observation, CD45RO\u2009+\u2009and CD3\u2009+\u2009cells were the most frequent infiltrated lymphocytes in both CT and IM regions of colon tumor tissue. Whilst, LAG3\u2009+\u2009lymphocytes were the least frequent subset in both areas. Statistical analysis indicated that the frequency of CD45RO\u2009+\u2009TILs was positively associated with advanced TNM stages (III/IV), in the entire cohort and right-sided tumors (P\u2009<\u20090.05). LAG3\u2009+\u2009TILs in IM were also increased in tumor tissues with higher T-stages in the entire cohort (P\u2009=\u20090.027). In univariate analysis, high score of CD45RO\u2009+\u2009TILs in IM was associated with better overall survival in the entire cohort. High score of CD8\u2009+\u2009and CD45RO\u2009+\u2009lymphocytes in IM were also associated with improved survival in patients with right-sided tumors. Conclusions Our findings generally suggest that the clinicopathological and prognostic significance of immune system-related markers such as CD45RO and LAG3 depends on the primary tumor sides. Our results collectively demonstrated that infiltration of CD45RO\u2009+\u2009lymphocytes in IM could be an independent prognostic factor in a site-dependent manner.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Shirin Tavana",
+          "id": ""
+        },
+        {
+          "name": "Zahra Mokhtari",
+          "id": ""
+        },
+        {
+          "name": "MH. Sanei",
+          "id": ""
+        },
+        {
+          "name": "Zahra Heidari",
+          "id": ""
+        },
+        {
+          "name": "A. Dehghanian",
+          "id": ""
+        },
+        {
+          "name": "Z. Faghih",
+          "id": ""
+        },
+        {
+          "name": "M. Rezaei",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Cell International",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:256702404",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6250589282421096,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 231862081,
+      "title": "Immune-Checkpoint Inhibitors Combinations in Metastatic NSCLC: New Options on the Horizon?",
+      "abstract": "Abstract The therapeutic targeting of the programmed death-1 (PD-1)/programmed death ligand-1 (PD-L1) axis marked a milestone in the treatment of non-small cell lung cancer (NSCLC), leading to unprecedented response duration and long-term survival for a relevant subgroup of patients affected by non-oncogene-addicted, metastatic disease. However, the biological heterogeneity as well as the occurrence of innate/acquired resistance are well-known phenomena which significantly affect the therapeutic response to immunotherapy. To date, we are moving towards the second phase of the \u201cimmune-revolution\u201d, characterized by the advent of new immune-checkpoint inhibitors combinations, aiming to target the main resistance pathways and ultimately increase the number of NSCLC patients who may derive long-term clinical benefit from immunotherapy. In this review, we provide an updated and comprehensive overview of the main PD-1/PD-L1 inhibitors\u2019 combination approaches under clinical investigation in non-oncogene addicted, metastatic NSCLC patients, including checkpoints (other than CTLA-4) as well as \u201cimmune-metabolism\u201d modulators, DNA repair pathway inhibitors, antiangiogenic agents, cytokines, and a new generation of vaccines, with the final aim of identifying the most promising options on the horizon.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "F. Passiglia",
+          "id": ""
+        },
+        {
+          "name": "M. L. Reale",
+          "id": ""
+        },
+        {
+          "name": "V. Cetoretta",
+          "id": ""
+        },
+        {
+          "name": "S. Novello",
+          "id": ""
+        }
+      ],
+      "venue": "ImmunoTargets and Therapy",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:231862081",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6209256616209126,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 265238368,
+      "title": "Mapping the protein\u2013protein interactome in the tumor immune microenvironment",
+      "abstract": "Abstract The cell-to-cell communication primarily occurs through cell-surface and secreted proteins, which form a sophisticated network that coordinates systemic immune function. Uncovering these protein\u2013protein interactions (PPIs) is indispensable for understanding the molecular mechanism and elucidating immune system aberrances under diseases. Traditional biological studies typically focus on a limited number of PPI pairs due to the relative low throughput of commonly used techniques. Encouragingly, classical methods have advanced, and many new systems tailored for large-scale protein\u2013protein screening have been developed and successfully utilized. These high-throughput PPI investigation techniques have already made considerable achievements in mapping the immune cell interactome, enriching PPI databases and analysis tools, and discovering therapeutic targets for cancer and other diseases, which will definitely bring unprecedented insight into this field.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Rui Peng",
+          "id": ""
+        },
+        {
+          "name": "Mi Deng",
+          "id": ""
+        }
+      ],
+      "venue": "Antibody Therapeutics",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:265238368",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6203698158804911,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 251073108,
+      "title": "The promising immune checkpoint LAG-3 in cancer immunotherapy: from basic research to clinical application",
+      "abstract": "LAG-3, a type of immune checkpoint receptor protein belonging to the immunoglobulin superfamily, is confirmed to be expressed on activated immune cells, mainly including activated T cells. LAG-3 can negatively regulate the function of T cells, exerting important effects on maintaining the homeostasis of the immune system under normal physiological conditions and promoting tumor cells immune escape in the tumor microenvironment. Given its important biological roles, LAG-3 has been regarded as a promising target for cancer immunotherapy. To date, many LAG-3 inhibitors have been reported, which can be divided into monoclonal antibody, double antibody, and small molecule drug, some of which have entered the clinical research stage. LAG-3 inhibitors can negatively regulate and suppress T cell proliferation and activation through combination with MHC II ligand. Besides, LAG-3 inhibitors can also affect T cell function via binding to Galectin-3 and LSECtin. In addition, LAG-3 inhibitors can prevent the FGL1-LAG-3 interaction, thereby enhancing the human body\u2019s antitumor immune effect. In this review, we will describe the function of LAG-3 and summarize the latest LAG-3 inhibitors in the clinic for cancer therapy.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Jin-ling Huo",
+          "id": ""
+        },
+        {
+          "name": "Ya-Tao Wang",
+          "id": ""
+        },
+        {
+          "name": "Wenjing Fu",
+          "id": ""
+        },
+        {
+          "name": "N. Lu",
+          "id": ""
+        },
+        {
+          "name": "Zhang-Suo Liu",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:251073108",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5905055307221359,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 87381074,
+      "title": "New emerging targets in cancer immunotherapy: the role of LAG3",
+      "abstract": "The success of immunotherapy in many disease entities is limited to a specific subpopulation of patients. To overcome this problem, dual blockade treatments mainly against cytotoxic T-lymphocyte-associated protein 4 (CTLA4) and programmed cell death receptor (ligand) 1 (PD-(L)1) axis were developed. However, due to high toxicity rates and treatment resistance, alternative pathways and novel strategies were desperately needed. Lymphocyte-associated gene 3 (LAG3) represents an inhibitory receptor, which is mainly found on activated immune cells and involved in the exhaustion of T cells in malignant diseases. Its co-expression with other inhibitory receptors, particularly with PD-1 leads to an extensive research on the blockade of LAG3 and PD-1 in preclinical settings. Interestingly, several in-vivo approaches demonstrated a highly significant clinical benefit under dual blockade, whereas the efficacy was very low in case of single agent targeting. Moreover, human tumour tissues showed co-expression of LAG3 and PD-1 in infiltrated lymphocytes, which again generated a rationale for blocking these both molecules in clinical settings. The ongoing clinical studies mainly use dual blockage of LAG3/PD-1, which demonstrated promising survival benefits and long duration of response rates. The following review focuses on the biological background and rationale of combining LAG3 with other agents and serves as an update on the state of clinical research on LAG3 targeting.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "H. Puhr",
+          "id": ""
+        },
+        {
+          "name": "A. Ilhan-Mutlu",
+          "id": ""
+        }
+      ],
+      "venue": "ESMO Open",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:87381074",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5779150004470842,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 273373944,
+      "title": "Pan-cancer and single-cell analysis reveal dual roles of lymphocyte activation gene-3 (LAG3) in cancer immunity and prognosis",
+      "abstract": "Lymphocyte activating gene-3 (LAG3) is a distinctive T cell co-receptor that is expressed on the surface of lymphocytes. It plays a special inhibitory immune checkpoint role due to its unique domain and signaling pattern. Our aim is to explore the correlation between LAG3 in cancers and physiological processes related to a range of cancers, as well as build LAG3-related immunity and prognostic models. By comprehensively using of datasets and methods from TCGA, GTE-x and GEO databases, cBioPortal, HPA, Kaplan-Meier Plotter, Spearman, CellMinerTM, we delved deeper into the potential impact of the LAG3 in cancer development. These include expression differences, Localization of tumor cell subsets, immune infiltration, matrix infiltration, gene mutations, DNA methylation, signaling pathways and prognosis. Furthermore, we explored LAG3 interactions with different drugs. LAG3 is highly expressed in ACC (p\u2009<\u20090.001), BRCA (p\u2009<\u20090.001), DLBC (p\u2009<\u20090.001), ESCA (p\u2009<\u20090.001), GBM (p\u2009<\u20090.001), HNSC (p\u2009<\u20090.001), KIRC (p\u2009<\u20090.001), LGG (p\u2009<\u20090.001), LUAD (p\u2009<\u20090.01), LUSC (p\u2009<\u20090.001), PAAD (p\u2009<\u20090.001), PCPG (p\u2009<\u20090.01), SKCM (p\u2009<\u20090.001), STAD (p\u2009<\u20090.001), TGCT (p\u2009<\u20090.001) and THCA (p\u2009<\u20090.05), while lowly expressed in COAD (p\u2009<\u20090.001), LIHC (p\u2009<\u20090.05), OV (p\u2009<\u20090.001), PRAD (p\u2009<\u20090.001), READ (p\u2009<\u20090.001), UCEC (p\u2009<\u20090.001) and UCS (p\u2009<\u20090.001). High expression of LAG3 correlates with longer overall survival (OS) in BLCA (HR\u2009=\u20090.67, p\u2009<\u20090.05), CESC (HR\u2009=\u20090.3, p\u2009<\u20090.001), HNSC (HR\u2009=\u20090.67, p\u2009<\u20090.01), LUSC (HR\u2009=\u20090.71, p\u2009<\u20090.05), OV (HR\u2009=\u20090.65, p\u2009<\u20090.01), STAD (HR\u2009=\u20090.68, p\u2009<\u20090.05), and UCEC (HR\u2009=\u20090.57, p\u2009<\u20090.01). Conversely, in KIRC (HR\u2009=\u20091.85, p\u2009<\u20090.001), KIRP (HR\u2009=\u20092.81, p\u2009<\u20090.001), and THYM (HR\u2009=\u20098.92, p\u2009<\u20090.001), high LAG3 expression corresponds to shorter OS. Comprehensive results for recurrence-free survival (RFS) indicate that LAG3 acts as a protective factor in BLCA, CESC, OV, and UCEC. Moreover, LAG3 is widely expressed in tumor-associated lymphocytes, positively correlating with tumor immune scores and stromal scores, and significantly present in the C2 immune subtype across various tumors. High LAG3 expression correlates with increased immune infiltration. LAG3 shows associations with MSI, TMB, and the MMR system, participating in multiple signaling pathways including the T cell receptor pathway. It also demonstrates positive correlations with sensitivity to eleven different drugs. Unlike traditional inhibitory immune checkpoints, LAG3 exhibits dual roles in clinical and immune prognostication across pan-cancers, making it a significant predictive factor. In some cancers, LAG3 serves as a risk factor, indicating adverse clinical outcomes. Conversely, in BLCA, CESC, OV, and UCEC, LAG3 acts as a protective factor associated with longer patient survival. LAG3 demonstrates strong associations within tumor immunity, participating in a range of immune and inflammatory signaling pathways. Elevated levels of LAG3 are linked not only to T cell exhaustion but also to increased immune infiltration and polarization towards M1 macrophages.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Yongfeng Wang",
+          "id": ""
+        },
+        {
+          "name": "Yanzong Zhao",
+          "id": ""
+        },
+        {
+          "name": "Guangming Zhang",
+          "id": ""
+        },
+        {
+          "name": "Yifeng Lin",
+          "id": ""
+        },
+        {
+          "name": "C. Fan",
+          "id": ""
+        },
+        {
+          "name": "Hui Wei",
+          "id": ""
+        },
+        {
+          "name": "Shude Chen",
+          "id": ""
+        },
+        {
+          "name": "Ling Guan",
+          "id": ""
+        },
+        {
+          "name": "Kan Liu",
+          "id": ""
+        },
+        {
+          "name": "Shenhan Yu",
+          "id": ""
+        },
+        {
+          "name": "Liangyin Fu",
+          "id": ""
+        },
+        {
+          "name": "Jing Zhang",
+          "id": ""
+        },
+        {
+          "name": "Yuan Yuan",
+          "id": ""
+        },
+        {
+          "name": "Jin He",
+          "id": ""
+        },
+        {
+          "name": "Hui Cai",
+          "id": ""
+        }
+      ],
+      "venue": "Scientific Reports",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:273373944",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5710741956041901,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 266370851,
+      "title": "A combined analysis of multi-omics data reveals the prognostic values and immunotherapy response of LAG3 in human cancers",
+      "abstract": "Lymphocyte-activation gene 3 (LAG3) is a highly anticipated immune checkpoint in the context of cancer, exerting regulatory control over immune cell proliferation and function to reinforce the advancement of cancers. However, the comprehensive functional analysis of LAG3 across various cancer types remains undisclosed; thus, this study aims to investigate the pan-cancer expression profile of LAG3. We have investigated the expression profile, prognostic significance, and genetic alterations of LAG3 in various cancers while elucidating its characteristic in immune response regulation. Our findings demonstrated that elevated LAG3 expression is significantly associated with favorable prognosis in patients with cutaneous melanoma (SKCM), and it may be a potential biomarker for SKCM. Furthermore, multiple immune algorithms have highlighted the important regulatory role of LAG3 for the tumor-infiltrating immune cells including CD8\u2009+\u2009T cells, B cells, dendritic cells (DCs), macrophages, and natural killer (NK) cells. We also examined the distribution of LAG3 at the single-cell level and explored its functional significance. A comprehensive and systematic analysis of LAG3 would facilitate a comprehensive evaluation of LAG3 in cancer biology and provide valuable insights for cancer management.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Jinwu Peng",
+          "id": ""
+        },
+        {
+          "name": "Zhihao Du",
+          "id": ""
+        },
+        {
+          "name": "Yuwei Sun",
+          "id": ""
+        },
+        {
+          "name": "Zhiyang Zhou",
+          "id": ""
+        }
+      ],
+      "venue": "European Journal of Medical Research",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:266370851",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5703778919630024,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 248153234,
+      "title": "LAG3-PD-1 Combo Overcome the Disadvantage of Drug Resistance",
+      "abstract": "Although PD-1 blockade therapy has been promising in cancer treatment, only 4% (pancreatic cancer) to 70% (melanoma) of patients have a positive response to this blockade therapy, which is one of its important disadvantages. Therefore, it is important to seek out new targets for cancer immunotherapy to improve the overall response rate in patients. Lymphocyte activation gene-3 (LAG-3), an immune checkpoint receptor, is mainly expressed in activated immune cells. LAG-3 maintains the body\u2019s immune homeostasis under physiological conditions while mediating tumour immune escape. Several preclinical and clinical examinations have shown that LAG-3 blockade effectively alleviates the patient\u2019s tolerance to PD-1 immune checkpoint inhibitors. Moreover, the combination of LAG-3 and PD-1 blockade has good clinical efficacy in cancers. Hence, synchronous LAG-3 and PD-1 inhibition may be a potential new strategy for tumour immunotherapy.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Yiming Wei",
+          "id": ""
+        },
+        {
+          "name": "Zhaoming Li",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:248153234",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5676878677266587,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 284812589,
+      "title": "Integrative analysis identified the key role of LAG3 in T cell exhaustion in glioma",
+      "abstract": "Lymphocyte-activation gene 3 (LAG3) is an immune checkpoint expressed on the surface of T cells. We conducted a comprehensive molecular characterization and clinical analysis of LAG3 expression in gliomas. Across the CGGA and TCGA glioma datasets, we observed that LAG3 expression increased with higher glioma grade. Further investigation into the molecular subtypes revealed that LAG3 exhibited the highest expression in the Mesenchymal subtype, similar to other immune checkpoints. CIBERSORT analysis showed a significant positive correlation between LAG3 expression and macrophages, suggesting LAG3\u2019s involvement in shaping the immune microenvironment. Single-cell data indicated that LAG3 expression appeared to be complementary pattern to other immune checkpoints, implying multiple mechanisms of T cell exhaustion. Importantly, clinical data analysis demonstrated that elevated LAG3 expression is an independent poor prognostic factor for patient survival. These findings suggest that LAG3 may play a crucial role in regulating the immune microenvironment in gliomas and contribute to T cell exhaustion, alongside other immune checkpoints such as the PD-L1/PD-1 pathway. As such, LAG3 represents a potential therapeutic target for glioma immunotherapy.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Zheng Wang",
+          "id": ""
+        },
+        {
+          "name": "Haitao Fu",
+          "id": ""
+        },
+        {
+          "name": "Yuwei Li",
+          "id": ""
+        },
+        {
+          "name": "Zewei Liu",
+          "id": ""
+        },
+        {
+          "name": "Wenhua Fan",
+          "id": ""
+        },
+        {
+          "name": "Yuqing Liu",
+          "id": ""
+        },
+        {
+          "name": "Chuanbao Zhang",
+          "id": ""
+        },
+        {
+          "name": "Jingshan Liang",
+          "id": ""
+        },
+        {
+          "name": "Zhong Zhang",
+          "id": ""
+        },
+        {
+          "name": "Liyun Zhong",
+          "id": ""
+        },
+        {
+          "name": "Wei Yan",
+          "id": ""
+        }
+      ],
+      "venue": "Discover Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:284812589",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5647103387297793,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 288885673,
+      "title": "Advances in Immune Checkpoint Inhibitors for Cancer Treatment",
+      "abstract": "Simple Summary Tumor cells evade attack by the immune system through immune checkpoint proteins, making these proteins important targets in cancer immunotherapy. By targeting them, immune checkpoint inhibitors (ICIs) help restore the body\u2019s antitumor response by reactivating immune cells suppressed in the tumor microenvironment. This review summarizes well-known immune checkpoint proteins such as PD-1, PD-L1, and CTLA-4, as well as emerging checkpoints like LAG-3, TIM-3, TIGIT, BTLA, SIRP-\u03b1, CD200, ILT4, and CD24, together with recent clinical advances. It also explains why some patients develop resistance to these treatments and explores future strategies to improve their effectiveness in cancer therapy.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Keqiang Chen",
+          "id": ""
+        },
+        {
+          "name": "Feng Zhu",
+          "id": ""
+        },
+        {
+          "name": "Xin Li",
+          "id": ""
+        },
+        {
+          "name": "Teizo Yoshimura",
+          "id": ""
+        }
+      ],
+      "venue": "Cancers",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:288885673",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5646255674404761,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 248107567,
+      "title": "Binding of LAG-3 to stable peptide-MHC class II limits T\u00a0cell function and suppresses autoimmunity and anti-cancer immunity.",
+      "abstract": "Lymphocyte activation gene-3 (LAG-3) is a potent inhibitory co-receptor; yet, its functional ligand remains elusive, with distinct potential ligands identified. Here, we investigated the relative contribution of potential ligands, stable peptide-MHC class II complexes (pMHCII) and fibrinogen-like protein 1 (FGL1), to LAG-3 activity in\u00a0vitro and in\u00a0vivo. Binding of LAG-3 to stable pMHCII but not to FGL1 induced T\u00a0cell suppression in\u00a0vitro. Consistently, LAG-3 mutants lacking FGL1-binding capacity but not those lacking stable pMHCII-binding capacity retained suppressive activity in\u00a0vitro. Accordingly, targeted disruption of stable pMHCII- but not FGL1-binding capacity of LAG-3 in NOD mice recapitulated diabetes exacerbation by LAG-3 deficiency. Additionally, the loss of stable pMHCII-binding capacity of LAG-3 augmented anti-cancer immunity comparably with LAG-3 deficiency in C57BL/6 mice. These results identify stable pMHCII as a functional ligand of LAG-3 both in autoimmunity and anti-cancer immunity. Thus, stable pMHCII-LAG-3 interaction is a potential therapeutic target in human diseases.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Takumi Maruhashi",
+          "id": ""
+        },
+        {
+          "name": "D. Sugiura",
+          "id": ""
+        },
+        {
+          "name": "I. Okazaki",
+          "id": ""
+        },
+        {
+          "name": "K. Shimizu",
+          "id": ""
+        },
+        {
+          "name": "Takeo K. Maeda",
+          "id": ""
+        },
+        {
+          "name": "Jun Ikubo",
+          "id": ""
+        },
+        {
+          "name": "Harunori Yoshikawa",
+          "id": ""
+        },
+        {
+          "name": "K. Maenaka",
+          "id": ""
+        },
+        {
+          "name": "N. Ishimaru",
+          "id": ""
+        },
+        {
+          "name": "H. Kosako",
+          "id": ""
+        },
+        {
+          "name": "T. Takemoto",
+          "id": ""
+        },
+        {
+          "name": "Taku Okazaki",
+          "id": ""
+        }
+      ],
+      "venue": "Immunity",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/35413245",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.48162688986123425,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 231148619,
+      "title": "LAG3\u2019s Enigmatic Mechanism of Action",
+      "abstract": "LAG3 is an important immune checkpoint with relevance in cancer, infectious disease and autoimmunity. However, despite LAG3\u2019s role in immune exhaustion and the great potential of LAG3 inhibition as treatment, much remains unknown about its biology, particularly its mechanism of action. This review describes the knowns, unknowns and controversies surrounding LAG3. This includes examination of how LAG3 is regulated transcriptionally and post-translationally by endocytosis and proteolytic cleavage. We also discuss the interactions of LAG3 with its ligands and the purpose thereof. Finally, we review LAG3\u2019s mechanism of action, including the roles of LAG3 intracellular motifs and the lack of a role for CD4 competition. Overall, understanding the biology of LAG3 can provide greater insight on LAG3 function, which may broaden the appreciation for LAG3\u2019s role in disease and potentially aid in the development of targeted therapies.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Colin G Graydon",
+          "id": ""
+        },
+        {
+          "name": "S. Mohideen",
+          "id": ""
+        },
+        {
+          "name": "K. Fowke",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/33488626",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.47897032166028614,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 237522514,
+      "title": "Fibrinogen-like protein 1 (FGL1): the next immune checkpoint target",
+      "abstract": "Immune checkpoint therapy has achieved significant efficacy by blocking inhibitory pathways to release the function of T lymphocytes. In the clinic, anti-programmed cell death protein 1/programmed cell death ligand 1 (PD-1/PD-L1) monoclonal antibodies (mAbs) have progressed to first-line monotherapies in certain tumor types. However, the efficacy of anti-PD-1/PD-L1 mAbs is still limited due to toxic side effects and de novo or adaptive resistance. Moreover, other immune checkpoint target and biomarkers for therapeutic response prediction are still lacking; as a biomarker, the PD-L1 (CD274, B7-H1) expression level is not as accurate as required. Hence, it is necessary to seek more representative predictive molecules and potential target molecules for immune checkpoint therapy. Fibrinogen-like protein 1 (FGL1) is a proliferation- and metabolism-related protein secreted by the liver. Multiple studies have confirmed that FGL1 is a newly emerging checkpoint ligand of lymphocyte activation gene 3 (LAG3), emphasizing the potential of targeting FGL1/LAG3 as the next generation of immune checkpoint therapy. In this review, we summarize the substantial regulation mechanisms of FGL1 in physiological and pathological conditions, especially tumor epithelial to mesenchymal transition, immune escape and immune checkpoint blockade resistance, to provide insights for targeting FGL1 in cancer treatment.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "W. Qian",
+          "id": ""
+        },
+        {
+          "name": "Mingfang Zhao",
+          "id": ""
+        },
+        {
+          "name": "Ruoyu Wang",
+          "id": ""
+        },
+        {
+          "name": "Heming Li",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Hematology & Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:237522514",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4749759650431142,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 248831854,
+      "title": "Molecular Pathways and Mechanisms of LAG-3 in Cancer Therapy",
+      "abstract": "Immunotherapy targeting co-inhibitory receptors has been highly successful in treating a wide variety of malignancies, however only a subset of patients exhibits durable responses. The first FDA-approved immunotherapeutics targeting co-inhibitory receptors PD1 and CTLA4, alone or in combination, significantly improved survival but were also accompanied by substantial toxicity in combination. The third FDA-approved immune checkpoint inhibitor targets LAG3, a co-inhibitory receptor expressed on activated CD4+ and CD8+ T cells, especially in settings of long-term antigenic stimulation, such as chronic viral infection or cancer. Mechanistically, LAG3 expression limits both the expansion of activated T cells and the size of the memory pool, suggesting that LAG3 may be a promising target for immunotherapy. Importantly, the mechanism(s) by which LAG3 contributes to CD8+ T cell exhaustion may be distinct from those governed by PD1, indicating that the combination of anti-LAG3 and anti-PD1 may synergistically enhance antitumor immunity. Clinical studies evaluating the role of anti-LAG3 in combination with anti-PD1 are underway, and recent phase III trial results in metastatic melanoma demonstrate both the efficacy and safety of this combination. Further ongoing clinical trials are evaluating this combination across multiple tumor types and the adjuvant setting, with accompanying translational and biomarker-focused studies designed to elucidate the molecular pathways that lead to improved antitumor T cell responses following dual blockade of PD1 and LAG3. Overall, LAG3 plays an important role in limiting T cell activation and has now become part of the repertoire of combinatorial immunotherapeutics available for the treatment of metastatic melanoma.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Lawrence P. Andrews",
+          "id": ""
+        },
+        {
+          "name": "A. Cillo",
+          "id": ""
+        },
+        {
+          "name": "Lilit Karapetyan",
+          "id": ""
+        },
+        {
+          "name": "J. Kirkwood",
+          "id": ""
+        },
+        {
+          "name": "C. Workman",
+          "id": ""
+        },
+        {
+          "name": "D. Vignali",
+          "id": ""
+        }
+      ],
+      "venue": "Clinical Cancer Research",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/35579997",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4741961377735256,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 204330859,
+      "title": "Lymphocyte-Activation Gene 3 (LAG3): the Next Immune Checkpoint Receptor",
+      "abstract": "Immune checkpoint therapy has revolutionized cancer treatment by blocking inhibitory pathways in T cells that limits the an effective anti-tumor immune response. Therapeutics targeting CTLA-4 and PD1/PDL1 have progressed to first line therapy in multiple tumor types with some patients exhibiting tumor regression or remission. However, the majority of patients do not benefit from checkpoint therapy emphasizing the need for alternative therapeutic options. Lymphocyte Activation Gene 3 (LAG3) or CD223 is expressed on multiple cell types including CD4+ and CD8+ T cells, and Tregs, and is required for optimal T cell regulation and homeostasis. Persistent antigen-stimulation in cancer or chronic infection leads to chronic LAG3 expression, promoting T cell exhaustion. Targeting LAG3 along with PD1 facilitates T cell reinvigoration. A substantial amount of pre-clinical data and mechanistic analysis has led to LAG3 being the third checkpoint to be targeted in the clinic with nearly a dozen therapeutics under investigation. In this review, we will discuss the structure, function and role of LAG3 in murine and human models of disease, including autoimmune and inflammatory diseases, chronic viral and parasitic infections, and cancer, emphasizing new advances in the development of LAG3-targeting immunotherapies for cancer that are currently in clinical trials.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "E. Ruffo",
+          "id": ""
+        },
+        {
+          "name": "Richard C Wu",
+          "id": ""
+        },
+        {
+          "name": "T. Bruno",
+          "id": ""
+        },
+        {
+          "name": "C. Workman",
+          "id": ""
+        },
+        {
+          "name": "D. Vignali",
+          "id": ""
+        }
+      ],
+      "venue": "Seminars in Immunology",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/31604537",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4735363713352892,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 220980737,
+      "title": "Expression and clinical significance of LAG-3, FGL1, PD-L1 and CD8+T cells in hepatocellular carcinoma using multiplex quantitative analysis",
+      "abstract": "Fibrinogen-like protein 1 (FGL1)\u2014Lymphocyte activating gene 3 (LAG-3) pathway is a promising immunotherapeutic target and has synergistic effect with programmed death 1 (PD-1)/programmed death ligand 1 (PD-L1). However, the prognostic significance of FGL1-LAG-3 pathway and the correlation with PD-L1 in hepatocellular carcinoma (HCC) remain unknown. The levels of LAG-3, FGL1, PD-L1 and cytotoxic T (CD8+T) cells in 143 HCC patients were assessed by multiplex immunofluorescence. Associations between the marker\u2019s expression and clinical significances were studied. We found FGL1 and LAG-3 densities were elevated while PD-L1 and CD8 were decreased in HCC tissues compared to adjacent normal liver tissues. High levels of FGL1 were strongly associated with high densities of LAG-3+cells but not PD-L1. CD8+ T cells densities had positive correlation with PD-L1 levels and negative association with FGL1 expression. Elevated densities of LAG-3+cells and low levels of CD8+ T cells were correlated with poor disease outcome. Moreover, LAG-3+cells deteriorated patient stratification based on the abundance of CD8+ T cells. Patients with positive PD-L1 expression on tumor cells (PD-L1 TC+) tended to have an improved survival than that with negative PD-L1 expression on tumor cells (PD-L1 TC\u2212). Furthermore, PD-L1 TC\u2212 in combination with high densities of LAG-3+cells showed the worst prognosis, and PD-L1 TC+ patients with low densities of LAG-3+cells had the best prognosis. LAG-3, FGL1, PD-L1 and CD8 have distinct tissue distribution and relationships with each other. High levels of LAG-3+cells and CD8+ T cells represent unfavorable and favorable prognostic biomarkers for HCC respectively.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Mengzhou Guo",
+          "id": ""
+        },
+        {
+          "name": "Feifei Yuan",
+          "id": ""
+        },
+        {
+          "name": "F. Qi",
+          "id": ""
+        },
+        {
+          "name": "Jialei Sun",
+          "id": ""
+        },
+        {
+          "name": "Qianwen Rao",
+          "id": ""
+        },
+        {
+          "name": "Zhiying Zhao",
+          "id": ""
+        },
+        {
+          "name": "Peixin Huang",
+          "id": ""
+        },
+        {
+          "name": "Tingting Fang",
+          "id": ""
+        },
+        {
+          "name": "Biwei Yang",
+          "id": ""
+        },
+        {
+          "name": "J. Xia",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Translational Medicine",
+      "journal": null,
+      "url": "https://doi.org/10.1186/s12967-020-02469-8",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.47322718773555567,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 526095,
+      "title": "Function and regulation of LAG3 on CD4+CD25\u2010 T cells in non\u2010small cell lung cancer",
+      "abstract": "Abstract LAG3 is a surface molecule found on a subset of immune cells. The precise function of LAG3 appears to be context\u2010dependent. In this study, we investigated the effect of LAG3 on CD4+CD25\u2010 T cells from non\u2010small cell lung cancer (NSCLC) patients. We found that in the peripheral blood mononuclear cells of NSCLC patients, LAG3 was significantly increased in CD4+ T cells directly ex vivo and primarily in the CD4+CD25\u2010 fraction, which was regulated by prolonged TCR stimulation and the presence of IL\u201027. TCR stimulation also increased CD25 expression, but not Foxp3 expression, in LAG3\u2010expressing CD4+CD25\u2010 cells Compared to LAG3\u2010nonexpressing CD4+CD25\u2010 cells, LAG3\u2010expressing CD4+CD25\u2010 cells presented significantly higher levels of PD1 and TIM3, two inhibitory receptors best described in exhausted CD8+ T effector cells. LAG3\u2010expressing CD4+CD25\u2010 cells also presented impaired proliferation compared with LAG3\u2010nonexpressing CD4+CD25\u2010 cells but could be partially rescued by inhibiting both PD1 and TIM3. Interestingly, CD8+ T cells co\u2010incubated with LAG3\u2010expressing CD4+CD25\u2010 cells at equal cell numbers demonstrated significantly lower proliferation than CD8+ T cells incubated alone. Co\u2010culture with CD8+ T cell and LAG3\u2010expressing CD4+CD25\u2010 T cell also upregulated soluble IL\u201010 level in the supernatant, of which the concentration was positively correlated with the number of LAG3\u2010expressing CD4+CD25\u2010 T cells. In addition, we found that LAG3\u2010expressing CD4+CD25\u2010 T cells infiltrated the resected tumors and were present at higher frequencies of in metastases than in primary tumors. Taken together, these data suggest that LAG3\u2010expressing CD4+CD25\u2010 T cells represent another regulatory immune cell type with potential to interfere with anti\u2010tumor immunity.",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Qin-yun Ma",
+          "id": ""
+        },
+        {
+          "name": "Dayu Huang",
+          "id": ""
+        },
+        {
+          "name": "Huijun Zhang",
+          "id": ""
+        },
+        {
+          "name": "Shaohua Wang",
+          "id": ""
+        },
+        {
+          "name": "Xiao-feng Chen",
+          "id": ""
+        }
+      ],
+      "venue": "Experimental Cell Research",
+      "journal": null,
+      "url": "https://doi.org/10.1016/j.yexcr.2017.09.026",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4711470331382339,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 232353609,
+      "title": "LAG3 and its emerging role in cancer immunotherapy",
+      "abstract": "Dear Editor, Immunotherapy has become a major form of cancer therapy after chemotherapy, radiotherapy, and targeted therapy. Immune checkpoint inhibitors (ICIs), such as anti-programmed cell death 1 (PD1), anti-programmed cell death ligand 1 (PDL1), and anti-cytotoxic T-lymphocyte associated protein 4 (CTLA4), are widely studied in cancer immunotherapy.1,2 However, a considerable percentage of tumor patients fail to respond to ICI monotherapy.3 Researchers have focused on enhancing mono-ICI efficacy through combination therapy or exploring novel immunotherapy targets. Lymphocyte-associated gene 3 (LAG3), a promising immune checkpoint, has received increasing attention recently. In this study, we described the biology of LAG3 and its function in cancer immunology, explored the multiomics characteristics of LAG3 utilizing a bioinformatics database, and provided perspective on the applications of single therapy or",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Miao Wang",
+          "id": ""
+        },
+        {
+          "name": "Qi Du",
+          "id": ""
+        },
+        {
+          "name": "Jiangtao Jin",
+          "id": ""
+        },
+        {
+          "name": "Yuhan Wei",
+          "id": ""
+        },
+        {
+          "name": "Yuting Lu",
+          "id": ""
+        },
+        {
+          "name": "Qin Li",
+          "id": ""
+        }
+      ],
+      "venue": "Clinical and Translational Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:232353609",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.47018890209681097,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 56569838,
+      "title": "Fibrinogen-like protein 1 is a major immune inhibitory ligand of LAG3",
+      "abstract": "SUMMARY Lymphocyte-activation gene 3 (LAG3) is an immune inhibitory receptor, with major histocompatibility complex class II (MHC-II) as a canonical ligand. However, it remains controversial whether MHC-II is solely responsible for the inhibitory function of LAG3. Here, we demonstrate that fibrinogen-like protein 1 (FGL1), a liver-secreted protein, is a major LAG3 functional ligand independent from MHC-II. FGL1 inhibits antigen-specific T-cell activation and ablation of FGL1 in mice promotes T-cell immunity. Blockade of the FGL1/LAG3 interaction by monoclonal antibodies stimulates tumor immunity and is therapeutic against established mouse tumors in a receptor-ligand inter-dependent manner. FGL1 is highly produced by human cancer cells and elevated FGL1 in the plasma of cancer patients is associated with a poor prognosis and resistance to anti-PD-1/B7-H1 therapy. Our findings reveal an immune evasion mechanism and have implications for the design of cancer immunotherapy.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Jun Wang",
+          "id": ""
+        },
+        {
+          "name": "M. Sanmamed",
+          "id": ""
+        },
+        {
+          "name": "I. Datar",
+          "id": ""
+        },
+        {
+          "name": "T. T. Su",
+          "id": ""
+        },
+        {
+          "name": "L. Ji",
+          "id": ""
+        },
+        {
+          "name": "Jingwei Sun",
+          "id": ""
+        },
+        {
+          "name": "Ling Chen",
+          "id": ""
+        },
+        {
+          "name": "Yusheng Chen",
+          "id": ""
+        },
+        {
+          "name": "G. Zhu",
+          "id": ""
+        },
+        {
+          "name": "Weiwei Yin",
+          "id": ""
+        },
+        {
+          "name": "Linghua Zheng",
+          "id": ""
+        },
+        {
+          "name": "Ting Zhou",
+          "id": ""
+        },
+        {
+          "name": "Ti Badri",
+          "id": ""
+        },
+        {
+          "name": "Sheng Yao",
+          "id": ""
+        },
+        {
+          "name": "Shu Zhu",
+          "id": ""
+        },
+        {
+          "name": "A. Boto",
+          "id": ""
+        },
+        {
+          "name": "M. Sznol",
+          "id": ""
+        },
+        {
+          "name": "I. Melero",
+          "id": ""
+        },
+        {
+          "name": "D. Vignali",
+          "id": ""
+        },
+        {
+          "name": "K. Schalper",
+          "id": ""
+        },
+        {
+          "name": "Lieping Chen",
+          "id": ""
+        }
+      ],
+      "venue": "Cell",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/30580966",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.47005272791962155,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 235228204,
+      "title": "Understanding LAG-3 Signaling",
+      "abstract": "Lymphocyte activation gene 3 (LAG-3) is a cell surface inhibitory receptor with multiple biological activities over T cell activation and effector functions. LAG-3 plays a regulatory role in immunity and emerged some time ago as an inhibitory immune checkpoint molecule comparable to PD-1 and CTLA-4 and a potential target for enhancing anti-cancer immune responses. LAG-3 is the third inhibitory receptor to be exploited in human anti-cancer immunotherapies, and it is considered a potential next-generation cancer immunotherapy target in human therapy, right next to PD-1 and CTLA-4. Unlike PD-1 and CTLA-4, the exact mechanisms of action of LAG-3 and its relationship with other immune checkpoint molecules remain poorly understood. This is partly caused by the presence of non-conventional signaling motifs in its intracellular domain that are different from other conventional immunoregulatory signaling motifs but with similar inhibitory activities. Here we summarize the current understanding of LAG-3 signaling and its role in LAG-3 functions, from its mechanisms of action to clinical applications.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "L. Chocarro",
+          "id": ""
+        },
+        {
+          "name": "E. Blanco",
+          "id": ""
+        },
+        {
+          "name": "M. Zuazo",
+          "id": ""
+        },
+        {
+          "name": "H. Arasanz",
+          "id": ""
+        },
+        {
+          "name": "A. Bocanegra",
+          "id": ""
+        },
+        {
+          "name": "L. Fern\u00e1ndez-Rubio",
+          "id": ""
+        },
+        {
+          "name": "P. Morente",
+          "id": ""
+        },
+        {
+          "name": "G. Fern\u00e1ndez\u2010Hinojal",
+          "id": ""
+        },
+        {
+          "name": "M. Echaide",
+          "id": ""
+        },
+        {
+          "name": "M. Garnica",
+          "id": ""
+        },
+        {
+          "name": "P. Ramos",
+          "id": ""
+        },
+        {
+          "name": "R. Vera",
+          "id": ""
+        },
+        {
+          "name": "G. Kochan",
+          "id": ""
+        },
+        {
+          "name": "D. Escors",
+          "id": ""
+        }
+      ],
+      "venue": "International Journal of Molecular Sciences",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:235228204",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4683548126517802,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 205213920,
+      "title": "LAG3 (CD223) as a Cancer Immunotherapy Target",
+      "abstract": "Despite the impressive impact of CTLA4 and PD1\u2010PDL1\u2010targeted cancer immunotherapy, a large proportion of patients with many tumor types fail to respond. Consequently, the focus has shifted to targeting alternative inhibitory receptors (IRs) and suppressive mechanisms within the tumor microenvironment. Lymphocyte activation gene\u20103 (LAG3) (CD223) is the third IR to be targeted in the clinic, consequently garnering considerable interest and scrutiny. LAG3 upregulation is required to control overt activation and prevent the onset of autoimmunity. However, persistent antigen exposure in the tumor microenvironment results in sustained LAG3 expression, contributing to a state of exhaustion manifest in impaired proliferation and cytokine production. The exact signaling mechanisms downstream of LAG3 and interplay with other IRs remain largely unknown. However, the striking synergy between LAG3 and PD1 observed in multiple settings, coupled with the contrasting intracellular cytoplasmic domain of LAG3 as compared with other IRs, highlights the potential uniqueness of LAG3. There are now four LAG3\u2010targeted therapies in the clinic with many more in preclinical development, emphasizing the broad interest in this IR. Given the translational relevance of LAG3 and the heightened interest in the impact of dual LAG3/PD1 targeting in the clinic, the outcome of these trials could serve as a nexus; significantly increasing or dampening enthusiasm for subsequent targets in the cancer immunotherapeutic pipeline.",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Lawrence P. Andrews",
+          "id": ""
+        },
+        {
+          "name": "A. Marciscano",
+          "id": ""
+        },
+        {
+          "name": "C. Drake",
+          "id": ""
+        },
+        {
+          "name": "D. A. Vignali",
+          "id": ""
+        }
+      ],
+      "venue": "Immunological Reviews",
+      "journal": null,
+      "url": "https://doi.org/10.1111/imr.12519",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.46669189319652415,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 235663600,
+      "title": "Molecular and Clinical Characterization of LAG3 in Breast Cancer Through 2994 Samples",
+      "abstract": "Despite the promising impact of cancer immunotherapy targeting CTLA4 and PD1/PDL1, numerous cancer patients fail to respond. LAG3 (Lymphocyte Activating 3), also named CD233, serves as an alternative inhibitory receptor to be targeted in the clinic. The impacts of LAG3 on immune cell populations and coregulation of immune responses in breast cancer remain largely unknown. To characterize the role of LAG3 in breast cancer, we investigated transcriptome data and associated clinical information derived from 2,994 breast cancer patients. We estimated the landscape of the relationship between LAG3 and 10 types of cell populations of breast cancer. We investigated the correlation pattern between LAG3 and immune modulators in pancancer, particularly the synergistic role of LAG3 with other immune checkpoint members in breast cancer. LAG3 expression was closely related to the malignancy of breast cancer and may serve as a potential biomarker. LAG3 may play an important role in regulating the tumor immune microenvironment of T cells and other immune cells. More important, LAG3 may synergize with CTLA4, PD1/PDL1, and other immune checkpoints, thereby contributing more evidence to improve combination cancer immunotherapy by simultaneously targeting LAG3, PD1/PDL1, and CTLA4.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Qiang Liu",
+          "id": ""
+        },
+        {
+          "name": "Y. Qi",
+          "id": ""
+        },
+        {
+          "name": "J. Zhai",
+          "id": ""
+        },
+        {
+          "name": "X. Kong",
+          "id": ""
+        },
+        {
+          "name": "Xiangyu Wang",
+          "id": ""
+        },
+        {
+          "name": "Yi Fang",
+          "id": ""
+        },
+        {
+          "name": "Jing Wang",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/34267742",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4627181652180525,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 231150100,
+      "title": "Research Progress Concerning Dual Blockade of Lymphocyte-Activation Gene 3 and Programmed Death-1/Programmed Death-1 Ligand-1 Blockade in Cancer Immunotherapy: Preclinical and Clinical Evidence of This Potentially More Effective Immunotherapy Strategy",
+      "abstract": "Although various immunotherapies have exerted promising effects on cancer treatment, many patients with cancer continue to exhibit poor responses. Because of its negative regulatory effects on T cells and its biological functions related to immune and inflammatory responses, there has been considerable emphasis on a protein-coding gene named lymphocyte-activation gene 3 (LAG3). Recently, evidence demonstrated marked synergy in its targeted therapy with programmed death-1 and programmed death-1 ligand-1 (PD-1/PD-L1) blockade, and a variety of LAG3 targeted agents are in clinical trials, indicating the important role of LAG3 in immunotherapy. This mini-review discusses preclinical and clinical studies investigating PD-1 pathway blockade in combination with LAG3 inhibition as a potentially more effective immunotherapy strategy for further development in the clinic. This strategy might provide a new approach for the design of more effective and precise cancer immune checkpoint therapies.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Y. Qi",
+          "id": ""
+        },
+        {
+          "name": "Li Chen",
+          "id": ""
+        },
+        {
+          "name": "Qiang Liu",
+          "id": ""
+        },
+        {
+          "name": "X. Kong",
+          "id": ""
+        },
+        {
+          "name": "Yi Fang",
+          "id": ""
+        },
+        {
+          "name": "Jing Wang",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:231150100",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4625194242194023,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 221373332,
+      "title": "Molecular, clinicopathological, and immune correlates of LAG3 promoter DNA methylation in melanoma",
+      "abstract": "Background The co-receptor lymphocyte-activation gene-3 (LAG3, LAG-3, CD223) is a potential target for immune checkpoint inhibition immunotherapies. However, little is known about the biological and clinical significance of LAG3 DNA methylation in melanoma and its microenvironment. Methods We evaluated LAG3 promoter and gene body methylation in a cohort of N = 470 melanoma patients obtained from The Cancer Genome Atlas (TCGA cohort), an independent cohort of N = 120 patients from the University Hospital Bonn, and in subsets of peripheral blood leukocytes, melanocytes, and melanoma cell lines. We validated the association of LAG3 methylation with mRNA expression in vitro in the melanoma cell line A375 treated with the hypomethylating agent 5-azacytidine and stimulated with interferon-\u03b3. Finally, we investigated correlations between LAG3 methylation and progression-free survival in patients treated with immune checkpoint blockade (ICB cohort, N = 118). Findings Depending on the analysed locus (promoter, gene body) we found region-dependent significant LAG3 methylation differences between monocytes, B cells, CD8+ and CD4+ T cells, regulatory T cells, melanocytes, and melanoma cell lines. In tumor tissues, methylation correlated significantly with LAG3 mRNA expression, immune cell infiltrates (histopathologic lymphocyte score and RNA-Seq signatures of distinct immune infiltrates), and an interferon-\u03b3 signature. Finally, LAG3 methylation was associated with overall survival in the TCGA cohort and progression-free survival in the ICB cohort. We detected basal LAG3 mRNA expression in the melanoma cell A375 and an interferon-\u03b3 inducible expression after demethylation with 5-azacytidine. Interpretation Our study points towards an epigenetic regulation of LAG3 via promoter methylation and suggests a prognostic and predictive significance of LAG3 methylation in melanoma. Our results give insight in the tumor cell-intrinsic transcriptional regulation of LAG3 in melanoma. In perspective, our results might pave the way for investigating LAG3 methylation as a predictive biomarker for response to anti-LAG3 immune checkpoint blockage. Funding A full list of funding bodies that contributed to this study can be found in the Acknowledgements section.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "A. Fr\u00f6hlich",
+          "id": ""
+        },
+        {
+          "name": "J. Sirokay",
+          "id": ""
+        },
+        {
+          "name": "S. Fietz",
+          "id": ""
+        },
+        {
+          "name": "Timo J. Vogt",
+          "id": ""
+        },
+        {
+          "name": "J\u00f6rn Dietrich",
+          "id": ""
+        },
+        {
+          "name": "Romina Zarbl",
+          "id": ""
+        },
+        {
+          "name": "M. Florin",
+          "id": ""
+        },
+        {
+          "name": "Pia Kuster",
+          "id": ""
+        },
+        {
+          "name": "Gonzalo Saavedra",
+          "id": ""
+        },
+        {
+          "name": "Susana Ram\u00edrez Valladolid",
+          "id": ""
+        },
+        {
+          "name": "F. Hoffmann",
+          "id": ""
+        },
+        {
+          "name": "L. Flatz",
+          "id": ""
+        },
+        {
+          "name": "S. Ring",
+          "id": ""
+        },
+        {
+          "name": "Carsten Golletz",
+          "id": ""
+        },
+        {
+          "name": "T. Pietsch",
+          "id": ""
+        },
+        {
+          "name": "S. Strieth",
+          "id": ""
+        },
+        {
+          "name": "P. Brossart",
+          "id": ""
+        },
+        {
+          "name": "G. Gielen",
+          "id": ""
+        },
+        {
+          "name": "G. Kristiansen",
+          "id": ""
+        },
+        {
+          "name": "F. Bootz",
+          "id": ""
+        },
+        {
+          "name": "J. Landsberg",
+          "id": ""
+        },
+        {
+          "name": "D. Dietrich",
+          "id": ""
+        }
+      ],
+      "venue": "EBioMedicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:221373332",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.46240796116032096,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 226296014,
+      "title": "Immune Checkpoints and CAR-T Cells: The Pioneers in Future Cancer Therapies?",
+      "abstract": "Although the ever-increasing number of cancer patients pose substantial challenges worldwide, finding a treatment with the highest response rate and the lowest number of side effects is still undergoing research. Compared to chemotherapy, the relatively low side effects of cancer immunotherapy have provided ample opportunity for immunotherapy to become a promising approach for patients with malignancy. However, the clinical translation of immune-based therapies requires robust anti-tumoral immune responses. Immune checkpoints have substantial roles in the induction of an immunosuppressive tumor microenvironment and tolerance against tumor antigens. Identifying and targeting these inhibitory axes, which can be established between tumor cells and tumor-infiltrating lymphocytes, can facilitate the development of anti-tumoral immune responses. Bispecific T-cell engagers, which can attract lymphocytes to the tumor microenvironment, have also paved the road for immunological-based tumor elimination. The development of CAR-T cells and their gene editing have brought ample opportunity to recognize tumor antigens, independent from immune checkpoints and the major histocompatibility complex (MHC). Indeed, there have been remarkable advances in developing various CAR-T cells to target tumoral cells. Knockout of immune checkpoints via gene editing in CAR-T cells might be designated for a breakthrough for patients with malignancy. In the midst of this fast progress in cancer immunotherapies, there is a need to provide up-to-date information regarding immune checkpoints, bispecific T-cell engagers, and CAR-T cells. Therefore, this review aims to provide recent findings of immune checkpoints, bispecific T-cell engagers, and CAR-T cells in cancer immunotherapy and discuss the pertained clinical trials.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Negar Hosseinkhani",
+          "id": ""
+        },
+        {
+          "name": "Afshin Derakhshani",
+          "id": ""
+        },
+        {
+          "name": "Omid Kooshkaki",
+          "id": ""
+        },
+        {
+          "name": "Mahdi Abdoli Shadbad",
+          "id": ""
+        },
+        {
+          "name": "Khalil Hajiasgharzadeh",
+          "id": ""
+        },
+        {
+          "name": "A. Baghbanzadeh",
+          "id": ""
+        },
+        {
+          "name": "H. Safarpour",
+          "id": ""
+        },
+        {
+          "name": "A. Mokhtarzadeh",
+          "id": ""
+        },
+        {
+          "name": "O. Brunetti",
+          "id": ""
+        },
+        {
+          "name": "Simon C. Yue",
+          "id": ""
+        },
+        {
+          "name": "N. Silvestris",
+          "id": ""
+        },
+        {
+          "name": "B. Baradaran",
+          "id": ""
+        }
+      ],
+      "venue": "International Journal of Molecular Sciences",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:226296014",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4613643736817434,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 262162313,
+      "title": "Comprehensive immunophenotyping of solid tumor-infiltrating immune cells reveals the expression characteristics of LAG-3 and its ligands",
+      "abstract": "Background Immune cell expression profiling from patient samples is critical for the successful development of immuno-oncology agents and is useful to understand mechanism-of-action, to identify exploratory biomarkers predictive of response, and to guide treatment selection and combination therapy strategies. LAG-3 is an inhibitory immune checkpoint that can suppress antitumor T-cell responses and targeting LAG-3, in combination with PD-1, is a rational approach to enhance antitumor immunity that has recently demonstrated clinical success. Here, we sought to identify human immune cell subsets that express LAG-3 and its ligands, to characterize the marker expression profile of these subsets, and to investigate the potential relationship between LAG-3 expressing subsets and clinical outcomes to immuno-oncology therapies. Methods Comprehensive high-parameter immunophenotyping was performed using mass and flow cytometry of tumor-infiltrating lymphocytes (TILs) and peripheral blood mononuclear cells (PBMCs) from two independent cohorts of samples from patients with various solid tumor types. Profiling of circulating immune cells by single cell RNA-seq was conducted on samples from a clinical trial cohort of melanoma patients treated with immunotherapy. Results LAG-3 was most highly expressed by subsets of tumor-infiltrating CD8 T central memory (TCM) and effector memory (TEM) cells and was frequently co-expressed with PD-1. We determined that these PD-1+ LAG-3+ CD8 memory T cells exhibited a unique marker profile, with greater expression of activation (CD69, HLA-DR), inhibitory (TIM-3, TIGIT, CTLA-4) and stimulatory (4-1BB, ICOS) markers compared to cells that expressed only PD-1 or LAG-3, or that were negative for both checkpoints. In contrast to tumors, LAG-3 expression was more limited in circulating immune cells from healthy donors and solid tumor patients. Additionally, we found abundant expression of the LAG-3 ligands MHC-II and galectin-3 in diverse immune cell types, whereas FGL1 and LSECtin were minimally expressed by immune cells in the tumor microenvironment (TME). Lastly, we found an inverse relationship between baseline and on-treatment levels of circulating LAG3 transcript-expressing CD8 memory T cells and response to combination PD-1 and CTLA-4 blockade in a clinical trial cohort of melanoma patients profiled by scRNAseq. Conclusions These results provide insights into the nature of LAG-3- and ligand-expressing immune cells within the TME, and suggest a biological basis for informing mechanistic hypotheses, treatment selection strategies, and combination immunotherapy approaches to support continued development of dual PD-1 and LAG-3 blockade.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Bradley Garman",
+          "id": ""
+        },
+        {
+          "name": "Can Jiang",
+          "id": ""
+        },
+        {
+          "name": "S. Daouti",
+          "id": ""
+        },
+        {
+          "name": "Sanah Kumar",
+          "id": ""
+        },
+        {
+          "name": "P. Mehta",
+          "id": ""
+        },
+        {
+          "name": "M. Jacques",
+          "id": ""
+        },
+        {
+          "name": "L. Menard",
+          "id": ""
+        },
+        {
+          "name": "Nataly Manjarrez-Ordu\u00f1o",
+          "id": ""
+        },
+        {
+          "name": "Sonia Dolfi",
+          "id": ""
+        },
+        {
+          "name": "Piali Mukherjee",
+          "id": ""
+        },
+        {
+          "name": "S. C. Rai",
+          "id": ""
+        },
+        {
+          "name": "Ana Lako",
+          "id": ""
+        },
+        {
+          "name": "Jennifer Koenitzer",
+          "id": ""
+        },
+        {
+          "name": "J. David",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:262162313",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4612237587128722,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 67872295,
+      "title": "Fc\u03b3R-Binding Is an Important Functional Attribute for Immune Checkpoint Antibodies in Cancer Immunotherapy",
+      "abstract": "T cells play critical roles in anti-tumor immunity. Up-regulation of immune checkpoint molecules (PD-1, PD-L1, CTLA-4, TIM-3, Lag-3, TIGIT, CD73, VISTA, B7-H3) in the tumor microenvironment is an important mechanism that restrains effector T cells from the anti-tumor activity. To date, immune checkpoint antibodies have demonstrated significant clinical benefits for cancer patients treated with mono- or combination immunotherapies. However, many tumors do not respond to the treatment well, and merely blocking the immune suppression pathways by checkpoint-regulatory antibodies may not render optimal tumor growth inhibition. Binding of the antibody Fc-hinge region to Fc gamma receptors (Fc\u03b3Rs) has been shown to exert a profound impact on antibody function and in vivo efficacy. Investigation of immune checkpoint antibodies regarding their effector functions and impact on therapeutic efficacy has gained more attention in recent years. In this review, we discuss Fc variants of antibodies against immune checkpoint targets and the potential mechanisms of how Fc\u03b3R-binding could influence the anti-tumor activity of these antibodies.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Xin Chen",
+          "id": ""
+        },
+        {
+          "name": "Xiaomin Song",
+          "id": ""
+        },
+        {
+          "name": "Kang Li",
+          "id": ""
+        },
+        {
+          "name": "Tong Zhang",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:67872295",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4603031034625128,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 245366998,
+      "title": "Seven mysteries of LAG-3: a multi-faceted immune receptor of increasing complexity",
+      "abstract": "Abstract Despite three decades of research to its name and increasing interest in immunotherapies that target it, LAG-3 remains an elusive co-inhibitory receptor in comparison to the well-established PD-1 and CTLA-4. As such, LAG-3 targeting therapies have yet to achieve the clinical success of therapies targeting other checkpoints. This could, in part, be attributed to the many unanswered questions that remain regarding LAG-3 biology. Of these, we address: (i) the function of the many LAG-3-ligand interactions, (ii) the hurdles that remain to acquire a high-resolution structure of LAG-3, (iii) the under-studied LAG-3 signal transduction mechanism, (iv) the elusive soluble form of LAG-3, (v) the implications of the lack of (significant) phenotype of LAG-3 knockout mice, (vi) the reports of LAG-3 expression on the epithelium, and (vii) the conflicting reports of LAG-3 expression (and potential contributions to pathology) in the brain. These mysteries which surround LAG-3 highlight how the ever-evolving study of its biology continues to reveal ever-increasing complexity in its role as an immune receptor. Importantly, answering the questions which shroud LAG-3 in mystery will allow the maximum therapeutic benefit of LAG-3 targeting immunotherapies in cancer, autoimmunity and beyond.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "S. Burnell",
+          "id": ""
+        },
+        {
+          "name": "L. Capitani",
+          "id": ""
+        },
+        {
+          "name": "B. MacLachlan",
+          "id": ""
+        },
+        {
+          "name": "Georgina H Mason",
+          "id": ""
+        },
+        {
+          "name": "A. Gallimore",
+          "id": ""
+        },
+        {
+          "name": "A. Godkin",
+          "id": ""
+        }
+      ],
+      "venue": "Immunotherapy Advances",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:245366998",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4594824661705931,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 242948013,
+      "title": "Lymphocyte activation gene-3 is associated with programmed death-ligand 1 and programmed cell death protein 1 in small cell lung cancer",
+      "abstract": "Background In recent years, immunotherapy has achieved notable success in cancer treatment. Indeed, the novel immune checkpoint lymphocyte activation gene-3 (LAG3) has shown promising therapeutic efficacy in non-small cell lung cancer. However, it is unclear about the role of LAG3 in immunotherapy and survival in small cell lung cancer (SCLC). Methods The expression of LAG3 in SCLC was evaluated in four public datasets. The association of LAG3 with programmed death-ligand 1 (PD-L1), programmed cell death protein 1 (PD-1), and overall survival (OS) was investigated. The LAG3-related biological processes and pathways were identified by functional analyses. Results LAG3 expression was detected in SCLC tumor tissues. In the cBioPortal dataset with 81 clinical SCLC samples, LAG3 expression was markedly associated with PD-1 and PD-L1 expression (both P<0.050). In addition, Patients with high LAG3 expression had a trend toward a better OS (P=0.073). A similar survival trend was also observed in the GSE60052 dataset. Significantly, LAG3 expression was related to immune-related biological processes, such as immune response, antigen processing and presentation, and T cell co-stimulation (all P<0.001). Conclusions This study demonstrated that LAG3 is an important immune checkpoint that is closely associated with PD-1/PD-L1. LAG3 may be a promising novel immunotherapy target for SCLC.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Hui Sun",
+          "id": ""
+        },
+        {
+          "name": "Jia-qi Dai",
+          "id": ""
+        },
+        {
+          "name": "Lishu Zhao",
+          "id": ""
+        },
+        {
+          "name": "Jun Zhu",
+          "id": ""
+        },
+        {
+          "name": "Hao Wang",
+          "id": ""
+        },
+        {
+          "name": "Peixin Chen",
+          "id": ""
+        },
+        {
+          "name": "Hui Lu",
+          "id": ""
+        },
+        {
+          "name": "Qian-kun Chen",
+          "id": ""
+        },
+        {
+          "name": "Zhemin Zhang",
+          "id": ""
+        }
+      ],
+      "venue": "Annals of Translational Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:242948013",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.45831630524790257,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 234778650,
+      "title": "The regulation of immune checkpoints by the hypoxic tumor microenvironment",
+      "abstract": "The tumor microenvironment (TME) influences the occurrence and progression of tumors, and hypoxia is an important characteristic of the TME. The expression of programmed death 1 (PD1)/programmed death-ligand 1 (PDL1), cytotoxic T-lymphocyte-associated antigen 4 (CTLA4), and other immune checkpoints in hypoxic malignant tumors is often significantly increased, and is associated with poor prognosis. The application of immune checkpoint inhibitors (ICIs) for treating lung cancer, urothelial carcinoma, and gynecological tumors has achieved encouraging efficacy; however, the rate of efficacy of ICI single-drug treatment is only about 20%. In the present review, we discuss the possible mechanisms by which the hypoxic TME regulates immune checkpoints. By activating hypoxia-inducible factor-1\u03b1 (HIF-1\u03b1), regulating the adenosine (Ado)-A2aR pathway, regulating the glycolytic pathway, and driving epithelial-mesenchymal transition (EMT) and other biological pathways, hypoxia regulates the expression levels of CTLA4, PD1, PDL1, CD47, lymphocyte activation gene 3 (LAG3), T-cell immunoglobulin and mucin domain 3 (TIM3), and other immune checkpoints, which interfere with the immune effector cell anti-tumor response and provide convenient conditions for tumors to escape immune surveillance. The combination of HIF-1\u03b1 inhibitors, Ado-inhibiting tumor immune microenvironment regulatory drugs, and other drugs with ICIs has good efficacy in both preclinical studies and phase I-II clinical studies. Exploring the effects of TME hypoxia on the expression of immune checkpoints and the function of infiltrating immune cells has greatly clarified the relationship between the hypoxic TME and immune escape, which is of great significance for the development of new drugs and the search for predictive markers of the efficacy of immunotherapy for treating malignant tumors. In the future, combination therapy with hypoxia pathway inhibitors and ICIs may be an effective anti-tumor treatment strategy.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Min Hu",
+          "id": ""
+        },
+        {
+          "name": "Yongfu Li",
+          "id": ""
+        },
+        {
+          "name": "Yuting Lu",
+          "id": ""
+        },
+        {
+          "name": "Miao Wang",
+          "id": ""
+        },
+        {
+          "name": "Yingrui Li",
+          "id": ""
+        },
+        {
+          "name": "Chaoying Wang",
+          "id": ""
+        },
+        {
+          "name": "Qin Li",
+          "id": ""
+        },
+        {
+          "name": "Hong Zhao",
+          "id": ""
+        }
+      ],
+      "venue": "PeerJ",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:234778650",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4581215116544407,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 269957781,
+      "title": "A novel LAG3 neutralizing antibody improves cancer immunotherapy by dual inhibition of MHC-II and FGL1 ligand binding.",
+      "abstract": "LAG3 is an inhibitory immune checkpoint expressed on activated T and NK cells. Blocking the interaction of LAG3 with its ligands MHC-II and FGL1 renders T cells improved cytotoxicity to cancer cells. Current study generated a panel of LAG3 monoclonal antibodies (mAbs) through immunization of mice followed by phage display. Some of them bound to the D1-D2 domain of LAG3, which is known for the engagement of its ligands FGL1 and MHC-II. Three outperformers, M208, M226, and M234, showed stronger blocking activity than Relatlimab in the FGL1 binding. Furthermore, M234 showed dual inhibition of FGL1 (IC50 of 20.6\u202fnM) and MHC-II binding (IC50 of 6.2\u202fnM) to LAG3. In vitro functional tests showed that M234 significantly stimulated IFN-\u03b3 secretion from activated PBMC cells. In vivo studies in a mouse model of hepatocellular carcinoma xenografts demonstrated that combining M234 IgG with GPC3-targeted bispecific antibodies significantly improved efficacy. In addition, GPC3-targeted CAR-T cells secreting IL-21-M234 scFv fusion protein exhibited enhanced activity in inhibiting tumor growth and greatly increased the survival rate of mice. Taken together, M234 has potential in cancer immunotherapy and warrants further clinical trial.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Dianbao Zuo",
+          "id": ""
+        },
+        {
+          "name": "Yuankui Zhu",
+          "id": ""
+        },
+        {
+          "name": "Ke Wang",
+          "id": ""
+        },
+        {
+          "name": "Youjia Qin",
+          "id": ""
+        },
+        {
+          "name": "Yiyi Su",
+          "id": ""
+        },
+        {
+          "name": "Sina Lan",
+          "id": ""
+        },
+        {
+          "name": "Yunyi Li",
+          "id": ""
+        },
+        {
+          "name": "S. Dong",
+          "id": ""
+        },
+        {
+          "name": "Yinming Liang",
+          "id": ""
+        },
+        {
+          "name": "Mingqian Feng",
+          "id": ""
+        }
+      ],
+      "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:269957781",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.457788792598096,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 269564785,
+      "title": "LAG\u20103 : recent developments in combinational therapies in cancer",
+      "abstract": "The study of anticancer immune responses and in particular the action of immune checkpoint inhibitors that overcome T cell inhibition has revolutionized metastatic patients' care. Unfortunately, many patients are resistant to these innovative immunotherapies. Over the last decade, several immune checkpoint inhibitors, currently available in the clinic, have been developed, such as anti\u2010PD\u20101/PD\u2010L1 or anti\u2010CTLA\u20104. More recently, other immune checkpoints have been characterized, among them lymphocyte activation gene 3 (LAG\u20103). LAG\u20103 has been the subject of numerous therapeutic studies and may be involved in cancer\u2010associated immune resistance phenomena. This review summarizes the latest knowledge on LAG\u20103 as an immunotherapeutic target, particularly in combination with standard or innovative therapies. Indeed, many studies are looking at combining LAG\u20103 inhibitors with chemotherapeutic, immunotherapeutic, radiotherapeutic treatments, or adoptive cell therapies to potentiate their antitumor effects and/or to overcome patients' resistance. We will particularly focus on the association therapies that are currently in phase III clinical trials and innovative combinations in preclinical phase. These new discoveries highlight the possibility of developing other types of therapeutic combinations currently unavailable in the clinic, which could broaden the therapeutic spectrum of personalized medicine.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Aude Chavanton",
+          "id": ""
+        },
+        {
+          "name": "Flavie Mialhe",
+          "id": ""
+        },
+        {
+          "name": "Jimena Abrey",
+          "id": ""
+        },
+        {
+          "name": "Alvaro Baeza Garcia",
+          "id": ""
+        },
+        {
+          "name": "Carmen Garrido",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Science",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:269564785",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.45626432646240317,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 233770897,
+      "title": "Aberrant Expression of Fgl-1 and Lag-3 in Adenomyosis",
+      "abstract": "\n Background: The presence of ectopic functional endometrial glands and stroma in the myometrium of the uterine cavity is considered as adenomyosis. Various inflammatory, vascular and mechanical factors are involved in the symptoms and evolution of this pathology. Lymphocyte-activation gene 3 (Lag-3) is an immune inhibitory receptor and fibrinogen-like protein 1 (Fgl-1) is a major functional ligand of Lag-3. The binding of Lag-3 and Fgl-1 leads to inhibition of T-cell immunity, which is an important target of immunotherapy. The objective of this study was to evaluate the expression of Lag-3 and Fgl-1 in normal endometrium and adenomyosis.Methods: The expression of the Lag-3 and Fgl-1 in normal endometrium (proliferative phase: n=15; secretory phase: n=15) and adenomyotic endometrium (proliferative phase: n=15; secretory phase: n=15) were determined using immunohistochemistry and immunofluorescence analysis.Results: In normal and adnomyotic endometrium, no significant difference of Fgl-1 expression was noted between proliferative and secretory phases. Compared with normal endometrium, eutopic and ectopic endometrium of adenomyosis showed increased expression of Fgl-1. Lag-3 was almost negative in endometrial glands of normal and adenomyosis. Compared with normal endometrium, Lag-3 positive T-lymphocytes were more common in the stroma of adenomyosis.Conclusions: Our data suggest that aberrant expression of Lag-3 and Fgl-1 is present in the eutopic and ectopic endometrium of adenomyosis. We conclude that Lag-3/Fgl-1 signaling may be involved in the pathogenesis and development of adenomyosis.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Wenjing Sun",
+          "id": ""
+        },
+        {
+          "name": "Xiaoyan Qin",
+          "id": ""
+        },
+        {
+          "name": "Guangxin Yuan",
+          "id": ""
+        },
+        {
+          "name": "Na Li",
+          "id": ""
+        },
+        {
+          "name": "Junhui Liang",
+          "id": ""
+        },
+        {
+          "name": "Chunyan Li",
+          "id": ""
+        },
+        {
+          "name": "Changzhong Li",
+          "id": ""
+        },
+        {
+          "name": "Mingjiang Li",
+          "id": ""
+        },
+        {
+          "name": "Xingbo Zhao",
+          "id": ""
+        },
+        {
+          "name": "Hui Zhang",
+          "id": ""
+        }
+      ],
+      "venue": null,
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:233770897",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4523739798956697,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 278322143,
+      "title": "Research advances in FGL1/LAG3 for cancer diagnosis and treatment: From basics to clinical practice.",
+      "abstract": "ABSTRACT\nFibrinogen-like protein 1 (FGL1), a liver-secreted protein involved in proliferation and metabolism, and lymphocyte activation gene 3 (LAG3), an immune checkpoint receptor expressed on the surfaces of various activated immune cells, play critical roles in tumor immunology. Numerous studies have confirmed that FGL1 acts as a ligand for LAG3 and mediates immune evasion by tumor cells. This review aims to provide a comprehensive summary of the research progress in FGL1/LAG3 in terms of its expression, role in the tumor microenvironment, and clinical application. The expression and regulation of FGL1/LAG3 are influenced by multiple cytokines and signaling pathways. In the tumor microenvironment, FGL1/LAG3 modulates tumor cell proliferation, invasion, and migration through mechanisms such as epithelial-mesenchymal transition, gene methylation, oxygen metabolism, and lipid metabolism. FGL1/LAG3 can serve as a prognostic biomarker, independently or in combination with PD-L1/PD-1, and can be targeted using monoclonal antibodies, bi-specific antibodies, and dual-targeted vaccines to restore the proliferation and activation potential of T cells. Additionally, FGL1/LAG3 has demonstrated therapeutic potential when combined with targeted therapies, radiotherapy, traditional Chinese medicine, and adoptive cell therapy. Overall, FGL1/LAG3 plays a pivotal role in cancer initiation, progression, diagnosis, treatment, and prognosis.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Keyao Hu",
+          "id": ""
+        },
+        {
+          "name": "Guiming Zhang",
+          "id": ""
+        },
+        {
+          "name": "Haitao Niu",
+          "id": ""
+        },
+        {
+          "name": "Lijiang Sun",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Cancer Research and Therapeutics",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:278322143",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4511195193106433,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 251371987,
+      "title": "Immunotherapeutic targets in non\u2010small cell lung cancer",
+      "abstract": "Non\u2010small cell lung cancer (NSCLC) is one of the most common types of cancer in the world and has a 5\u2010year survival rate of ~20%. Immunotherapies have shown promising results leading to durable responses, however, they are only effective for a subset of patients. To determine the best therapeutic approach, a thorough and in\u2010depth profiling of the tumour microenvironment (TME) is required. The TME is a complex network of cell types that form an interconnected network, promoting tumour cell initiation, growth and dissemination. The stroma, immune cells and endothelial cells that comprise the TME generate a plethora of cytotoxic or cytoprotective signalling pathways. In this review, we discuss immunotherapeutic targets in NSCLC tumours and how the TME may influence patients' response to immunotherapy.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Habib Sadeghi Rad",
+          "id": ""
+        },
+        {
+          "name": "Tayyeb Bahrami",
+          "id": ""
+        },
+        {
+          "name": "Sepideh Mehrpour Layeghi",
+          "id": ""
+        },
+        {
+          "name": "Hassan Yousefi",
+          "id": ""
+        },
+        {
+          "name": "Meysam Rezaei",
+          "id": ""
+        },
+        {
+          "name": "S. R. Hosseini-Fard",
+          "id": ""
+        },
+        {
+          "name": "P. Radfar",
+          "id": ""
+        },
+        {
+          "name": "M. Warkiani",
+          "id": ""
+        },
+        {
+          "name": "K. O'Byrne",
+          "id": ""
+        },
+        {
+          "name": "A. Kulasinghe",
+          "id": ""
+        }
+      ],
+      "venue": "Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:251371987",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4506052237084128,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 240471124,
+      "title": "Key Activating and Inhibitory Ligands Involved in the Mobilization of Natural Killer Cells for Cancer Immunotherapies",
+      "abstract": "Abstract Natural killer (NK) cells are the most potent arm of the innate immune system and play an important role in immunity, alloimmunity, autoimmunity, and cancer. NK cells recognize \u201caltered-self\u201d cells due to oncogenic transformation or stress due to viral infection and target to kill them. The effector functions of NK cells depend on the interaction of the activating and inhibitory receptors on their surface with their cognate ligand expressed on the target cells. These activating and inhibitory receptors interact with major histocompatibility complex I (MHC I) expressed on the target cells and make decisions to mount an immune response. NK cell immune response includes cytolytic activity and secretion of cytokines to help with the ongoing immune response. The advancement of our knowledge on the expression of inhibitory and activating molecules led us to exploit these molecules in the treatment of cancer. This review discusses the importance of activating and inhibitory receptors on NK cells and their clinical importance in cancer immunotherapy.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Surojit Karmakar",
+          "id": ""
+        },
+        {
+          "name": "Pradipta Pal",
+          "id": ""
+        },
+        {
+          "name": "G. Lal",
+          "id": ""
+        }
+      ],
+      "venue": "ImmunoTargets and Therapy",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:240471124",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4495898505988724,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 251877407,
+      "title": "The Features of Checkpoint Receptor\u2014Ligand Interaction in Cancer and the Therapeutic Effectiveness of Their Inhibition",
+      "abstract": "To date, certain problems have been identified in cancer immunotherapy using the inhibition of immune checkpoints (ICs). Despite the excellent effect of cancer therapy in some cases when blocking the PD-L1 (programmed death-ligand 1) ligand and the immune cell receptors PD-1 (programmed cell death protein 1) and CTLA4 (cytotoxic T-lymphocyte-associated protein 4) with antibodies, the proportion of patients responding to such therapy is still far from desirable. This situation has stimulated the exploration of additional receptors and ligands as targets for immunotherapy. In our article, based on the analysis of the available data, the TIM-3 (T-cell immunoglobulin and mucin domain-3), LAG-3 (lymphocyte-activation gene 3), TIGIT (T-cell immunoreceptor with Ig and immunoreceptor tyrosine-based inhibitory motif (ITIM) domains), VISTA (V-domain Ig suppressor of T-cell activation), and BTLA (B- and T-lymphocyte attenuator) receptors and their ligands are comprehensively considered. Data on the relationship between receptor expression and the clinical characteristics of tumors are presented and are analyzed together with the results of preclinical and clinical studies on the therapeutic efficacy of their blocking. Such a comprehensive analysis makes it possible to assess the prospects of receptors of this series as targets for anticancer therapy. The expression of the LAG-3 receptor shows the most unambiguous relationship with the clinical characteristics of cancer. Its inhibition is the most effective of the analyzed series in terms of the antitumor response. The expression of TIGIT and BTLA correlates well with clinical characteristics and demonstrates antitumor efficacy in preclinical and clinical studies, which indicates their high promise as targets for anticancer therapy. At the same time, the relationship of VISTA and TIM-3 expression with the clinical characteristics of the tumor is contradictory, and the results on the antitumor effectiveness of their inhibition are inconsistent.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "A. Kuzevanova",
+          "id": ""
+        },
+        {
+          "name": "N. Apanovich",
+          "id": ""
+        },
+        {
+          "name": "D. Mansorunov",
+          "id": ""
+        },
+        {
+          "name": "A. Korotaeva",
+          "id": ""
+        },
+        {
+          "name": "A. Karpukhin",
+          "id": ""
+        }
+      ],
+      "venue": "Biomedicines",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:251877407",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.44834014226615787,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 227257503,
+      "title": "A Highlight of the Mechanisms of Immune Checkpoint Blocker Resistance",
+      "abstract": "In recent years, as our understanding of tumor immunology is continuously improved, immunotherapy has come to the center stage of cancer therapy and is deemed as the most promising approach for cancer control. Although immunotherapy, particularly immune checkpoint blockade (ICB), has achieved a milestone in several types of tumors, the majority of cancer patients do not benefit from immunotherapy. The dismal outcome of cancer immunotherapy is mainly due to primary or acquired resistance arising from tumor immune evasion. Exploring the mechanisms of tumor immune evasion in the course of immunotherapy may identify biological targets to conquer tumor resistance to immunotherapy. In this review, we highlight tumor cell-intrinsic and -extrinsic factors that may underlie tumor resistance to immune checkpoint blockers. Targeting these factors in combination with immune checkpoint blockers points to the future direction of cancer immunotherapy.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Qian Huang",
+          "id": ""
+        },
+        {
+          "name": "Yanna Lei",
+          "id": ""
+        },
+        {
+          "name": "Xiaoying Li",
+          "id": ""
+        },
+        {
+          "name": "F. Guo",
+          "id": ""
+        },
+        {
+          "name": "Ming Liu",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Cell and Developmental Biology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:227257503",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.44590161430635505,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 226252228,
+      "title": "Cytochalasins from Xylaria sp. CFL5, an Endophytic Fungus of Cephalotaxus fortunei",
+      "abstract": "Abstract Three previously undescribed cytochalasins, named xylariasins A\u2012C ( 1 \u2012 3 ), together with six known ones ( 4 \u2012 9 ) were isolated from Xylaria sp. CFL5, an endophytic fungus of Cephalotaxus fortunei . The chemical structures of all new compounds were elucidated on the basis of extensive spectroscopic data analyses and electronic circular dichroism calculation, as well as optical rotation calculation. Biological activities of compounds 1 , 4 \u2012 9 were evaluated, including cytotoxic, LAG3/MHC II binding inhibition and LAG3/FGL1 binding inhibition activities. Compounds 6 and 9 possessed cytotoxicity against AGS cells at 5\u00a0\u03bcM, with inhibition rates of 94% and 64%, respectively. In addition, all tested isolates, except compound 6 , exhibited obvious inhibitory activity against the interaction of both LAG3/MHC II and LAG3/FGL1. Compounds 1 , 5 , 7 , and 8 inhibited LAG3/MHC II with IC 50 values ranging from 2.37 to 4.74\u00a0\u03bcM. Meanwhile, the IC 50 values of compounds 1 , 7 , and 8 against LAG3/FGL1 were 11.78, 4.39, and 7.45\u00a0\u03bcM, respectively. Graphic Abstract",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Kai-Liang Ma",
+          "id": ""
+        },
+        {
+          "name": "S. Dong",
+          "id": ""
+        },
+        {
+          "name": "Hang-Ying Li",
+          "id": ""
+        },
+        {
+          "name": "Wenjun Wei",
+          "id": ""
+        },
+        {
+          "name": "Y. Tu",
+          "id": ""
+        },
+        {
+          "name": "K. Gao",
+          "id": ""
+        }
+      ],
+      "venue": "Natural Products and Bioprospecting",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:226252228",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.44540483474103904,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 256246116,
+      "title": "Cytochalasins from Xylaria sp. CFL5, an Endophytic Fungus of Cephalotaxus fortunei",
+      "abstract": "Three previously undescribed cytochalasins, named xylariasins A\u2012C (1\u20123), together with six known ones (4\u20129) were isolated from Xylaria sp. CFL5, an endophytic fungus of Cephalotaxus fortunei. The chemical structures of all new compounds were elucidated on the basis of extensive spectroscopic data analyses and electronic circular dichroism calculation, as well as optical rotation calculation. Biological activities of compounds 1, 4\u20129 were evaluated, including cytotoxic, LAG3/MHC II binding inhibition and LAG3/FGL1 binding inhibition activities. Compounds 6 and 9 possessed cytotoxicity against AGS cells at 5 \u03bcM, with inhibition rates of 94% and 64%, respectively. In addition, all tested isolates, except compound 6, exhibited obvious inhibitory activity against the interaction of both LAG3/MHC II and LAG3/FGL1. Compounds 1, 5, 7, and 8 inhibited LAG3/MHC II with IC50 values ranging from 2.37 to 4.74 \u03bcM. Meanwhile, the IC50 values of compounds 1, 7, and 8 against LAG3/FGL1 were 11.78, 4.39, and 7.45 \u03bcM, respectively.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Kai-Liang Ma",
+          "id": ""
+        },
+        {
+          "name": "S. Dong",
+          "id": ""
+        },
+        {
+          "name": "Hang-Ying Li",
+          "id": ""
+        },
+        {
+          "name": "Wenjun Wei",
+          "id": ""
+        },
+        {
+          "name": "Y. Tu",
+          "id": ""
+        },
+        {
+          "name": "K. Gao",
+          "id": ""
+        }
+      ],
+      "venue": "Natural Products and Bioprospecting",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:256246116",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.44244050490898357,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 204758055,
+      "title": "Development of a novel human phage display-derived anti-LAG3 scFv antibody targeting CD8+ T lymphocyte exhaustion",
+      "abstract": "BackgroundLymphocyte-activation gene (LAG)3 is a 498 aa transmembrane type I protein acting as an immune inhibitory receptor. It is expressed on activated lymphocytes, natural killer cells and plasmacytoid dendritic cells. In activated lymphocytes, LAG3 expression is involved in negative control of cell activation/proliferation to ensure modulation and control of immune responses. In view of its deregulated expression in tumor-infiltrating lymphocytes, LAG3, together with the additional immune checkpoint inhibitors CTLA4 and PD1, is considered a major target in order to reverse the immunosuppression typically mounting in oncologic diseases. Since many patients still fail to respond to current immune checkpoints-based therapies, the identification of new effective immune inhibitors is a priority in the ongoing fight against cancer.ResultsWe identified a novel human single-chain variable fragment (scFv) Ab against a conformational epitope of LAG3 by in vitro phage display technology using the recombinant antigen as a bait. This scFv (referred to as F7) was characterized in terms of binding specificity to both recombinant antigen and human LAG3-expressing cells. It was then rebuilt into an IgG format pre-optimized for clinical usage, and the resulting bivalent construct was shown to preserve its ability to bind LAG3 on human cells.Next, we analyzed the activity of the anti-LAG3 scFvF7 using two different antigen-specific CD8+ T lymphocyte clones as target cells. We proved that the reconstituted anti-LAG3 F7 Ab efficiently binds the cell membrane of both cell clones after peptide-activation. Still more significantly, we observed a striking increase in the peptide-dependent cell activation upon Ab treatment as measured in terms of IFN-\u03b3 release by both ELISA and ELISPOT assays.ConclusionsOverall, the biotechnological strategy described herein represents a guiding development model for the search of novel useful immune checkpoint inhibitors. In addition, our functional data propose a novel candidate reagent for consideration as a cancer treatment.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "A. Ascione",
+          "id": ""
+        },
+        {
+          "name": "Claudia Arenaccio",
+          "id": ""
+        },
+        {
+          "name": "A. Mallano",
+          "id": ""
+        },
+        {
+          "name": "M. Flego",
+          "id": ""
+        },
+        {
+          "name": "Mara Gellini",
+          "id": ""
+        },
+        {
+          "name": "M. Andreotti",
+          "id": ""
+        },
+        {
+          "name": "C. Fenwick",
+          "id": ""
+        },
+        {
+          "name": "G. Pantaleo",
+          "id": ""
+        },
+        {
+          "name": "S. Vella",
+          "id": ""
+        },
+        {
+          "name": "M. Federico",
+          "id": ""
+        }
+      ],
+      "venue": "BMC Biotechnology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:204758055",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.44167693437715094,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 73514944,
+      "title": "A New Ligand for LAG\u20103",
+      "abstract": "T cell activation depends on binding of the T cell receptor to its cognate antigen on major histocompatibility complex (MHC) molecules, and simultaneous engagement of the costimulatory receptor CD28 by its ligands on antigen-presenting cells. Upon activation, T cells upregulate a host of cell-surface\u2013associated coinhibitory molecules, such as cytotoxic T lymphocyte activation-4 (CTLA-4), programmed cell death-1 (PD-1), T cell immunoglobulin-3 (TIM-3), B and T lymphocyte attenuator (BTLA), T cell immunoglobulin and ITIM domain (TIGIT), and lymphocyte activation gene-3 (LAG-3), whose binding to their respective ligands is thought to be necessary to terminate the immune response. A main ligand for LAG-3 is believed to be MHC class II, which presents peptides to CD4+ T cells and also binds the CD4 coreceptor, with the idea that LAG-3 may help displace CD4 engagement on MHC-II because of its higher affinity than CD4 for MHC-II. However, LAG-3 inhibits responses not only of CD4+, but also of CD8+ T cells that bind MHC-I rather than MHC-II, leading to the speculation that LAG-3 may have another main ligand. Wang and colleagues have now identified fibrinogen-like protein 1 (FGL1), a molecule secreted by the liver and pancreas, as a major ligand for LAG-3, the interruption of which can enhance T cell responses and lead to better tumor control. The authors used a LAG-3\u2013Ig fusion protein to probe, in a high-throughput receptor array, the surface of the 293T cell line engineered to express, in a membrane-bound form, a library of surface and secreted proteins. This approach identified FGL1 as a major partner of LAG-3 in both humans and mice, an interaction confirmed by flow cytometry. Domain deletion studies revealed that the fibrinogen-like domain of FGL1 binds to two Ig-like extracellular domains of LAG-3 in an MHC class II\u2013independent manner. The authors generated both a monoclonal antibody (mAb) that blocked FGL1 binding to LAG3 (without affecting MHC class II binding to LAG-3) and an FGL1-knockout mouse. Using these tools, as well as blocking anti-LAG-3 mAb and LAG-3-knockout mice, they demonstrated that FGL1 binding to LAG-3 inhibited T cell responses. They determined that FGL1 was only expressed in the liver in mice, and in the liver and pancreas in humans, and was detectable in the plasma as a secreted protein. Interestingly, certain human solid tumors upregulated FGL1 mRNA, and its expression in non\u2013small-cell lung cancer was associated with decreased overall survival. The authors found higher levels of plasma FGL1 SUMMARY AND ANALYSIS Watch LITERATURE",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "M. Alegre",
+          "id": ""
+        }
+      ],
+      "venue": "American Journal of Transplantation",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:73514944",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4381263226904762,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 57375318,
+      "title": "The promising immune checkpoint LAG-3: from tumor microenvironment to cancer immunotherapy",
+      "abstract": "Cancer immunotherapy and tumor microenvironment have been at the forefront of research over the past decades. Targeting immune checkpoints especially programmed death 1 (PD-1)/programmed death ligand 1 (PD-L1) has made a breakthrough in treating advanced malignancies. However, the low response rate brings a daunting challenge, changing the focus to dig deeply into the tumor microenvironment for alternative therapeutic targets. Strikingly, the inhibitory immune checkpoint lymphocyte activation gene-3 (LAG-3) holds considerable potential. LAG-3 suppresses T cells activation and cytokines secretion, thereby ensuring immune homeostasis. It exerts differential inhibitory impacts on various types of lymphocytes and shows a remarkable synergy with PD-1 to inhibit immune responses. Targeting LAG-3 immunotherapy is moving forward in active clinical trials, and combination immunotherapy of anti-LAG-3 and anti-PD-1 has shown exciting efficacy in fighting PD-1 resistance. Herein, we shed light on the significance of LAG-3 in the tumor microenvironment, highlight its role to regulate different lymphocytes, interplay with other immune checkpoints especially PD-1, and emphasize new advances in LAG-3-targeted immunotherapy.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Long Long",
+          "id": ""
+        },
+        {
+          "name": "Xue Zhang",
+          "id": ""
+        },
+        {
+          "name": "Fu-chun Chen",
+          "id": ""
+        },
+        {
+          "name": "Q. Pan",
+          "id": ""
+        },
+        {
+          "name": "Pronnaphat Phiphatwatchara",
+          "id": ""
+        },
+        {
+          "name": "Yuyang Zeng",
+          "id": ""
+        },
+        {
+          "name": "Honglei Chen",
+          "id": ""
+        }
+      ],
+      "venue": "Genes & cancer",
+      "journal": null,
+      "url": "https://pdfs.semanticscholar.org/796a/61d08035231d99fcb1c0c4876749c50f8331.pdf",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3838205692048718,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 34138926,
+      "title": "Tumor-infiltrating NY-ESO-1\u2013specific CD8+ T cells are negatively regulated by LAG-3 and PD-1 in human ovarian cancer",
+      "abstract": "NY-ESO-1 is a \u201ccancer-testis\u201d antigen frequently expressed in epithelial ovarian cancer (EOC) and is among the most immunogenic tumor antigens defined to date. In an effort to understand in vivo tolerance mechanisms, we assessed the phenotype and function of NY-ESO-1\u2013specific CD8+ T cells derived from peripheral blood lymphocytes (PBLs), tumor-infiltrating lymphocytes (TILs), and tumor-associated lymphocytes (TALs) of EOC patients with NY-ESO-1-expressing tumors, with or without humoral immunity to NY-ESO-1. Whereas NY-ESO-1\u2013specific CD8+ T cells were readily detectable ex vivo with tetramers in TILs and TALs of seropositive patients, they were only detectable in PBLs following in vitro stimulation. Compared with PBLs, tumor-derived NY-ESO-1\u2013specific CD8+ T cells demonstrated impaired effector function, preferential usage of dominant T-cell receptor, and enriched coexpression of inhibitory molecules LAG-3 and PD-1. Expression of LAG-3 and PD-1 on CD8+ T cells was up-regulated by IL-10, IL-6 (cytokines found in tumor ascites), and tumor-derived antigen-presenting cells. Functionally, CD8+LAG-3+PD-1+ T cells were more impaired in IFN-\u03b3/TNF-\u03b1 production compared with LAG-3+PD-1\u2212 or LAG-3\u2212PD-1\u2212 subsets. Dual blockade of LAG-3 and PD-1 during T-cell priming efficiently augmented proliferation and cytokine production by NY-ESO-1\u2013specific CD8+ T cells, indicating that antitumor function of NY-ESO-1-specific CD8+ T cells could potentially be improved by therapeutic targeting of these inhibitory receptors.",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Junko Matsuzaki",
+          "id": ""
+        },
+        {
+          "name": "S. Gnjatic",
+          "id": ""
+        },
+        {
+          "name": "P. Mhawech-Fauceglia",
+          "id": ""
+        },
+        {
+          "name": "A. Beck",
+          "id": ""
+        },
+        {
+          "name": "Austin Miller",
+          "id": ""
+        },
+        {
+          "name": "T. Tsuji",
+          "id": ""
+        },
+        {
+          "name": "C. Eppolito",
+          "id": ""
+        },
+        {
+          "name": "F. Qian",
+          "id": ""
+        },
+        {
+          "name": "S. Lele",
+          "id": ""
+        },
+        {
+          "name": "P. Shrikant",
+          "id": ""
+        },
+        {
+          "name": "L. Old",
+          "id": ""
+        },
+        {
+          "name": "K. Odunsi",
+          "id": ""
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "journal": null,
+      "url": "https://doi.org/10.1073/pnas.1003345107",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.37619387683298905,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    }
+  ],
+  "thread_id": null,
+  "narrative": null
+}
