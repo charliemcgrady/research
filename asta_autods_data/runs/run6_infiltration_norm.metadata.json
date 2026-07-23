@@ -1,0 +1,20 @@
+{
+  "name": "Infiltration-normalized: CIN vs TIGIT/LAG3 per T-cell (DrvNeg LUAD)",
+  "description": "Follow-up to the 5-run study which found CIN negatively associates with bulk TIGIT/LAG3 in driver-negative LUAD. That may be confounded by reduced T-cell infiltration in CIN-high tumors. Per-sample TCGA-LUAD table (n=501; ~117 driver-negative). Same as v1 PLUS immune-infiltration features. driver_status ('driver_negative' n=118 / 'driv",
+  "domain": "Cancer genomics and tumor immunology",
+  "intent": "In driver-negative LUAD, re-test the relationship between chromosomal instability (CIN) and TIGIT/LAG3 expression AFTER accounting for T-cell/CD8 immune infiltration. The earlier finding that CIN is NEGATIVELY associated with bulk TIGIT/LAG3 is suspected to be driven by reduced immune infiltration in CIN-high tumors (bulk RNA confound). Key questions: (1) Does CIN reduce the tcell_infiltration_score and cytolytic score? (2) Controlling for tcell_infiltration_score, does CIN still predict TIGIT/LAG3 expression - i.e. is there exhaustion PER infiltrating T cell - and is that residual association positive or negative? (3) Analyze checkpoint-to-infiltration ratios (e.g. TIGIT or LAG3 relative to tcell_infiltration_score). Adjust for TMB throughout and focus on driver_negative samples.",
+  "datasets": [
+    {
+      "name": "master_sample_table_v2.csv",
+      "description": "Per-sample TCGA-LUAD table (n=501; ~117 driver-negative). Same as v1 PLUS immune-infiltration features. driver_status ('driver_negative' n=118 / 'driver_positive'); CIN metrics (cin_frac_altered_0.3/0.2, cna_mean_abs_log2, cna_frac_gain/loss); checkpoint expression expr_TIGIT, expr_LAG3, expr_PDCD1_PD1, expr_CD274_PDL1, expr_HAVCR2_TIM3, expr_CTLA4; cGAS-STING/IFN: expr_CGAS, expr_STING1, expr_CXCL9, expr_IFNG; NEW INFILTRATION FEATURES: tcell_infiltration_score = mean z-scored CD8A/CD8B/CD3D/CD3E/CD2/CD247 (amount of T-cell/CD8 infiltration); cyt_score = mean z-scored GZMA/PRF1 (cytolytic activity); expr_CD8A, expr_GZMA markers. immune Hallmark ssGSEA (ss_INTERFERON_GAMMA/ALPHA_RESPONSE, ss_INFLAMMATORY_RESPONSE, ss_ALLOGRAFT_REJECTION, etc.); TMB (tmb_mutations_per_mb) = CONFOUNDER to adjust for. Bulk RNA-seq: checkpoint expression conflates per-cell level with the number of infiltrating cells.",
+      "content_type": "text/csv",
+      "file_size_bytes": 271508,
+      "is_preloaded": false
+    }
+  ],
+  "n_experiments": 20,
+  "exploration_weight": 2.0,
+  "mcts_selection": "ucb1_recursive",
+  "surprisal_width": 0.4,
+  "evidence_weight": 2.5
+}
