@@ -1,0 +1,20 @@
+{
+  "name": "Mechanism: is CIN->TIGIT/LAG3 mediated by IFN/cGAS-STING?",
+  "description": "TCGA-LUAD study testing whether chromosomal instability drives immune escape via TIGIT/LAG3 in oncogene/driver-negative lung adenocarcinoma. Per-sample TCGA lung adenocarcinoma (LUAD) table, one row per tumor (n=501; ~495 with complete omics). KEY COLUMNS: driver_status = 'driver_negative' (RTK/RAS/RAF-pathway wild-type / oncogene-negative",
+  "domain": "Cancer genomics and tumor immunology",
+  "intent": "Investigate whether the interferon / cGAS-STING inflammatory axis MEDIATES any relationship between chromosomal instability and TIGIT/LAG3 expression. Consider the Hallmark interferon-alpha/gamma, inflammatory-response and allograft-rejection ssGSEA scores plus CGAS/STING1/CXCL9 expression as candidate mediators sitting between CIN and checkpoint expression. Focus on driver-negative LUAD; adjust for TMB.",
+  "datasets": [
+    {
+      "name": "master_sample_table.csv",
+      "description": "Per-sample TCGA lung adenocarcinoma (LUAD) table, one row per tumor (n=501; ~495 with complete omics). KEY COLUMNS: driver_status = 'driver_negative' (RTK/RAS/RAF-pathway wild-type / oncogene-negative, n=118) or 'driver_positive' (n=383), from the RPA (RTK/RAS/RAF Pathway Alteration) classification; driver_positive_RPA is the 1/0 form; driver_gene names the altered driver in positives (KRAS, EGFR, NF1, BRAF, MET, ...). CHROMOSOMAL INSTABILITY (CIN) metrics from gene-level copy-number log2 ratios: cin_frac_altered_0.3 and cin_frac_altered_0.2 = fraction of genes with |log2|>=0.3/0.2 (fraction-genome-altered proxy); cna_mean_abs_log2; cna_frac_gain; cna_frac_loss. Higher = more chromosomally unstable. CN_<GENE> = gene-level copy-number log2 ratio for canonical LUAD genes (CDKN2A/CDKN2B = 9p21 locus, B2M, TP53, RB1, STK11, KEAP1, MYC, TERT, PVR, CD274, SMARCA4). expr_<GENE> = log-scale RNA expression: immune checkpoints TIGIT, LAG3, PDCD1_PD1, CD274_PDL1, HAVCR2_TIM3, CTLA4; checkpoint ligands PVR_CD155, FGL1; cGAS-STING/IFN axis CGAS, STING1, CXCL9, B2M_expr. ss_<PATHWAY> = ssGSEA MSigDB Hallmark scores for immune pathways: INTERFERON_ALPHA_RESPONSE, INTERFERON_GAMMA_RESPONSE, INFLAMMATORY_RESPONSE, ALLOGRAFT_REJECTION, IL6_JAK_STAT3_SIGNALING, IL2_STAT5_SIGNALING, COMPLEMENT, TNFA_SIGNALING_VIA_NFKB, APOPTOSIS. TMB: tmb_mutations_per_mb, nonsynonymous_mutation_count, total_mutation_count. IMPORTANT CONFOUNDER: TMB co-varies with both genomic instability and immune signaling, so it must be adjusted for or stratified on. Provenance: TCGA-LUAD multi-omics (copy number, RNA-seq, MAF, ssGSEA); driver labels from a published RPA classification of the same cases.",
+      "content_type": "text/csv",
+      "file_size_bytes": 243173,
+      "is_preloaded": false
+    }
+  ],
+  "n_experiments": 20,
+  "exploration_weight": 2.0,
+  "mcts_selection": "ucb1_recursive",
+  "surprisal_width": 0.4,
+  "evidence_weight": 2.5
+}

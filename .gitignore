@@ -1,5 +1,9 @@
-# Large raw TCGA/AutoDS input data (re-downloadable from source Google Drive; not versioned)
-asta_autods_data/
+# Large raw TCGA/AutoDS input data (re-downloadable from source Google Drive; not versioned).
+# Only the top-level raw downloads are ignored; derived/ and runs/ ARE tracked.
+asta_autods_data/*.csv
+asta_autods_data/*.csv.gz
+asta_autods_data/*.gz
+asta_autods_data/*.xlsx
 
 # Transient logs from asta literature searches
 asta_lit/*.log
