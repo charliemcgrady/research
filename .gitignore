@@ -7,3 +7,8 @@ asta_autods_data/*.xlsx
 
 # Transient logs from asta literature searches
 asta_lit/*.log
+
+# LAG3 validation: re-downloadable public reference tables and transient DV logs
+lag3_validation/refs/
+lag3_validation/runs_dv/*.log
+lag3_validation/runs_dv/q_*.txt
