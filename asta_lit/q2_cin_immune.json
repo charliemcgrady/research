@@ -1,0 +1,2263 @@
+{
+  "query": "Chromosomal instability and aneuploidy promoting immune evasion in non-small cell lung cancer: cGAS-STING signaling, interferon response, antigen presentation, and immune checkpoint expression.",
+  "results": [
+    {
+      "corpusId": 273293395,
+      "title": "Genomic instability as a driver and suppressor of anti-tumor immunity",
+      "abstract": "Genomic instability is a driver and accelerator of tumorigenesis and influences disease outcomes across cancer types. Although genomic instability has been associated with immune evasion and worsened disease prognosis, emerging evidence shows that genomic instability instigates pro-inflammatory signaling and enhances the immunogenicity of tumor cells, making them more susceptible to immune recognition. While this paradoxical role of genomic instability in cancer is complex and likely context-dependent, understanding it is essential for improving the success rates of cancer immunotherapy. In this review, we provide an overview of the underlying mechanisms that link genomic instability to pro-inflammatory signaling and increased immune surveillance in the context of cancer, as well as discuss how genomically unstable tumors evade the immune system. A better understanding of the molecular crosstalk between genomic instability, inflammatory signaling, and immune surveillance could guide the exploitation of immunotherapeutic vulnerabilities in cancer.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "M. Requesens",
+          "id": ""
+        },
+        {
+          "name": "F. Foijer",
+          "id": ""
+        },
+        {
+          "name": "H. Nijman",
+          "id": ""
+        },
+        {
+          "name": "M. de Bruyn",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:273293395",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.9811146855498607,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 202801644,
+      "title": "Suppression of tumor antigen presentation during aneuploid tumor evolution contributes to immune evasion",
+      "abstract": "ABSTRACT Anti-tumor immune responses impede tumor formation, and cancers have evolved many mechanisms of immune evasion. Confirming earlier findings, we show that human tumors with high chromosomal instability (CIN+) are significantly less immunogenic, as judged by tumor lymphocyte infiltration, compared to those with more stable genomes (CIN-). This finding is paradoxical, as genomic instability is expected to evoke an innate immune response. Importantly, CIN+ tumors and cell lines exhibited suppressed expression of proteins involved in MHC class I antigen presentation at least partly due to DNA hypermethylation of the corresponding genes. Using a mouse model of the in vivo evolution of aneuploid tumors, we found that the induction of chromosomal instability in tumor cells is highly immunogenic due to the activation of the STING/TBK1 pathway and consequent increased interferon signaling and antigen presentation. However, tumors evolving under immune pressure suppress the STING/TBK1 and antigen presentation pathways and evade anti-tumor immune responses. In contrast, CIN+ tumors that develop under low immune pressure in both humans and mice retain efficient MHC class I antigen presentation and immunogenicity. Altogether, this study identifies an important mechanism of immune evasion in chromosomally unstable tumors.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Reshmi Tripathi",
+          "id": ""
+        },
+        {
+          "name": "V. Modur",
+          "id": ""
+        },
+        {
+          "name": "L. Senovilla",
+          "id": ""
+        },
+        {
+          "name": "G. Kroemer",
+          "id": ""
+        },
+        {
+          "name": "K. Komurov",
+          "id": ""
+        }
+      ],
+      "venue": "Oncoimmunology",
+      "journal": null,
+      "url": "https://doi.org/10.1080/2162402X.2019.1657374",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.8788915082924581,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 280335417,
+      "title": "Modeling and targeting general and chromosome-specific aneuploidy in cancer",
+      "abstract": "Throughout the last century, aneuploidy has been cemented as a hallmark of cancer. Although the association of aneuploidy with tumorigenesis has been well established, the role of these genetic imbalances in tumor formation has only recently begun to be elucidated. Advancements in genomics have revealed the complexity and context dependence of the effect of aneuploidy on cancer growth, while developments in genetic editing have allowed for proper modeling of specific aneuploidies. In this review, we discuss the key factors to consider when studying the role of aneuploidy in cancer and the tools that are available to do so. We then highlight recent studies that establish phenotypic contributions of aneuploidy to tumorigenicity. In particular, we highlight how general aneuploidy and chromosomal instability affect the tumor microenvironment and how specific chromosomal alterations, including the loss of chromosome 9p and the gain of chromosomes 8q and 1q, influence tumor behavior and therapeutic responses. Finally, we emphasize the potential of targeting aneuploidy-induced vulnerabilities to improve cancer treatment outcomes.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Aleah Goldberg",
+          "id": ""
+        },
+        {
+          "name": "Maria Trifas",
+          "id": ""
+        },
+        {
+          "name": "T. Davoli",
+          "id": ""
+        }
+      ],
+      "venue": "Genes & Development",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:280335417",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.7629855079094041,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 270721586,
+      "title": "Selection forces underlying aneuploidy patterns in cancer",
+      "abstract": "ABSTRACT Aneuploidy, the presence of an aberrant number of chromosomes, has been associated with tumorigenesis for over a century. More recently, advances in karyotyping techniques have revealed its high prevalence in cancer: About 90% of solid tumors and 50\u201370% of hematopoietic cancers exhibit chromosome gains or losses. When analyzed at the level of specific chromosomes, there are strong patterns that are observed in cancer karyotypes both pan-cancer and for specific cancer types. These specific aneuploidy patterns correlate strongly with outcomes for tumor initiation, progression, metastasis formation, immune evasion and resistance to therapeutic treatment. Despite their prominence, understanding the basis underlying aneuploidy patterns in cancer has been challenging. Advances in genetic engineering and bioinformatic analyses now offer insights into the genetic determinants of aneuploidy pattern selection. Overall, there is substantial evidence that expression changes of particular genes can act as the positive selective forces for adaptation through aneuploidy. Recent findings suggest that multiple genes contribute to the selection of specific aneuploid chromosomes in cancer; however, further research is necessary to identify the most impactful driver genes. Determining the genetic basis and accompanying vulnerabilities of specific aneuploidy patterns is an essential step in selectively targeting these hallmarks of tumors.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Tamara C. Klockner",
+          "id": ""
+        },
+        {
+          "name": "Christopher S. Campbell",
+          "id": ""
+        }
+      ],
+      "venue": "Molecular & Cellular Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:270721586",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.7202074202843737,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 227296239,
+      "title": "Immune Escape Mechanisms in Non Small Cell Lung Cancer",
+      "abstract": "Simple Summary Immune escape mechanisms have been identified in every step of lung tumorigenesis. A heterogeneous ensemble of immune evasion processes shapes the evolution of precursor lesions towards the invasive phase, contributes to fostering progression from early stage to metastatic disease and defines the main immunological features of specific lung cancer molecular subsets. By disabling distinct phases of the cancer immunity cycle, from antigen presentation to activation of T cell-mediated immunity, and from antigen-specific T cell recruitment to tumor recognition, immune escape in non small cell lung cancer (NSCLC) represents one of the major hurdles to be overcome to improve clinical outcome in patients treated with immunotherapy targeting immune checkpoints. Abstract Development of strong immune evasion has been traditionally associated with the late stages of solid tumor progression, since advanced cancers are more likely to have reached the third phase of the immunoediting process. However, by integrating a variety of approaches, evidence for active immune escape mechanisms has been found even in the pre-invasive lesions that later progress to the main NSCLC histotypes. Pre-invasive lesions of adenocarcinoma (LUAD) and of squamous cell carcinoma (LUSC) can show impaired antigen presentation, loss of heterozygosity at the Human Leukocyte Antigen (HLA) region, neoantigen silencing, activation of immune checkpoints, altered TH1/TH2 cytokine ratios, and immune contexture evolution. Analysis of large panels of LUAD vs. LUSC, of early stage NSCLC vs. normal lung tissue, of specific molecular subsets of NSCLC, and of distinct regions within the same tumor, indicates that all these processes of immune escape continue to evolve in the invasive stage of NSCLC, are associated with inter- and intra-tumor heterogeneity, and contribute to resistance to therapy by immune checkpoint blockade (ICB). In this review, we will discuss the most recent evidence on immune escape mechanisms developing from the precursor to invasive stage in NSCLC, and the contribution of immune evasion to resistance to ICB in lung cancer.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "A. Anichini",
+          "id": ""
+        },
+        {
+          "name": "V. Perotti",
+          "id": ""
+        },
+        {
+          "name": "F. Sgambelluri",
+          "id": ""
+        },
+        {
+          "name": "R. Mortarini",
+          "id": ""
+        }
+      ],
+      "venue": "Cancers",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:227296239",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.7065461706429281,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 261099933,
+      "title": "Non-cell-autonomous cancer progression from chromosomal instability",
+      "abstract": "Chromosomal instability\u00a0(CIN)\u00a0is a driver of cancer metastasis^ 1 \u2013 4 , yet the extent to which this effect depends on the immune system remains unknown. Using ContactTracing\u2014a newly developed, validated and benchmarked tool to infer the nature and conditional dependence of cell\u2013cell interactions from single-cell transcriptomic data\u2014we show that CIN-induced chronic activation of the cGAS\u2013STING pathway promotes downstream signal re-wiring in cancer cells, leading to a pro-metastatic tumour microenvironment. This re-wiring is manifested by type I interferon tachyphylaxis selectively downstream of STING and a corresponding increase in cancer cell-derived endoplasmic reticulum (ER)\u00a0stress response. Reversal of CIN, depletion of cancer cell STING or inhibition of ER stress response signalling abrogates CIN-dependent effects on the tumour microenvironment and suppresses metastasis in immune competent, but not severely immune compromised, settings. Treatment with STING inhibitors reduces CIN-driven metastasis in melanoma, breast and colorectal cancers in a manner dependent on tumour cell-intrinsic STING. Finally, we show that CIN and pervasive cGAS activation in micronuclei are associated with ER stress signalling, immune suppression and metastasis in human triple-negative breast cancer, highlighting a viable strategy to identify and therapeutically intervene in tumours spurred by CIN-induced inflammation. Chromosomal instability in cancer is linked to endoplasmic reticulum stress signalling, immune suppression and metastasis, which is mediated by the cGAS\u2013STING pathway, suppression of which can reduce metastasis.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Jun Li",
+          "id": ""
+        },
+        {
+          "name": "M. Hubisz",
+          "id": ""
+        },
+        {
+          "name": "Ethan M. Earlie",
+          "id": ""
+        },
+        {
+          "name": "Mercedes A. Duran",
+          "id": ""
+        },
+        {
+          "name": "Christy Hong",
+          "id": ""
+        },
+        {
+          "name": "Austin A. Varela",
+          "id": ""
+        },
+        {
+          "name": "Emanuele Lettera",
+          "id": ""
+        },
+        {
+          "name": "Matthew Deyell",
+          "id": ""
+        },
+        {
+          "name": "B. Tavora",
+          "id": ""
+        },
+        {
+          "name": "J. Havel",
+          "id": ""
+        },
+        {
+          "name": "S. Phyu",
+          "id": ""
+        },
+        {
+          "name": "A. D. Amin",
+          "id": ""
+        },
+        {
+          "name": "Karolina Budre",
+          "id": ""
+        },
+        {
+          "name": "Erina Kamiya",
+          "id": ""
+        },
+        {
+          "name": "J. Cavallo",
+          "id": ""
+        },
+        {
+          "name": "Christopher S. Garris",
+          "id": ""
+        },
+        {
+          "name": "S. Powell",
+          "id": ""
+        },
+        {
+          "name": "J. Reis-Filho",
+          "id": ""
+        },
+        {
+          "name": "H. Wen",
+          "id": ""
+        },
+        {
+          "name": "Sarah Bettigole",
+          "id": ""
+        },
+        {
+          "name": "Atif J. Khan",
+          "id": ""
+        },
+        {
+          "name": "Benjamin Izar",
+          "id": ""
+        },
+        {
+          "name": "E. Parkes",
+          "id": ""
+        },
+        {
+          "name": "Ashley M. Laughney",
+          "id": ""
+        },
+        {
+          "name": "S. Bakhoum",
+          "id": ""
+        }
+      ],
+      "venue": "Nature",
+      "journal": null,
+      "url": "https://doi.org/10.1038/s41586-023-06464-z",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6949104909420801,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 44120559,
+      "title": "The impact of mitotic errors on cell proliferation and tumorigenesis",
+      "abstract": "This review by Levine and Holland reviews the sources of mitotic errors in human tumors and their effect on cell fitness and transformation. They discuss new findings that suggest that chromosome missegregation can produce a proinflammatory environment and impact tumor responsiveness to immunotherapy and survey the vulnerabilities exposed by cell division errors and how they can be exploited therapeutically.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Michelle S Levine",
+          "id": ""
+        },
+        {
+          "name": "A. Holland",
+          "id": ""
+        }
+      ],
+      "venue": "Genes & Development",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:44120559",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6595896864765958,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 229714184,
+      "title": "Metastasis and immune evasion from extracellular cGAMP hydrolysis",
+      "abstract": "Cytosolic DNA is characteristic of chromosomally unstable metastatic cancer cells, resulting in constitutive activation of the cGAS-STING innate immune pathway. How tumors co-opt inflammatory signaling while evading immune surveillance remains unknown. Here we show that the ectonucleotidase ENPP1 promotes metastasis by selectively degrading extracellular cGAMP, an immune stimulatory metabolite whose breakdown products include the immune suppressor, adenosine. ENPP1 loss suppresses metastasis, restores tumor immune infiltration, and potentiates response to immune checkpoint blockade in a manner dependent on tumor cGAS and host STING. Conversely, overexpression of wildtype ENPP1, but not an enzymatically weakened mutant, promotes migration and metastasis, in part, through the generation of extracellular adenosine, and renders otherwise sensitive tumors completely resistant to immunotherapy. In human cancers, ENPP1 expression correlates with reduced immune cell infiltration, increased metastasis, and resistance to anti-PD1/PD-L1 treatment. Thus, cGAMP hydrolysis by ENPP1 enables chromosomally unstable tumors to transmute cGAS activation into an immune suppressive pathway.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Jun Li",
+          "id": ""
+        },
+        {
+          "name": "Mercedes A. Duran",
+          "id": ""
+        },
+        {
+          "name": "N. Dhanota",
+          "id": ""
+        },
+        {
+          "name": "W. Chatila",
+          "id": ""
+        },
+        {
+          "name": "Sarah Bettigole",
+          "id": ""
+        },
+        {
+          "name": "J. Kwon",
+          "id": ""
+        },
+        {
+          "name": "Roshan K. Sriram",
+          "id": ""
+        },
+        {
+          "name": "M. Humphries",
+          "id": ""
+        },
+        {
+          "name": "M. Salto\u2010Tellez",
+          "id": ""
+        },
+        {
+          "name": "J. James",
+          "id": ""
+        },
+        {
+          "name": "M. Hanna",
+          "id": ""
+        },
+        {
+          "name": "Johannes C. Melms",
+          "id": ""
+        },
+        {
+          "name": "S. Vallabhaneni",
+          "id": ""
+        },
+        {
+          "name": "K. Litchfield",
+          "id": ""
+        },
+        {
+          "name": "I. Usaite",
+          "id": ""
+        },
+        {
+          "name": "D. Biswas",
+          "id": ""
+        },
+        {
+          "name": "R. Bareja",
+          "id": ""
+        },
+        {
+          "name": "Hao Li",
+          "id": ""
+        },
+        {
+          "name": "M. L. Martin",
+          "id": ""
+        },
+        {
+          "name": "P. Dorsaint",
+          "id": ""
+        },
+        {
+          "name": "J. Cavallo",
+          "id": ""
+        },
+        {
+          "name": "Peng Li",
+          "id": ""
+        },
+        {
+          "name": "C. Pauli",
+          "id": ""
+        },
+        {
+          "name": "Lee S. Gottesdiener",
+          "id": ""
+        },
+        {
+          "name": "B. Dipardo",
+          "id": ""
+        },
+        {
+          "name": "T. Hollmann",
+          "id": ""
+        },
+        {
+          "name": "T. Merghoub",
+          "id": ""
+        },
+        {
+          "name": "H. Wen",
+          "id": ""
+        },
+        {
+          "name": "J. Reis-Filho",
+          "id": ""
+        },
+        {
+          "name": "N. Riaz",
+          "id": ""
+        },
+        {
+          "name": "Shinsan M. Su",
+          "id": ""
+        },
+        {
+          "name": "A. Kalbasi",
+          "id": ""
+        },
+        {
+          "name": "N. Vasan",
+          "id": ""
+        },
+        {
+          "name": "S. Powell",
+          "id": ""
+        },
+        {
+          "name": "J. Wolchok",
+          "id": ""
+        },
+        {
+          "name": "O. Elemento",
+          "id": ""
+        },
+        {
+          "name": "C. Swanton",
+          "id": ""
+        },
+        {
+          "name": "A. Shoushtari",
+          "id": ""
+        },
+        {
+          "name": "E. Parkes",
+          "id": ""
+        },
+        {
+          "name": "B. Izar",
+          "id": ""
+        },
+        {
+          "name": "S. Bakhoum",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Discovery",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/33372007",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6429615079684996,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 270762106,
+      "title": "Patterns of Aneuploidy and Signaling Consequences in Cancer",
+      "abstract": "Abstract Aneuploidy, or a change in the number of whole chromosomes or chromosome arms, is a near-universal feature of cancer. Chromosomes affected by aneuploidy are not random, with observed cancer-specific and tissue-specific patterns. Recent advances in genome engineering methods have allowed the creation of models with targeted aneuploidy events. These models can be used to uncover the downstream effects of individual aneuploidies on cancer phenotypes including proliferation, apoptosis, metabolism, and immune signaling. Here, we review the current state of research into the patterns of aneuploidy in cancer and their impact on signaling pathways and biological processes.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "N. Zhakula-Kostadinova",
+          "id": ""
+        },
+        {
+          "name": "Alison M. Taylor",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Research",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:270762106",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6324019635227234,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 195804504,
+      "title": "Untangling the evolutionary roots of lung cancer",
+      "abstract": "The genomic and host factors that drive the progression of pre-invasive lesions in non-small cell lung cancer are poorly understood. Studying these factors can advance our knowledge of lung cancer biology, aid in the development of better screening strategies and improve patient outcomes.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "S. Devarakonda",
+          "id": ""
+        },
+        {
+          "name": "R. Govindan",
+          "id": ""
+        }
+      ],
+      "venue": "Nature Communications",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:195804504",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.628677384799335,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 52173591,
+      "title": "The multifaceted role of chromosomal instability in cancer and its microenvironment",
+      "abstract": "Chromosomal instability (CIN) is a hallmark of human cancer and it is associated with poor prognosis, metastasis, and therapeutic resistance. CIN results from errors in chromosome segregation during mitosis leading to structural and numerical chromosomal abnormalities. In addition to generating genomic heterogeneity that acts as a substrate for natural selection, CIN promotes inflammatory signaling by introducing double-stranded DNA into the cytosol, engaging the cGAS-STING anti-viral pathway. These multipronged effects distinguish CIN as a central driver of tumor evolution and as a genomic source for the crosstalk between the tumor and its microenvironment in the course of immune editing and evasion.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "S. Bakhoum",
+          "id": ""
+        },
+        {
+          "name": "L. Cantley",
+          "id": ""
+        }
+      ],
+      "venue": "Cell",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/30193109",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5924581847309967,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 257363370,
+      "title": "cGAS\u2013STING signalling in cancer: striking a balance with chromosomal instability",
+      "abstract": "Chromosomal instability (CIN) is a hallmark of cancer that drives tumour evolution. It is now recognised that CIN in cancer leads to the constitutive production of misplaced DNA in the form of micronuclei and chromatin bridges. These structures are detected by the nucleic acid sensor cGAS, leading to the production of the second messenger 2\u20323\u2032-cGAMP and activation of the critical hub of innate immune signalling STING. Activation of this immune pathway should instigate the influx and activation of immune cells, resulting in the eradication of cancer cells. That this does not universally occur in the context of CIN remains an unanswered paradox in cancer. Instead, CIN-high cancers are notably adept at immune evasion and are highly metastatic with typically poor outcomes. In this review, we discuss the diverse facets of the cGAS\u2013STING signalling pathway, including emerging roles in homeostatic processes and their intersection with genome stability regulation, its role as a driver of chronic pro-tumour inflammation, and crosstalk with the tumour microenvironment, which may collectively underlie its apparent maintenance in cancers. A better understanding of the mechanisms whereby this immune surveillance pathway is commandeered by chromosomally unstable cancers is critical to the identification of new vulnerabilities for therapeutic exploitation.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Bruno Beernaert",
+          "id": ""
+        },
+        {
+          "name": "E. Parkes",
+          "id": ""
+        }
+      ],
+      "venue": "Biochemical Society Transactions",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:257363370",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5819597586701489,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 246801992,
+      "title": "The Unfolded Protein Response at the Tumor-Immune Interface",
+      "abstract": "The tumor-immune interface has surged to primary relevance in an effort to understand the hurdles facing immune surveillance and cancer immunotherapy. Reports over the past decades have indicated a role for the unfolded protein response (UPR) in modulating not only tumor cell fitness and drug resistance, but also local immunity, with emphasis on the phenotype and altered function of immune cells such as myeloid cells and T cells. Emerging evidence also suggests that aneuploidy correlates with local immune dysregulation. Recently, we reported that the UPR serves as a link between aneuploidy and immune cell dysregulation in a cell nonautonomous way. These new findings add considerable complexity to the organization of the tumor microenvironment (TME) and the origin of its altered function. In this review, we summarize these data and also discuss the role of aneuploidy as a negative regulator of local immunity.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "M. Zanetti",
+          "id": ""
+        },
+        {
+          "name": "Su Xian",
+          "id": ""
+        },
+        {
+          "name": "M. Dosset",
+          "id": ""
+        },
+        {
+          "name": "Hannah E Carter",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:246801992",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5619919951568737,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 250544471,
+      "title": "Classifying cGAS-STING Activity Links Chromosomal Instability with Immunotherapy Response in Metastatic Bladder Cancer",
+      "abstract": "The cGAS-STING pathway serves a critical role in anticancer therapy. Particularly, response to immunotherapy is likely driven by both active cGAS-STING signaling that attracts immune cells, and by the presence of cancer neoantigens that presents as targets for cytotoxic T cells. Chromosomal instability (CIN) is a hallmark of cancer, but also leads to an accumulation of cytosolic DNA that in turn results in increased cGAS-STING signaling. To avoid triggering the cGAS-STING pathway, it is commonly disrupted by cancer cells, either through mutations in the pathway or through transcriptional silencing. Given its effect on the immune system, determining the cGAS-STING activation status prior to treatment initiation is likely of clinical relevance. Here, we used combined expression data from 2,307 tumors from five cancer types from The Cancer Genome Atlas to define a novel cGAS-STING activity score based on eight genes with a known role in the pathway. Using unsupervised clustering, four distinct categories of cGAS-STING activation were identified. In multivariate models, the cGAS-STING active tumors show improved prognosis. Importantly, in an independent bladder cancer immunotherapy-treated cohort, patients with low cGAS-STING expression showed limited response to treatment, while patients with high expression showed improved response and prognosis, particularly among patients with high CIN and more neoantigens. In a multivariate model, a significant interaction was observed between CIN, neoantigens, and cGAS-STING activation. Together, this suggests a potential role of cGAS-STING activity as a predictive biomarker for the application of immunotherapy. Significance: The cGAS-STING pathway is induced by CIN, triggers inflammation and is often deficient in cancer. We provide a tool to evaluate cGAS-STING activity and demonstrate clinical significance in immunotherapy response.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "M. Soka\u010d",
+          "id": ""
+        },
+        {
+          "name": "J. Ahrenfeldt",
+          "id": ""
+        },
+        {
+          "name": "K. Litchfield",
+          "id": ""
+        },
+        {
+          "name": "T. Watkins",
+          "id": ""
+        },
+        {
+          "name": "M. Knudsen",
+          "id": ""
+        },
+        {
+          "name": "L. Dyrskj\u00f8t",
+          "id": ""
+        },
+        {
+          "name": "M. Jakobsen",
+          "id": ""
+        },
+        {
+          "name": "N. Birkbak",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Research Communications",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:250544471",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5572840143800175,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 233869326,
+      "title": "Immune evasion in HPV\u2212 head and neck precancer\u2013cancer transition is driven by an aneuploid switch involving chromosome 9p loss",
+      "abstract": "Significance We report somatic copy-number alterations (SCNAs) that contribute to an immune microenvironment switch during human papillomavirus-negative head and neck cancer (HNSC) development. Specific and nonspecific SCNA levels were examined in a large prospective oral precancer (188 patients) cohort, 2 HNSC (343, 196 patients) cohorts, and 32 cell lines. Chromosome 9p21.3 loss in precursor lesions, the genomic driver of malignant transition, was enhanced by cumulative 9p-arm gene-dosage decreases, cell-intrinsic senescence suppression, and extrinsic decreases in chemokine, cytokine, and NF-\u03baB pathways. Furthermore, 9p-arm loss and JAK2-PD-L1 codeletion were associated with PD-1 inhibitor resistance. These data reveal an oncogenic immune paradox, aneuploid checkpoint to neoplastic transformation, and immune interception and therapeutic strategies for HPV\u2212 HNSC and possibly other CN-driven tumors or diseases. An aneuploid-immune paradox encompasses somatic copy-number alterations (SCNAs), unleashing a cytotoxic response in experimental precancer systems, while conversely being associated with immune suppression and cytotoxic-cell depletion in human tumors, especially head and neck cancer (HNSC). We present evidence from patient samples and cell lines that alterations in chromosome dosage contribute to an immune hot-to-cold switch during human papillomavirus-negative (HPV\u2212) head and neck tumorigenesis. Overall SCNA (aneuploidy) level was associated with increased CD3+ and CD8+ T cell microenvironments in precancer (mostly CD3+, linked to trisomy and aneuploidy), but with T cell-deficient tumors. Early lesions with 9p21.3 loss were associated with depletion of cytotoxic T cell infiltration in TP53 mutant tumors; and with aneuploidy were associated with increased NK-cell infiltration. The strongest driver of cytotoxic T cell and Immune Score depletion in oral cancer was 9p-arm level loss, promoting profound decreases of pivotal IFN-\u03b3-related chemokines (e.g., CXCL9) and pathway genes. Chromosome 9p21.3 deletion contributed mainly to cell-intrinsic senescence suppression, but deletion of the entire arm was necessary to diminish levels of cytokine, JAK-STAT, and Hallmark NF-\u03baB pathways. Finally, 9p arm-level loss and JAK2-PD-L1 codeletion (at 9p24) were predictive markers of poor survival in recurrent HPV\u2212 HNSC after anti\u2013PD-1 therapy; likely amplified by independent aneuploidy-induced immune-cold microenvironments observed here. We hypothesize that 9p21.3 arm-loss expansion and epistatic interactions allow oral precancer cells to acquire properties to overcome a proimmunogenic aneuploid checkpoint, transform and invade. These findings enable distinct HNSC interception and precision-therapeutic approaches, concepts that may apply to other CN-driven neoplastic, immune or aneuploid diseases, and immunotherapies.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "W. William",
+          "id": ""
+        },
+        {
+          "name": "Xin Zhao",
+          "id": ""
+        },
+        {
+          "name": "Joy J. Bianchi",
+          "id": ""
+        },
+        {
+          "name": "Heather Y. Lin",
+          "id": ""
+        },
+        {
+          "name": "Pan Cheng",
+          "id": ""
+        },
+        {
+          "name": "J. Lee",
+          "id": ""
+        },
+        {
+          "name": "H. Carter",
+          "id": ""
+        },
+        {
+          "name": "Ludmil B. Alexandrov",
+          "id": ""
+        },
+        {
+          "name": "J. Abraham",
+          "id": ""
+        },
+        {
+          "name": "D. Spetzler",
+          "id": ""
+        },
+        {
+          "name": "S. Dubinett",
+          "id": ""
+        },
+        {
+          "name": "D. Cleveland",
+          "id": ""
+        },
+        {
+          "name": "W. Cavenee",
+          "id": ""
+        },
+        {
+          "name": "T. Davoli",
+          "id": ""
+        },
+        {
+          "name": "S. Lippman",
+          "id": ""
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "journal": null,
+      "url": "https://doi.org/10.1073/pnas.2022655118",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5523355760960457,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 4355777,
+      "title": "cGAS surveillance of micronuclei links genome instability to innate immunity",
+      "abstract": "DNA is strictly compartmentalized within the nucleus to prevent autoimmunity; despite this, cyclic GMP\u2013AMP synthase (cGAS), a cytosolic sensor of double-stranded DNA, is activated in autoinflammatory disorders and by DNA damage. Precisely how cellular DNA gains access to the cytoplasm remains to be determined. Here, we report that cGAS localizes to micronuclei arising from genome instability in a mouse model of monogenic autoinflammation, after exogenous DNA damage and spontaneously in human cancer cells. Such micronuclei occur after mis-segregation of DNA during cell division and consist of chromatin surrounded by its own nuclear membrane. Breakdown of the micronuclear envelope, a process associated with chromothripsis, leads to rapid accumulation of cGAS, providing a mechanism by which self-DNA becomes exposed to the cytosol. cGAS is activated by chromatin, and consistent with a mitotic origin, micronuclei formation and the proinflammatory response following DNA damage are cell-cycle dependent. By combining live-cell laser microdissection with single cell transcriptomics, we establish that interferon-stimulated gene expression is induced in micronucleated cells. We therefore conclude that micronuclei represent an important source of immunostimulatory DNA. As micronuclei formed from lagging chromosomes also activate this pathway, recognition of micronuclei by cGAS may act as a cell-intrinsic immune surveillance mechanism that detects a range of neoplasia-inducing processes.",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "K. Mackenzie",
+          "id": ""
+        },
+        {
+          "name": "P. Carroll",
+          "id": ""
+        },
+        {
+          "name": "Carol-Anne Martin",
+          "id": ""
+        },
+        {
+          "name": "O. Murina",
+          "id": ""
+        },
+        {
+          "name": "Adeline Fluteau",
+          "id": ""
+        },
+        {
+          "name": "Daniel P. Simpson",
+          "id": ""
+        },
+        {
+          "name": "Nelly N Olova",
+          "id": ""
+        },
+        {
+          "name": "H. Sutcliffe",
+          "id": ""
+        },
+        {
+          "name": "J. Rainger",
+          "id": ""
+        },
+        {
+          "name": "Andrea K Robertson",
+          "id": ""
+        },
+        {
+          "name": "R. Osborn",
+          "id": ""
+        },
+        {
+          "name": "Ann Wheeler",
+          "id": ""
+        },
+        {
+          "name": "M. Nowotny",
+          "id": ""
+        },
+        {
+          "name": "N. Gilbert",
+          "id": ""
+        },
+        {
+          "name": "Tamir Chandra",
+          "id": ""
+        },
+        {
+          "name": "Martin A. M. Reijns",
+          "id": ""
+        },
+        {
+          "name": "A. Jackson",
+          "id": ""
+        }
+      ],
+      "venue": "Nature",
+      "journal": null,
+      "url": "https://doi.org/10.1038/nature23449",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5191297262376278,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 220886564,
+      "title": "Germline genomes have a dominant-heritable contribution to cancer immune evasion and immunotherapy response",
+      "abstract": "Immune evasion is a fundamental hallmark for cancer. At the early stages of tumor development, immune evasion strategies must be implemented by tumors to prevent attacks from the host immune systems. Blocking tumors\u2019 immune evasion will re-activate the host immune systems to eliminate tumors. Immune-checkpoint therapy (ICT) which applies anti-PD-1/PD-L1 or anti-CTLA4 treatment has been a remarkable success in the past few years. However, ~70% of patients cannot gain any clinical benefits from ICT treatment due to the tumor-immunity system\u2019s complexity. In the past, germline pathogenic variants have been thought to have only minor-heritable contributions to cancer. Emerging evidence has shown that germline genomes play a dominant-heritable contribution to cancer via encoding the host immune system. The functional components of the immune system are encoded by the host genome, thus the germline genome might have a profound impact on cancer immune evasion and immunotherapy response. Indeed, recent studies showed that germline pathogenic variants can influence immune capacity in cancer patients at a population level by (i) shaping tumor somatic mutations, altering methylation patterns and antigen-presentation capacity or (ii) influencing NK cell\u2019s function to modulate lymphocyte infiltration in the tumor microenvironment. In addition, the HLA (types A, B or C) genotypes also shape the landscape of tumor somatic mutations. These results highlight the indispensable roles of germline genome in immunity and cancer development and suggest that germline genomics should be integrated into the research field of cancer biology and cancer immunotherapy.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Xue Jiang",
+          "id": ""
+        },
+        {
+          "name": "Mohammad Asad",
+          "id": ""
+        },
+        {
+          "name": "Lin Li",
+          "id": ""
+        },
+        {
+          "name": "Zhanpeng Sun",
+          "id": ""
+        },
+        {
+          "name": "Jean-S\u00e9bastien Milanese",
+          "id": ""
+        },
+        {
+          "name": "Bo Liao",
+          "id": ""
+        },
+        {
+          "name": "Edwin Wang",
+          "id": ""
+        }
+      ],
+      "venue": "Quantitative Biology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:220886564",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5034634766793106,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 233396432,
+      "title": "Karyotype Aberrations in Action: The Evolution of Cancer Genomes and the Tumor Microenvironment",
+      "abstract": "Cancer is a disease of cellular evolution. For this cellular evolution to take place, a population of cells must contain functional heterogeneity and an assessment of this heterogeneity in the form of natural selection. Cancer cells from advanced malignancies are genomically and functionally very different compared to the healthy cells from which they evolved. Genomic alterations include aneuploidy (numerical and structural changes in chromosome content) and polyploidy (e.g., whole genome doubling), which can have considerable effects on cell physiology and phenotype. Likewise, conditions in the tumor microenvironment are spatially heterogeneous and vastly different than in healthy tissues, resulting in a number of environmental niches that play important roles in driving the evolution of tumor cells. While a number of studies have documented abnormal conditions of the tumor microenvironment and the cellular consequences of aneuploidy and polyploidy, a thorough overview of the interplay between karyotypically abnormal cells and the tissue and tumor microenvironments is not available. Here, we examine the evidence for how this interaction may unfold during tumor evolution. We describe a bidirectional interplay in which aneuploid and polyploid cells alter and shape the microenvironment in which they and their progeny reside; in turn, this microenvironment modulates the rate of genesis for new karyotype aberrations and selects for cells that are most fit under a given condition. We conclude by discussing the importance of this interaction for tumor evolution and the possibility of leveraging our understanding of this interplay for cancer therapy.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "N. Baudoin",
+          "id": ""
+        },
+        {
+          "name": "M. Bloomfield",
+          "id": ""
+        }
+      ],
+      "venue": "Genes",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:233396432",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4974236065911155,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 49716828,
+      "title": "Aneuploidy: Cancer strength or vulnerability?",
+      "abstract": "Aneuploidy is a very rare and tissue\u2010specific event in normal conditions, occurring in a low number of brain and liver cells. Its frequency increases in age\u2010related disorders and is one of the hallmarks of cancer. Aneuploidy has been associated with defects in the spindle assembly checkpoint (SAC). However, the relationship between chromosome number alterations, SAC genes and tumor susceptibility remains unclear. Here, we provide a comprehensive review of SAC gene alterations at genomic and transcriptional level across human cancers and discuss the oncogenic and tumor suppressor functions of aneuploidy. SAC genes are rarely mutated but frequently overexpressed, with a negative prognostic impact on different tumor types. Both increased and decreased SAC gene expression show oncogenic potential in mice. SAC gene upregulation may drive aneuploidization and tumorigenesis through mitotic delay, coupled with additional oncogenic functions outside mitosis. The genomic background and environmental conditions influence the fate of aneuploid cells. Aneuploidy reduces cellular fitness. It induces growth and contact inhibition, mitotic and proteotoxic stress, cell senescence and production of reactive oxygen species. However, aneuploidy confers an evolutionary flexibility by favoring genome and chromosome instability (CIN), cellular adaptation, stem cell\u2010like properties and immune escape. These properties represent the driving force of aneuploid cancers, especially under conditions of stress and pharmacological pressure, and are currently under investigation as potential therapeutic targets. Indeed, promising results have been obtained from synthetic lethal combinations exploiting CIN, mitotic defects, and aneuploidy\u2010tolerating mechanisms as cancer vulnerability.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "G. Simonetti",
+          "id": ""
+        },
+        {
+          "name": "S. Bruno",
+          "id": ""
+        },
+        {
+          "name": "Antonella Padella",
+          "id": ""
+        },
+        {
+          "name": "E. Tenti",
+          "id": ""
+        },
+        {
+          "name": "G. Martinelli",
+          "id": ""
+        }
+      ],
+      "venue": "International Journal of Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:49716828",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4956577017064805,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 243950711,
+      "title": "67\u2005Cancer aneuploidy is associated with a distinct tumor immune microenvironment and impacts outcomes to immune checkpoint inhibition in nonsquamous non-small cell lung cancer",
+      "abstract": "Cancer aneuploidy, an unbalanced number of chromosomes, is associated with somatic mutation rate, expression of proliferative genes, and altered immune signaling. Whether aneuploidy correlates with a distinct tumor immunophenotype or impacts clinical outcomes to immune checkpoint inhibitors (ICIs) in NSCLC is unclear.Among nonsquamous NSCLCs which underwent targeted next-generation sequencing, we retrospectively quantified aneuploidy using the fraction of chromosomal arm alterations (FAA), defined as the number of aneuploid chromosome arms divided by the number of chromosome arms assessed. An unbiased recursive partitioning algorithm was used to investigate an FAA level which best discriminated responders from non-responders to ICIs. Multiplexed immunofluorescence to quantify CD8, FOXP3, and PD-1-positive cell counts, as well as PD-L1 expression was performed on a separate cohort of nonsquamous NSCLCs to determine differences in tumor immune cells subsets according to FAA levels.Among 1426 nonsquamous NSCLCs identified, FAA increased along with the increase of pathologic stage, and was highest among tumors harboring EGFR mutations and RET fusions, and lowest among those with KRAS, BRAF, and MET mutations. FAA inversely correlated with PD-L1 expression levels, and positively correlated with tumor mutational burden (TMB) (figure 1A-D). Among 281 NSCLCs treated with ICIs, the median FAA was significantly lower among patients with a partial response to ICI compared to those with stable or progressive disease (0.11 vs 0.21, P=0.006). A fractional aneuploidy level of 0.06 (representing the lowest quartile of FAA) was identified as an optimal cutpoint to discriminate responders from non-responders to ICI. Compared to pts with an FAA >0.06 (N=212), pts with FAA \u22640.06 (N=69) had a significantly higher ORR (42.0% vs 19.3%, P<0.001), longer median progression-free survival (mPFS 6.8 vs 3.2 months, HR: 0.64, P=0.004), and longer median overall survival (mOS 24.8 vs 13.8 months, HR: 0.65, P=0.012) with ICIs (figure 2). After adjusting for performance status, PD-L1 expression, TMB, and line of treatment, FAA retained a significant association with improved PFS (HR: 0.66, P=0.018) and OS (HR: 0.66, P=0.041) to immunotherapy. FAA had no impact on clinical outcomes among pts who received first-line platinum doublet chemotherapy without ICI (figure 3). Among 239 nonsquamous NSCLCs profiled by multiplex immunofluorescence, cancers with a low FAA (\u226425th percentile) were significantly enriched in CD8+ T cells and had a higher CD8+ to FOXP3+ ratio compared to those with high FAA (>25th percentile) (figure 4).Abstract 67 Figure 1(A) Median fraction of chromosomal alterations (FAA) are shown for stages I, II, III, and IV NSCLCs. (B) Tumors with negative (<1%), low (1\u201349%), and high PD-L1 tumor proportion score (TPS) (\u226550%) expression. (C) Pearson\u2019s correlation coefficient between FAA and tumor mutational burden (TMB). (D) Median FAA distribution across a set of 8 targetable driver mutations (ALK, BRAF, EGFR, HER2, KRAS, MET, RET and ROS1) and none identified alteration.Abstract 67 Figure 2(A) Objective response rate, (B) progression-free survival, and (C) overall survival, in patients with a fraction of chromosomal arm alterations (FAA) \u22640.06 versus >0.06 in the immunotherapy-cohort.Abstract 67 Figure 3(A) Objective response rate and (B) progression-free survival (PFS) in patients with a fraction of chromosomal arm alterations (FAA) \u22640.06 versus >0.06 in the chemotherapy-cohort.Abstract 67 Figure 4(A) CD8+, (B) PD-1+, (C) PD-1+ CD8+ (D), FOXP3+ cells/mm2, and (E) PD-L1 distribution in nonsquamous NSCLCs with an fraction of arm-level altered (FAA) low (\u226425th percentile) versus high (>25th percentile). (F) CD8+ to FOXP3+ ratio in tumors with FAA low versus FAA high.Nonsquamous NSCLCs with low aneuploidy have a distinct immune microenvironment and more favorable outcomes to ICIs.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "J. Alessi",
+          "id": ""
+        },
+        {
+          "name": "B. Ricciuti",
+          "id": ""
+        },
+        {
+          "name": "Yvonne Lin-Liu",
+          "id": ""
+        },
+        {
+          "name": "H. Gupta",
+          "id": ""
+        },
+        {
+          "name": "Xinan Wang",
+          "id": ""
+        },
+        {
+          "name": "G. Lamberti",
+          "id": ""
+        },
+        {
+          "name": "G. Recondo",
+          "id": ""
+        },
+        {
+          "name": "V. Vaz",
+          "id": ""
+        },
+        {
+          "name": "A. Barrichello",
+          "id": ""
+        },
+        {
+          "name": "M. Nishino",
+          "id": ""
+        },
+        {
+          "name": "A. Cherniack",
+          "id": ""
+        },
+        {
+          "name": "James Lindsay",
+          "id": ""
+        },
+        {
+          "name": "Bijaya Sharma",
+          "id": ""
+        },
+        {
+          "name": "Kathleen L. Pfaff",
+          "id": ""
+        },
+        {
+          "name": "K. Felt",
+          "id": ""
+        },
+        {
+          "name": "S. Rodig",
+          "id": ""
+        },
+        {
+          "name": "M. Awad",
+          "id": ""
+        }
+      ],
+      "venue": "Journal for ImmunoTherapy of Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:243950711",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.49421643996886655,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 4945303,
+      "title": "A Pan-cancer Landscape of Interactions between Solid Tumors and Infiltrating Immune Cell Populations",
+      "abstract": "Purpose: Throughout their development, tumors are challenged by the immune system, and they acquire features to evade its surveillance. A systematic view of these traits, which shed light on how tumors respond to immunotherapies, is still lacking. Experimental Design: Here, we computed the relative abundance of an array of immune cell populations to measure the immune infiltration pattern of 9,174 tumors of 29 solid cancers. We then clustered tumors with similar infiltration pattern to define immunophenotypes. Finally, we identified genomic and transcriptomic traits associated to these immunophenotypes across cancer types. Results: In highly cytotoxic immunophenotypes, we found tumors with low clonal heterogeneity enriched for alterations of genes involved in epigenetic regulation, ubiquitin-mediated proteolysis, antigen presentation, and cell\u2013cell communication, which may drive resistance in combination with the ectopic expression of negative immune checkpoints. Tumors with immunophenotypes of intermediate cytotoxicity are characterized by an upregulation of processes involved in neighboring tissue invasion and remodeling that may foster the recruitment of immunosuppressive cells. Tumors with poorly cytotoxic immunophenotype tend to be of more advanced stages and bear a greater burden of copy number alterations and frequent alterations of cell cycle, hedgehog, \u03b2-catenin, and TGF\u03b2 pathways, which may cause immune depletion. Conclusions: We provide a comprehensive landscape of the characteristics of solid tumors that may influence (or be influenced by) the characteristics of their immune infiltrate. These results may help interpret the response of solid tumors to immunotherapies and guide the development of novel drug combination strategies. Clin Cancer Res; 24(15); 3717\u201328. \u00a92018 AACR.",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "D. Tamborero",
+          "id": ""
+        },
+        {
+          "name": "C. Rubio-Perez",
+          "id": ""
+        },
+        {
+          "name": "Ferran Mui\u00f1os",
+          "id": ""
+        },
+        {
+          "name": "S. Radhakrishnan",
+          "id": ""
+        },
+        {
+          "name": "J. Piulats",
+          "id": ""
+        },
+        {
+          "name": "A. Muntasell",
+          "id": ""
+        },
+        {
+          "name": "R. Dienstmann",
+          "id": ""
+        },
+        {
+          "name": "N. L\u00f3pez-Bigas",
+          "id": ""
+        },
+        {
+          "name": "A. Gonz\u00e1lez-P\u00e9rez",
+          "id": ""
+        }
+      ],
+      "venue": "Clinical Cancer Research",
+      "journal": null,
+      "url": "https://doi.org/10.1158/1078-0432.CCR-17-3509",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4823274643591396,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 244914331,
+      "title": "Cancer tolerance to chromosomal instability is driven by Stat1 inactivation in vivo",
+      "abstract": "Chromosomal instability is a hallmark of cancer, but also an instigator of aneuploidy-induced stress, reducing cellular fitness. To better understand how cells with CIN adjust to aneuploidy and adopt a malignant fate in vivo, we performed a genome-wide mutagenesis screen in mice. We find that specifically aneuploid tumors inactivate Stat1 signaling in combination with increased Myc activity. By contrast, loss of p53 is common, but not enriched in CIN tumors. Validation in another tissue type confirmed that CIN promotes immune cell infiltration, which is alleviated by Stat1 loss combined with Myc activation, but not with p53 inactivation, or Myc activation alone. Importantly, we find that this mechanism is preserved in human aneuploid cancers. We conclude that aneuploid cancers inactivate Stat1 signaling to circumvent immune surveillance.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Michael Schubert",
+          "id": ""
+        },
+        {
+          "name": "Christy Hong",
+          "id": ""
+        },
+        {
+          "name": "Laura J. Jilderda",
+          "id": ""
+        },
+        {
+          "name": "Marta Requesens Rueda",
+          "id": ""
+        },
+        {
+          "name": "Andrea E. Tijhuis",
+          "id": ""
+        },
+        {
+          "name": "Judith E. Simon",
+          "id": ""
+        },
+        {
+          "name": "P. Bakker",
+          "id": ""
+        },
+        {
+          "name": "Jonathan L. Cooper",
+          "id": ""
+        },
+        {
+          "name": "Aristi Damaskou",
+          "id": ""
+        },
+        {
+          "name": "R. Wardenaar",
+          "id": ""
+        },
+        {
+          "name": "B. Bakker",
+          "id": ""
+        },
+        {
+          "name": "Sahil Gupta",
+          "id": ""
+        },
+        {
+          "name": "A. van den Brink",
+          "id": ""
+        },
+        {
+          "name": "L. A. Ruiz",
+          "id": ""
+        },
+        {
+          "name": "M. Koster",
+          "id": ""
+        },
+        {
+          "name": "S. Youssef",
+          "id": ""
+        },
+        {
+          "name": "Dani\u00eblle G. Luinenburg",
+          "id": ""
+        },
+        {
+          "name": "Alexander J. Strong",
+          "id": ""
+        },
+        {
+          "name": "T. Engleitner",
+          "id": ""
+        },
+        {
+          "name": "H. Ponstingl",
+          "id": ""
+        },
+        {
+          "name": "G. de Haan",
+          "id": ""
+        },
+        {
+          "name": "A. de Bruin",
+          "id": ""
+        },
+        {
+          "name": "R. Rad",
+          "id": ""
+        },
+        {
+          "name": "H. Nijman",
+          "id": ""
+        },
+        {
+          "name": "R. Medema",
+          "id": ""
+        },
+        {
+          "name": "M. V. van Vugt",
+          "id": ""
+        },
+        {
+          "name": "M. de Bruyn",
+          "id": ""
+        },
+        {
+          "name": "D. Spierings",
+          "id": ""
+        },
+        {
+          "name": "M. Colom\u00e9-Tatch\u00e9",
+          "id": ""
+        },
+        {
+          "name": "G. Vassiliou",
+          "id": ""
+        },
+        {
+          "name": "F. Foijer",
+          "id": ""
+        }
+      ],
+      "venue": "bioRxiv",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:244914331",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.47669726638823573,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 229368990,
+      "title": "Cancer Immunoediting in Gliomas: Recent Advances and Implications for Immunotherapy",
+      "abstract": "Gliomas are an aggressive class of primary brain tumors with high rates of recurrence and a dismal overall survival [1]. While existing therapeutic strategies provide some benefit, their effects are variable, and no curative modalities exist. The poor prognosis of these patients largely stems from the heterogenous molecular profile of these tumors and their tumor immune microenvironment (TIME) [2,3]. In addition to tumor expression of PD-L1, glioma cells release immunosuppressive cytokines and chemokines, like IL-10, TGF-\u03b2, and PGE2 in the intercellular tumor milieu, which have been shown to reduce antigen presenting activity and downregulate the proliferation of natural killer (NK) and CD8+ cytotoxic T-cells [4-7]. These tumor-derived factors facilitate the increased presence of immunosuppressive cell populations like myeloidderived suppressor cells (MDSC), tumor-associated macrophages (TAM), and regulatory T-cells (Tregs), which synergistically contribute to immune evasion and poor response to immunotherapies [4,8,9].",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "P. Shah",
+          "id": ""
+        },
+        {
+          "name": "V. Arrieta",
+          "id": ""
+        },
+        {
+          "name": "Catalina Lee-Chang",
+          "id": ""
+        },
+        {
+          "name": "A. Sonabend",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of cellular immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:229368990",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.474100818619667,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 34417371,
+      "title": "Tumor aneuploidy correlates with markers of immune evasion and with reduced response to immunotherapy",
+      "abstract": "Chromosomal chaos and tumor immunity Cancer immunotherapy produces durable clinical responses in only a subset of patients. Identification of tumor characteristics that correlate with responses could lead to predictive biomarkers and shed light on causal mechanisms. Davoli et al. found that human tumors with extensive aneuploidy\u2014i.e., that display a highly abnormal number of chromosomes and chromosomal segments\u2014express fewer markers of the immune cells responsible for tumor destruction. In a retrospective analysis of clinical trial data, they found that melanoma patients with highly aneuploid tumors were less likely to benefit from immune checkpoint blockade therapy than patients whose tumors had a more normal karyotype. Thus, aneuploidy appears to enhance the ability of tumors to evade the immune system. Science, this issue p. 10.1126/science.aaf8399 Human tumors that display extensive chromosomal aberrations appear to be more resistant to immune attack. INTRODUCTION Aneuploidy, also known as somatic copy number alterations (SCNAs), is widespread in human cancers and has been proposed to drive tumorigenesis. The relationship between SCNAs and the characteristic functional features or \u201challmarks\u201d of cancer is not well understood. Among these cancer hallmarks is immune evasion, which is accomplished by neoantigen editing, defects in antigen presentation and inhibition of tumor infiltration, and/or cytotoxic activities of immune cells. Whether and how tumor SCNA levels influence immune evasion is of particular interest as this information could potentially be used to improve the efficacy of immune checkpoint blockade, a therapy that has produced durable responses in a subset of cancer patients. RATIONALE Understanding how SCNAs and mutation load affect tumor evolution, and through what mechanisms, is a key objective in cancer research. To explore the relationships between SCNA levels, tumor mutations, and cancer hallmarks, we examined data from 5255 tumor/normal samples representing 12 cancer types from The Cancer Genome Atlas project. We assigned each tumor an SCNA score and looked for correlations with the number and types of tumor mutations. We also compared the gene expression profiles of tumors with high versus low SCNA levels to identify differences in cellular signaling pathways. RESULTS First, we found that, for most tumors, there was a positive correlation between SCNA levels and the total number of mutations. Second, tumors harboring activating oncogenic mutations in the receptor tyrosine kinase\u2013RAS\u2013phosphatidylinositol 3-kinase pathway showed fewer SCNAs, a finding at odds with the hypothesis of oncogene-driven genomic instability. Third, we found that tumors with high levels of SCNAs showed elevated expression of cell cycle and cell proliferation markers (cell cycle signature) and reduced expression of markers for cytotoxic immune cell infiltrates (immune signature). The increased expression level of the cell cycle signature was primarily predicted by focal SCNAs, with a lesser contribution of arm and whole-chromosome SCNAs. In contrast, the lower expression level of the immune signature was primarily predicted by high levels of arm and whole-chromosome SCNAs. SCNA levels were a stronger predictor of markers of cytotoxic immune cell infiltration than tumor mutational load. Finally, through analysis of data from two published clinical trials of immunotherapy in melanoma patients, we found that high SCNA levels in tumors correlated with poorer survival of patients. The combination of the tumor SCNA score and the tumor mutational load was a better predictor of survival after immunotherapy than either biomarker alone. CONCLUSION We found that two hallmarks of cancer, cell proliferation and immune evasion, are predicted by distinct types of aneuploidy that likely act through distinct mechanisms. Proliferation markers mainly correlated with focal SCNAs, implying a mechanism related to the action of specific genes targeted by these SCNAs. Immune evasion markers mainly correlated with arm- and chromosome-level SCNAs, consistent with a mechanism related to general gene dosage imbalance rather than the action of specific genes. A retrospective analysis of melanoma patients treated with immune checkpoint blockade anti\u2013CTLA-4 (cytotoxic T lymphocyte\u2013associated protein 4) therapy revealed that high SCNA levels were associated with a poorer response, suggesting that tumor aneuploidy might be a useful biomarker for predicting which patients are most likely to benefit from this therapy. Genetic events associated with two cancer hallmarks: cell proliferation and immune evasion. Across several human tumor types, high SCNA levels correlate with increased expression of cell cycle markers and decreased expression of markers of cytotoxic immune cell infiltrates. A high load of tumor neoantigens (reflecting a high level of point mutations) promotes the detection of tumors by the immune system, limiting immune evasion. The relative contribution of focal, arm/chromosome, and neoantigen load to the prediction of proliferation and immune evasion is shown. Immunotherapies based on immune checkpoint blockade are highly effective in a subset of patients. An ongoing challenge is the identification of biomarkers that predict which patients will benefit from these therapies. Aneuploidy, also known as somatic copy number alterations (SCNAs), is widespread in cancer and is posited to drive tumorigenesis. Analyzing 12 human cancer types, we find that, for most, highly aneuploid tumors show reduced expression of markers of cytotoxic infiltrating immune cells, especially CD8+ T cells, and increased expression of cell proliferation markers. Different types of SCNAs predict the proliferation and immune signatures, implying distinct underlying mechanisms. Using published data from two clinical trials of immune checkpoint blockade therapy for metastatic melanoma, we found that tumor aneuploidy inversely correlates with patient survival. Together with other tumor characteristics such as tumor mutational load, aneuploidy may thus help identify patients most likely to respond to immunotherapy.",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "T. Davoli",
+          "id": ""
+        },
+        {
+          "name": "H. Uno",
+          "id": ""
+        },
+        {
+          "name": "Eric C. Wooten",
+          "id": ""
+        },
+        {
+          "name": "S. Elledge",
+          "id": ""
+        }
+      ],
+      "venue": "Science",
+      "journal": null,
+      "url": "https://doi.org/10.1126/science.aaf8399",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4632275186203648,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 271541621,
+      "title": "Chromosomal instability as a driver of cancer progression",
+      "abstract": "Chromosomal instability (CIN) refers to an increased propensity of cells to acquire structural and numerical chromosomal abnormalities during cell division, which contributes to tumour genetic heterogeneity. CIN has long been recognized as a hallmark of cancer, and evidence over the past decade has strongly linked CIN to tumour evolution, metastasis, immune evasion and treatment resistance. Until recently, the mechanisms by which CIN propels cancer progression have remained elusive. Beyond the generation of genomic copy number heterogeneity, recent work has unveiled additional tumour-promoting consequences of abnormal chromosome segregation. These mechanisms include complex chromosomal rearrangements, epigenetic reprogramming and the induction of cancer cell-intrinsic inflammation, emphasizing the multifaceted role of CIN in cancer. Chromosomal instability (CIN) drives cancer progression through diverse mechanisms. The authors review the molecular consequences of CIN in advanced cancer, such as genomic and phenotypic heterogeneity and cancer cell-intrinsic inflammation.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Xuelan Chen",
+          "id": ""
+        },
+        {
+          "name": "Albert S. Agustinus",
+          "id": ""
+        },
+        {
+          "name": "Jun Li",
+          "id": ""
+        },
+        {
+          "name": "Melody DiBona",
+          "id": ""
+        },
+        {
+          "name": "S. Bakhoum",
+          "id": ""
+        }
+      ],
+      "venue": "Nature reviews genetics",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:271541621",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.45965384108831625,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 205263499,
+      "title": "Chromosomal instability drives metastasis through a cytosolic DNA response",
+      "abstract": "Chromosomal instability is a hallmark of cancer that results from ongoing errors in chromosome segregation during mitosis. Although chromosomal instability is a major driver of tumour evolution, its role in metastasis has not been established. Here we show that chromosomal instability promotes metastasis by sustaining a tumour cell-autonomous response to cytosolic DNA. Errors in chromosome segregation create a preponderance of micronuclei whose rupture spills genomic DNA into the cytosol. This leads to the activation of the cGAS\u2013STING (cyclic GMP-AMP synthase\u2013stimulator of interferon genes) cytosolic DNA-sensing pathway and downstream noncanonical NF-\u03baB signalling. Genetic suppression of chromosomal instability markedly delays metastasis even in highly aneuploid tumour models, whereas continuous chromosome segregation errors promote cellular invasion and metastasis in a STING-dependent manner. By subverting lethal epithelial responses to cytosolic DNA, chromosomally unstable tumour cells co-opt chronic activation of innate immune pathways to spread to distant organs.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "S. Bakhoum",
+          "id": ""
+        },
+        {
+          "name": "Bryan Ngo",
+          "id": ""
+        },
+        {
+          "name": "Ashley M. Laughney",
+          "id": ""
+        },
+        {
+          "name": "J. Cavallo",
+          "id": ""
+        },
+        {
+          "name": "C. Murphy",
+          "id": ""
+        },
+        {
+          "name": "P. Ly",
+          "id": ""
+        },
+        {
+          "name": "Pragya Shah",
+          "id": ""
+        },
+        {
+          "name": "Roshan K. Sriram",
+          "id": ""
+        },
+        {
+          "name": "T. Watkins",
+          "id": ""
+        },
+        {
+          "name": "Neil K. Taunk",
+          "id": ""
+        },
+        {
+          "name": "Mercedes A. Duran",
+          "id": ""
+        },
+        {
+          "name": "C. Pauli",
+          "id": ""
+        },
+        {
+          "name": "Christine J. Shaw",
+          "id": ""
+        },
+        {
+          "name": "Kalyani Chadalavada",
+          "id": ""
+        },
+        {
+          "name": "Vinagolu K. Rajasekhar",
+          "id": ""
+        },
+        {
+          "name": "G. Genovese",
+          "id": ""
+        },
+        {
+          "name": "Subramanian Venkatesan",
+          "id": ""
+        },
+        {
+          "name": "Nicolai J. Birkbak",
+          "id": ""
+        },
+        {
+          "name": "N. Mcgranahan",
+          "id": ""
+        },
+        {
+          "name": "Mark Lundquist",
+          "id": ""
+        },
+        {
+          "name": "Q. LaPlant",
+          "id": ""
+        },
+        {
+          "name": "J. Healey",
+          "id": ""
+        },
+        {
+          "name": "O. Elemento",
+          "id": ""
+        },
+        {
+          "name": "C. Chung",
+          "id": ""
+        },
+        {
+          "name": "N. Y. Lee",
+          "id": ""
+        },
+        {
+          "name": "Marcin Imielenski",
+          "id": ""
+        },
+        {
+          "name": "G. Nanjangud",
+          "id": ""
+        },
+        {
+          "name": "D. Pe\u2019er",
+          "id": ""
+        },
+        {
+          "name": "D. Cleveland",
+          "id": ""
+        },
+        {
+          "name": "S. Powell",
+          "id": ""
+        },
+        {
+          "name": "J. Lammerding",
+          "id": ""
+        },
+        {
+          "name": "C. Swanton",
+          "id": ""
+        },
+        {
+          "name": "L. Cantley",
+          "id": ""
+        }
+      ],
+      "venue": "Nature",
+      "journal": null,
+      "url": "https://doi.org/10.1038/nature25432",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4324572793173984,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 252121857,
+      "title": "Cancer genome and tumor microenvironment: Reciprocal crosstalk shapes lung cancer plasticity",
+      "abstract": "Lung cancer classification and treatment has been revolutionized by improving our understanding of driver mutations and the introduction of tumor microenvironment (TME)-associated immune checkpoint inhibitors. Despite the significant improvement of lung cancer patient survival in response to either oncogene-targeted therapy or anticancer immunotherapy, many patients show initial or acquired resistance to these new therapies. Recent advances in genome sequencing reveal that specific driver mutations favor the development of an immunosuppressive TME phenotype, which may result in unfavorable outcomes in lung cancer patients receiving immunotherapies. Clinical studies with follow-up after immunotherapy, assessing oncogenic driver mutations and the TME immune profile, not only reveal the underlying potential molecular mechanisms in the resistant lung cancer patients but also hold the key to better treatment choices and the future of personalized medicine. In this review, we discuss the crosstalk between cancer cell genomic features and the TME to reveal the impact of genetic alterations on the TME phenotype. We also provide insights into the regulatory role of cellular TME components in defining the genetic landscape of cancer cells during tumor development.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "S. Mansouri",
+          "id": ""
+        },
+        {
+          "name": "Daniel Heylmann",
+          "id": ""
+        },
+        {
+          "name": "T. Stiewe",
+          "id": ""
+        },
+        {
+          "name": "M. Kracht",
+          "id": ""
+        },
+        {
+          "name": "R. Savai",
+          "id": ""
+        }
+      ],
+      "venue": "eLife",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:252121857",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4297277006780939,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 250598793,
+      "title": "Chromosome instability and aneuploidy as context-dependent activators or inhibitors of antitumor immunity",
+      "abstract": "Chromosome instability (CIN) and its major consequence, aneuploidy, are hallmarks of human cancers. In addition to imposing fitness costs on tumor cells through several cell-intrinsic mechanisms, CIN/aneuploidy also provokes an antitumor immune response. However, as the major contributor to genomic instability, intratumor heterogeneity generated by CIN/aneuploidy helps tumor cells to evolve methods to overcome the antitumor role of the immune system or even convert the immune system to be tumor-promoting. Although the interplay between CIN/aneuploidy and the immune system is complex and context-dependent, understanding this interplay is essential for the success of immunotherapy in tumors exhibiting CIN/aneuploidy, regardless of whether the efficacy of immunotherapy is increased by combination with strategies to promote CIN/aneuploidy or by designing immunotherapies to target CIN/aneuploidy directly.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Xiaohong Kuang",
+          "id": ""
+        },
+        {
+          "name": "Jian Li",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:250598793",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4058595861313695,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 253578439,
+      "title": "Clinical Applications of Aneuploidies in Evolution of NSCLC Patients: Current Status and Application Prospect",
+      "abstract": "Abstract As one of the first characteristics of cancer cells, chromosomal aberrations during cell division have been well documented. Aneuploidy is a feature of most cancer cells accompanied by an elevated rate of mis-segregation of chromosomes, called chromosome instability (CIN). Aneuploidy causes ongoing karyotypic changes that contribute to tumor heterogeneity, drug resistance, and treatment failure, which are considered predictors of poor prognosis. Lung cancer (LC) is the leading cause of cancer-related deaths worldwide, and its genome map shows extensive aneuploid changes. Elucidating the role of aneuploidy in the pathogenesis of LC will reveal information about the key factors of tumor occurrence and development, help to predict the prognosis of cancer, clarify tumor evolution, metastasis, and drug response, and may promote the development of precision oncology. In this review, we describe many possible causes of aneuploidy and provide evidence of the role of aneuploidy in the evolution of LC, providing a basis for future biological and clinical research.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Xing Yan",
+          "id": ""
+        },
+        {
+          "name": "Shanshan Liu",
+          "id": ""
+        },
+        {
+          "name": "Changhong Liu",
+          "id": ""
+        }
+      ],
+      "venue": "OncoTargets and Therapy",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:253578439",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.39820536785467253,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 248415183,
+      "title": "High levels of chromosomal aberrations negatively associate with benefit to checkpoint inhibition in NSCLC",
+      "abstract": "Background Immune checkpoint inhibitors (ICIs) targeting the programmed cell death 1/programmed death-ligand 1 axis have transformed the management of advanced non-small cell lung cancer (NSCLC). However, many patients do not benefit from this type of treatment, and thus several molecular biomarkers of benefit have been explored. The value of somatic copy number alterations (SCNAs) burden remains elusive. Patients and methods We assembled a cohort of 109 patients with NSCLC treated with ICIs and available tumor samples. We performed shallow whole-genome sequencing on 89 patients to determine genome-wide SCNAs and targeted gene expression analysis on 63 patients to study immune infiltration. We analyzed SCNAs burden in different ways (ie, the fraction of the genome altered or number of events) and studied their association with ICIs benefit based on survival analysis. We correlated SCNAs burden and immune infiltration on 35 patients of our cohort and on patients with lung adenocarcinoma from The Cancer Genome Atlas (TCGA). Results High SCNAs burden, computed in diverse ways, is negatively associated with ICIs progression-free survival (PFS), with the fraction of the genome altered (FGA) by arm and chromosome events showing the strongest association with PFS (p=0.002) (n=77). Nevertheless, we found differences in SCNAs across some clinicopathological features (sample site origin). A multivariate analysis adjusted for relevant characteristics showed that the FGA of arm and chromosome alterations was strongly associated with PFS (HR=2.21, p=3.3 x 10\u22125). Finally, we confirmed that SCNAs burden negatively correlates with tumor immune infiltration (n=35), although this correlation was not found for the males studied. Similar results were observed in the TCGA cohort. Conclusions SCNAs burden is a potential biomarker of benefit to ICIs in patients with NSCLC, although there appear to be some nuances worth consideration. Further studies will be needed to establish its role as a biomarker of benefit to ICIs.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "J. Frigola",
+          "id": ""
+        },
+        {
+          "name": "Caterina Carbonell",
+          "id": ""
+        },
+        {
+          "name": "Patricia Irazno",
+          "id": ""
+        },
+        {
+          "name": "N. Pardo",
+          "id": ""
+        },
+        {
+          "name": "A. Callejo",
+          "id": ""
+        },
+        {
+          "name": "S. Cedres",
+          "id": ""
+        },
+        {
+          "name": "A. Mart\u00ednez-Mart\u00ed",
+          "id": ""
+        },
+        {
+          "name": "A. Navarro",
+          "id": ""
+        },
+        {
+          "name": "M. Soleda",
+          "id": ""
+        },
+        {
+          "name": "J. Jimenez",
+          "id": ""
+        },
+        {
+          "name": "J. Hern\u00e1ndez-Losa",
+          "id": ""
+        },
+        {
+          "name": "A. Vivancos",
+          "id": ""
+        },
+        {
+          "name": "E. Felip",
+          "id": ""
+        },
+        {
+          "name": "R. Amat",
+          "id": ""
+        }
+      ],
+      "venue": "Journal for ImmunoTherapy of Cancer",
+      "journal": null,
+      "url": "https://doi.org/10.1136/jitc-2021-004197",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3840267201180286,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 4707252,
+      "title": "Genomic and Functional Approaches to Understanding Cancer Aneuploidy",
+      "abstract": "Summary Aneuploidy, whole chromosome or chromosome arm imbalance, is a near-universal characteristic of human cancers. In 10,522 cancer genomes from The Cancer Genome Atlas (TCGA), aneuploidy was correlated with TP53 mutation, somatic mutation rate, and expression of proliferation genes. Aneuploidy was anti-correlated with expression of immune signaling genes, due to decreased leukocyte infiltrates in high-aneuploidy samples. Chromosome arm-level alterations show cancer-specific patterns, including loss of chromosome arm 3p in squamous cancers. We applied genome engineering to delete 3p in lung cells, causing decreased proliferation rescued in part by chromosome 3 duplication. This study defines genomic and phenotypic correlates of cancer aneuploidy and provides an experimental approach to study chromosome arm aneuploidy.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Alison M. Taylor",
+          "id": ""
+        },
+        {
+          "name": "J. Shih",
+          "id": ""
+        },
+        {
+          "name": "G. Ha",
+          "id": ""
+        },
+        {
+          "name": "G. Gao",
+          "id": ""
+        },
+        {
+          "name": "Xiaoyang Zhang",
+          "id": ""
+        },
+        {
+          "name": "Ashton C. Berger",
+          "id": ""
+        },
+        {
+          "name": "S. Schumacher",
+          "id": ""
+        },
+        {
+          "name": "Chen Wang",
+          "id": ""
+        },
+        {
+          "name": "Hai Hu",
+          "id": ""
+        },
+        {
+          "name": "Jianfang Liu",
+          "id": ""
+        },
+        {
+          "name": "A. Lazar",
+          "id": ""
+        },
+        {
+          "name": "A. Cherniack",
+          "id": ""
+        },
+        {
+          "name": "R. Beroukhim",
+          "id": ""
+        },
+        {
+          "name": "M. Meyerson",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Cell",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29622463",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.36390544824394744,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 284349739,
+      "title": "Identification of RPGRIP1L as an instability-maintaining gene to drive tumor growth and PD-L1 expression via Hedgehog signaling in breast cancer",
+      "abstract": "Genomic instability is a hallmark of nearly all human cancers, yet the genetic regulators that govern this instability, their functional roles, and their therapeutic potential remain incompletely understood in breast cancer. In this study, we conducted a comprehensive analysis of the expression profiles of genomic instability-maintaining genes (GIMGs) in breast cancer and revealed that elevated expression of GIMGs was associated with adverse clinical outcomes and an altered tumor immune microenvironment. Through further analysis, we identified a core set of GIMGs and pinpointed RPGRIP1L as a critical driver of genomic instability in breast cancer. Notably, RPGRIP1L expression was significantly upregulated in breast cancer tissues and strongly correlated with poor patient prognosis. Functional studies demonstrated that RPGRIP1L knockdown reduced genomic instability in tumor cells, as evidenced by decreased Phosphorylated Histone H2AX (\u03b3H2AX) expression, and suppressed tumor growth in mouse models. Additionally, high RPGRIP1L expression was linked to elevated expression of immune checkpoint Programmed Death Ligand 1(PD-L1) in human breast cancer samples. Mechanistically, we found that RPGRIP1L promoted the activation of the Hedgehog signaling pathway, which in turn drived tumor proliferation and upregulated PD-L1 expression. Collectively, these findings highlight RPGRIP1L as a key genomic instability-maintaining gene in human breast cancer, offering critical insights into the molecular mechanisms underlying disease progression. Furthermore, targeting RPGRIP1L may represent a promising therapeutic strategy for breast cancer.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Meng Lv",
+          "id": ""
+        },
+        {
+          "name": "Yan\u2019e Liu",
+          "id": ""
+        },
+        {
+          "name": "Weihong Cao",
+          "id": ""
+        },
+        {
+          "name": "Yongmei Wang",
+          "id": ""
+        },
+        {
+          "name": "Qi Wang",
+          "id": ""
+        },
+        {
+          "name": "Xue-Qiang Gao",
+          "id": ""
+        },
+        {
+          "name": "Baowei Peng",
+          "id": ""
+        },
+        {
+          "name": "Hai-bo Wang",
+          "id": ""
+        },
+        {
+          "name": "Yan Mao",
+          "id": ""
+        }
+      ],
+      "venue": "BMC Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:284349739",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.36253142827314433,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 235379154,
+      "title": "Aneuploid senescent cells activate NF\u2010\u03baB to promote their immune clearance by NK cells",
+      "abstract": "The immune system plays a major role in the protection against cancer. Identifying and characterizing the pathways mediating this immune surveillance are thus critical for understanding how cancer cells are recognized and eliminated. Aneuploidy is a hallmark of cancer, and we previously found that untransformed cells that had undergone senescence due to highly abnormal karyotypes are eliminated by natural killer (NK) cells in vitro. However, the mechanisms underlying this process remained elusive. Here, using an in vitro NK cell killing system, we show that non\u2010cell\u2010autonomous mechanisms in aneuploid cells predominantly mediate their clearance by NK cells. Our data indicate that in untransformed aneuploid cells, NF\u2010\u03baB signaling upregulation is central to elicit this immune response. Inactivating NF\u2010\u03baB abolishes NK cell\u2010mediated clearance of untransformed aneuploid cells. In cancer cell lines, NF\u2010\u03baB upregulation also correlates with the degree of aneuploidy. However, such upregulation in cancer cells is not sufficient to trigger NK cell\u2010mediated clearance, suggesting that additional mechanisms might be at play during cancer evolution to counteract NF\u2010\u03baB\u2010mediated immunogenicity.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Ruoxi Wang",
+          "id": ""
+        },
+        {
+          "name": "S. Vigan\u00f2",
+          "id": ""
+        },
+        {
+          "name": "U. Ben-David",
+          "id": ""
+        },
+        {
+          "name": "A. Amon",
+          "id": ""
+        },
+        {
+          "name": "S. Santaguida",
+          "id": ""
+        }
+      ],
+      "venue": "EMBO Reports",
+      "journal": null,
+      "url": "https://doi.org/10.15252/embr.202052032",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3621752501777028,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 267783517,
+      "title": "Role of chromosomal cohesion and separation in aneuploidy and tumorigenesis",
+      "abstract": "Cell division is a crucial process, and one of its essential steps involves copying the genetic material, which is organized into structures called chromosomes. Before a cell can divide into two, it needs to ensure that each newly copied chromosome is paired tightly with its identical twin. This pairing is maintained by a protein complex known as cohesin, which is conserved in various organisms, from single-celled ones to humans. Cohesin essentially encircles the DNA, creating a ring-like structure to handcuff, to keep the newly synthesized sister chromosomes together in pairs. Therefore, chromosomal cohesion and separation are fundamental processes governing the attachment and segregation of sister chromatids during cell division. Metaphase-to-anaphase transition requires dissolution of cohesins by the enzyme Separase. The tight regulation of these processes is vital for safeguarding genomic stability. Dysregulation in chromosomal cohesion and separation resulting in aneuploidy, a condition characterized by an abnormal chromosome count in a cell, is strongly associated with cancer. Aneuploidy is a recurring hallmark in many cancer types, and abnormalities in chromosomal cohesion and separation have been identified as significant contributors to various cancers, such as acute myeloid leukemia, myelodysplastic syndrome, colorectal, bladder, and other solid cancers. Mutations within the cohesin complex have been associated with these cancers, as they interfere with chromosomal segregation, genome organization, and gene expression, promoting aneuploidy and contributing to the initiation of malignancy. In summary, chromosomal cohesion and separation processes play a pivotal role in preserving genomic stability, and aberrations in these mechanisms can lead to aneuploidy and cancer. Gaining a deeper understanding of the molecular intricacies of chromosomal cohesion and separation offers promising prospects for the development of innovative therapeutic approaches in the battle against cancer.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Debananda Pati",
+          "id": ""
+        }
+      ],
+      "venue": "Cellular and Molecular Life Sciences",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:267783517",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3558747739520633,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 278392612,
+      "title": "The Hallmarks of Aneuploidy in Cancer and Congenital Syndromes",
+      "abstract": "Aneuploidy, characterized by the gain or loss of chromosomes, plays a critical role in both cancer and congenital aneuploidy syndromes. For any aneuploidy, we can distinguish between its general effects and its chromosome-specific effects. General effects refer to the common cellular stresses induced by aneuploidy, such as impaired proliferation, proteotoxic stress, and altered metabolism, which occur regardless of the specific chromosome involved and profoundly impact cellular and organismal functions. These generalized stresses often hinder cell fitness but can also, under certain conditions, contribute to cancer progression. In contrast, chromosome-specific effects arise from the altered dosage of particular genes on the gained or lost chromosome. These effects vary depending on the chromosome involved and can provide specific fitness effects in cancer cells or distinct developmental phenotypes in congenital aneuploidies like Down syndrome. Understanding the interplay between these two levels of effects is crucial for deciphering the outcomes of aneuploidy. This review synthesizes current knowledge and discusses future directions for unraveling the hallmarks of aneuploidy.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Pan Cheng",
+          "id": ""
+        },
+        {
+          "name": "Karan Singh, M.Phil, Ph.D.",
+          "id": ""
+        },
+        {
+          "name": "Roger H. Reeves",
+          "id": ""
+        },
+        {
+          "name": "T. Davoli",
+          "id": ""
+        }
+      ],
+      "venue": "Annual review of genomics and human genetics (Print)",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:278392612",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3514274110721488,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 282751260,
+      "title": "Genome instability and crosstalk with the immune response",
+      "abstract": "Genome instability, tumour-promoting inflammation, and immune escape are three distinct hallmarks of cancer. However, accumulating scientific and clinical evidence over the past decade have uncovered a multifaceted interplay of complex dynamic network of interactions between genome instability, the DNA damage response (DDR), and tumour immunogenicity. Fuelled by the clinical successes of immune checkpoint blockers (ICB), growing interest for immuno-oncology and recent cancer biology discoveries have allowed a better understanding of the underlying biology and clinical opportunities brought by this interplay\u2014which is yet, still only in its infancy. The cooperative nature of tumour cell-intrinsic and -extrinsic mechanisms involved suggests that harnessing genomic instability in cancer does not only hamper cancer cells fitness but also stimulate the anti-tumour immune response, thereby paving the way to the development of DDR-based immunomodulatory therapeutic strategies applicable to a variety of molecular and histological cancer types. Here, we review the various aspects of this crosstalk between genome instability and tumour immunogenicity, including feedforward and feedback mechanisms affecting either side of this interplay, as well as the specific consequences of chromosomal instability. We further discuss emerging DDR-based predictive biomarkers of response to ICB therapies, and finally examine the latest clinical developments of therapeutic combinations that exploit the DDR\u2013immunity interplay in immuno-oncology.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Roman M. Chabanon",
+          "id": ""
+        },
+        {
+          "name": "F. Danlos",
+          "id": ""
+        },
+        {
+          "name": "K. Ouali",
+          "id": ""
+        },
+        {
+          "name": "S. Postel-Vinay",
+          "id": ""
+        }
+      ],
+      "venue": "Genome Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:282751260",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3480719934767812,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 225107442,
+      "title": "Screening and Identification of New Biomarkers for the Control of Cervical Cancer",
+      "abstract": "Cervical cancer (CC) is the most common cancer in women worldwide and is almost always associated with repeated infections by human papillomavirus (HPV). Screening by traditional tests associated with biomarker identification techniques for low- or high-grade injuries, are becoming increasingly important in diagnosis and prognosis, avoiding countless deaths. This article explores existing literature on the main serum biomarkers and the identification of biomarkers associated with the oncogenesis of HPV expression in the identification of pre-cancerous lesions and of CC for an effective treatment, with reduction of recurrence, as well as we explain strategies for the development of biomarkers based on DNA, proteins and other markers. We also describe how markers of chromosomal instability host DNA, promoting hypo- or hypermethylation of DNA, as well as polymorphisms and epigenetic events in the p53 gene. Finally, we discuss changes in gene expression using cDNA microarray techniques and changes in the expression of proteins and markers identified through mass spectrometry (MS).",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "M. Uyeda",
+          "id": ""
+        },
+        {
+          "name": "M. Subramanian",
+          "id": ""
+        }
+      ],
+      "venue": null,
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:225107442",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3472710177839836,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 271919234,
+      "title": "Clinical and molecular correlates of tumor aneuploidy in metastatic non-small cell lung cancer",
+      "abstract": "Recent studies have linked elevated tumor aneuploidy to anti-tumor immune suppression and adverse survival following immunotherapy. Herein, we provide supportive evidence for tumor aneuploidy as a biomarker of response to immunotherapy in patients with non-small cell lung cancer (NSCLC). We identify a dose\u2013response relationship between aneuploidy score and patient outcomes. In two independent NSCLC cohorts (n\u2009=\u2009659 patients), we demonstrate a novel association between elevated aneuploidy and non-smoking-associated oncogenic driver mutations. Lastly, we report enrichment of TERT amplification and immune-suppressive phenotypes of highly aneuploid NSCLC. Taken together, our findings emphasize a potentially critical role for tumor aneuploidy in guiding immunotherapy treatment strategies.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "L. F. Spurr",
+          "id": ""
+        },
+        {
+          "name": "S. Pitroda",
+          "id": ""
+        }
+      ],
+      "venue": "Scientific Reports",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:271919234",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3454669746216913,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 244831720,
+      "title": "Mad2 Induced Aneuploidy Contributes to Eml4-Alk Driven Lung Cancer by Generating an Immunosuppressive Environment",
+      "abstract": "Simple Summary In tissue homeostasis, aneuploid cells have been suggested to be recognized and eliminated by immune cells. However, these initiating cancer cells can evade the immune system and ultimately derivate a tumor. To better understand how aneuploidy might contribute to tumor initiation and/or progression, we used two lung cancer models: one in which cancer cells are aneuploid and the surrounding normal epithelial cells are diploid, and a second one in which both tumor and normal cells are aneuploid. We show that aneuploid cells surrounding the tumor generate an immunosuppressive environment that contributes to lung cancer initiation. Abstract Aneuploidy, an imbalance number of chromosomes, is frequently observed in lung cancer and inversely correlates with patient survival. Paradoxically, an aneuploid karyotype has detrimental consequences on cellular fitness, and it has been proposed that aneuploid cells, at least in vitro, generate signals for their own elimination by NK cells. However, how aneuploidy affects tumor progression as well as the interplay between aneuploid tumor cells and the tumor microenvironment is still unclear. We generated a new mouse model in which overexpression of Mad2 was almost entirely restricted to normal epithelial cells of the lung, and combined it with an oncogenic Eml4-Alk chromosome inversion. This combination resulted in a higher tumor burden and an increased number of tumor nodules compared to control Eml4-Alk mice alone. The FISH analysis detected significant differences in the aneuploidy levels in the non-tumor regions of Eml4-Alk+Mad2 compared to Eml4-Alk alone, although both tumor groups presented similar levels of aneuploidy. We further show that aneuploid cells in the non-tumor areas adjacent to lung tumors recruit immune cells, such as tumor-associated macrophages. In fact, these areas presented an increase in alveolar macrophages, neutrophils, decreased cytotoxic CD8+ T cells, and IFN-\u03b3, suggesting that aneuploid cells in the surrounding tumor areas create an immunosuppressive signature that might contribute to lung tumor initiation and progression.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "K. Alikhanyan",
+          "id": ""
+        },
+        {
+          "name": "Yuanyuan Chen",
+          "id": ""
+        },
+        {
+          "name": "K\u00e1lm\u00e1n Somogyi",
+          "id": ""
+        },
+        {
+          "name": "S. Kraut",
+          "id": ""
+        },
+        {
+          "name": "R. Sotillo",
+          "id": ""
+        }
+      ],
+      "venue": "Cancers",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:244831720",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3447791810784452,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 257417049,
+      "title": "DNA Repair Deficiency Regulates Immunity Response in Cancers: Molecular Mechanism and Approaches for Combining Immunotherapy",
+      "abstract": "Simple Summary DNA repair pathways play a crucial role in maintaining the stability of a cell\u2019s genetic material. When these pathways are defective, it can lead to genomic instability in cancer cells, which can increase their ability to stimulate an immune response. Inhibiting DNA damage response, the process that helps repair DNA damage, has been shown to increase the effectiveness of anticancer immunotherapies. In this review, we will explore how deficits in the DNA repair pathway can affect the immune system\u2019s ability to fight cancer. We will also examine clinical trials that have combined inhibition of DNA damage response with immune-oncology treatments. A better understanding of these pathways could help improve the effectiveness of cancer immunotherapies and other treatments for various types of cancer. Abstract Defects in DNA repair pathways can lead to genomic instability in multiple tumor types, which contributes to tumor immunogenicity. Inhibition of DNA damage response (DDR) has been reported to increase tumor susceptibility to anticancer immunotherapy. However, the interplay between DDR and the immune signaling pathways remains unclear. In this review, we will discuss how a deficiency in DDR affects anti-tumor immunity, highlighting the cGAS-STING axis as an important link. We will also review the clinical trials that combine DDR inhibition and immune-oncology treatments. A better understanding of these pathways will help exploit cancer immunotherapy and DDR pathways to improve treatment outcomes for various cancers.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Yi Xu",
+          "id": ""
+        },
+        {
+          "name": "S. Nowsheen",
+          "id": ""
+        },
+        {
+          "name": "M. Deng",
+          "id": ""
+        }
+      ],
+      "venue": "Cancers",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:257417049",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.34446905178736653,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 226958936,
+      "title": "The unfolded protein response links tumor aneuploidy to local immune dysregulation",
+      "abstract": "Aneuploidy is a chromosomal abnormality associated with poor prognosis in many cancer types. Here we tested the hypothesis that the unfolded protein response (UPR) links mechanistically aneuploidy and local immune dysregulation. Using a single somatic copy-number alteration (SCNA) score inclusive of whole-chromosome, arm and focal chromosome alterations in a pan-cancer analysis of 9,375 samples in The Cancer Genome Atlas (TCGA) database, we found an inverse correlation with a cytotoxicity (CYT) score across disease stages. Co-expression patterns of UPR genes changed substantially between SCNAlow and SCNAhigh groups. Pathway activity scores showed increased activity by multiple branches of the UPR in response to aneuploidy. The PERK branch showed the strongest association with a reduced CYT score. The conditioned medium of aneuploid cells transmitted XBP1 splicing and caused IL-6 and Arginase1 transcription in receiver bone marrow-derived macrophages. We propose the UPR as a mechanistic link between aneuploidy and immune dysregulation in the tumor microenvironment. Statement of Significance Aneuploidy accumulates over the life of a tumor and is associated with poor prognosis. Tumor progression is also associated with a progressive immune dysregulation. To explain these complex and concurrent disorders we tested the hypothesis that the unfolded protein could represent the link between aneuploidy and a dysregulation of local immunity favoring tumor progression.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Su Xian",
+          "id": ""
+        },
+        {
+          "name": "Stephen C. Searles",
+          "id": ""
+        },
+        {
+          "name": "Paras Sahani",
+          "id": ""
+        },
+        {
+          "name": "T. Cameron Waller",
+          "id": ""
+        },
+        {
+          "name": "Kristen Jepsen",
+          "id": ""
+        },
+        {
+          "name": "H. Carter",
+          "id": ""
+        },
+        {
+          "name": "M. Zanetti",
+          "id": ""
+        }
+      ],
+      "venue": "bioRxiv",
+      "journal": null,
+      "url": "https://doi.org/10.15252/embr.202152509",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3435138164174598,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 233461659,
+      "title": "Centrosome Dynamics and Its Role in Inflammatory Response and Metastatic Process",
+      "abstract": "Metastasis is a process by which cancer cells escape from the location of the primary tumor invading normal tissues at distant organs. Chromosomal instability (CIN) is a hallmark of human cancer, associated with metastasis and therapeutic resistance. The centrosome plays a major role in organizing the microtubule cytoskeleton in animal cells regulating cellular architecture and cell division. Loss of centrosome integrity activates the p38-p53-p21 pathway, which results in cell-cycle arrest or senescence and acts as a cell-cycle checkpoint pathway. Structural and numerical centrosome abnormalities can lead to aneuploidy and CIN. New findings derived from studies on cancer and rare genetic disorders suggest that centrosome dysfunction alters the cellular microenvironment through Rho GTPases, p38, and JNK (c-Jun N-terminal Kinase)-dependent signaling in a way that is favorable for pro-invasive secretory phenotypes and aneuploidy tolerance. We here review recent data on how centrosomes act as complex molecular platforms for Rho GTPases and p38 MAPK (Mitogen activated kinase) signaling at the crossroads of CIN, cytoskeleton remodeling, and immune evasion via both cell-autonomous and non-autonomous mechanisms.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "M. Pancione",
+          "id": ""
+        },
+        {
+          "name": "L. Cerulo",
+          "id": ""
+        },
+        {
+          "name": "A. Remo",
+          "id": ""
+        },
+        {
+          "name": "G. Giordano",
+          "id": ""
+        },
+        {
+          "name": "\u00c1. Gutierrez-Uzquiza",
+          "id": ""
+        },
+        {
+          "name": "P. Bragado",
+          "id": ""
+        },
+        {
+          "name": "A. Porras",
+          "id": ""
+        }
+      ],
+      "venue": "Biomolecules",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:233461659",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3432022760132357,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 278752662,
+      "title": "Identification of novel prognostic biomarkers for thyroid cancer by integrated transcriptome analysis of metastasis-associated genes",
+      "abstract": "Introduction Distant metastasis (DM) is the most important prognostic factor affecting the overall survival (OS) of thyroid cancer. The current study aimed to discover prognostic biomarkers to predict thyroid cancer survival, particularly papillary thyroid carcinoma (PTC), the most common subtype of thyroid cancer. Methods Four RNA sequencing (RNA-Seq) datasets of experimental lung metastasis from four transgenic mouse models of PTC, follicular thyroid cancer (FTC), poorly differentiated thyroid cancer (PDTC), and anaplastic thyroid cancer (ATC) were integrated to screen for candidate genes involved in DM. The Cancer Genome Atlas-Thyroid Cancer (TCGA-THCA) dataset was used to validate the candidate genes. Results A total of 105 upregulated and 25 downregulated differentially expressed genes (DEGs) were identified to be present in all four datasets. Regulation of cytokine production, inflammation, immune checkpoint regulation, and MAPK/ERK cascade were major enriched pathways in metastatic tumor cells. Seven genes were identified whose overexpression was present in 63 of 498 PTC patients (13%) and was associated with poor OS (p < 0.01). Clinically, the seven-gene expression signature was associated with older age at the diagnosis, late stage of tumor, tall cell variant, and higher aneuploidy and hypoxia score. Mutation load was increased in patients with seven-gene expression signature: 26 samples had more than one driver mutation (47%, 26/55). Deep deletions in other chromosomal loci were frequently found in patients with BRAFV600E mutations. In contrast, only 7% of patients without a seven-gene expression signature had more than one driver mutation (24/243). Increased chromosomal instability was also observed in patients with a seven gene expression signature. Conclusion The seven-gene expression signature is associated with poor prognosis and chromosomal instability. These genes may be useful biomarkers for risk stratification for DM and help decision-making in initial surgical recommendations.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Bushra Alnwisser",
+          "id": ""
+        },
+        {
+          "name": "S. Alshehri",
+          "id": ""
+        },
+        {
+          "name": "A. Qattan",
+          "id": ""
+        },
+        {
+          "name": "M. Zou",
+          "id": ""
+        },
+        {
+          "name": "A. Aboussekhra",
+          "id": ""
+        },
+        {
+          "name": "A. Alzahrani",
+          "id": ""
+        },
+        {
+          "name": "Yufei Shi",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:278752662",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3415664359827746,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    }
+  ],
+  "thread_id": null,
+  "narrative": null
+}

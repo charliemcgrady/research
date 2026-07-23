@@ -1,0 +1,3903 @@
+{
+  "query": "Biology, genomic drivers, and immune microenvironment of oncogene-negative (driver-negative, RTK/RAS/RAF wild-type) lung adenocarcinoma; mechanisms of immune evasion.",
+  "results": [
+    {
+      "corpusId": 284714904,
+      "title": "The MAD2L1\u2013FOXM1 axis negatively regulates CD4\u207a T cell and macrophages infiltration in lung adenocarcinoma",
+      "abstract": "Lung adenocarcinoma (LUAD) exhibits high genetic heterogeneity and an immunosuppressive tumor microenvironment (TME), often characterized by reduced immune cell infiltration. Tumor-intrinsic regulators of cell cycle and genomic stability, such as MAD2L1, may also influence immune evasion, but their mechanistic role in LUAD remains unclear. Co-expression profiling was carried out to identify genes positively and negatively associated with MAD2L1 by using Correlation AnalayzeR and was corroborated using ENCORI, GEPIA2 and TIMER2.0 databases. Subsequent prognostic evaluation for all the genes was performed by using KM Plotter. The Spring Viewer transcriptomic database was used to assess the immune cell infiltration patterns correlating with these genes in NSCLC and the association was evaluated using the GSCA and TIMER2.0 databases. Additionally, the expression dynamics across pathological stages was determined by using GSCA. FOXM1 was previously identified as a key upstream regulator of MAD2L1, with co-expression analysis revealing strong positive associations with cell cycle regulators (BIRC5, BUB1B, TTK, CCNA2, DLGAP5) and negative associations with immune-related genes (IL3RA, MPEG1, NCKAP1L, GIMAP8, MS4A14). High MAD2L1 and its positive gene panel correlated with reduced CD4\u207a T cell infiltration, while the negative panel correlated with macrophage-rich TMEs. Stage-wise analysis showed an increase in the positive panel and a decrease in the negative panel from stage I to IV. The MAD2L1 axis emerges as a potential driver of immune exclusion in LUAD by suppressing CD4\u207a T cell infiltration, linking tumor proliferation to immune evasion. Targeting this axis may offer a strategy to restore anti-tumor immunity. MAD2L1 co-expresses with cell cycle genes and negatively associates with the immune-related genes. High MAD2L1 and its positively associated gene panel expression reduces CD4\u207a T cell infiltration in the tumor microenvironment. High MAD2L1 associated negative gene panel expression increases macrophage infiltration in the tumor microenvironment. MAD2L1\u2019s positive regulators increase, and negative regulators decrease with advancing LUAD stage. The FOXM1\u2013MAD2L1 axis could be proposed as a driver of immune exclusion in LUAD MAD2L1 co-expresses with cell cycle genes and negatively associates with the immune-related genes. High MAD2L1 and its positively associated gene panel expression reduces CD4\u207a T cell infiltration in the tumor microenvironment. High MAD2L1 associated negative gene panel expression increases macrophage infiltration in the tumor microenvironment. MAD2L1\u2019s positive regulators increase, and negative regulators decrease with advancing LUAD stage. The FOXM1\u2013MAD2L1 axis could be proposed as a driver of immune exclusion in LUAD",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Chainsee Saini",
+          "id": ""
+        },
+        {
+          "name": "Prerna Vats",
+          "id": ""
+        },
+        {
+          "name": "B. Baweja",
+          "id": ""
+        },
+        {
+          "name": "R. Nema",
+          "id": ""
+        }
+      ],
+      "venue": "Discover Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:284714904",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.7333589980654761,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 220513030,
+      "title": "Immune evolution from preneoplasia to invasive lung adenocarcinomas and underlying molecular features",
+      "abstract": "The mechanism by which anti-cancer immunity shapes early carcinogenesis of lung adenocarcinoma (ADC) is unknown. In this study, we characterize the immune contexture of invasive lung ADC and its precursors by transcriptomic immune profiling, T cell receptor (TCR) sequencing and multiplex immunofluorescence (mIF). Our results demonstrate that anti-tumor immunity evolved as a continuum from lung preneoplasia, to preinvasive ADC, minimally-invasive ADC and frankly invasive lung ADC with a gradually less effective and more intensively regulated immune response including down-regulation of immune-activation pathways, up-regulation of immunosuppressive pathways, lower infiltration of cytotoxic T cells (CTLs) and anti-tumor helper T cells (Th), higher infiltration of regulatory T cells (Tregs), decreased T cell clonality, and lower frequencies of top T cell clones in later-stages. Driver mutations, chromosomal copy number aberrations (CNAs) and aberrant DNA methylation may collectively impinge host immune responses and facilitate immune evasion, promoting the outgrowth of fit subclones in preneoplasia into dominant clones in invasive ADC. The evolution of immune landscape in lung adenocarcinoma (ADC) is largely unknown. Here the authors use a cohort of resected invasive lung ADC and its precursors and show a gradual increase of immunosuppression and decrease of anti-tumor response associated with specific genomic and epigenetic features.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "H. Dejima",
+          "id": ""
+        },
+        {
+          "name": "Xin Hu",
+          "id": ""
+        },
+        {
+          "name": "Runzhe Chen",
+          "id": ""
+        },
+        {
+          "name": "Jiexin Zhang",
+          "id": ""
+        },
+        {
+          "name": "J. Fujimoto",
+          "id": ""
+        },
+        {
+          "name": "E. Parra",
+          "id": ""
+        },
+        {
+          "name": "C. Haymaker",
+          "id": ""
+        },
+        {
+          "name": "Shawna M. Hubert",
+          "id": ""
+        },
+        {
+          "name": "D. Duose",
+          "id": ""
+        },
+        {
+          "name": "L. Solis",
+          "id": ""
+        },
+        {
+          "name": "D. Su",
+          "id": ""
+        },
+        {
+          "name": "J. Fukuoka",
+          "id": ""
+        },
+        {
+          "name": "K. Tabata",
+          "id": ""
+        },
+        {
+          "name": "H. Pham",
+          "id": ""
+        },
+        {
+          "name": "N. Mcgranahan",
+          "id": ""
+        },
+        {
+          "name": "Baili Zhang",
+          "id": ""
+        },
+        {
+          "name": "Jie-Tong Ye",
+          "id": ""
+        },
+        {
+          "name": "L. Ying",
+          "id": ""
+        },
+        {
+          "name": "L. Little",
+          "id": ""
+        },
+        {
+          "name": "C. Gumbs",
+          "id": ""
+        },
+        {
+          "name": "C. Chow",
+          "id": ""
+        },
+        {
+          "name": "M. Estecio",
+          "id": ""
+        },
+        {
+          "name": "M. Godoy",
+          "id": ""
+        },
+        {
+          "name": "M. Antonoff",
+          "id": ""
+        },
+        {
+          "name": "B. Sepesi",
+          "id": ""
+        },
+        {
+          "name": "H. Pass",
+          "id": ""
+        },
+        {
+          "name": "C. Behrens",
+          "id": ""
+        },
+        {
+          "name": "Jianhua Zhang",
+          "id": ""
+        },
+        {
+          "name": "A. Vaporciyan",
+          "id": ""
+        },
+        {
+          "name": "J. Heymach",
+          "id": ""
+        },
+        {
+          "name": "P. Scheet",
+          "id": ""
+        },
+        {
+          "name": "J. Lee",
+          "id": ""
+        },
+        {
+          "name": "Jia Wu",
+          "id": ""
+        },
+        {
+          "name": "P. A. Futreal",
+          "id": ""
+        },
+        {
+          "name": "A. Reuben",
+          "id": ""
+        },
+        {
+          "name": "H. Kadara",
+          "id": ""
+        },
+        {
+          "name": "I. Wistuba",
+          "id": ""
+        },
+        {
+          "name": "Jianjun Zhang",
+          "id": ""
+        }
+      ],
+      "venue": "Nature Communications",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:220513030",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6134936064394574,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 262044101,
+      "title": "Genetic intra-tumour heterogeneity remodels the immune microenvironment and induces immune evasion in brain metastasis of lung cancer.",
+      "abstract": "BACKGROUND\nBrain metastasis, with the highest incidence in patients with lung cancer, significantly worsens prognosis and poses challenges to clinical management. To date, how brain metastasis evades immune elimination remains unknown.\n\n\nMETHODS\nWhole-exome sequencing and RNA-sequencing was performed on 30 matched brain metastasis (BM), primary lung adenocarcinoma (LP) and normal tissues. Data from TCGA primary lung adenocarcinoma (LUAD) cohort, as well as multiplex immunofluorescence (mIF), was used to support the findings of bioinformatics analysis.\n\n\nRESULTS\nOur study highlights the key role of intratumour heterogeneity (ITH) of genomic alterations in the metastasis process, mainly caused by homologous recombination deficiency (HRD) or other somatic copy number alteration (SCNA)-associated mutation mechanisms, leading to increased genomic instability and genomic complexity. We further proposed a selection model of brain metastatic evolution in which ITH drives immune remodelling, leading to immune escape through different mechanisms under local immune pressure.\n\n\nCONCLUSIONS\nOur findings provide novel insights into the metastatic process and immune escape mechanisms of brain metastasis and pave the way for precise immunotherapeutic strategies for lung cancer patients with brain metastasis.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "X. Wang",
+          "id": ""
+        },
+        {
+          "name": "H. Bai",
+          "id": ""
+        },
+        {
+          "name": "Zhijie Wang",
+          "id": ""
+        },
+        {
+          "name": "J. Duan",
+          "id": ""
+        },
+        {
+          "name": "Hongqing Cai",
+          "id": ""
+        },
+        {
+          "name": "Z. Cao",
+          "id": ""
+        },
+        {
+          "name": "Qingtang Lin",
+          "id": ""
+        },
+        {
+          "name": "Xiaosheng Ding",
+          "id": ""
+        },
+        {
+          "name": "Yiting Sun",
+          "id": ""
+        },
+        {
+          "name": "Wei Zhang",
+          "id": ""
+        },
+        {
+          "name": "Xiaoya Xu",
+          "id": ""
+        },
+        {
+          "name": "Hao Chen",
+          "id": ""
+        },
+        {
+          "name": "Dadong Zhang",
+          "id": ""
+        },
+        {
+          "name": "Xiaoli Feng",
+          "id": ""
+        },
+        {
+          "name": "Jinghai Wan",
+          "id": ""
+        },
+        {
+          "name": "Jianjun Zhang",
+          "id": ""
+        },
+        {
+          "name": "Jie Wang",
+          "id": ""
+        },
+        {
+          "name": "Jie He",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Thoracic Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:262044101",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6002247939103708,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 3876221,
+      "title": "Distinct patterns of somatic genome alterations in lung adenocarcinomas and squamous cell carcinomas",
+      "abstract": "To compare lung adenocarcinoma (ADC) and lung squamous cell carcinoma (SqCC) and to identify new drivers of lung carcinogenesis, we examined the exome sequences and copy number profiles of 660 lung ADC and 484 lung SqCC tumor\u2013normal pairs. Recurrent alterations in lung SqCCs were more similar to those of other squamous carcinomas than to alterations in lung ADCs. New significantly mutated genes included PPP3CA, DOT1L, and FTSJD1 in lung ADC, RASA1 in lung SqCC, and KLF5, EP300, and CREBBP in both tumor types. New amplification peaks encompassed MIR21 in lung ADC, MIR205 in lung SqCC, and MAPK1 in both. Lung ADCs lacking receptor tyrosine kinase\u2013Ras\u2013Raf pathway alterations had mutations in SOS1, VAV1, RASA1, and ARHGAP35. Regarding neoantigens, 47% of the lung ADC and 53% of the lung SqCC tumors had at least five predicted neoepitopes. Although targeted therapies for lung ADC and SqCC are largely distinct, immunotherapies may aid in treatment for both subtypes.",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Joshua D. Campbell",
+          "id": ""
+        },
+        {
+          "name": "A. Alexandrov",
+          "id": ""
+        },
+        {
+          "name": "Jaegil Kim",
+          "id": ""
+        },
+        {
+          "name": "J. Wala",
+          "id": ""
+        },
+        {
+          "name": "A. Berger",
+          "id": ""
+        },
+        {
+          "name": "C. Pedamallu",
+          "id": ""
+        },
+        {
+          "name": "S. Shukla",
+          "id": ""
+        },
+        {
+          "name": "Guangwu Guo",
+          "id": ""
+        },
+        {
+          "name": "Angela N. Brooks",
+          "id": ""
+        },
+        {
+          "name": "Bradley A. Murray",
+          "id": ""
+        },
+        {
+          "name": "M. Imieli\u0144ski",
+          "id": ""
+        },
+        {
+          "name": "Xin Hu",
+          "id": ""
+        },
+        {
+          "name": "Shiyun Ling",
+          "id": ""
+        },
+        {
+          "name": "Rehan Akbani",
+          "id": ""
+        },
+        {
+          "name": "Mara W Rosenberg",
+          "id": ""
+        },
+        {
+          "name": "C. Cibulskis",
+          "id": ""
+        },
+        {
+          "name": "A. Ramachandran",
+          "id": ""
+        },
+        {
+          "name": "E. Collisson",
+          "id": ""
+        },
+        {
+          "name": "David J. Kwiatkowski",
+          "id": ""
+        },
+        {
+          "name": "M. Lawrence",
+          "id": ""
+        },
+        {
+          "name": "J. Weinstein",
+          "id": ""
+        },
+        {
+          "name": "R. Verhaak",
+          "id": ""
+        },
+        {
+          "name": "Catherine J. Wu",
+          "id": ""
+        },
+        {
+          "name": "P. Hammerman",
+          "id": ""
+        },
+        {
+          "name": "A. Cherniack",
+          "id": ""
+        },
+        {
+          "name": "G. Getz",
+          "id": ""
+        },
+        {
+          "name": "J. Zenklusen",
+          "id": ""
+        },
+        {
+          "name": "Jiashan Zhang",
+          "id": ""
+        },
+        {
+          "name": "Ina Felau",
+          "id": ""
+        },
+        {
+          "name": "J. Demchok",
+          "id": ""
+        },
+        {
+          "name": "Liming Yang",
+          "id": ""
+        },
+        {
+          "name": "Zhining Wang",
+          "id": ""
+        },
+        {
+          "name": "M. Ferguson",
+          "id": ""
+        },
+        {
+          "name": "R. Tarnuzzer",
+          "id": ""
+        },
+        {
+          "name": "C. Hutter",
+          "id": ""
+        },
+        {
+          "name": "H. Sofia",
+          "id": ""
+        },
+        {
+          "name": "T. Pihl",
+          "id": ""
+        },
+        {
+          "name": "Yunhu Wan",
+          "id": ""
+        },
+        {
+          "name": "Sudha Chudamani",
+          "id": ""
+        },
+        {
+          "name": "Jia Liu",
+          "id": ""
+        },
+        {
+          "name": "Charlie Sun",
+          "id": ""
+        },
+        {
+          "name": "R. Naresh",
+          "id": ""
+        },
+        {
+          "name": "Laxmi Lolla",
+          "id": ""
+        },
+        {
+          "name": "Ye Wu",
+          "id": ""
+        },
+        {
+          "name": "C. Creighton",
+          "id": ""
+        },
+        {
+          "name": "W. Rathmell",
+          "id": ""
+        },
+        {
+          "name": "J. Auman",
+          "id": ""
+        },
+        {
+          "name": "S. Balu",
+          "id": ""
+        },
+        {
+          "name": "T. Bodenheimer",
+          "id": ""
+        },
+        {
+          "name": "D. Hayes",
+          "id": ""
+        },
+        {
+          "name": "K. Hoadley",
+          "id": ""
+        },
+        {
+          "name": "A. Hoyle",
+          "id": ""
+        },
+        {
+          "name": "Corbin D. Jones",
+          "id": ""
+        },
+        {
+          "name": "S. Jefferys",
+          "id": ""
+        },
+        {
+          "name": "S. Meng",
+          "id": ""
+        },
+        {
+          "name": "P. Mieczkowski",
+          "id": ""
+        },
+        {
+          "name": "Lisle E. Mose",
+          "id": ""
+        },
+        {
+          "name": "C. Perou",
+          "id": ""
+        },
+        {
+          "name": "J. Roach",
+          "id": ""
+        },
+        {
+          "name": "Yan Shi",
+          "id": ""
+        },
+        {
+          "name": "J. Simons",
+          "id": ""
+        },
+        {
+          "name": "Tara J. Skelly",
+          "id": ""
+        },
+        {
+          "name": "Matthew G. Soloway",
+          "id": ""
+        },
+        {
+          "name": "Donghui Tan",
+          "id": ""
+        },
+        {
+          "name": "Junyuan Wu",
+          "id": ""
+        },
+        {
+          "name": "Umadevi Veluvolu",
+          "id": ""
+        },
+        {
+          "name": "J. Parker",
+          "id": ""
+        },
+        {
+          "name": "M. Wilkerson",
+          "id": ""
+        },
+        {
+          "name": "L. Boice",
+          "id": ""
+        },
+        {
+          "name": "Mei Huang",
+          "id": ""
+        },
+        {
+          "name": "L. Thorne",
+          "id": ""
+        },
+        {
+          "name": "M. Noble",
+          "id": ""
+        },
+        {
+          "name": "Hailei Zhang",
+          "id": ""
+        },
+        {
+          "name": "David I Heiman",
+          "id": ""
+        },
+        {
+          "name": "Juok Cho",
+          "id": ""
+        },
+        {
+          "name": "Nils Gehlenborg",
+          "id": ""
+        },
+        {
+          "name": "G. Saksena",
+          "id": ""
+        },
+        {
+          "name": "D. Voet",
+          "id": ""
+        },
+        {
+          "name": "Pei Lin",
+          "id": ""
+        },
+        {
+          "name": "S. Frazer",
+          "id": ""
+        },
+        {
+          "name": "L. Chin",
+          "id": ""
+        },
+        {
+          "name": "M. Tsao",
+          "id": ""
+        },
+        {
+          "name": "F. Allison",
+          "id": ""
+        },
+        {
+          "name": "D. Chadwick",
+          "id": ""
+        },
+        {
+          "name": "T. Muley",
+          "id": ""
+        },
+        {
+          "name": "M. Meister",
+          "id": ""
+        },
+        {
+          "name": "H. Dienemann",
+          "id": ""
+        },
+        {
+          "name": "R. Kucherlapati",
+          "id": ""
+        },
+        {
+          "name": "Peter Park",
+          "id": ""
+        },
+        {
+          "name": "Jay Bowen",
+          "id": ""
+        },
+        {
+          "name": "J. Gastier-Foster",
+          "id": ""
+        },
+        {
+          "name": "M. Gerken",
+          "id": ""
+        },
+        {
+          "name": "K. Leraas",
+          "id": ""
+        },
+        {
+          "name": "T. Lichtenberg",
+          "id": ""
+        },
+        {
+          "name": "N. Ramirez",
+          "id": ""
+        },
+        {
+          "name": "L. Wise",
+          "id": ""
+        },
+        {
+          "name": "E. Zmuda",
+          "id": ""
+        },
+        {
+          "name": "J. Stuart",
+          "id": ""
+        },
+        {
+          "name": "E. Collisson",
+          "id": ""
+        },
+        {
+          "name": "M. Peifer",
+          "id": ""
+        }
+      ],
+      "venue": "Nature Genetics",
+      "journal": null,
+      "url": "https://doi.org/10.1038/ng.3564",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.599516317351783,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 248244631,
+      "title": "The Landscape of Immunotherapy Resistance in NSCLC",
+      "abstract": "Lung cancer is the leading cause of cancer mortality worldwide. Immunotherapy has demonstrated clinically significant benefit for non-small-cell lung cancer, but innate (primary) or acquired resistance remains a challenge. Criteria for a uniform clinical definition of acquired resistance have been recently proposed in order to harmonize the design of future clinical trials. Several mechanisms of resistance are now well-described, including the lack of tumor antigens, defective antigen presentation, modulation of critical cellular pathways, epigenetic changes, and changes in the tumor microenvironment. Host-related factors, such as the microbiome and the state of immunity, have also been examined. New compounds and treatment strategies are being developed to target these mechanisms with the goal of maximizing the benefit derived from immunotherapy. Here we review the definitions of resistance to immunotherapy, examine its underlying mechanisms and potential corresponding treatment strategies. We focus on recently published clinical trials and trials that are expected to deliver results soon. Finally, we gather insights from recent preclinical discoveries that may translate to clinical application in the future.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "D. Frisone",
+          "id": ""
+        },
+        {
+          "name": "A. Friedlaender",
+          "id": ""
+        },
+        {
+          "name": "A. Addeo",
+          "id": ""
+        },
+        {
+          "name": "Petros K Tsantoulis",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:248244631",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5941711263891563,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 279026430,
+      "title": "Senescence-associated secretory phenotype in lung cancer: remodeling the tumor microenvironment for metastasis and immune suppression",
+      "abstract": "Cellular senescence exerts dual roles in lung cancer pathogenesis: initially suppressing tumorigenesis via p53/p21/p16-mediated cell cycle arrest, but promoting malignancy through the senescence-associated secretory phenotype (SASP). SASP secretes cytokines, proteases, and growth factors, reshaping the tumor microenvironment (TME) to drive immune evasion, metastasis, and therapy resistance. NF-\u03baB activation induces APOBEC3B mutagenesis and PD-L1 overexpression, while mTOR signaling enhances glycolysis and OXPHOS to fuel tumor growth. Clinically, telomere attrition, p16/p21 expression, and SASP components serve as prognostic biomarkers. Therapeutic strategies target senescent cells and SASP. Future directions focus on single-cell multi-omics to decode senescence heterogeneity, spatially controlled drug delivery, and therapies targeting senescence-immune-metabolic crosstalk. By unraveling senescence\u2019s dual regulatory mechanisms, this review highlights precision approaches to overcome resistance and improve lung cancer outcomes.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Chen Chen",
+          "id": ""
+        },
+        {
+          "name": "Ji Chen",
+          "id": ""
+        },
+        {
+          "name": "Yanling Zhang",
+          "id": ""
+        },
+        {
+          "name": "Qijun Zhang",
+          "id": ""
+        },
+        {
+          "name": "Haixia Shi",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:279026430",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5933134529181109,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 280688153,
+      "title": "Coordinating oncogenesis and immune evasion: KPNA2, GOLM1, and TK1 as novel CAR T-cell targets in lung adenocarcinoma",
+      "abstract": "Although immune checkpoint inhibitors (ICIs) hold promise for those diagnosed with advanced human lung adenocarcinoma (LUAD), notable heterogeneity in patient responses and the complex tumor microenvironment (TME) limits their clinical utility while providing clinical benefit. To identify new therapeutic targets to pursue in chimeric antigen receptor (CAR) T-cell therapy, we leveraged an integrative multi-omic approach. This study identified three oncogenic drivers, karyopherin \u03b12 (KPNA2), golgi membrane protein 1 (GOLM1) and thymidine kinase 1 (TK1), that are overexpressed in LUAD, spatially enriched in malignant niches and associated with significantly reduced overall survival (log-rank P\u2009<\u20090.01). Furthermore, functional interrogation using RNAi-mediated gene silencing in LUAD cell lines (NCI-H1650, A549), demonstrated their essential roles in mediating protumorigenic pathways. Specifically, CRISPR interference of KPNA2 or TK1 inhibited cellular proliferation and invasion while also phenocopying a pro-apoptotic effect with cisplatin. GOLM1 depletion inhibited PD-L1 upregulation and restored CD8\u2009+\u2009T-cell cytotoxicity in co-culture. Mechanistically, dual knockdown targets, KPNA2 and TK1, were shown to restore deregulated STAT3 signaling that promotes cell survival and also enhance MHC class I antigen presentation implicating functional roles for KPNA2 and TK1 in linked processes of intrinsic oncogenesis and immunoediting by immune evasion and suppression. In summary, KPNA2, GOLM1, and TK1 are functionally relevant molecular coordinators for tumor cell autonomous proliferation and TME mediated immunosuppression. Their membrane expression (notable in the case of PD-L1) and functional roles in immune modulation, make them reasonable targets of CAR T-cell immunotherapy. We posit that a combined strategy targeting KPNA2, GOLM1 and TK1 with or without PD-1/PD-L1 axis inhibitors could provide a better strategy to treat patients with ICI resistant LUAD and generate prolonged and stable immune remodeling.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Wangrui Liu",
+          "id": ""
+        },
+        {
+          "name": "H. Zou",
+          "id": ""
+        },
+        {
+          "name": "Lei Guo",
+          "id": ""
+        },
+        {
+          "name": "Zhonghua Zhou",
+          "id": ""
+        },
+        {
+          "name": "Yahui Xie",
+          "id": ""
+        },
+        {
+          "name": "Huaqi Guo",
+          "id": ""
+        },
+        {
+          "name": "Gang Wei",
+          "id": ""
+        },
+        {
+          "name": "Kai Zhang",
+          "id": ""
+        },
+        {
+          "name": "Hui Yin",
+          "id": ""
+        },
+        {
+          "name": "Shiyin Wei",
+          "id": ""
+        },
+        {
+          "name": "Jiachang Chi",
+          "id": ""
+        }
+      ],
+      "venue": "European Journal of Medical Research",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:280688153",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5919210998827228,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 278077910,
+      "title": "Tumor microenvironment-driven resistance to immunotherapy in non-small cell lung cancer: strategies for Cold-to-Hot tumor transformation",
+      "abstract": "Non-small cell lung cancer (NSCLC) represents a formidable challenge in oncology due to its molecular heterogeneity and the dynamic suppressive nature of its tumor microenvironment (TME). Despite the transformative impact of immune checkpoint inhibitors (ICIs) on cancer therapy, the majority of NSCLC patients experience resistance, necessitating novel approaches to overcome immune evasion. This review highlights shared and subtype-specific mechanisms of immune resistance within the TME, including metabolic reprogramming, immune cell dysfunction, and physical barriers. Beyond well-characterized components such as regulatory T cells, tumor-associated macrophages, and myeloid-derived suppressor cells, emerging players - neutrophil extracellular traps, tertiary lymphoid structures, and exosomal signaling networks - underscore the TME\u2019s complexity and adaptability. A multi-dimensional framework is proposed to transform cold, immune-excluded tumors into hot, immune-reactive ones. Key strategies include enhancing immune infiltration, modulating immunosuppressive networks, and activating dormant immune pathways. Cutting-edge technologies, such as single-cell sequencing, spatial transcriptomics, and nanomedicine, are identified as pivotal tools for decoding TME heterogeneity and personalizing therapeutic interventions. By bridging mechanistic insights with translational innovations, this review advocates for integrative approaches that combine ICIs with metabolic modulators, vascular normalizers, and emerging therapies such as STING agonists and tumor vaccines. The synergistic potential of these strategies is poised to overcome resistance and achieve durable antitumor immunity. Ultimately, this vision underscores the importance of interdisciplinary collaboration and real-time TME profiling in refining precision oncology for NSCLC, offering a blueprint for extending these advances to other malignancies.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Jing Yu",
+          "id": ""
+        },
+        {
+          "name": "Xiaoni Kong",
+          "id": ""
+        },
+        {
+          "name": "Yu Feng",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Drug Resistance",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:278077910",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5914334548952309,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 289395007,
+      "title": "The multi-omics landscape of lung adenocarcinoma evolution: deciphering metabolic reprogramming-driven immune escape and its implications in combined therapy.",
+      "abstract": "The progression of lung adenocarcinoma (LUAD) from pre-invasive lesions (atypical adenomatous hyperplasia/adenocarcinoma in situ) to invasive adenocarcinoma constitutes a complex, multi-dimensional, and dynamic process. While the genomic drivers underlying this transition have been extensively characterized, the mechanisms by which metabolic reprogramming remodels the tumor immune microenvironment to orchestrate immune escape remain a critical knowledge gap. Leveraging insights from multi-omics integration encompassing genomics, metabolomics, single-cell RNA sequencing, and spatial transcriptomics, this review systematically delineates the molecular mechanisms through which metabolic reprogramming acts as a pivotal driver of immune escape during LUAD evolution. We critically dissect the intricate metabolic-epigenetic-spatial-immune; specifically, we highlight the mechanism through which cancer cells impair immune effector function via nutrient deprivation and utilize oncometabolites to instigate epigenetic modifications, thereby imprinting an immunosuppressive phenotype at the genetic level. Furthermore, this review discusses the development of early-screening biomarkers based on metabolic signatures, as well as combination therapeutic strategies targeting dual metabolic-immune checkpoints. The aim is to provide a novel theoretical framework for improving clinical management and prognosis in patients with LUAD.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Na Liu",
+          "id": ""
+        },
+        {
+          "name": "G. Han",
+          "id": ""
+        },
+        {
+          "name": "J. Jia",
+          "id": ""
+        },
+        {
+          "name": "Minbin Chen",
+          "id": ""
+        }
+      ],
+      "venue": "Cell Death Discovery",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:289395007",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.588845993190476,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 2616026,
+      "title": "Identification of somatic mutations in EGFR/KRAS/ALK-negative lung adenocarcinoma in never-smokers",
+      "abstract": "Lung adenocarcinoma is a highly heterogeneous disease with various etiologies, prognoses, and responses to therapy. Although genome-scale characterization of lung adenocarcinoma has been performed, a comprehensive somatic mutation analysis of EGFR/KRAS/ALK-negative lung adenocarcinoma in never-smokers has not been conducted. We analyzed whole exome sequencing data from 16 EGFR/KRAS/ALK-negative lung adenocarcinomas and additional 54 tumors in two expansion cohort sets. Candidate loci were validated by target capture and Sanger sequencing. Gene set analysis was performed using Ingenuity Pathway Analysis. We identified 27 genes potentially implicated in the pathogenesis of lung adenocarcinoma. These included targetable genes involved in PI3K/mTOR signaling (TSC1, PIK3CA, AKT2) and receptor tyrosine kinase signaling (ERBB4) and genes not previously highlighted in lung adenocarcinomas, such as SETD2 and PBRM1 (chromatin remodeling), CHEK2 and CDC27 (cell cycle), CUL3 and SOD2 (oxidative stress), and CSMD3 and TFG (immune response). In the expansion cohort (N\u2009=\u200970), TP53 was the most frequently altered gene (11%), followed by SETD2 (6%), CSMD3 (6%), ERBB2 (6%), and CDH10 (4%). In pathway analysis, the majority of altered genes were involved in cell cycle/DNA repair (P <0.001) and cAMP-dependent protein kinase signaling (P <0.001). The genomic makeup of EGFR/KRAS/ALK-negative lung adenocarcinomas in never-smokers is remarkably diverse. Genes involved in cell cycle regulation/DNA repair are implicated in tumorigenesis and represent potential therapeutic targets.",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "J. Ahn",
+          "id": ""
+        },
+        {
+          "name": "H. Kim",
+          "id": ""
+        },
+        {
+          "name": "Jung-Ki Yoon",
+          "id": ""
+        },
+        {
+          "name": "H. Jang",
+          "id": ""
+        },
+        {
+          "name": "S. Han",
+          "id": ""
+        },
+        {
+          "name": "Sungho Eun",
+          "id": ""
+        },
+        {
+          "name": "H. Shim",
+          "id": ""
+        },
+        {
+          "name": "Hyun-Jung Kim",
+          "id": ""
+        },
+        {
+          "name": "D. Kim",
+          "id": ""
+        },
+        {
+          "name": "J. Lee",
+          "id": ""
+        },
+        {
+          "name": "Chang Young Lee",
+          "id": ""
+        },
+        {
+          "name": "M. Bae",
+          "id": ""
+        },
+        {
+          "name": "K. Chung",
+          "id": ""
+        },
+        {
+          "name": "J. Jung",
+          "id": ""
+        },
+        {
+          "name": "E. Y. Kim",
+          "id": ""
+        },
+        {
+          "name": "S. K. Kim",
+          "id": ""
+        },
+        {
+          "name": "Joon Chang",
+          "id": ""
+        },
+        {
+          "name": "Hye Ryun Kim",
+          "id": ""
+        },
+        {
+          "name": "J. Kim",
+          "id": ""
+        },
+        {
+          "name": "Min Goo Lee",
+          "id": ""
+        },
+        {
+          "name": "B. Cho",
+          "id": ""
+        },
+        {
+          "name": "Ji Hyun Lee",
+          "id": ""
+        },
+        {
+          "name": "Duhee Bang",
+          "id": ""
+        }
+      ],
+      "venue": "Genome Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:2616026",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.578865218571111,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 265287022,
+      "title": "IL-1\u03b2 mediates the induction of immune checkpoint regulators IDO1 and PD-L1 in lung adenocarcinoma cells",
+      "abstract": "Introduction Inflammation plays a significant role in various cancers, including lung cancer, where the inflammatory cytokine IL-1\u03b2 is often elevated in the tumor microenvironment. Patients with lung adenocarcinoma show higher levels of serum IL-1\u03b2 compared to healthy individual. Moreover, IL-1\u03b2 blockade reduces the incidence and mortality of lung cancer. Our prior studies revealed that alveolar type-II cells, the precursors for lung adenocarcinoma, display an induction in the expression of the enzyme tryptophan 2,3-dioxygenase (TDO2) during normal lung development. This induction of TDO2 coincides with an increase in IL-1\u03b2 levels and is likely caused by IL-1\u03b2. Given that cancer cells can co-opt developmentally regulated pathways, we hypothesized that IL-1\u03b2 may exert its pro-tumoral function by stimulating TDO2 and indoleamine 2, 3-dioxygenase-1 (IDO1), parallel enzymes involved in the conversion of tryptophan (Trp) into the immune-suppressive oncometabolite kynurenine (Kyn). Our goal was to determine whether IL-1\u03b2 is a common upstream regulator of immune checkpoint regulators. Methods To determine whether IL-1\u03b2 regulates IDO1, TDO2, PD-L1, and PD-L2, we measured mRNA and protein levels in lung adenocarcinoma cells lines (A549, H1792, H1838, H2347, H2228, HCC364 and HCC827) grown in 2D or 3D and in immortalized normal lung epithelial cells (HBEC3-KT and HSAEC1-KT). To determine the importance of the NF\u03baB pathway in mediating IL-1\u03b2 -regulated cellular effects, we used siRNA to knockdown RelA/p65 in IL-1\u03b2 treated cells. The levels of Trp and Kyn in the IL-1\u03b2-treated cells and media were measured by mass spectrometry. Results Upon IL-1\u03b2 stimulation, lung adenocarcinoma cells exhibited significant increases in IDO1 mRNA and protein levels, a response that depended on the NF\u03baB pathway. Interestingly, this induction was more pronounced in 3D spheroid cultures compared to monolayer cultures and was not observed in normal immortalized lung epithelial cells. Furthermore, the conversion of Trp to Kyn increased in cells exposed to IL-1\u03b2, aligning with the heightened IDO1 expression. Remarkably, IL-1\u03b2 also upregulated the expression of programmed death ligand-1 (PD-L1) and PD-L2 in multiple cell lines, indicating that IL-1\u03b2 triggers parallel immune-suppressive mechanisms in lung adenocarcinoma cells. Conclusions Our studies demonstrate that lung adenocarcinoma cells, but not normal immortalized lung epithelial cells, respond to IL-1\u03b2 signaling by inducing the expression of parallel immune checkpoint proteins that have the potential to promote immune evasion. Video Abstract",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Afshan F Nawas",
+          "id": ""
+        },
+        {
+          "name": "Ashley Solmonson",
+          "id": ""
+        },
+        {
+          "name": "B. Gao",
+          "id": ""
+        },
+        {
+          "name": "R. Deberardinis",
+          "id": ""
+        },
+        {
+          "name": "J. Minna",
+          "id": ""
+        },
+        {
+          "name": "Maralice Conacci\u2010Sorrell",
+          "id": ""
+        },
+        {
+          "name": "Carole R. Mendelson",
+          "id": ""
+        }
+      ],
+      "venue": "Cell Communication and Signaling",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:265287022",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5728327110171096,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 247236483,
+      "title": "A novel signature based on immune\u2010related gene pairs and clinical features to predict prognosis and treatment effect in \u201cdriver gene negative\u201d lung adenocarcinoma",
+      "abstract": "Examining the role of immune\u2010related genes (IRGs) in \u201cdriver gene negative\u201d lung adenocarcinoma (LUAD) may provide new ideas for the treatment and study for this LUAD subgroup. We aimed to find the hub immune\u2010related gene pairs can stratify the risk of \u201cdriver\u2010gene\u2010negative\u201d LUAD.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "He-Yuan Cai",
+          "id": ""
+        },
+        {
+          "name": "Hao Yang",
+          "id": ""
+        },
+        {
+          "name": "Shi-Chao Shan",
+          "id": ""
+        },
+        {
+          "name": "Yiyan Lei",
+          "id": ""
+        },
+        {
+          "name": "Jian Y Zou",
+          "id": ""
+        },
+        {
+          "name": "Ying Zhu",
+          "id": ""
+        },
+        {
+          "name": "Honghe Luo",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Medicine",
+      "journal": null,
+      "url": "https://doi.org/10.1002/cam4.4577",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5712052383817643,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 247518490,
+      "title": "Immunogenomic profiling of lung adenocarcinoma reveals high-grade growth patterns are associated with an immunogenic tumor microenvironment",
+      "abstract": "Lung cancer is the leading cause of cancer-related mortality in the United States. Lung adenocarcinoma (LUAD) is the most common subtype and the most epidemiologically and genetically heterogeneous. Pathologists have routinely observed phenotypic heterogeneity among LUAD primary tumors as reflected by distinct patterns of tumor growth. However, despite prior implication on the association of immune-genomic environment and prognosis, this information is not utilized clinically. Herein, applying multiplatform immune-genomic analysis, we investigate two distinct classification systems and demonstrate that high-grade patterns of growth are associated with a distinct immunogenic tumor microenvironment that is predicted with a favorable response to immunotherapy, a finding with growing importance in the era of adjuvant and neoadjuvant immunotherapy.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "N. Akhave",
+          "id": ""
+        },
+        {
+          "name": "Erin M Bayley",
+          "id": ""
+        },
+        {
+          "name": "Meredith L Frank",
+          "id": ""
+        },
+        {
+          "name": "C. Behrens",
+          "id": ""
+        },
+        {
+          "name": "Jiexin",
+          "id": ""
+        },
+        {
+          "name": "Zhang",
+          "id": ""
+        },
+        {
+          "name": "Runzhe Chen",
+          "id": ""
+        },
+        {
+          "name": "Xin Hu",
+          "id": ""
+        },
+        {
+          "name": "E. Parra",
+          "id": ""
+        },
+        {
+          "name": "Won-Chul Lee",
+          "id": ""
+        },
+        {
+          "name": "Stephen",
+          "id": ""
+        },
+        {
+          "name": "Swisher",
+          "id": ""
+        },
+        {
+          "name": "L. Solis",
+          "id": ""
+        },
+        {
+          "name": "A. Weissferdt",
+          "id": ""
+        },
+        {
+          "name": "Cesar A. Moran",
+          "id": ""
+        },
+        {
+          "name": "N. Kalhor",
+          "id": ""
+        },
+        {
+          "name": "Jianhua",
+          "id": ""
+        },
+        {
+          "name": "P. Scheet",
+          "id": ""
+        },
+        {
+          "name": "A. Vaporciyan",
+          "id": ""
+        },
+        {
+          "name": "B. Sepesi",
+          "id": ""
+        },
+        {
+          "name": "D. Gibbons",
+          "id": ""
+        },
+        {
+          "name": "V. John",
+          "id": ""
+        },
+        {
+          "name": "Heymach",
+          "id": ""
+        },
+        {
+          "name": "Jack Lee",
+          "id": ""
+        },
+        {
+          "name": "Ignacio I Wistuba",
+          "id": ""
+        },
+        {
+          "name": "P. Futreal",
+          "id": ""
+        },
+        {
+          "name": "Jianjun Zhang",
+          "id": ""
+        },
+        {
+          "name": "J. Fujimoto",
+          "id": ""
+        },
+        {
+          "name": "A. Reuben",
+          "id": ""
+        }
+      ],
+      "venue": "medRxiv",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:247518490",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5564795986605857,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 283353291,
+      "title": "Oncogenic RAS activity is linked to immune priming and adenosine-driven immune evasion in lung adenocarcinoma",
+      "abstract": "Lung adenocarcinoma (LUAD) is a leading cause of cancer death worldwide, with RAS signalling as a key oncogenic driver. Although KRAS mutations have been linked to immune evasion in preclinical models, the relationship between RAS activity and tumour immunity or response to immunotherapy in patients remains unclear. Here, we applied our previously validated RAS84 transcriptional signature to stratify LUAD patient cohorts and dissect the immune landscape associated with RAS signalling. We report that tumours with elevated RAS activity exhibited features of immune priming, including increased immune infiltration, interferon response, and immune checkpoint gene expression, and showed improved progression-free survival in an independent cohort of patients treated with anti-PD-1. Yet, in both LUAD tumours and cell lines, RAS activity also correlated with elevated immunosuppressive interstitial adenosine mediated by transcriptional regulation of several components of the adenosinergic pathway. In orthotopic pre-clinical models of high-RAS activity lung tumours, blocking adenosine signalling delayed tumour growth and improved response to anti-PD-1 and KRAS inhibition, with a significant effect on innate immunity. This study reveals a dual role for RAS signalling in tumour progression, fostering a pro-immunogenic environment whilst simultaneously dampening anti-tumoural immunity via mechanisms including extracellular adenosine accumulation. Stratifying patients based on RAS transcriptional activity, rather than genetic alterations alone, could inform immunotherapy strategies and improve clinical outcomes.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Sophie de Carn\u00e9 Tr\u00e9cesson",
+          "id": ""
+        },
+        {
+          "name": "P. East",
+          "id": ""
+        },
+        {
+          "name": "Claire E Pillsbury",
+          "id": ""
+        },
+        {
+          "name": "M. S. dos Santos",
+          "id": ""
+        },
+        {
+          "name": "H. Cha",
+          "id": ""
+        },
+        {
+          "name": "E. Colliver",
+          "id": ""
+        },
+        {
+          "name": "Tegan Gilmore",
+          "id": ""
+        },
+        {
+          "name": "S. Rana",
+          "id": ""
+        },
+        {
+          "name": "C. Moore",
+          "id": ""
+        },
+        {
+          "name": "Scott Lighterness",
+          "id": ""
+        },
+        {
+          "name": "Deborah Caswell",
+          "id": ""
+        },
+        {
+          "name": "J. Boumelha",
+          "id": ""
+        },
+        {
+          "name": "M. Tomaschko",
+          "id": ""
+        },
+        {
+          "name": "R. Baer",
+          "id": ""
+        },
+        {
+          "name": "J. Eyles",
+          "id": ""
+        },
+        {
+          "name": "Beatriz Teixeira",
+          "id": ""
+        },
+        {
+          "name": "Muhammad Saeed",
+          "id": ""
+        },
+        {
+          "name": "Kevin Litchfield",
+          "id": ""
+        },
+        {
+          "name": "M. Molina-Arcas",
+          "id": ""
+        },
+        {
+          "name": "Se-Hoon Lee",
+          "id": ""
+        },
+        {
+          "name": "J. Macrae",
+          "id": ""
+        },
+        {
+          "name": "Philip Hobson",
+          "id": ""
+        },
+        {
+          "name": "C. Swanton",
+          "id": ""
+        },
+        {
+          "name": "J. Downward",
+          "id": ""
+        }
+      ],
+      "venue": "bioRxiv",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:283353291",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.49031492388564424,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 53272339,
+      "title": "Development and Validation of a Novel Signature to Predict Overall Survival in \u201cDriver Gene\u2013negative\u201d Lung Adenocarcinoma (LUAD): Results of a Multicenter Study",
+      "abstract": "Purpose: Examining the role of developmental signaling pathways in \u201cdriver gene\u2013negative\u201d lung adenocarcinoma (patients with lung adenocarcinoma negative for EGFR, KRAS, BRAF, HER2, MET, ALK, RET, and ROS1 were identified as \u201cdriver gene\u2013negative\u201d) may shed light on the clinical research and treatment for this lung adenocarcinoma subgroup. We aimed to investigate whether developmental signaling pathways activation can stratify the risk of \u201cdriver gene\u2013negative\u201d lung adenocarcinoma. Experimental Design: In the discovery phase, we profiled the mRNA expression of each candidate gene using genome-wide microarrays in 52 paired lung adenocarcinoma and adjacent normal tissues. In the training phase, tissue microarrays and LASSO Cox regression analysis were applied to further screen candidate molecules in 189 patients, and we developed a predictive signature. In the validation phase, one internal cohort and two external cohorts were used to validate our novel prognostic signature. Results: Kyoto Encyclopedia of Genes and Genomes pathway analysis based on whole-genome microarrays indicated that the Wnt/\u03b2-catenin pathway was activated in \u201cdriver gene\u2013negative\u201d lung adenocarcinoma. Furthermore, the Wnt/\u03b2-catenin pathway\u2013based gene expression profiles revealed 39 transcripts differentially expressed. Finally, a Wnt/\u03b2-catenin pathway\u2013based CSDW signature comprising 4 genes (CTNNB1 or \u03b2-catenin, SOX9, DVL3, and Wnt2b) was developed to classify patients into high-risk and low-risk groups in the training cohort. Patients with high-risk scores in the training cohort had shorter overall survival [HR, 10.42; 6.46\u201316.79; P < 0.001) than patients with low-risk scores. Conclusions: The CSDW signature is a reliable prognostic tool and may represent genes that are potential drug targets for \u201cdriver gene\u2013negative\u201d lung adenocarcinoma.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Yongmei Cui",
+          "id": ""
+        },
+        {
+          "name": "W. Fang",
+          "id": ""
+        },
+        {
+          "name": "Chaofeng Li",
+          "id": ""
+        },
+        {
+          "name": "Ke-Jing Tang",
+          "id": ""
+        },
+        {
+          "name": "Jian Zhang",
+          "id": ""
+        },
+        {
+          "name": "Yiyan Lei",
+          "id": ""
+        },
+        {
+          "name": "Wei-ling He",
+          "id": ""
+        },
+        {
+          "name": "S. Peng",
+          "id": ""
+        },
+        {
+          "name": "M. Kuang",
+          "id": ""
+        },
+        {
+          "name": "Hui Zhang",
+          "id": ""
+        },
+        {
+          "name": "Li-li Chen",
+          "id": ""
+        },
+        {
+          "name": "Di Xu",
+          "id": ""
+        },
+        {
+          "name": "Cuilan Tang",
+          "id": ""
+        },
+        {
+          "name": "Wenhui Zhang",
+          "id": ""
+        },
+        {
+          "name": "Yuxin Zhu",
+          "id": ""
+        },
+        {
+          "name": "Wenting Jiang",
+          "id": ""
+        },
+        {
+          "name": "Neng Jiang",
+          "id": ""
+        },
+        {
+          "name": "Yu Sun",
+          "id": ""
+        },
+        {
+          "name": "Yangshan Chen",
+          "id": ""
+        },
+        {
+          "name": "Han Wang",
+          "id": ""
+        },
+        {
+          "name": "Yingrong Lai",
+          "id": ""
+        },
+        {
+          "name": "Shuhua Li",
+          "id": ""
+        },
+        {
+          "name": "Qiong He",
+          "id": ""
+        },
+        {
+          "name": "Jianwen Zhou",
+          "id": ""
+        },
+        {
+          "name": "Yang Zhang",
+          "id": ""
+        },
+        {
+          "name": "Millicent Lin",
+          "id": ""
+        },
+        {
+          "name": "Honglei Chen",
+          "id": ""
+        },
+        {
+          "name": "Chenzhi Zhou",
+          "id": ""
+        },
+        {
+          "name": "Chunlin Wang",
+          "id": ""
+        },
+        {
+          "name": "Jianhong Wang",
+          "id": ""
+        },
+        {
+          "name": "X. Zou",
+          "id": ""
+        },
+        {
+          "name": "Lian-tang Wang",
+          "id": ""
+        },
+        {
+          "name": "Zunfu Ke",
+          "id": ""
+        }
+      ],
+      "venue": "Clinical Cancer Research",
+      "journal": null,
+      "url": "https://doi.org/10.1158/1078-0432.CCR-18-2545",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.488011164352422,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 268533477,
+      "title": "Lung adenocarcinoma: selection of surgical approaches in solid adenocarcinoma from the viewpoint of clinicopathologic features and tumor microenvironmental heterogeneity",
+      "abstract": "Introduction Solid adenocarcinoma represents a notably aggressive subtype of lung adenocarcinoma. Amidst the prevailing inclination towards conservative surgical interventions for diminutive lung cancer lesions, the critical evaluation of this subtype\u2019s malignancy and heterogeneity stands as imperative for the formulation of surgical approaches and the prognostication of long-term patient survival. Methods A retrospective dataset, encompassing 2406 instances of non-solid adenocarcinoma (comprising lepidic, acinar, and papillary adenocarcinoma) and 326 instances of solid adenocarcinoma, was analyzed to ascertain the risk factors concomitant with diverse histological variants of lung adenocarcinoma. Concurrently, RNA-sequencing data delineating explicit pathological subtypes were extracted from 261 cases in the TCGA database and 188 cases in the OncoSG database. This data served to illuminate the heterogeneity across lung adenocarcinoma (LUAD) specimens characterized by differential histological features. Results Solid adenocarcinoma is associated with an elevated incidence of pleural invasion, microscopic vessel invasion, and lymph node metastasis, relative to other subtypes of lung adenocarcinoma. Furthermore, the tumor microenvironment (TME) in solid pattern adenocarcinoma displayed suboptimal oxygenation and acidic conditions, concomitant with augmented tumor cell proliferation and invasion capacities. Energy and metabolic activities were significantly upregulated in tumor cells of the solid pattern subtype. This subtype manifested robust immune tolerance and capabilities for immune evasion. Conclusion This present investigation identifies multiple potential metrics for evaluating the invasive propensity, metastatic likelihood, and immune resistance of solid pattern adenocarcinoma. These insights may prove instrumental in devising surgical interventions that are tailored to patients diagnosed with disparate histological subtypes of LUAD, thereby offering valuable directional guidance.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Xiao Li",
+          "id": ""
+        },
+        {
+          "name": "Zhen Gao",
+          "id": ""
+        },
+        {
+          "name": "Haixiao Diao",
+          "id": ""
+        },
+        {
+          "name": "Chenran Guo",
+          "id": ""
+        },
+        {
+          "name": "Yue Yu",
+          "id": ""
+        },
+        {
+          "name": "Shang Liu",
+          "id": ""
+        },
+        {
+          "name": "Zhen Feng",
+          "id": ""
+        },
+        {
+          "name": "Zhongmin Peng",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:268533477",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.48361570748417876,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 283882121,
+      "title": "A Multi\u2010Faceted Approach to Explore the Role of Inflammatory CAFs, Providing Prognostic Value and Therapeutic Implications in Lung Adenocarcinoma",
+      "abstract": "Lung adenocarcinoma (LUAD) is the most common subtype of lung cancer, where its complex tumor microenvironment (TME) significantly influences disease progression and treatment response. Inflammatory cancer\u2010associated fibroblasts (iCAFs), as a key component of the TME, can promote tumor immune evasion and drug resistance. However, the characteristics of iCAFs in LUAD and their clinical significance have not been fully elucidated.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Xiaoyue Zhou",
+          "id": ""
+        },
+        {
+          "name": "Cong Fu",
+          "id": ""
+        },
+        {
+          "name": "Ying Fu",
+          "id": ""
+        },
+        {
+          "name": "Ting Jiao",
+          "id": ""
+        },
+        {
+          "name": "Chenyu Zhao",
+          "id": ""
+        },
+        {
+          "name": "Dan Yang",
+          "id": ""
+        },
+        {
+          "name": "Pengpeng Zhang",
+          "id": ""
+        }
+      ],
+      "venue": "International Journal of Genomics",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:283882121",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4822836017981443,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 253759110,
+      "title": "Oncogenic KRAS signaling drives evasion of innate immune surveillance in lung adenocarcinoma by activating CD47",
+      "abstract": "KRAS is one of the most frequently activated oncogenes in human cancers. Although the role of KRAS mutation in tumorigenesis and tumor maintenance has been extensively studied, the relationship between KRAS and the tumor immune microenvironment is not fully understood. Here, we identified a role of KRAS in driving tumor evasion from innate immune surveillance. In samples of lung adenocarcinoma from patients and Kras-driven genetic mouse models of lung cancer, mutant KRAS activated the expression of cluster of differentiation 47 (CD47), an antiphagocytic signal in cancer cells, leading to decreased phagocytosis of cancer cells by macrophages. Mechanistically, mutant KRAS activated PI3K/STAT3 signaling, which restrained miR-34a expression and relieved the posttranscriptional repression of miR-34a on CD47. In 3 independent cohorts of patients with lung cancer, the KRAS mutation status positively correlated with CD47 expression. Therapeutically, disruption of the KRAS/CD47 signaling axis with KRAS siRNA, the KRASG12C inhibitor AMG 510, or a miR-34a mimic suppressed CD47 expression, enhanced the phagocytic capacity of macrophages, and restored innate immune surveillance. Our results reveal a direct mechanistic link between active KRAS and innate immune evasion and identify CD47 as a major effector underlying the KRAS-mediated immunosuppressive tumor microenvironment.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Huanhuan Hu",
+          "id": ""
+        },
+        {
+          "name": "Rongjie Cheng",
+          "id": ""
+        },
+        {
+          "name": "Yanbo Wang",
+          "id": ""
+        },
+        {
+          "name": "Xiaojun Wang",
+          "id": ""
+        },
+        {
+          "name": "Jianzhuang Wu",
+          "id": ""
+        },
+        {
+          "name": "Yan Kong",
+          "id": ""
+        },
+        {
+          "name": "Shoubin Zhan",
+          "id": ""
+        },
+        {
+          "name": "Zhen Zhou",
+          "id": ""
+        },
+        {
+          "name": "Hongyu Zhu",
+          "id": ""
+        },
+        {
+          "name": "Ranran Yu",
+          "id": ""
+        },
+        {
+          "name": "Gaoli Liang",
+          "id": ""
+        },
+        {
+          "name": "Qingyan Wang",
+          "id": ""
+        },
+        {
+          "name": "Xiaoju Zhu",
+          "id": ""
+        },
+        {
+          "name": "Chen-Yu Zhang",
+          "id": ""
+        },
+        {
+          "name": "R. Yin",
+          "id": ""
+        },
+        {
+          "name": "Chao Yan",
+          "id": ""
+        },
+        {
+          "name": "Xi Chen",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Clinical Investigation",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:253759110",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4210363957582228,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 735341,
+      "title": "Comprehensive molecular profiling of lung adenocarcinoma",
+      "abstract": "Adenocarcinoma of the lung is the leading cause of cancer death worldwide. Here we report molecular profiling of 230 resected lung adenocarcinomas using messenger RNA, microRNA and DNA sequencing integrated with copy number, methylation and proteomic analyses. High rates of somatic mutation were seen (mean 8.9 mutations per megabase). Eighteen genes were statistically significantly mutated, including RIT1 activating mutations and newly described loss-of-function MGA mutations which are mutually exclusive with focal MYC amplification. EGFR mutations were more frequent in female patients, whereas mutations in RBM10 were more common in males. Aberrations in NF1, MET, ERBB2 and RIT1 occurred in 13% of cases and were enriched in samples otherwise lacking an activated oncogene, suggesting a driver role for these events in certain tumours. DNA and mRNA sequence from the same tumour highlighted splicing alterations driven by somatic genomic changes, including exon 14 skipping in MET mRNA in 4% of cases. MAPK and PI(3)K pathway activity, when measured at the protein level, was explained by known mutations in only a fraction of cases, suggesting additional, unexplained mechanisms of pathway activation. These data establish a foundation for classification and further investigations of lung adenocarcinoma molecular pathogenesis.",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "E. Collisson",
+          "id": ""
+        },
+        {
+          "name": "Joshua D. Campbell",
+          "id": ""
+        },
+        {
+          "name": "Angela N. Brooks",
+          "id": ""
+        },
+        {
+          "name": "A. Berger",
+          "id": ""
+        },
+        {
+          "name": "William Lee",
+          "id": ""
+        },
+        {
+          "name": "J. Chmielecki",
+          "id": ""
+        },
+        {
+          "name": "D. Beer",
+          "id": ""
+        },
+        {
+          "name": "Leslie M. Cope",
+          "id": ""
+        },
+        {
+          "name": "C. Creighton",
+          "id": ""
+        },
+        {
+          "name": "Ludmila V. Danilova",
+          "id": ""
+        },
+        {
+          "name": "L. Ding",
+          "id": ""
+        },
+        {
+          "name": "G. Getz",
+          "id": ""
+        },
+        {
+          "name": "P. Hammerman",
+          "id": ""
+        },
+        {
+          "name": "D. Neil Hayes",
+          "id": ""
+        },
+        {
+          "name": "Bryan Hernandez",
+          "id": ""
+        },
+        {
+          "name": "J. Herman",
+          "id": ""
+        },
+        {
+          "name": "J. Heymach",
+          "id": ""
+        },
+        {
+          "name": "I. Jurisica",
+          "id": ""
+        },
+        {
+          "name": "R. Kucherlapati",
+          "id": ""
+        },
+        {
+          "name": "D. Kwiatkowski",
+          "id": ""
+        },
+        {
+          "name": "M. Ladanyi",
+          "id": ""
+        },
+        {
+          "name": "Gordon Robertson",
+          "id": ""
+        },
+        {
+          "name": "N. Schultz",
+          "id": ""
+        },
+        {
+          "name": "R. Shen",
+          "id": ""
+        },
+        {
+          "name": "Rileen Sinha",
+          "id": ""
+        },
+        {
+          "name": "C. Sougnez",
+          "id": ""
+        },
+        {
+          "name": "M. Tsao",
+          "id": ""
+        },
+        {
+          "name": "W. Travis",
+          "id": ""
+        },
+        {
+          "name": "J. Weinstein",
+          "id": ""
+        },
+        {
+          "name": "D. Wigle",
+          "id": ""
+        },
+        {
+          "name": "M. Wilkerson",
+          "id": ""
+        },
+        {
+          "name": "Andy Chu",
+          "id": ""
+        },
+        {
+          "name": "A. Cherniack",
+          "id": ""
+        },
+        {
+          "name": "Angela Hadjipanayis",
+          "id": ""
+        },
+        {
+          "name": "Mara W Rosenberg",
+          "id": ""
+        },
+        {
+          "name": "D. Weisenberger",
+          "id": ""
+        },
+        {
+          "name": "P. Laird",
+          "id": ""
+        },
+        {
+          "name": "Amie Radenbaugh",
+          "id": ""
+        },
+        {
+          "name": "Singer Ma",
+          "id": ""
+        },
+        {
+          "name": "Joshua M. Stuart",
+          "id": ""
+        },
+        {
+          "name": "Lauren Averett Byers",
+          "id": ""
+        },
+        {
+          "name": "S. Baylin",
+          "id": ""
+        },
+        {
+          "name": "R. Govindan",
+          "id": ""
+        },
+        {
+          "name": "M. Meyerson",
+          "id": ""
+        },
+        {
+          "name": "S. Gabriel",
+          "id": ""
+        },
+        {
+          "name": "K. Cibulskis",
+          "id": ""
+        },
+        {
+          "name": "Jaegil Kim",
+          "id": ""
+        },
+        {
+          "name": "Chip Stewart",
+          "id": ""
+        },
+        {
+          "name": "Lee T. Lichtenstein",
+          "id": ""
+        },
+        {
+          "name": "E. Lander",
+          "id": ""
+        },
+        {
+          "name": "M. Lawrence",
+          "id": ""
+        },
+        {
+          "name": "Cyriac Kandoth",
+          "id": ""
+        },
+        {
+          "name": "R. Fulton",
+          "id": ""
+        },
+        {
+          "name": "L. Fulton",
+          "id": ""
+        },
+        {
+          "name": "M. McLellan",
+          "id": ""
+        },
+        {
+          "name": "R. Wilson",
+          "id": ""
+        },
+        {
+          "name": "K. Ye",
+          "id": ""
+        },
+        {
+          "name": "Catrina C. Fronick",
+          "id": ""
+        },
+        {
+          "name": "C. Maher",
+          "id": ""
+        },
+        {
+          "name": "Christopher A. Miller",
+          "id": ""
+        },
+        {
+          "name": "M. Wendl",
+          "id": ""
+        },
+        {
+          "name": "Christopher R. Cabanski",
+          "id": ""
+        },
+        {
+          "name": "E. Mardis",
+          "id": ""
+        },
+        {
+          "name": "C. J. D. Creighton Wheeler",
+          "id": ""
+        },
+        {
+          "name": "David Wheeler",
+          "id": ""
+        },
+        {
+          "name": "M. Balasundaram",
+          "id": ""
+        },
+        {
+          "name": "Y. Butterfield",
+          "id": ""
+        },
+        {
+          "name": "R. Carlsen",
+          "id": ""
+        },
+        {
+          "name": "E. Chuah",
+          "id": ""
+        },
+        {
+          "name": "Noreen Dhalla",
+          "id": ""
+        },
+        {
+          "name": "R. Guin",
+          "id": ""
+        },
+        {
+          "name": "Carrie Hirst",
+          "id": ""
+        },
+        {
+          "name": "Darlene Lee",
+          "id": ""
+        },
+        {
+          "name": "H. Li",
+          "id": ""
+        },
+        {
+          "name": "Michael Mayo",
+          "id": ""
+        },
+        {
+          "name": "Richard A. Moore",
+          "id": ""
+        },
+        {
+          "name": "A. Mungall",
+          "id": ""
+        },
+        {
+          "name": "J. Schein",
+          "id": ""
+        },
+        {
+          "name": "Payal Sipahimalani",
+          "id": ""
+        },
+        {
+          "name": "Angela Tam",
+          "id": ""
+        },
+        {
+          "name": "R. Varhol",
+          "id": ""
+        },
+        {
+          "name": "A. Gordon Robertson",
+          "id": ""
+        },
+        {
+          "name": "N. Wye",
+          "id": ""
+        },
+        {
+          "name": "N. Thiessen",
+          "id": ""
+        },
+        {
+          "name": "R. Holt",
+          "id": ""
+        },
+        {
+          "name": "Steven J. M. Jones",
+          "id": ""
+        },
+        {
+          "name": "M. Marra",
+          "id": ""
+        },
+        {
+          "name": "M. Imieli\u0144ski",
+          "id": ""
+        },
+        {
+          "name": "R. Onofrio",
+          "id": ""
+        },
+        {
+          "name": "Eran Hodis",
+          "id": ""
+        },
+        {
+          "name": "Travis Zack",
+          "id": ""
+        },
+        {
+          "name": "E. Helman",
+          "id": ""
+        },
+        {
+          "name": "Chandra Sekhar Pedamallu",
+          "id": ""
+        },
+        {
+          "name": "J. Mesirov",
+          "id": ""
+        },
+        {
+          "name": "G. Saksena",
+          "id": ""
+        },
+        {
+          "name": "S. Schumacher",
+          "id": ""
+        },
+        {
+          "name": "S. Carter",
+          "id": ""
+        },
+        {
+          "name": "L. Garraway",
+          "id": ""
+        },
+        {
+          "name": "R. Beroukhim",
+          "id": ""
+        },
+        {
+          "name": "Semin Lee",
+          "id": ""
+        }
+      ],
+      "venue": "Nature",
+      "journal": null,
+      "url": "https://doi.org/10.1038/nature13385",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.418369110586222,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 286010336,
+      "title": "HOXA10 drives immune evasion in early lung adenocarcinoma by recruiting immunosuppressive macrophages via NF-\u03baB/CCL2 signaling",
+      "abstract": "Background Immune evasion is a critical determinant of cancer progression, yet mechanisms underlying early-stage acquisition of these capabilities remain poorly understood. This study builds an early lung adenocarcinoma mouse model to explore the key regulator of tumor immune evasion process in the very early stage of human lung adenocarcinoma. Methods We introduced KrasG12D/+ and Trp53\u2212/\u2212 oncogenic mutations into murine lung organoids to model newly transformed lung adenocarcinoma cells. Sequential orthotopic injections subjected these cells to iterative immune selection pressure, facilitating the progressive acquisition of immune evasion capabilities. Transcriptomic analyses revealed progressive upregulation of HOXA10, a homeobox transcription factor, throughout the in vivo immune selection process. The tumor microenvironment was evaluated through single-cell RNA sequencing, flow cytometry, and immunohistochemical analysis. Chromatin immunoprecipitation (ChIP) assays, dual-luciferase reporter assays, enzyme-linked immunosorbent assays (ELISA), migration assays, and Western blot analysis were performed to identify downstream targets and elucidate the mechanism by which HOXA10 mediates immune evasion. Immune checkpoint blockade (ICB) treatment was administered to investigate the role of HOXA10 in cancer immunotherapy. Results Our study demonstrated that HOXA10 is upregulated in our lung adenocarcinoma mouse model and in early-stage clinical lung adenocarcinoma specimens. Patients with higher HOXA10 expression exhibited significantly poorer survival. Hoxa10 knockdown substantially inhibited tumor growth, increased cytotoxic CD8+ T cell infiltration, reduced tumor-infiltrating barrier (TIB) density at tumor margins, and decreased immunosuppressive macrophage populations while enhancing macrophage-CD8+ T cell interactions. Mechanistically, Hoxa10 directly binds to the promoter region of the Ikbkb gene, which encodes IKK\u03b2 protein, thereby promoting its expression. Upregulated IKK\u03b2 enhanced nuclear translocation of p65, consequently augmenting downstream Ccl2 expression. Furthermore, we demonstrated that Hoxa10 suppression significantly enhanced immunotherapeutic efficacy. Conclusion During early lung adenocarcinoma development, tumor cells acquire immune evasion capabilities through HOXA10 upregulation, which remodels the intra-tumoral immune microenvironment and promotes adenocarcinoma initiation and progression. This mechanism represents a novel therapeutic target for early-stage lung cancer intervention and highlights the importance of immune tolerance in early-stage cancer. Supplementary Information The online version contains supplementary material available at 10.1186/s13046-026-03679-6.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Jiakang Ma",
+          "id": ""
+        },
+        {
+          "name": "Xingyu Xu",
+          "id": ""
+        },
+        {
+          "name": "Jialiang Zhu",
+          "id": ""
+        },
+        {
+          "name": "Jie Wang",
+          "id": ""
+        },
+        {
+          "name": "Li Wang",
+          "id": ""
+        },
+        {
+          "name": "Yun Liu",
+          "id": ""
+        },
+        {
+          "name": "Wenqing Qiu",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of experimental & clinical cancer research : CR",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:286010336",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4139479499799019,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 248181338,
+      "title": "Combinatorial inactivation of tumor suppressors efficiently initiates lung adenocarcinoma with therapeutic vulnerabilities",
+      "abstract": "Lung cancer is the leading cause of cancer death worldwide, with lung adenocarcinoma being the most common subtype. Many oncogenes and tumor suppressor genes are altered in this cancer type, and the discovery of oncogene mutations has led to the development of targeted therapies that have improved clinical outcomes. However, a large fraction of lung adenocarcinomas lacks mutations in known oncogenes, and the genesis and treatment of these oncogene-negative tumors remain enigmatic. Here, we perform iterative in vivo functional screens using quantitative autochthonous mouse model systems to uncover the genetic and biochemical changes that enable efficient lung tumor initiation in the absence of oncogene alterations. Generation of hundreds of diverse combinations of tumor suppressor alterations demonstrates that inactivation of suppressors of the RAS and PI3K pathways drives the development of oncogene-negative lung adenocarcinoma. Human genomic data and histology identified RAS/MAPK and PI3K pathway activation as a common event in oncogene-negative human lung adenocarcinomas. These Onc-negativeRAS/PI3K tumors and related cell lines are vulnerable to pharmacological inhibition of these signaling axes. These results transform our understanding of this prevalent yet understudied subtype of lung adenocarcinoma.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Maryam Yousefi",
+          "id": ""
+        },
+        {
+          "name": "G. Boross",
+          "id": ""
+        },
+        {
+          "name": "Carly V. Weiss",
+          "id": ""
+        },
+        {
+          "name": "Christopher W Murray",
+          "id": ""
+        },
+        {
+          "name": "Jess D. Hebert",
+          "id": ""
+        },
+        {
+          "name": "Hongchen Cai",
+          "id": ""
+        },
+        {
+          "name": "Emily L Ashkin",
+          "id": ""
+        },
+        {
+          "name": "S. Karmakar",
+          "id": ""
+        },
+        {
+          "name": "Laura Andrejka",
+          "id": ""
+        },
+        {
+          "name": "Leo C Chen",
+          "id": ""
+        },
+        {
+          "name": "Minwei Wang",
+          "id": ""
+        },
+        {
+          "name": "Min K. Tsai",
+          "id": ""
+        },
+        {
+          "name": "Wen-Yang Lin",
+          "id": ""
+        },
+        {
+          "name": "Chuan Li",
+          "id": ""
+        },
+        {
+          "name": "Pegah Yakhchalian",
+          "id": ""
+        },
+        {
+          "name": "Caterina I Col\u00f3n",
+          "id": ""
+        },
+        {
+          "name": "S. Chew",
+          "id": ""
+        },
+        {
+          "name": "Pauline Chu",
+          "id": ""
+        },
+        {
+          "name": "C. Swanton",
+          "id": ""
+        },
+        {
+          "name": "C. Kunder",
+          "id": ""
+        },
+        {
+          "name": "D. Petrov",
+          "id": ""
+        },
+        {
+          "name": "M. Winslow",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Research",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:248181338",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4112528959917286,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 247920850,
+      "title": "Lung Adenocarcinoma Tumor Origin: A Guide for Personalized Medicine",
+      "abstract": "Simple Summary Lung cancer is the leading cause of cancer-related death worldwide, with an average 5-year survival rate of approximately 15%. Among the multiple histological type of lung cancer, adenocarcinoma is the most common. Adenocarcinoma is characterized by a high degree of heterogeneity at many levels, including histological, cellular, and molecular. Understanding the cell of origin of adenocarcinoma, and the molecular changes during tumor progression, will allow better therapeutic strategies. Abstract Lung adenocarcinoma, the major form of lung cancer, is the deadliest cancer worldwide, due to its late diagnosis and its high heterogeneity. Indeed, lung adenocarcinoma exhibits pronounced inter- and intra-tumor heterogeneity cofounding precision medicine. Tumor heterogeneity is a clinical challenge driving tumor progression and drug resistance. Several key pieces of evidence demonstrated that lung adenocarcinoma results from the transformation of progenitor cells that accumulate genetic abnormalities. Thus, a better understanding of the cell of origin of lung adenocarcinoma represents an opportunity to unveil new therapeutic alternatives and stratify patient tumors. While the lung is remarkably quiescent during homeostasis, it presents an extensive ability to respond to injury and regenerate lost or damaged cells. As the lung is constantly exposed to potential insult, its regenerative potential is assured by several stem and progenitor cells. These can be induced to proliferate in response to injury as well as differentiate into multiple cell types. A better understanding of how genetic alterations and perturbed microenvironments impact progenitor-mediated tumorigenesis and treatment response is of the utmost importance to develop new therapeutic opportunities.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "L. Seguin",
+          "id": ""
+        },
+        {
+          "name": "M. Durandy",
+          "id": ""
+        },
+        {
+          "name": "C. F\u00e9ral",
+          "id": ""
+        }
+      ],
+      "venue": "Cancers",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:247920850",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4079910691770416,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 231803798,
+      "title": "Whole-genome characterization of lung adenocarcinomas lacking alterations in the RTK/RAS/RAF pathway",
+      "abstract": "SUMMARY RTK/RAS/RAF pathway alterations (RPAs) are a hallmark of lung adenocarcinoma (LUAD). In this study, we use whole-genome sequencing (WGS) of 85 cases found to be RPA(\u2013) by previous studies from The Cancer Genome Atlas (TCGA) to characterize the minority of LUADs lacking apparent alterations in this pathway. We show that WGS analysis uncovers RPA(+) in 28 (33%) of the 85 samples. Among the remaining 57 cases, we observe focal deletions targeting the promoter or transcription start site of STK11 (n = 7) or KEAP1 (n = 3), and promoter mutations associated with the increased expression of ILF2 (n = 6). We also identify complex structural variations associated with high-level copy number amplifications. Moreover, an enrichment of focal deletions is found in TP53 mutant cases. Our results indicate that RPA(\u2013) cases demonstrate tumor suppressor deletions and genome instability, but lack unique or recurrent genetic lesions compensating for the lack of RPAs. Larger WGS studies of RPA(\u2013) cases are required to understand this important LUAD subset.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Jian Carrot-Zhang",
+          "id": ""
+        },
+        {
+          "name": "Xiaotong Yao",
+          "id": ""
+        },
+        {
+          "name": "S. Devarakonda",
+          "id": ""
+        },
+        {
+          "name": "Aditya Deshpande",
+          "id": ""
+        },
+        {
+          "name": "Jeffrey S. Damrauer",
+          "id": ""
+        },
+        {
+          "name": "T. Silva",
+          "id": ""
+        },
+        {
+          "name": "C. Wong",
+          "id": ""
+        },
+        {
+          "name": "H. Choi",
+          "id": ""
+        },
+        {
+          "name": "Ina Felau",
+          "id": ""
+        },
+        {
+          "name": "A. G. Robertson",
+          "id": ""
+        },
+        {
+          "name": "Mauro A. A. Castro",
+          "id": ""
+        },
+        {
+          "name": "Lisui Bao",
+          "id": ""
+        },
+        {
+          "name": "Esther Rheinbay",
+          "id": ""
+        },
+        {
+          "name": "E. Liu",
+          "id": ""
+        },
+        {
+          "name": "Tuan Trieu",
+          "id": ""
+        },
+        {
+          "name": "D. Haan",
+          "id": ""
+        },
+        {
+          "name": "C. Yau",
+          "id": ""
+        },
+        {
+          "name": "T. Hinoue",
+          "id": ""
+        },
+        {
+          "name": "Yuexin Liu",
+          "id": ""
+        },
+        {
+          "name": "Ofer Shapira",
+          "id": ""
+        },
+        {
+          "name": "Kiran H. Kumar",
+          "id": ""
+        },
+        {
+          "name": "K. Mungall",
+          "id": ""
+        },
+        {
+          "name": "Hailei Zhang",
+          "id": ""
+        },
+        {
+          "name": "J. Lee",
+          "id": ""
+        },
+        {
+          "name": "Ashton C. Berger",
+          "id": ""
+        },
+        {
+          "name": "G. Gao",
+          "id": ""
+        },
+        {
+          "name": "Binyamin Zhitomirsky",
+          "id": ""
+        },
+        {
+          "name": "Wen-Wei Liang",
+          "id": ""
+        },
+        {
+          "name": "Meng Zhou",
+          "id": ""
+        },
+        {
+          "name": "S. Moorthi",
+          "id": ""
+        },
+        {
+          "name": "A. Berger",
+          "id": ""
+        },
+        {
+          "name": "E. Collisson",
+          "id": ""
+        },
+        {
+          "name": "M. Zody",
+          "id": ""
+        },
+        {
+          "name": "Li Ding",
+          "id": ""
+        },
+        {
+          "name": "A. Cherniack",
+          "id": ""
+        },
+        {
+          "name": "G. Getz",
+          "id": ""
+        },
+        {
+          "name": "O. Elemento",
+          "id": ""
+        },
+        {
+          "name": "C. Benz",
+          "id": ""
+        },
+        {
+          "name": "J. Stuart",
+          "id": ""
+        },
+        {
+          "name": "J. Zenklusen",
+          "id": ""
+        },
+        {
+          "name": "R. Beroukhim",
+          "id": ""
+        },
+        {
+          "name": "Jason C. Chang",
+          "id": ""
+        },
+        {
+          "name": "Joshua D. Campbell",
+          "id": ""
+        },
+        {
+          "name": "D. Hayes",
+          "id": ""
+        },
+        {
+          "name": "Lixing Yang",
+          "id": ""
+        },
+        {
+          "name": "P. Laird",
+          "id": ""
+        },
+        {
+          "name": "J. Weinstein",
+          "id": ""
+        },
+        {
+          "name": "D. Kwiatkowski",
+          "id": ""
+        },
+        {
+          "name": "M. Tsao",
+          "id": ""
+        },
+        {
+          "name": "W. Travis",
+          "id": ""
+        },
+        {
+          "name": "Ekta Khurana",
+          "id": ""
+        },
+        {
+          "name": "B. Berman",
+          "id": ""
+        },
+        {
+          "name": "K. Hoadley",
+          "id": ""
+        },
+        {
+          "name": "N. Robine",
+          "id": ""
+        },
+        {
+          "name": "M. Meyerson",
+          "id": ""
+        },
+        {
+          "name": "R. Govindan",
+          "id": ""
+        },
+        {
+          "name": "M. Imieli\u0144ski",
+          "id": ""
+        },
+        {
+          "name": "K. Arora",
+          "id": ""
+        },
+        {
+          "name": "M. Shah",
+          "id": ""
+        },
+        {
+          "name": "Jennifer M. Shelton",
+          "id": ""
+        },
+        {
+          "name": "R. Bowlby",
+          "id": ""
+        },
+        {
+          "name": "V. Friedl",
+          "id": ""
+        },
+        {
+          "name": "M. Goldman",
+          "id": ""
+        },
+        {
+          "name": "B. Craft",
+          "id": ""
+        },
+        {
+          "name": "David I Heiman",
+          "id": ""
+        },
+        {
+          "name": "I. Hajirasouliha",
+          "id": ""
+        },
+        {
+          "name": "Camir Ricketts",
+          "id": ""
+        },
+        {
+          "name": "Pavana Anur",
+          "id": ""
+        },
+        {
+          "name": "Kami E. Chiotti",
+          "id": ""
+        },
+        {
+          "name": "Samantha J. Caesar-Johnson",
+          "id": ""
+        },
+        {
+          "name": "J. Demchok",
+          "id": ""
+        },
+        {
+          "name": "M. Ferguson",
+          "id": ""
+        },
+        {
+          "name": "Anab Kemal",
+          "id": ""
+        },
+        {
+          "name": "R. Tarnuzzer",
+          "id": ""
+        },
+        {
+          "name": "Zhining Wang",
+          "id": ""
+        },
+        {
+          "name": "Liming Yang",
+          "id": ""
+        },
+        {
+          "name": "P. Spellman",
+          "id": ""
+        },
+        {
+          "name": "Benjamin J. Raphael",
+          "id": ""
+        },
+        {
+          "name": "Rehan Akbani",
+          "id": ""
+        },
+        {
+          "name": "Jingchun Zhu",
+          "id": ""
+        },
+        {
+          "name": "Steven J. M. Jones",
+          "id": ""
+        },
+        {
+          "name": "Hui Shen",
+          "id": ""
+        }
+      ],
+      "venue": "Cell Reports",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:231803798",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4028537765863027,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 258182160,
+      "title": "CRISPR/Cas9 screen identifies KRAS-induced COX-2 as a driver of immunotherapy resistance in lung cancer",
+      "abstract": "Oncogenic KRAS impairs anti-tumour immune responses, but effective strategies to combine KRAS inhibitors and immunotherapies have so far proven elusive. In vivo CRISPR-Cas9 screening in an immunogenic murine lung cancer model identifies mechanisms by which oncogenic KRAS promotes immune evasion, most notably expression of immunosuppressive cyclooxygenase-2 (COX-2) in cancer cells. Oncogenic KRAS was a potent inducer of COX-2 in both mouse and human lung cancer which was suppressed using KRAS inhibitors. COX-2 acting via prostaglandin E2 (PGE2) promotes resistance to immune checkpoint blockade (ICB) in both mouse and human lung adenocarcinoma. Targeting COX-2/PGE2 remodelled the tumour microenvironment by inducing pro-inflammatory polarisation of myeloid cells and influx of activated cytotoxic CD8+ T cells, which increased the efficacy of ICB. Restoration of COX-2 expression contributed to tumour relapse after prolonged KRAS inhibition. We propose testing COX-2/PGE2 pathway inhibitors in combination with KRAS G12C inhibition or ICB in patients with KRAS-mutant lung cancer.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "J. Boumelha",
+          "id": ""
+        },
+        {
+          "name": "A. de Castro",
+          "id": ""
+        },
+        {
+          "name": "Nourdine Bah",
+          "id": ""
+        },
+        {
+          "name": "H. Cha",
+          "id": ""
+        },
+        {
+          "name": "Sophie de Carn\u00e9 Tr\u00e9cesson",
+          "id": ""
+        },
+        {
+          "name": "S. Rana",
+          "id": ""
+        },
+        {
+          "name": "P. Anastasiou",
+          "id": ""
+        },
+        {
+          "name": "E. Mugarza",
+          "id": ""
+        },
+        {
+          "name": "C. Moore",
+          "id": ""
+        },
+        {
+          "name": "Robert L. Goldstone",
+          "id": ""
+        },
+        {
+          "name": "P. East",
+          "id": ""
+        },
+        {
+          "name": "K. Litchfield",
+          "id": ""
+        },
+        {
+          "name": "Se-Hoon Lee",
+          "id": ""
+        },
+        {
+          "name": "M. Molina-Arcas",
+          "id": ""
+        },
+        {
+          "name": "J. Downward",
+          "id": ""
+        }
+      ],
+      "venue": "bioRxiv",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:258182160",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3990843852323076,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 3353267,
+      "title": "NetSig: network-based discovery from cancer genomes",
+      "abstract": "Methods that integrate molecular network information and tumor genome data could complement gene-based statistical tests to identify likely new cancer genes; but such approaches are challenging to validate at scale, and their predictive value remains unclear. We developed a robust statistic (NetSig) that integrates protein interaction networks with data from 4,742 tumor exomes. NetSig can accurately classify known driver genes in 60% of tested tumor types and predicts 62 new driver candidates. Using a quantitative experimental framework to determine in vivo tumorigenic potential in mice, we found that NetSig candidates induce tumors at rates that are comparable to those of known oncogenes and are ten-fold higher than those of random genes. By reanalyzing nine tumor-inducing NetSig candidates in 242 patients with oncogene-negative lung adenocarcinomas, we find that two (AKT2 and TFDP2) are significantly amplified. Our study presents a scalable integrated computational and experimental workflow to expand discovery from cancer genomes.",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Heiko Horn",
+          "id": ""
+        },
+        {
+          "name": "M. Lawrence",
+          "id": ""
+        },
+        {
+          "name": "C. Chouinard",
+          "id": ""
+        },
+        {
+          "name": "Y. Shrestha",
+          "id": ""
+        },
+        {
+          "name": "J. X. Hu",
+          "id": ""
+        },
+        {
+          "name": "Elizabeth Worstell",
+          "id": ""
+        },
+        {
+          "name": "E. Shea",
+          "id": ""
+        },
+        {
+          "name": "Nina Ilic",
+          "id": ""
+        },
+        {
+          "name": "Eejung Kim",
+          "id": ""
+        },
+        {
+          "name": "A. Kamburov",
+          "id": ""
+        },
+        {
+          "name": "Alireza Kashani",
+          "id": ""
+        },
+        {
+          "name": "W. Hahn",
+          "id": ""
+        },
+        {
+          "name": "Joshua D. Campbell",
+          "id": ""
+        },
+        {
+          "name": "J. Boehm",
+          "id": ""
+        },
+        {
+          "name": "G. Getz",
+          "id": ""
+        },
+        {
+          "name": "K. Lage",
+          "id": ""
+        }
+      ],
+      "venue": "Nature Methods",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:3353267",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3962804538586224,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 267541987,
+      "title": "An Investigation of the Immune Microenvironment and Genome during Lung Adenocarcinoma Development",
+      "abstract": "Background: Adenocarcinoma in situ (AIS) and minimally invasive adenocarcinoma (MIA) are two consecutive pathological processes that occur before invasive lung adenocarcinoma (LUAD). However, our understanding of the immune editing patterns during the progression of LUAD remains limited. Furthermore, we know very little about whether alterations in driver genes are involved in forming the tumor microenvironment (TME). Therefore, it is necessary to elucidate the regulatory role of TME in LUAD development from multiple dimensions, including immune cell infiltration, molecular mutation events, and oncogenic signaling pathways. Methods: We collected 145 surgically resected pulmonary nodule specimens, including 28 cases of AIS, 52 cases of MIA, and 65 cases of LUAD. Immunohistochemistry (IHC) was used to detect the expression of immune markers CD3, CD4, CD8, CD68 and programmed death ligand 1 (PD-L1). Genomic data and TMB generated by targeted next-generation sequencing (NGS). Results: LUAD exhibited higher levels of immune cell infiltration, tumor mutation burden (TMB), and activation of oncogenic pathways compared to AIS and MIA. In LUAD, compared to epidermal growth factor receptor (EGFR) single mutation and wild-type (WT) samples, cases with EGFR co-mutations showed a more pronounced rise in the CD4/CD8 ratio and CD68 infiltration. Patients with low-density lipoprotein (LDL) receptor-related protein 1B (LRP1B) mutation have higher TMB and PD-L1 expression. The transition from AIS to LUAD tends to shift the TME towards the PD-L1+CD8+ subtype (adaptive resistance). Progression-associated mutations (PAMs) were enriched in the lymphocyte differentiation pathway and related to exhausted cells' phenotype. Conclusion: Tumor-infiltrating immune cells tend to accumulate as the depth of LUAD invasion increases, but subsequently develop into an immune exhaustion and immune escape state. Mutations in EGFR and LRP1B could potentially establish an immune niche that fosters tumor growth. PAMs in LUAD may accelerate disease progression by promoting T cell differentiation into an exhausted state.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Qingyi Wang",
+          "id": ""
+        },
+        {
+          "name": "Bingkai Xie",
+          "id": ""
+        },
+        {
+          "name": "Jingyue Sun",
+          "id": ""
+        },
+        {
+          "name": "Zisheng Li",
+          "id": ""
+        },
+        {
+          "name": "D. Xiao",
+          "id": ""
+        },
+        {
+          "name": "Y. Tao",
+          "id": ""
+        },
+        {
+          "name": "X. She",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:267541987",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.39506943816166173,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 283004727,
+      "title": "Multi-omics integration identifies ASPH and PTTG1 as potential causal drivers of lung adenocarcinoma progression and immune evasion",
+      "abstract": "Background Despite advances in therapy, lung adenocarcinoma (LUAD) remains a leading cause of cancer mortality. Angiogenesis and immune evasion critically influence LUAD progression and treatment resistance, yet epithelial-derived regulatory mechanisms and causal genes remain unclear. Methods We employed single-cell transcriptomics (scRNA-seq) to identify angiogenesis-related epithelial-specific genes in LUAD. Mendelian randomization (MR) analyses utilizing large-scale genomic databases (eQTLGen, FinnGen) established genetic causality. A prognostic risk model was developed and validated using GEO and TCGA cohorts. Western blotting in clinical specimens and functional assays (gene knockdown, proliferation, migration, and invasion) verified core gene functions. Results Aspartate \u03b2-hydroxylase (ASPH) and Pituitary tumor-transforming gene 1 (PTTG1) were identified as causal genes linked to LUAD risk and poor prognosis. Elevated protein expression of ASPH and PTTG1 was confirmed in LUAD tissues. ASPH knockdown significantly inhibited LUAD cell proliferation, migration, and invasion. The ASPH/PTTG1-based risk model robustly predicted prognosis. High-risk patients demonstrated \u201ccold\u201d immune microenvironments characterized by increased stromal infiltration and reduced immune effector cells. These patients also showed heightened sensitivity to several chemotherapeutic and targeted agents, including Cisplatin and Crizotinib. Conclusion Integrating single-cell sequencing, MR-based causality, clinical validation, and functional experiments, we identified ASPH and PTTG1 as key regulators of LUAD angiogenesis and immune evasion. These findings substantiate ASPH/PTTG1 as promising biomarkers and therapeutic targets, offering new insights into precision therapies integrating anti-angiogenic and immunomodulatory strategies.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Kai Yang",
+          "id": ""
+        },
+        {
+          "name": "Meifeng Chen",
+          "id": ""
+        },
+        {
+          "name": "Yao Wu",
+          "id": ""
+        },
+        {
+          "name": "Wenjuan Duan",
+          "id": ""
+        },
+        {
+          "name": "Na Huang",
+          "id": ""
+        },
+        {
+          "name": "Xia Zhao",
+          "id": ""
+        },
+        {
+          "name": "Deyun Cheng",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:283004727",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.392281927257723,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 285286968,
+      "title": "Molecular architecture of the tumor microenvironment caused by BRCA1 and BRCA2 somatic mutations in human lung adenocarcinoma",
+      "abstract": "Objectives Homologous recombination repair (HRR) deficiency is associated with improved immunotherapy responses in non-small cell lung cancer (NSCLC) patients. The HRR genes BRCA1/2 are key regulators of DNA repair, yet their impact on the tumor microenvironment (TME) in lung adenocarcinoma (LUAD) remains unclear. Methods Using single-cell sequencing and multi-omics data, we characterized BRCA1/2 mutation-associated transcriptional programs, immune cell composition, and functional alterations in T cells, investigating the molecular and immune architecture of BRCA-mutant LUAD patients. Results BRCA1/2 mutations were associated with increased genomic instability and poor prognosis in LUAD patients, but predicted better clinical outcomes following immune checkpoint blockade (ICB) treatment. BRCA1 mutations correlated with an upregulated type I IFN/IFN-\u03b3 signature and CD8+ T cell activation. BRCA2 mutations were associated with alveolar/stress/inflammatory responses and enhanced MHC-II antigen presentation, linked to CD4+ T cell differentiation. Both alterations coincided with reduced CD28 co-stimulation and CTL activity, hinting of immune evasion. We identified two tissue-resident memory T cell (Trm) subsets as predictors of clinical outcomes and ICB response. BRCA1 mutations were associated with CD8+ Trm expansion, whereas BRCA2 mutations linked to tumor CD4+ Trm expansion and peripheral T/NK cell cytotoxicity. Furthermore, a cancer-promoting program activated by BRCA1 mutation was vulnerable to histone deacetylase inhibitors, which inhibited LUAD tumor growth. Conclusions This study provides a preliminary characterization of the BRCA-mutant TME in LUAD patients, revealing distinct transcriptional and immune patterns that highlight differences in BRCA1/2-associated molecular architecture and offer a framework for improving therapy efficacy in LUAD.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Gaoming Liao",
+          "id": ""
+        },
+        {
+          "name": "Xinbin Yang",
+          "id": ""
+        },
+        {
+          "name": "Qi Liu",
+          "id": ""
+        },
+        {
+          "name": "S. Nan",
+          "id": ""
+        },
+        {
+          "name": "Yan Liu",
+          "id": ""
+        },
+        {
+          "name": "Jinwei Li",
+          "id": ""
+        },
+        {
+          "name": "Si Huang",
+          "id": ""
+        },
+        {
+          "name": "Wang Ning",
+          "id": ""
+        },
+        {
+          "name": "X. Qin",
+          "id": ""
+        },
+        {
+          "name": "Gang Xu",
+          "id": ""
+        }
+      ],
+      "venue": "bioRxiv",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:285286968",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3905365308154762,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 250959682,
+      "title": "Genomic Landscape of RTK/RAS Pathway and Tumor Immune Infiltration as Prognostic Indicator of Lung Adenocarcinoma",
+      "abstract": "The RTK/RAS pathway is an oncogenic signaling pathway for which many targeted drugs have been developed; however, survival remains poor. A combination of targeted therapy and immunotherapy has emerged as an option for improving cancer treatment responses. In this study, on the basis of the expression, survival, single nucleotide variation (SNV), copy number variation (CNV), and methylation data of lung adenocarcinoma (LUAD) from The Cancer Genome Atlas database, we comprehensively analyzed the genomic changes in the RTK/RAS pathway and their associations with tumor-infiltrating lymphocytes (TIL) and prognosis in LUAD to provide the genomics landscape of RTK/RAS with TIL and prognosis. We found that two rarely mutated genes, mitogen-activated protein kinase kinase 1 and insulin-like growth factor 1 receptor, were significantly associated with the worse survival of patients with LUAD. Patients with LUAD and co-mutation of KRAS proto-oncogene (KRAS) and neurofibromin 1 genes had worse survival, and the underlying mechanism could be insufficient for protein synthesis and intracellular signal deactivation. Methylation of the Rac family small GTPase 1 (RAC1) was associated with better survival. The SNVs of the top mutated genes, including epidermal growth factor receptor (12.7%), neurotrophic receptor tyrosine kinase 3 (7.8%), erb-b2 receptor tyrosine kinase 4 (8.5%), and KRAS (29.6%), were associated with T cell exhaustion in LUAD. To construct nomograms, we further screened the genes whose genomic changes were closely associated with survival and immune infiltration. The nomograms performed well in predicting disease-specific survival (DSS) with a concordance index of 0.7 (0.589, 0.811) and overall survival with a concordance index of 0.689 (0.603, 0.775) in test set; they also showed good correspondence between actual and ideal nomogram predictions. Tumor stage, RAC1 methylation, and type 1 regulatory T cells greatly contributed to DSS and OS nomograms. In summary, we provided a comprehensive genomic profile of the RTK/RAS pathway in LUAD and its association with immune cell infiltration and prognosis of LUAD. This profile would serve as a basis for developing better therapeutic strategies, improving patient prognosis, and understanding the mechanisms of immune disturbance from the perspective of oncogenic pathways of LUAD.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Xiang-Qian Yin",
+          "id": ""
+        },
+        {
+          "name": "Xu Yin",
+          "id": ""
+        },
+        {
+          "name": "Ya-qin Yu",
+          "id": ""
+        },
+        {
+          "name": "Lang Xu",
+          "id": ""
+        },
+        {
+          "name": "Mao Zhang",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:250959682",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.38796172483558483,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 251505945,
+      "title": "Immunogenomic profiling of lung adenocarcinoma reveals poorly differentiated tumors are associated with an immunogenic tumor microenvironment",
+      "abstract": "Objectives: Pathologists have routinely observed distinct histologic patterns of growth in early-stage lung adenocarcinoma (LUAD), which have been suggested to be associated with prognosis. Herein, we investigated the relationship between LUAD patterns of growth, as defined by the updated international association for the study of lung cancer (IASLC) grading criteria, and differences in the tumor immune microenvironment to identify predictors of response to immunotherapy. Methods: 174 resected stage I-III LUAD tumors were classified by histologic pattern of growth (i.e. solid, micropapillary, acinar, papillary, and lepidic) and then grouped as well differentiated, moderately differentiated, and poorly differentiated. Comprehensive multiplatform analysis including whole exome sequencing, gene expression profiling, immunohistochemistry, CIBERSORT, and T-cell receptor sequencing was performed and groups were compared for differences in genomic drivers, immune cell infiltrate, clonality, and survival. Finally, multivariate analysis was performed adjusting for pathologic stage and smoking status. Results: Poorly differentiated tumors demonstrated a strong association with smoking relative to moderately differentiated or well differentiated tumors. However, unlike in prior reports, poorly differentiated tumors were not associated with a worse survival after curative-intent resection. Genomic analysis revealed that poorly differentiated tumors are associated with high tumor mutation burden but showed no association with oncogenic drivers. Immune analyses revealed that poorly differentiated tumors are associated with increased T-cell clonality, expression of PD-L1, and infiltration by cytotoxic CD8 T-cells, activated CD4 T-cells, and pro-inflammatory (M1) macrophages. Finally, multivariate analysis controlling for stage and smoking status confirmed independence of immune differences between IASLC grade groups. Conclusions: Poorly differentiated tumors, as defined by the updated IASLC grading criteria, are associated with a distinct immunogenic tumor microenvironment that predicts for therapeutic response to immune agents, including checkpoint inhibitors, and should be included in the clinical trial design of immunotherapy studies in early-stage lung adenocarcinoma.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "N. Akhave",
+          "id": ""
+        },
+        {
+          "name": "Jiexin Zhang",
+          "id": ""
+        },
+        {
+          "name": "Erin M Bayley",
+          "id": ""
+        },
+        {
+          "name": "Meredith L Frank",
+          "id": ""
+        },
+        {
+          "name": "S. Chiou",
+          "id": ""
+        },
+        {
+          "name": "C. Behrens",
+          "id": ""
+        },
+        {
+          "name": "Runzhe Chen",
+          "id": ""
+        },
+        {
+          "name": "Xin Hu",
+          "id": ""
+        },
+        {
+          "name": "Edwin Roger Parra",
+          "id": ""
+        },
+        {
+          "name": "Won-Chul Lee",
+          "id": ""
+        },
+        {
+          "name": "S. Swisher",
+          "id": ""
+        },
+        {
+          "name": "L. Solis",
+          "id": ""
+        },
+        {
+          "name": "A. Weissferdt",
+          "id": ""
+        },
+        {
+          "name": "C. Moran",
+          "id": ""
+        },
+        {
+          "name": "N. Kalhor",
+          "id": ""
+        },
+        {
+          "name": "Jianhua Zhang",
+          "id": ""
+        },
+        {
+          "name": "P. Scheet",
+          "id": ""
+        },
+        {
+          "name": "A. Vaporciyan",
+          "id": ""
+        },
+        {
+          "name": "B. Sepesi",
+          "id": ""
+        },
+        {
+          "name": "D. Gibbons",
+          "id": ""
+        },
+        {
+          "name": "J. Heymach",
+          "id": ""
+        },
+        {
+          "name": "Jack J Lee",
+          "id": ""
+        },
+        {
+          "name": "I. Wistuba",
+          "id": ""
+        },
+        {
+          "name": "P. Andrew Futreal",
+          "id": ""
+        },
+        {
+          "name": "Jianjun Zhang",
+          "id": ""
+        },
+        {
+          "name": "J. Fujimoto",
+          "id": ""
+        },
+        {
+          "name": "A. Reuben",
+          "id": ""
+        }
+      ],
+      "venue": "Lung Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:251505945",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.38762376212705774,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 237406457,
+      "title": "Signatures of Multi-Omics Reveal Distinct Tumor Immune Microenvironment Contributing to Immunotherapy in Lung Adenocarcinoma",
+      "abstract": "Background Lung adenocarcinoma (LUAD) contains a variety of genomic and epigenomic abnormalities; the effective tumor markers related to these abnormalities need to be further explored. Methods Clustering analysis was performed based on DNA methylation (MET), DNA copy number variation (CNV), and mRNA expression data, and the differences in survival and tumor immune microenvironment (TIME) between subtypes were compared. Further, we evaluated the signatures in terms of both prognostic value and immunological characteristics. Results There was a positive correlation between MET and CNV in LUAD. Integrative analysis of multi-omics data from 443 samples determined molecular subtypes, iC1 and iC2. The fractions of CD8+ T cells and activated CD4+ T cells were higher, the fraction of Tregs was lower, and the expression level of programmed death-ligand 1 (PD-L1) was higher in iC2 with a poor prognosis showing a higher TIDE score. We selected PTTG1, SLC2A1, and FAM83A as signatures of molecular subtypes to build a prognostic risk model and divided patients into high-risk group and low-risk group representing poor prognosis and good prognosis, respectively, which were validated in 180 patients with LUAD. Further, the low-risk group with lower TIDE score had more infiltrating immune cells. In 100 patients with LUAD, the high-risk group with an immunosuppressive state had a higher expression of PD-L1 and lower counts of CD8+ T cells and dendritic cells. Conclusions These findings demonstrated that combined multi-omics data could determine molecular subtypes with significant differences of prognosis and TIME in LUAD and suggested potent utility of the signatures to guide immunotherapy.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Ziqi Huang",
+          "id": ""
+        },
+        {
+          "name": "Baihui Li",
+          "id": ""
+        },
+        {
+          "name": "Yan Guo",
+          "id": ""
+        },
+        {
+          "name": "Leihong Wu",
+          "id": ""
+        },
+        {
+          "name": "Fan Kou",
+          "id": ""
+        },
+        {
+          "name": "Lili Yang",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Immunology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:237406457",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3867744042238724,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 280456052,
+      "title": "Genetic alterations affect immune contexture of non-small cell lung cancer: Ukrainian study",
+      "abstract": "Introduction Although the role of various genetic alterations was highlighted among factors affecting the response to immunotherapy in non-small cell lung cancer (NSCLC), the relations between oncogenic driver variants and changes in the cancer immunity cycle are still unclear. Aim The study aimed to discover the links between the molecular and immune context of NSCLC. Materials and methods This cohort study included 254 cases of NSCLC (193 Lung Adenocarcinomas) (LUAD; 76%), and 61 squamous cell carcinomas (SCC; 24%), with pathology reports and next-generation sequencing (NGS) data available. First, the rate and spectrum of genetic alterations were assessed in the Ukrainian cohort. Second, we uncovered the relationship between the oncogenic driver mutations and PD-L1 expression in NSCLC. Finally, T-cytotoxic lymphocytes (CD8+) and tumor-associated macrophages (CD163+) were evaluated in samples with EGFR and KRAS mutations, ALK rearrangements and LUAD with no genetic findings. Immune desert, immune excluded and inflamed types of tumor immune microenvironment (TME) were defined according to the cancer immunity cycle. Results More than half (52%) of the observed NSCLC cases harbored single (48.03%) or concomitant (3.94%) genetic alterations in oncogenes. The Ukrainian cohort demonstrated a high rate of EGFR (18.5%) and ALK rearrangements (9.4%) with a relatively moderate frequency of KRAS mutations (16.9%). NSCLC tumors with alterations in EGFR and ALK demonstrated a high incidence of PD-L1 expression and specific immune contexture. The number of CD8+ cells varied significantly between oncogene-driven and wild-type LUAD (p =\u202f0.019). Non-oncogene-addicted NSCLC demonstrated the prevalence of Inflamed TME rich in CD163+ macrophages. In contrast, over half of EGFR mutant LUAD cases possessed immune desert TME type, while ALK-rearranged and KRAS mutant NSCLC showed mostly immune excluded TME. Conclusion The high rate of PD-L1 expression in NSCLC driven by EGFR and ALK alterations was accompanied by a prevalence of low immunogenicity with a shift toward ID TME in EGFR mutant tumors and IE TME in ALK-rearranged and KRAS mutant NSCLC. Further discovery of mechanisms affecting tumor immune contexture is needed for tailoring patient management in line with particular mechanisms of immune evasion.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "D. Kozakov",
+          "id": ""
+        },
+        {
+          "name": "N. Kobyliak",
+          "id": ""
+        },
+        {
+          "name": "S. Livshun",
+          "id": ""
+        },
+        {
+          "name": "Oleksii Seleznov",
+          "id": ""
+        },
+        {
+          "name": "O. Koshyk",
+          "id": ""
+        },
+        {
+          "name": "A. Matvieieva",
+          "id": ""
+        },
+        {
+          "name": "Yaroslav Shparyk",
+          "id": ""
+        },
+        {
+          "name": "O. Kolesnik",
+          "id": ""
+        },
+        {
+          "name": "Y. Moskalenko",
+          "id": ""
+        },
+        {
+          "name": "O. Vynnychenko",
+          "id": ""
+        },
+        {
+          "name": "R. Moskalenko",
+          "id": ""
+        },
+        {
+          "name": "Serhii Kropyvko",
+          "id": ""
+        },
+        {
+          "name": "A. Khmel",
+          "id": ""
+        },
+        {
+          "name": "Bogdana Shkarupii",
+          "id": ""
+        },
+        {
+          "name": "O. Sulaieva",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:280456052",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3850154120250567,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 287833145,
+      "title": "PICDGI: A framework for predicting cancer driver genes through dynamic gene-gene interaction modeling of single-cell data",
+      "abstract": "Identifying cancer driver genes (CDGs) remains a central challenge in cancer genomics, as frequency-based mutation approaches often miss rare but functionally important regulators. We present PICDGI, a computational framework that predicts driver-like regulatory genes by integrating dynamic gene-gene interaction modeling with single-cell RNA sequencing (scRNA-seq) data. Rather than relying on DNA mutation calls, PICDGI infers functional driver activity from time-resolved expression patterns and latent regulatory influence among genes during tumor progression. Methodologically, PICDGI employs a time-varying state-space model with variational Bayesian inference and Markov Chain Monte Carlo (MCMC) sampling to estimate evolving gene interaction effects. The posterior distributions capture both the magnitude and uncertainty of each gene\u2019s inferred regulatory influence. From these, PICDGI derives a driver coefficient that quantifies the strength and reliability of each gene\u2019s contribution to progression-associated expression dynamics, enabling the prioritization of impactful regulators over neutral passengers. Applied to lung adenocarcinoma (LUAD) scRNA-seq data, PICDGI recovered known oncogenes and tumor suppressors and nominated novel candidate drivers, including JPH1 and CHEK1, which are implicated in calcium signaling, mitochondrial regulation, and DNA repair. These genes exhibit trajectory-aligned activity consistent with tumor evolution and immune-modulatory processes. Comparative analysis using Moran\u2019s I statistics in Monocle 3 showed that PICDGI-prioritized genes display stronger progression-associated dynamics than genes selected by spatial autocorrelation alone. We further validated PICDGI on an independent pediatric acute myeloid leukemia (AML) scRNA-seq cohort, where it consistently recovered known drivers and relapse-associated regulatory programs under fixed model parameters. By integrating interaction-informed dynamic modeling with single-cell resolution data, PICDGI provides a generalizable and biologically grounded framework for identifying rare and context-specific regulatory drivers of cancer progression, with broad applicability across tumor types.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Komlan Atitey",
+          "id": ""
+        },
+        {
+          "name": "Benedict Anchang",
+          "id": ""
+        }
+      ],
+      "venue": "PLoS Computational Biology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:287833145",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.38405519405297617,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 252121857,
+      "title": "Cancer genome and tumor microenvironment: Reciprocal crosstalk shapes lung cancer plasticity",
+      "abstract": "Lung cancer classification and treatment has been revolutionized by improving our understanding of driver mutations and the introduction of tumor microenvironment (TME)-associated immune checkpoint inhibitors. Despite the significant improvement of lung cancer patient survival in response to either oncogene-targeted therapy or anticancer immunotherapy, many patients show initial or acquired resistance to these new therapies. Recent advances in genome sequencing reveal that specific driver mutations favor the development of an immunosuppressive TME phenotype, which may result in unfavorable outcomes in lung cancer patients receiving immunotherapies. Clinical studies with follow-up after immunotherapy, assessing oncogenic driver mutations and the TME immune profile, not only reveal the underlying potential molecular mechanisms in the resistant lung cancer patients but also hold the key to better treatment choices and the future of personalized medicine. In this review, we discuss the crosstalk between cancer cell genomic features and the TME to reveal the impact of genetic alterations on the TME phenotype. We also provide insights into the regulatory role of cellular TME components in defining the genetic landscape of cancer cells during tumor development.",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "S. Mansouri",
+          "id": ""
+        },
+        {
+          "name": "Daniel Heylmann",
+          "id": ""
+        },
+        {
+          "name": "T. Stiewe",
+          "id": ""
+        },
+        {
+          "name": "M. Kracht",
+          "id": ""
+        },
+        {
+          "name": "R. Savai",
+          "id": ""
+        }
+      ],
+      "venue": "eLife",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:252121857",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.38375878242809386,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 270000410,
+      "title": "The evolution of lung adenocarcinoma precursors is associated with chromosomal instability and transition from innate to adaptive immune response/evasion",
+      "abstract": "Studying lung adenocarcinoma (LUAD) early carcinogenesis is challenging, primarily due to the lack of LUAD precursors specimens. We amassed multi-omics data from 213 LUAD and LUAD precursors to identify molecular features underlying LUAD precancer evolution. We observed progressively increasing mutations, chromosomal aberrations, whole genome doubling and genomic instability from precancer to invasive LUAD, indicating aggravating chromosomal instability (CIN). Telomere shortening, a crucial genomic alteration linked to CIN, emerged at precancer stage. Moreover, later-stage lesions demonstrated increasing cancer stemness and decreasing alveolar identity, suggesting epithelial de-differentiation during early LUAD carcinogenesis. The innate immune cells progressively diminished from precancer to invasive LUAD, concomitant with a gradual recruitment of adaptive immune cells (except CD8+ and gamma-delta T cells that decreased in later stages) and upregulation of numerous immune checkpoints, suggesting LUAD precancer evolution is associated with a shift from innate to adaptive immune response and immune evasion mediated by various mechanisms.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Jianjun Zhang",
+          "id": ""
+        },
+        {
+          "name": "Xin Hu",
+          "id": ""
+        },
+        {
+          "name": "Bo Zhu",
+          "id": ""
+        },
+        {
+          "name": "N. Vokes",
+          "id": ""
+        },
+        {
+          "name": "Junya Fukuoka",
+          "id": ""
+        },
+        {
+          "name": "F. R. Alvarez",
+          "id": ""
+        },
+        {
+          "name": "Simon Heeke",
+          "id": ""
+        },
+        {
+          "name": "Andre L. Moreira",
+          "id": ""
+        },
+        {
+          "name": "Luisa M. Solis",
+          "id": ""
+        },
+        {
+          "name": "C. Haymaker",
+          "id": ""
+        },
+        {
+          "name": "V. Velcheti",
+          "id": ""
+        },
+        {
+          "name": "D. Sterman",
+          "id": ""
+        },
+        {
+          "name": "Harvey I. Pass",
+          "id": ""
+        },
+        {
+          "name": "Chao Cheng",
+          "id": ""
+        },
+        {
+          "name": "Jack J Lee",
+          "id": ""
+        },
+        {
+          "name": "Jianhua Zhang",
+          "id": ""
+        },
+        {
+          "name": "Zhubo Wei",
+          "id": ""
+        },
+        {
+          "name": "Jia Wu",
+          "id": ""
+        },
+        {
+          "name": "Xiuning Li",
+          "id": ""
+        },
+        {
+          "name": "E. Ostrin",
+          "id": ""
+        },
+        {
+          "name": "I. Toumazis",
+          "id": ""
+        },
+        {
+          "name": "D. Gibbons",
+          "id": ""
+        },
+        {
+          "name": "D. Su",
+          "id": ""
+        },
+        {
+          "name": "M. Antonoff",
+          "id": ""
+        },
+        {
+          "name": "David E. Gerber",
+          "id": ""
+        },
+        {
+          "name": "Chenyang Li",
+          "id": ""
+        },
+        {
+          "name": "H. Kadara",
+          "id": ""
+        },
+        {
+          "name": "Linghua Wang",
+          "id": ""
+        },
+        {
+          "name": "M. Davis",
+          "id": ""
+        },
+        {
+          "name": "J. Heymach",
+          "id": ""
+        },
+        {
+          "name": "Samir M Hanash",
+          "id": ""
+        },
+        {
+          "name": "Ignacio I Wistuba",
+          "id": ""
+        },
+        {
+          "name": "Stephen Dubinett",
+          "id": ""
+        },
+        {
+          "name": "Ludmil B. Alexandrov",
+          "id": ""
+        },
+        {
+          "name": "Scott M. Lippman",
+          "id": ""
+        },
+        {
+          "name": "Avrum E Spira",
+          "id": ""
+        },
+        {
+          "name": "A. Futreal",
+          "id": ""
+        },
+        {
+          "name": "Alexandre Reuben",
+          "id": ""
+        }
+      ],
+      "venue": "Research Square",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:270000410",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3831783673938225,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 281819001,
+      "title": "Igniting Cold Tumors: Multi-Omics-Driven Strategies to Overcome Immune Evasion and Restore Immune Surveillance",
+      "abstract": "Cold tumors, defined by insufficient immune cell infiltration and a highly immunosuppressive tumor microenvironment (TME), exhibit limited responsiveness to conventional immunotherapies. This review systematically summarizes the mechanisms of immune evasion and the therapeutic strategies for cold tumors as revealed by multi-omics technologies. By integrating genomic, transcriptomic, proteomic, metabolomic, and spatial multi-omics data, the review elucidates key immune evasion mechanisms, including activation of the WNT/\u03b2-catenin pathway, transforming growth factor-\u03b2 (TGF-\u03b2)\u2013mediated immunosuppression, metabolic reprogramming (e.g., lactate accumulation), and aberrant expression of immune checkpoint molecules. Furthermore, this review proposes multi-dimensional therapeutic strategies, such as targeting immunosuppressive pathways (e.g., programmed death-1 (PD-1)/programmed death-ligand 1 (PD-L1) inhibitors combined with TGF-\u03b2 blockade), reshaping the TME through chemokine-based therapies, oncolytic viruses, and vascular normalization, and metabolic interventions (e.g., inhibition of lactate dehydrogenase A (LDHA) or glutaminase (GLS)). In addition, personalized neoantigen vaccines and engineered cell therapies (e.g., T cell receptor-engineered T (TCR-T) and natural killer (NK) cells) show promising potential. Emerging evidence also highlights the role of epigenetic regulation (e.g., histone deacetylase (HDAC) inhibitors) and N6-Methyladenosine (m6A) RNA modifications in reversing immune evasion. Despite the promising insights offered by multi-omics integration in guiding precision immunotherapy, challenges remain in clinical translation, including data heterogeneity, target-specific toxicity, and limitations in preclinical models. Future efforts should focus on coupling dynamic multi-omics technologies with intelligent therapeutic design to convert cold tumors into immunologically active (\u201chot\u201d) microenvironments, ultimately facilitating breakthroughs in personalized immunotherapy.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Xinyao Huang",
+          "id": ""
+        },
+        {
+          "name": "R. Gu",
+          "id": ""
+        },
+        {
+          "name": "Ziyu Li",
+          "id": ""
+        },
+        {
+          "name": "Fangyu Wang",
+          "id": ""
+        }
+      ],
+      "venue": "Oncology Research",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:281819001",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.38284489320558707,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 42375701,
+      "title": "Expanding discovery from cancer genomes by integrating protein network analyses with in vivo tumorigenesis assays",
+      "abstract": "Approaches that integrate molecular network information and tumor genome data could complement gene-based statistical tests to identify likely new cancer genes, but are challenging to validate at scale and their predictive value remains unclear. We developed a robust statistic (NetSig) that integrates protein interaction networks and data from 4,742 tumor exomes and used it to accurately classify known driver genes in 60% of tested tumor types and to predict 62 new candidates. We designed a quantitative experimental framework to compare the in vivo tumorigenic potential of NetSig candidates, known oncogenes and random genes in mice showing that NetSig candidates induce tumors at rates comparable to known oncogenes and 10-fold higher than random genes. By reanalyzing nine tumor-inducing NetSig candidates in 242 patients with oncogene-negative lung adenocarcinomas, we find that two (AKT2 and TFDP2) are significantly amplified. Overall, we illustrate a scalable integrated computational and experimental workflow to expand discovery from cancer genomes.",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Heiko Horn",
+          "id": ""
+        },
+        {
+          "name": "M. Lawrence",
+          "id": ""
+        },
+        {
+          "name": "C. Chouinard",
+          "id": ""
+        },
+        {
+          "name": "Y. Shrestha",
+          "id": ""
+        },
+        {
+          "name": "J. X. Hu",
+          "id": ""
+        },
+        {
+          "name": "Elizabeth Worstell",
+          "id": ""
+        },
+        {
+          "name": "E. Shea",
+          "id": ""
+        },
+        {
+          "name": "Nina Ilic",
+          "id": ""
+        },
+        {
+          "name": "Eejung Kim",
+          "id": ""
+        },
+        {
+          "name": "A. Kamburov",
+          "id": ""
+        },
+        {
+          "name": "Alireza Kashani",
+          "id": ""
+        },
+        {
+          "name": "W. Hahn",
+          "id": ""
+        },
+        {
+          "name": "Joshua D. Campbell",
+          "id": ""
+        },
+        {
+          "name": "J. Boehm",
+          "id": ""
+        },
+        {
+          "name": "G. Getz",
+          "id": ""
+        },
+        {
+          "name": "K. Lage",
+          "id": ""
+        }
+      ],
+      "venue": "bioRxiv",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:42375701",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3818491622784373,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 231734358,
+      "title": "Development of an Oncogenic Driver Alteration Associated Immune-Related Prognostic Model for Stage I-II Lung Adenocarcinoma",
+      "abstract": "Lung adenocarcinoma (LUAD) needs to be stratified for its heterogeneity. Oncogenic driver alterations such as EGFR mutation, ALK translocation, ROS1 translocation, and BRAF mutation predict response to treatment for LUAD. Since oncogenic driver alterations may modulate immune response in tumor microenvironment that may influence prognosis in LUAD, the effects of EGFR, ALK, ROS1, and BRAF alterations on tumor microenvironment remain unclear. Immune-related prognostic model associated with oncogenic driver alterations is needed. In this study, we performed the Cox-proportional Hazards Analysis based on the L1-penalized (LASSO) Analysis to establish an immune-related prognostic model (IPM) in stage I-II LUAD patients, which was based on 3 immune-related genes (PDE4B, RIPK2, and IFITM1) significantly enriched in patients without EGFR, ALK, ROS1, and BRAF alterations in The Cancer Genome Atlas (TCGA) database. Then, patients were categorized into high-risk and low-risk groups individually according to the IPM defined risk score. The predicting ability of the IPM was validated in GSE31210 and GSE26939 downloaded from the Gene Expression Omnibus (GEO) database. High-risk was significantly associated with lower overall survival (OS) rates in 3 independent stage I-II LUAD cohorts (all P < 0.05). Moreover, the IPM defined risk independently predicted OS for patients in TCGA stage I-II LUAD cohort (P = 0.011). High-risk group had significantly higher proportions of macrophages M1 and activated mast cells but lower proportions of memory B cells, resting CD4 memory T cells and resting mast cells than low-risk group (all P < 0.05). In addition, the high-risk group had a significantly lower expression of CTLA-4, PDCD1, HAVCR2, and TIGIT than the low-risk group (all P < 0.05). In summary, we established a novel IPM that could provide new biomarkers for risk stratification of stage I-II LUAD patients.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Jianzhong Xu",
+          "id": ""
+        },
+        {
+          "name": "Chen Gong",
+          "id": ""
+        },
+        {
+          "name": "Zheng-Fu Xie",
+          "id": ""
+        },
+        {
+          "name": "Hua Zhao",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:231734358",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3794514887276963,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 282885291,
+      "title": "Exploring the Glycolytic Mechanisms in \u201cDriver Gene-Negative\u201d Lung Adenocarcinoma (LUAD): A Single-Cell RNA Sequencing Approach to Identify the MIF-HIF-1\u03b1 Axis",
+      "abstract": "Background: Patients with \"driver gene-negative\" LUAD lack effective targeted therapies. This study aimed to elucidate the role of the glycolysis pathway in driver gene-negative LUAD to identify key genes and potential therapeutic targets. Methods: Bulk RNA sequencing data from 49 patients with driver gene-negative LUAD were analyzed. The driver gene-negative status of patients was confirmed by immunoblotting. Gene set enrichment analysis (GSEA) was conducted on six hallmark pathways related to glycolysis. Additionally, key genes were identified and a risk score model was constructed. Finally, single-cell RNA sequencing data were processed using the Seurat package for data cleaning, dimensionality reduction clustering, and cell type identification. Results: GSEA analysis revealed significant enrichment of the glycolysis pathway in driver gene-negative LUAD. Differential expression analysis identified 144 genes associated with the glycolysis pathway. Six glycolysis-related genes (ANKZF1, GPR87, KIF2A, LCT, MIF, SDHC) were identified associated with poor prognosis. Single-cell sequencing analysis validated the key role of MIF in the glycolysis process and revealed a positive feedback regulatory axis between MIF and HIF-1\u03b1, which may promoting glycolysis and malignant transformation. Conclusion: This study elucidated glucose metabolic reprogramming mechanisms and highlighted the MIF-HIF-1\u03b1 axis as a promising therapeutic target in \"driver gene-negative\" LUAD, which may offer new avenues for improving outcomes, particularly those lacking conventional targeted therapy options.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Haoshuai Yang",
+          "id": ""
+        },
+        {
+          "name": "Yuan-hao Li",
+          "id": ""
+        },
+        {
+          "name": "Qi Chen",
+          "id": ""
+        },
+        {
+          "name": "Hong-He Luo",
+          "id": ""
+        },
+        {
+          "name": "Q. Yu",
+          "id": ""
+        },
+        {
+          "name": "Yu Han",
+          "id": ""
+        },
+        {
+          "name": "Weijie Zhu",
+          "id": ""
+        },
+        {
+          "name": "Jin Zhang",
+          "id": ""
+        },
+        {
+          "name": "Chaoyang Liang",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:282885291",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.37866460656244755,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 31256049,
+      "title": "Treatment of lung adenocarcinoma by molecular-targeted therapy and immunotherapy",
+      "abstract": "Lung adenocarcinoma (LADC) is a cancer treatable using targeted therapies against driver gene aberrations. EGFR mutations and ALK fusions are frequent gene aberrations in LADC, and personalized therapies against those aberrations have become a standard therapy. These targeted therapies have shown significant positive efficacy and tolerable toxicity compared to conventional chemotherapy, so it is necessary to identify additional druggable genetic aberrations. Other than EGFR mutations and ALK fusions, mutations in KRAS, HER2, and BRAF, and driver fusions involving RET and ROS1, have also been identified in LADC. Interestingly, the frequency of driver gene aberrations differs according to ethnicity, sex, and smoking, which leads to differences in treatment efficacy. To date, several molecular-targeted drugs against driver genes have been developed, and several clinical trials have been conducted to evaluate the efficacy. However, targeted therapies against driver-gene-negative cases have not yet been well developed. Efforts to identify a new druggable target for such cases are currently underway. Furthermore, immune checkpoint blockade therapy might be effective for driver-negative cases, especially those with accumulated mutations.",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "M. Saito",
+          "id": ""
+        },
+        {
+          "name": "Hiroyuki Suzuki",
+          "id": ""
+        },
+        {
+          "name": "K. Kono",
+          "id": ""
+        },
+        {
+          "name": "S. Takenoshita",
+          "id": ""
+        },
+        {
+          "name": "T. Kohno",
+          "id": ""
+        }
+      ],
+      "venue": "Surgery today (Print)",
+      "journal": null,
+      "url": "https://doi.org/10.1007/s00595-017-1497-7",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3775568719309148,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 237409541,
+      "title": "Differences in Immunological Landscape between EGFR-Mutated and Wild-Type Lung Adenocarcinoma",
+      "abstract": "Recent clinical trials of lung adenocarcinoma with immune checkpoint inhibitors revealed that lung adenocarcinoma patients with EGFR mutations have a poor response to immunotherapy. However, the mechanisms have not been addressed. We performed immunohistochemistry analyses of resected lung adenocarcinoma tissues with and without EGFR mutations to investigate and compare the characteristics of the tumor microenvironment (TME). We retrospectively enrolled a total of 323 lung adenocarcinoma patients (164 had EGFR mutations), and their corresponding tissue samples were analyzed by the EGFR mutation test and immunohistochemistry. We selected the markers of the immune checkpoint molecule (PD1, PD-L1, and LAG-3) and immune cell (CD3, CD4, CD8, and Foxp3) as markers of the tumor microenvironment. Our results revealed that patients had a distinct tumor microenvironment between EGFR-mutant and wild-type lung adenocarcinomas; the expression of CD3, CD4, PD-L1, and Foxp3 in EGFR-mutant tumors was significantly higher than that in wild-type tumors, while the expression of LAG3 and PD-1 showed a positive correlation with EGFR-wild-type tumors. In survival analysis, EGFR-wild-type patients had longer disease-free survival (DFS) than EGFR-mutant patients (P = 0.0065). Our research demonstrates significant differences in tumor microenvironment composition between EGFR-mutant and wild-type patients. Our findings provide novel evidence that contributes to understanding the mechanism underlying the poor efficacy of immune checkpoint inhibitors.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Jia-Wei Luo",
+          "id": ""
+        },
+        {
+          "name": "Yanhua Guo",
+          "id": ""
+        },
+        {
+          "name": "Fengying Wu",
+          "id": ""
+        },
+        {
+          "name": "Xuefei Li",
+          "id": ""
+        },
+        {
+          "name": "Xuechen Sun",
+          "id": ""
+        },
+        {
+          "name": "Jia-Lu Wang",
+          "id": ""
+        },
+        {
+          "name": "Caicun Zhou",
+          "id": ""
+        }
+      ],
+      "venue": "Disease Markers",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:237409541",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3750875417694101,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 286002162,
+      "title": "Inference of cancer driver mutations from tumor microenvironment composition: a pan-cancer study with cross-platform external validation",
+      "abstract": "Cancer driver mutations shape the tumor microenvironment (TME), yet whether TME composition alone can predict genotype has not been systematically evaluated across cancers with external validation. We trained machine learning models to predict driver mutation status from TME cell-type composition signatures derived from bulk transcriptomes. Tissue-specific TME signatures (22\u201328 programs per cancer) were scored from RNA-seq data in TCGA for glioblastoma (GBM, n=157 total; n=90 EGFR-amplification evaluable), breast cancer (BRCA, n=1,082 total; n=994 evaluable), lung adenocarcinoma (LUAD, n=510 total; n=502 evaluable), and colorectal cancer (CRC, n=592 total; n=524 evaluable), then externally validated on independent cohorts spanning different platforms: CPTAC (GBM, n=65), METABRIC (BRCA, n=1,859), GSE72094 (LUAD, n=442), and GSE39582 (CRC, n=585). Of 15 driver\u2013cancer pairs tested, 14 achieved external AUC \u22650.65, with top performance for ERBB2 amplification in BRCA (AUC=0.980), BRAF mutation in CRC (0.899), and TP53 mutation in BRCA (0.871). TME-predicted ERBB2 status stratified overall survival in METABRIC (Cox HR=1.73, p=7.95\u00d710\u22128). Marginal KRAS performance in LUAD (AUC=0.615) reflected opposing TME profiles in KRAS+STK11 versus KRAS+TP53 co-mutant tumors. These results demonstrate that TME composition encodes sufficient information to infer driver mutations across cancers.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Elizabeth Baker",
+          "id": ""
+        },
+        {
+          "name": "N. Mehaffy",
+          "id": ""
+        }
+      ],
+      "venue": "bioRxiv",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:286002162",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3704283415654762,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 284711934,
+      "title": "Lung Cancer in Never-Smokers: Risk Factors, Driver Mutations, and Therapeutic Advances",
+      "abstract": "Background and Objectives: Lung cancer in never-smokers (LCINS) has become a major global health concern, ranking as the fifth leading cause of cancer-related mortality. Unlike smoking-related lung cancer, LCINS arises from complex interactions between environmental carcinogens and distinct genomic alterations. This review summarizes current evidence on environmental risks, molecular features, and therapeutic progress shaping lung cancer management. Methods: A narrative review was conducted to examine risk factors for lung cancer in non-smokers. Studies reporting driver mutations in never-smokers and smokers were identified across major lung cancer histological subtypes, including small-cell lung cancer (SCLC), lung adenocarcinoma (LUAD), squamous cell carcinoma (SCC), and large-cell carcinoma (LCC). In addition, PubMed was searched for phase III trials and studies on targeted therapies related to driver mutations published between 2016 and 2025. Results: Environmental factors such as cooking oil fumes, radon, asbestos, arsenic, and fine particulate matter (PM2.5) are strongly associated with LCINS through oxidative stress, DNA damage, and chronic inflammation. EGFR, PIK3CA, OS9, MET, and STK11 mutations are characteristic of never-smokers, in contrast to TP53 mutations, which are more common in smokers. Recent advances in targeted therapy and immunotherapy have improved survival and quality of life, emphasizing the importance of molecular profiling for treatment selection. Conclusions: LCINS represents a distinct clinical and molecular entity shaped by complex interactions between environmental exposures and genetic susceptibility. Genetic alterations promote tumor immune evasion, facilitating cancer development and progression. Continued advances in air quality control, molecular diagnostics, and precision therapies are essential for prevention, early detection, and reduction of the global disease burden.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Po-Ming Chen",
+          "id": ""
+        },
+        {
+          "name": "Yu-Han Huang",
+          "id": ""
+        },
+        {
+          "name": "Chia-Ying Li",
+          "id": ""
+        }
+      ],
+      "venue": "Diagnostics",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:284711934",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3694598897535198,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    }
+  ],
+  "thread_id": null,
+  "narrative": null
+}
