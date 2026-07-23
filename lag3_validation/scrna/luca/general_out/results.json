@@ -1,0 +1,21 @@
+{
+  "n_tumors_primary": 43,
+  "n_tumors_all_eligible": 66,
+  "n_datasets": 9,
+  "LAG3": {
+    "coef": 0.026,
+    "p": 0.5639468282686799,
+    "p_no_cohort_adj": 0.632432264955163
+  },
+  "TIGIT": {
+    "coef": -0.016,
+    "p": 0.5597312285913641,
+    "p_no_cohort_adj": 0.3551037185258314
+  },
+  "IFNG": {
+    "coef": -0.033,
+    "p": 0.3877310264456343,
+    "p_no_cohort_adj": 0.27056641307236
+  },
+  "FRAMING": "GENERAL all-LUAD mechanism (tumor-level, n tumors above). NOT driver-negative-specific."
+}
