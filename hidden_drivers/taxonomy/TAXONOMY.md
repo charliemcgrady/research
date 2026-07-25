@@ -69,13 +69,26 @@ Per-tumor evidence graphs: `per_tumor_evidence.json` (Deliverable #2).
    amplification alone.
 
 3. **Protein-state activation is a genuine, otherwise-invisible mechanism — and CPTAC is the only place
-   we can see it.** Three of 22 CPTAC oncogene-negative tumors (14%) are best explained by an RTK
-   activated at the protein/phospho level with a silent genome and transcriptome:
-   - **C3N-02587** — DDR2 protein/phospho z = 3.6, RNA z = 0.1, no amplification.
-   - **C3N-02588** — EGFR protein/phospho z = 3.2, **RNA z = −0.3** (below average), no amplification.
-   - **C3N-02422** — MET protein/phospho z = 3.0, RNA z = 1.1, sub-threshold CNV.
-   These would be **completely missed** by any DNA/RNA-only cohort (i.e., by TCGA, and by most of the
-   field). This is the headline scientific reason the taxonomy needed a proteogenomic cohort.
+   we can see it — but the individual candidates need per-candidate validation before any causal claim.**
+   The automated engine flagged three of 22 CPTAC oncogene-negative tumors (14%) as protein-state. A
+   dedicated validation pass (phosphosite QC + robust MAD scoring + downstream-module + genomic/RNA +
+   stromal-source + negative-regulator checks; see `../candidate_cards/CLASS3_VERDICTS.md`) **refined all
+   three and reclassified two**:
+   - **C3N-02422 (MET)** → **provisional Class 3 (weak)**: phospho-driven (pT995 z=3.67 > protein 1.42),
+     coordinated GAB1/SHP2/AKT/SRC, tumor-intrinsic — but RNA is modestly elevated (89th pct), the site
+     is 50% missing, and CBL-loss is a competing refinement.
+   - **C3N-02588 (EGFR)** → **candidate Class 5 (ligand/autocrine)**: the cleanest phospho outlier
+     (pS1042 z=3.49, 3.6% missing, **EGFR-RNA z=−0.31**) with coordinated PLCG1/AKT — but **EREG ligand
+     z=3.14** provides a more parsimonious cause, so it is reassigned toward ligand-driven (source
+     tumor-vs-stroma unresolved).
+   - **C3N-02587 (DDR2)** → **rejected → Unknown**: the signal was **total-protein abundance** (z=5.87,
+     56% missing, lone extreme) with a **non-elevated phosphosite** (z=−0.07) and absent downstream — an
+     abundance artifact, not activation.
+   The mechanism (protein-state RTK activation invisible to DNA/RNA) is real — MET, and EGFR's activation
+   read-out, would be **missed by any DNA/RNA-only cohort** — but no candidate reaches "supported Class 3."
+   Current honest label for all three: **candidate unexplained protein-state activation**, pending
+   pTyr-resolved phospho, ligand-source resolution, and functional dependency. This is the headline reason
+   the taxonomy needed a proteogenomic cohort *and* a per-candidate validation layer.
 
 4. **A large minority is not cell-intrinsically explained at all.** Cell-intrinsic evidence
    (max of C1–C5) reaches ≥0.35 in only **63/117 TCGA (54%)** and **10/22 CPTAC (45%)** oncogene-negative

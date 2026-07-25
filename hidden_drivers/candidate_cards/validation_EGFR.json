@@ -1,0 +1,229 @@
+{
+ "tumor": "C3N-02588",
+ "dominant_lineage": "Ciliated",
+ "check1_phosphosite": {
+  "sites": [
+   {
+    "site": "EGFR:NP_005219.2:S1042s",
+    "robust_z": 3.49,
+    "percentile": 99.1,
+    "missingness": 0.036,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "EGFR:NP_005219.2:S991sS995s",
+    "robust_z": 2.5,
+    "percentile": 94.9,
+    "missingness": 0.645,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "EGFR:NP_005219.2:T1041tS1042sS1045s",
+    "robust_z": 1.43,
+    "percentile": 88.1,
+    "missingness": 0.618,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "EGFR:NP_005219.2:S1166s",
+    "robust_z": 1.12,
+    "percentile": 80.0,
+    "missingness": 0.0,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "EGFR:NP_005219.2:Y1197y",
+    "robust_z": 0.54,
+    "percentile": 64.9,
+    "missingness": 0.118,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "EGFR:NP_005219.2:S1064s",
+    "robust_z": 0.48,
+    "percentile": 68.2,
+    "missingness": 0.0,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "EGFR:NP_005219.2:T693t",
+    "robust_z": 0.47,
+    "percentile": 64.5,
+    "missingness": 0.0,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "EGFR:NP_005219.2:S991s",
+    "robust_z": 0.42,
+    "percentile": 70.0,
+    "missingness": 0.0,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "EGFR:NP_005219.2:Y1172y",
+    "robust_z": 0.13,
+    "percentile": 56.9,
+    "missingness": 0.073,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "EGFR:NP_005219.2:S1042sS1045s",
+    "robust_z": -0.38,
+    "percentile": 38.4,
+    "missingness": 0.218,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "EGFR:NP_005219.2:S1039s",
+    "robust_z": -1.12,
+    "percentile": 6.8,
+    "missingness": 0.464,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "EGFR:NP_005219.2:S1026s",
+    "robust_z": null,
+    "percentile": NaN,
+    "missingness": 0.4,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "EGFR:NP_005219.2:S1071s",
+    "robust_z": null,
+    "percentile": NaN,
+    "missingness": 0.682,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "EGFR:NP_005219.2:Y1092y",
+    "robust_z": null,
+    "percentile": NaN,
+    "missingness": 0.709,
+    "lineage_matched_rz": null
+   }
+  ],
+  "top_site": {
+   "site": "EGFR:NP_005219.2:S1042s",
+   "robust_z": 3.49,
+   "percentile": 99.1,
+   "missingness": 0.036,
+   "lineage_matched_rz": null
+  },
+  "total_protein_robust_z": -0.07,
+  "activation_source_vs_total_protein": "phospho_driven"
+ },
+ "check2_downstream": {
+  "modules": {
+   "ERK": {
+    "n_sites": 5,
+    "max_rz": 1.04,
+    "mean_rz": 0.68
+   },
+   "MEK": {
+    "n_sites": 11,
+    "max_rz": 0.27,
+    "mean_rz": -0.47
+   },
+   "AKT": {
+    "n_sites": 12,
+    "max_rz": 1.8,
+    "mean_rz": -0.03
+   },
+   "adaptor": {
+    "n_sites": 36,
+    "max_rz": 2.79,
+    "mean_rz": 0.68
+   },
+   "SRC": {
+    "n_sites": 5,
+    "max_rz": 1.27,
+    "mean_rz": 0.06
+   },
+   "PLCG1": {
+    "n_sites": 6,
+    "max_rz": 2.88,
+    "mean_rz": 1.33
+   }
+  },
+  "active_modules": [
+   "AKT",
+   "adaptor",
+   "PLCG1"
+  ],
+  "coordinated_output": true
+ },
+ "check3_genomic": {
+  "gene_mutation": [],
+  "focal_CN_LR": 0.154,
+  "arm_level_CN": "not_available_open_calls",
+  "fusion_SV": "not_available_open_calls (0 SVs in study)",
+  "pathway_suppressor_alts": [],
+  "purity": 0.892,
+  "WGD": "not_available_open_calls",
+  "total_CNA_burden": 0.026,
+  "TMB_nonsyn": 1.8
+ },
+ "check4_rna": {
+  "gene_RNA_robust_z": -0.31,
+  "gene_RNA_percentile": 36.4,
+  "ligand_RNA_robust_z": {
+   "EGF": 1.77,
+   "TGFA": -0.6,
+   "AREG": 1.66,
+   "EREG": 3.14,
+   "HBEGF": -0.95,
+   "BTC": 1.4
+  },
+  "note": "RNA file is tumor abundance (log2 UQ-RPKM); T/N ratio not computed (normal RNA not downloaded)"
+ },
+ "check5_stromal": {
+  "tumor_purity": 0.892,
+  "CAF_sig_rz_in_tumor": -0.18,
+  "macrophage_sig_rz_in_tumor": -0.71,
+  "collagen_sig_rz_in_tumor": -0.2,
+  "corr_activation_vs_CAF_acrossTumors": -0.01,
+  "corr_activation_vs_collagen_acrossTumors": -0.03,
+  "receptor_RNA_vs_purity_corr": 0.12
+ },
+ "check6_negreg": {
+  "PTPN1": {
+   "protein_rz": -1.07,
+   "rna_rz": -1.65,
+   "CN_LR": -0.05,
+   "flagged_loss": true
+  },
+  "PTPN2": {
+   "protein_rz": 1.52,
+   "rna_rz": 0.57,
+   "CN_LR": 0.15,
+   "flagged_loss": false
+  },
+  "PTPRJ": {
+   "protein_rz": 1.6,
+   "rna_rz": -0.8,
+   "CN_LR": 0.19,
+   "flagged_loss": false
+  },
+  "SPRY2": {
+   "protein_rz": null,
+   "rna_rz": -1.48,
+   "CN_LR": -0.12,
+   "flagged_loss": true
+  },
+  "SPRY4": {
+   "protein_rz": -0.56,
+   "rna_rz": -1.26,
+   "CN_LR": -0.14,
+   "flagged_loss": true
+  },
+  "DUSP6": {
+   "protein_rz": -0.34,
+   "rna_rz": -1.12,
+   "CN_LR": -0.15,
+   "flagged_loss": true
+  }
+ },
+ "recurrence_other_tumors": [
+  "11LU022"
+ ]
+}

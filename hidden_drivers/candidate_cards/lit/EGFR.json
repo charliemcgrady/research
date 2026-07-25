@@ -1,0 +1,2139 @@
+{
+  "query": "wild-type EGFR activation without mutation or amplification in oncogene-negative lung adenocarcinoma; phosphoproteomic EGFR activation with low RNA; ERRFI1/MIG6 or CBL negative-regulator loss driving EGFR",
+  "results": [
+    {
+      "corpusId": 18275837,
+      "title": "The Relative Expression of Mig6 and EGFR Is Associated with Resistance to EGFR Kinase Inhibitors",
+      "abstract": "The sensitivity of only a few tumors to anti-epidermal growth factor receptor EGFR tyrosine kinase inhibitors (TKIs) can be explained by the presence of EGFR tyrosine kinase (TK) domain mutations. In addition, such mutations were rarely found in tumor types other than lung, such as pancreatic and head and neck cancer. In this study we sought to elucidate mechanisms of resistance to EGFR-targeted therapies in tumors that do not harbor TK sensitizing mutations in order to identify markers capable of guiding the decision to incorporate these drugs into chemotherapeutic regimens. Here we show that EGFR activity was markedly decreased during the evolution of resistance to the EGFR tyrosine kinase inhibitor (TKI) erlotinib, with a concomitant increase of mitogen-inducible gene 6 (Mig6), a negative regulator of EGFR through the upregulation of the PI3K-AKT pathway. EGFR activity, which was more accurately predicted by the ratio of Mig6/EGFR, highly correlated with erlotinib sensitivity in panels of cancer cell lines of different tissue origins. Blinded testing and analysis in a prospectively followed cohort of lung cancer patients treated with gefitinib alone demonstrated higher response rates and a marked increased in progression free survival for patients with a low Mig6/EGFR ratio (approximately 100 days, P\u200a=\u200a0.01).",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Xiaofei Chang",
+          "id": ""
+        },
+        {
+          "name": "E. Izumchenko",
+          "id": ""
+        },
+        {
+          "name": "L. Solis",
+          "id": ""
+        },
+        {
+          "name": "M. Kim",
+          "id": ""
+        },
+        {
+          "name": "Aditi Chatterjee",
+          "id": ""
+        },
+        {
+          "name": "Shizhang Ling",
+          "id": ""
+        },
+        {
+          "name": "C. Monitto",
+          "id": ""
+        },
+        {
+          "name": "P. Harari",
+          "id": ""
+        },
+        {
+          "name": "M. Hidalgo",
+          "id": ""
+        },
+        {
+          "name": "S. Goodman",
+          "id": ""
+        },
+        {
+          "name": "I. Wistuba",
+          "id": ""
+        },
+        {
+          "name": "A. Bedi",
+          "id": ""
+        },
+        {
+          "name": "D. Sidransky",
+          "id": ""
+        }
+      ],
+      "venue": "PLoS ONE",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:18275837",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4961734962644083,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 2695498,
+      "title": "Induction of c-Cbl contributes to anti-cancer effects of HDAC inhibitor in lung cancer",
+      "abstract": "Here we found loss of c-Cbl, an E3 ligase, expression in non-small cell lung cancer (NSCLC) compared with its adjacent normal tissue in patient specimens. HDAC inhibition by WJ or knockdown of HDAC 1, HDAC2, HDAC3 or HDAC6 all induced c-Cbl. Ectopic expression of c-Cbl induced decreased EGFR, inhibited growth in NSCLC cells. Knockdown of EGFR inhibited NSCLC growth. Mutation of EGFR at Y1045 decreased WJ-induced growth inhibition as well as in vivo anti-cancer effect and EGFR degradation mediated by WJ. Time-lapse confocal analysis showed co-localization of c-Cbl and EGFR after WJ treatment. Furthermore, WJ inhibited lung tumor growth through c-Cbl induction in orthotopic and tail vein injected models. C-Cbl up-regulation induced by HDACi is a potential strategy for NSCLC treatment.",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Tzu-Tang Wei",
+          "id": ""
+        },
+        {
+          "name": "Yu\u2010Chin Lin",
+          "id": ""
+        },
+        {
+          "name": "Pei-Hua Lin",
+          "id": ""
+        },
+        {
+          "name": "J. Shih",
+          "id": ""
+        },
+        {
+          "name": "Chia-Wei Chou",
+          "id": ""
+        },
+        {
+          "name": "Wei-Jan Huang",
+          "id": ""
+        },
+        {
+          "name": "Yu\u2010Chih Yang",
+          "id": ""
+        },
+        {
+          "name": "P. Hsiao",
+          "id": ""
+        },
+        {
+          "name": "Ching-Chow Chen",
+          "id": ""
+        }
+      ],
+      "venue": "OncoTarget",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:2695498",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4949179443511294,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 13485680,
+      "title": "Mig-6 is required for appropriate lung development and to ensure normal adult lung homeostasis",
+      "abstract": "Mitogen-inducible gene 6 [Mig-6; Errfi1 (ErbB receptor feedback inhibitor 1); RALT (receptor-associated late transducer); gene 33] is a ubiquitously expressed adaptor protein containing CRIB, SH3 and 14-3-3 interacting domains and has been shown to negatively regulate EGF signaling. Ablation of Mig-6 results in a partial lethal phenotype in which surviving mice acquire degenerative joint diseases and tumors in multiple organs. We have determined that the early lethality in Mig-6-/- mice occurs in the perinatal period, with mice displaying abnormal lung development. Histological examination of Mig-6-/- lungs (E15.5-P3) revealed reduced septation, airway over-branching, alveolar type II cell hyperplasia, and disturbed vascular formation. In neonatal Mig-6-/- lungs, cell proliferation increased in the airway epithelium but apoptosis increased in the blood vessels. Adult Mig-6-/- mice developed features of chronic obstructive pulmonary disease (COPD); however, when Mig-6 was inducibly ablated in adult mice (Mig-6d/d), the lungs were normal. Knockdown of MIG-6 in H441 human bronchiolar epithelial cells increased phospho-EGFR and phospho-AKT levels as well as cell proliferation, whereas knockdown of MIG-6 in human lung microvascular endothelial (HMVEC-L) cells promoted their apoptosis. These results demonstrate that Mig-6 is required for prenatal and perinatal lung development, in part through the regulation of EGF signaling, as well as for maintaining proper pulmonary vascularization.",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Nili Jin",
+          "id": ""
+        },
+        {
+          "name": "Sung-Nam Cho",
+          "id": ""
+        },
+        {
+          "name": "M. G. Raso",
+          "id": ""
+        },
+        {
+          "name": "I. Wistuba",
+          "id": ""
+        },
+        {
+          "name": "Y. Smith",
+          "id": ""
+        },
+        {
+          "name": "Yanan Yang",
+          "id": ""
+        },
+        {
+          "name": "J. Kurie",
+          "id": ""
+        },
+        {
+          "name": "R. Yen",
+          "id": ""
+        },
+        {
+          "name": "C. Evans",
+          "id": ""
+        },
+        {
+          "name": "T. Ludwig",
+          "id": ""
+        },
+        {
+          "name": "Jae-Wook Jeong",
+          "id": ""
+        },
+        {
+          "name": "F. DeMayo",
+          "id": ""
+        }
+      ],
+      "venue": "Development",
+      "journal": null,
+      "url": "https://doi.org/10.1242/dev.032979",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.48511393397469893,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 271853546,
+      "title": "Functional loss of ERBB receptor feedback inhibitor 1 (MIG6) promotes glioblastoma tumorigenesis by aberrant activation of epidermal growth factor receptor (EGFR)",
+      "abstract": "Dysregulation of epidermal growth factor receptor (EGFR) is one of the most common mechanisms associated with the pathogenesis of various cancers. Mitogen\u2010inducible gene 6 [MIG6; also known as ERBB receptor feedback inhibitor 1 (ERRFI1)], identified as a feedback inhibitor of EGFR, negatively regulates EGFR by directly inhibiting its kinase activity and facilitating its internalization, subsequently leading to degradation. Despite its proposed role as an EGFR\u2010dependent tumor suppressor, the functional consequences and clinical relevance in cancer etiology remain incompletely understood. Here, we identify that the stoichiometric balance between MIG6 and EGFR is crucial in promoting EGFR\u2010dependent oncogenic growth in various experimental model systems. In addition, a subset of ERRFI1 (the official gene symbol of MIG6) mutations exhibit impaired ability to suppress the enzymatic activation of EGFR at multiple levels. In summary, our data suggest that decreased or loss of MIG6 activity can lead to abnormal activation of EGFR, potentially contributing to cellular transformation. We propose that the mutation status of ERRFI1 and the expression levels of MIG6 can serve as additional biomarkers for guiding EGFR\u2010targeted cancer therapies, including glioblastoma.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "S. A. Yi",
+          "id": ""
+        },
+        {
+          "name": "D. Cho",
+          "id": ""
+        },
+        {
+          "name": "Sujin Kim",
+          "id": ""
+        },
+        {
+          "name": "Hyunjin Kim",
+          "id": ""
+        },
+        {
+          "name": "Myung Kyung Choi",
+          "id": ""
+        },
+        {
+          "name": "H. Choi",
+          "id": ""
+        },
+        {
+          "name": "Sukjin Shin",
+          "id": ""
+        },
+        {
+          "name": "Sujin Yun",
+          "id": ""
+        },
+        {
+          "name": "A. Lim",
+          "id": ""
+        },
+        {
+          "name": "Jae Kyun Jeong",
+          "id": ""
+        },
+        {
+          "name": "Da Eun Yoon",
+          "id": ""
+        },
+        {
+          "name": "Hye Ji Cha",
+          "id": ""
+        },
+        {
+          "name": "Kyoungmi Kim",
+          "id": ""
+        },
+        {
+          "name": "Jeung-Whan Han",
+          "id": ""
+        },
+        {
+          "name": "Hyun-Soo Cho",
+          "id": ""
+        },
+        {
+          "name": "Jeonghee Cho",
+          "id": ""
+        }
+      ],
+      "venue": "Molecular Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:271853546",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4606151988703088,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 271494484,
+      "title": "The role of CBL family ubiquitin ligases in cancer progression and therapeutic strategies",
+      "abstract": "The CBL (Casitas B-lineage lymphoma) family, as a class of ubiquitin ligases, can regulate signal transduction and activate receptor tyrosine kinases through various tyrosine kinase-dependent pathways. There are three members of the family: c-CBL, CBL-b, and CBL-c. Numerous studies have demonstrated the important role of CBL in various cellular pathways, particularly those involved in the occurrence and progression of cancer, hematopoietic development, and regulation of T cell receptors. Therefore, the purpose of this review is to comprehensively summarize the function and regulatory role of CBL family proteins in different human tumors, as well as the progress of drug research targeting CBL family, so as to provide a broader clinical measurement strategy for the treatment of tumors.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Jiaqi Ren",
+          "id": ""
+        },
+        {
+          "name": "Linlin Lv",
+          "id": ""
+        },
+        {
+          "name": "Xufeng Tao",
+          "id": ""
+        },
+        {
+          "name": "Xiaohan Zhai",
+          "id": ""
+        },
+        {
+          "name": "Xuyang Chen",
+          "id": ""
+        },
+        {
+          "name": "Hao Yu",
+          "id": ""
+        },
+        {
+          "name": "Xinya Zhao",
+          "id": ""
+        },
+        {
+          "name": "Xin Kong",
+          "id": ""
+        },
+        {
+          "name": "Zhan Yu",
+          "id": ""
+        },
+        {
+          "name": "Deshi Dong",
+          "id": ""
+        },
+        {
+          "name": "Jing Liu",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Pharmacology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:271494484",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4582677750907323,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 212729848,
+      "title": "Mechanistic insights into differential requirement of receptor dimerization for oncogenic activation of mutant EGFR and its clinical perspective",
+      "abstract": "The epidermal growth factor receptor (EGFR), a member of the ErbB family (EGFR, ErbB2, ErbB3 and ErbB4), plays a crucial role in regulating various cellular responses such as proliferation, differentiation, and survival. As a result, aberrant activation of EGFR, mostly mediated through different classes of genomic alterations occurring within EGFR, is closely associated with the pathogenesis of numerous human cancers including lung adenocarcinoma, glioblastoma, and colorectal cancer. Thus, specific suppression of oncogenic activity of mutant EGFR with its targeted drugs has been routinely used in the clinic as a very effective anti-cancer strategy in treating a subset of tumors driven by such oncogenic EGFR mutants. However, the clinical efficacy of EGFR-targeted therapy does not last long due to several resistance mechanisms that emerge in the patients following the drug treatment. Thus, there is an urgent need for the development of novel therapeutic tactics specifically targeting mutant EGFR with the focus on the unique biological features of various mutant EGFR. Regarding this point, our review specifically emphasizes the recent findings about distinct requirements of receptor dimerization and autophosphorylation, which are critical steps for enzymatic activation of EGFR and signaling cascades, respectively, among wildtype and mutant EGFR and further discuss their clinical significance. In addition, the molecular mechanisms regulating EGFR dimerization and enzymatic activity by a key negative feedback inhibitor Mig6 as well as the clinical use for developing potential novel drugs targeting it are described in this review.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Jeonghee Cho",
+          "id": ""
+        }
+      ],
+      "venue": "BMB Reports",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:212729848",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.44292671845212306,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 5931115,
+      "title": "The TGF\u03b2-miR200-Mig6 pathway orchestrates the EMT-associated kinase switch that induces resistance to EGFR inhibitors",
+      "abstract": "While specific mutations in the tyrosine kinase domain of epidermal growth factor receptor (EGFR) identify tumors that are responsive to EGFR tyrosine kinase inhibitors (TKIs), these genetic alterations are present in only a minority of patients. Patients with tumors expressing wild-type (wt) EGFR lack reliable predictive markers of their clinical response to EGFR TKIs. Although epithelial-mesenchymal transition (EMT) has been inversely correlated with the response of cancers to EGFR-targeted therapy, the precise molecular mechanisms underlying this association have not been defined and no specific EMT-associated biomarker of clinical benefit has been identified. Here we show that during transforming growth factor-\u03b2 (TGF\u03b2)-mediated EMT, inhibition of the microRNAs 200 (miR200) family results in upregulated expression of mitogen-inducible gene 6 (Mig6), a negative regulator of EGFR. The Mig6-mediated reduction of EGFR occurs concomitantly with a TGF\u03b2-induced EMT-associated kinase switch of tumor cells to an AKT-activated EGFR-independent state. In a panel of 25 cancer cell lines of different tissue origins, we find that the ratio of the expression levels of Mig6 and miR200c is highly correlated with EMT and resistance to erlotinib. Analyses of primary tumor xenografts of patient-derived lung and pancreatic cancers carrying wild type EGFR showed that the tumor Mig6(mRNA)/miR200 ratio was inversely correlated with response to erlotinib in vivo. Our data demonstrate that the TGF\u03b2-miR200-Mig6 network orchestrates the EMT-associated kinase switch that induces resistance to EGFR inhibitors, and identify a low ratio of Mig6 to miR200 as a promising predictive biomarker of the response of tumors to EGFR TKIs.",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "E. Izumchenko",
+          "id": ""
+        },
+        {
+          "name": "Xiaofei Chang",
+          "id": ""
+        },
+        {
+          "name": "C. Michailidi",
+          "id": ""
+        },
+        {
+          "name": "L. Kagohara",
+          "id": ""
+        },
+        {
+          "name": "R. Ravi",
+          "id": ""
+        },
+        {
+          "name": "K. Paz",
+          "id": ""
+        },
+        {
+          "name": "M. Brait",
+          "id": ""
+        },
+        {
+          "name": "M. Hoque",
+          "id": ""
+        },
+        {
+          "name": "Shizhang Ling",
+          "id": ""
+        },
+        {
+          "name": "A. Bedi",
+          "id": ""
+        },
+        {
+          "name": "D. Sidransky",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Research",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/24830724",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.44168514637985506,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 17241601,
+      "title": "Regulation of EGFR trafficking and cell signaling by Sprouty2 and MIG6 in lung cancer cells",
+      "abstract": "Summary The duration and specificity of epidermal growth factor receptor (EGFR) activation and signaling are determinants of cellular decision processes and are tightly regulated by receptor dephosphorylation, internalization and degradation. In addition, regulatory proteins that are upregulated or activated post-transcriptionally upon receptor activation may initiate feedback loops that play crucial roles in spatiotemporal regulation of signaling. We examined the roles of Sprouty2 (SPRY2) and mitogen-inducible gene 6 (MIG6), two feedback regulators of EGFR trafficking and signaling, in lung cancer cells with or without EGFR-activating mutations. These mutations are of interest because they confer unusual cellular sensitivity to EGFR inhibition through a mechanism involving an impairment of EGFR endocytosis. We found that the endocytosis of wild-type and mutant EGFR was promoted by SPRY2 knockdown and antagonized by MIG6 knockdown. SPRY2 knockdown also significantly reduced extracellular signal-regulated kinase (ERK) phosphorylation, EGFR expression, and EGFR recycling. In a cell line expressing mutant EGFR, this effect on ERK led to a marked increase in cell death response to EGFR inhibition. The effects of SPRY2 knockdown on EGFR endocytosis and recycling were primarily the result of the concomitant change in EGFR expression, but this was not true for the observed changes in ERK phosphorylation. Thus, our study demonstrates that SPRY2 and MIG6 are important regulators of wild-type and mutant EGFR trafficking and points to an EGFR expression-independent function of SPRY2 in the regulation of ERK activity that may impact cellular sensitivity to EGFR inhibitors, especially in the context of EGFR mutation.",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "A. Walsh",
+          "id": ""
+        },
+        {
+          "name": "M. Lazzara",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Cell Science",
+      "journal": null,
+      "url": "https://doi.org/10.1242/jcs.123208",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4366310621001744,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 51697450,
+      "title": "miR\u2010205 mediates adaptive resistance to MET inhibition via ERRFI1 targeting and raised EGFR signaling",
+      "abstract": "The onset of secondary resistance represents a major limitation to long\u2010term efficacy of target therapies in cancer patients. Thus, the identification of mechanisms mediating secondary resistance is the key to the rational design of therapeutic strategies for resistant patients. MiRNA profiling combined with RNA\u2010Seq in MET\u2010addicted cancer cell lines led us to identify the miR\u2010205/ERRFI1 (ERBB receptor feedback inhibitor\u20101) axis as a novel mediator of resistance to MET tyrosine kinase inhibitors (TKIs). In cells resistant to MET\u2010TKIs, epigenetically induced miR\u2010205 expression determined the downregulation of ERRFI1 which, in turn, caused EGFR activation, sustaining resistance to MET\u2010TKIs. Anti\u2010miR\u2010205 transduction reverted crizotinib resistance in vivo, while miR\u2010205 over\u2010expression rendered wt cells refractory to TKI treatment. Importantly, in the absence of EGFR genetic alterations, miR\u2010205/ERRFI1\u2010driven EGFR activation rendered MET\u2010TKI\u2010resistant cells sensitive to combined MET/EGFR inhibition. As a proof of concept of the clinical relevance of this new mechanism of adaptive resistance, we report that a patient with a MET\u2010amplified lung adenocarcinoma displayed deregulation of the miR\u2010205/ERRFI1 axis in concomitance with onset of clinical resistance to anti\u2010MET therapy.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "C. Migliore",
+          "id": ""
+        },
+        {
+          "name": "Elena Morando",
+          "id": ""
+        },
+        {
+          "name": "Elena Ghiso",
+          "id": ""
+        },
+        {
+          "name": "S. Anastasi",
+          "id": ""
+        },
+        {
+          "name": "V. Leoni",
+          "id": ""
+        },
+        {
+          "name": "M. Apicella",
+          "id": ""
+        },
+        {
+          "name": "D. Cor\u00e0",
+          "id": ""
+        },
+        {
+          "name": "A. Sapino",
+          "id": ""
+        },
+        {
+          "name": "F. Pietrantonio",
+          "id": ""
+        },
+        {
+          "name": "F. D. De Braud",
+          "id": ""
+        },
+        {
+          "name": "A. Columbano",
+          "id": ""
+        },
+        {
+          "name": "O. Segatto",
+          "id": ""
+        },
+        {
+          "name": "S. Giordano",
+          "id": ""
+        }
+      ],
+      "venue": "EMBO Molecular Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:51697450",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4341384834560777,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 2689887,
+      "title": "Lyn, a Src family kinase, regulates activation of epidermal growth factor receptors in lung adenocarcinoma cells",
+      "abstract": "BackgroundActivation of receptors for growth factors on lung epithelial cells is essential for transformation into tumor cells, supporting their viability and proliferation. In most lung cancer patients, EGFR is constitutively activated without evidence of mutation. Defining mechanisms for constitutive activation of EGFR could elucidate additional targets for therapy of lung cancers.MethodsThe approach was to identify lung cancer cell lines with constitutively activated EGFR and use systematic selection of inhibitors to evaluate their effects on specific EGFR phosphorylations and downstream signaling pathways. Interactions between receptors, kinases, and scaffolding proteins were investigated by co-immunoprecipitation plus Western blotting.ResultsThe results revealed a dependence on Src family of tyrosine kinases for downstream signaling and cell growth. Lyn, a Src family kinase functional in normal and malignant B-lymphocytes, was a defining signal transducer required for EGFR signaling in Calu3 cell line. Src family kinase activation in turn, was dependent on PKC\u00dfII. Lyn and PKC exist in membrane complexes of RACK1 and in association with EGFR which pairs with other receptor partners. Silencing of Lyn expression with interfering siRNA decreased EGFR activation and cell viability.ConclusionsThe importance of Src family kinases and PKC\u00dfII in the initiation of the EGFR signaling pathway in lung tumor cells was demonstrated. We conclude that phosphorylation of EGFR is mediated through PKC\u00dfII regulation of Lyn activation, and occurs in association with RACK1 and Cbp/PAG proteins. We suggest that protein complexes in cell membranes, including lipid rafts, may serve as novel targets for combination therapies with EGFR and Src Family Kinase inhibitors in lung cancer.",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "P. Sutton",
+          "id": ""
+        },
+        {
+          "name": "J. Borgia",
+          "id": ""
+        },
+        {
+          "name": "P. Bonomi",
+          "id": ""
+        },
+        {
+          "name": "J. Plate",
+          "id": ""
+        }
+      ],
+      "venue": "Molecular Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:2689887",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4244723625763226,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 13781255,
+      "title": "Targeting EGFR signalling in chronic lung disease: therapeutic challenges and opportunities",
+      "abstract": "Chronic respiratory diseases, including pulmonary fibrosis, chronic obstructive pulmonary disease (COPD) and lung cancer, are the second leading cause of death among Europeans. Despite this, there have been only a few therapeutic advances in these conditions over the past 20 years. In this review we provide evidence that targeting the epidermal growth factor receptor (EGFR) signalling pathway may represent a novel therapeutic panacea for treating chronic lung disease. Using evidence from human patient samples, transgenic animal models, and cell and molecular biology studies we highlight the roles of this signalling pathway in lung development, homeostasis, repair, and disease ontogeny. We identify mechanisms underlying lung EGFR pathway regulation and suggest how targeting these mechanisms using new and existing therapies has the potential to improve future lung cancer, COPD and pulmonary fibrosis patient outcomes. Deregulated EGFR pathway signalling is a common event and an important therapeutic target for many chronic lung diseases http://ow.ly/rH74p",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "S. Vallath",
+          "id": ""
+        },
+        {
+          "name": "R. Hynds",
+          "id": ""
+        },
+        {
+          "name": "L. Succony",
+          "id": ""
+        },
+        {
+          "name": "S. Janes",
+          "id": ""
+        },
+        {
+          "name": "A. Giangreco",
+          "id": ""
+        }
+      ],
+      "venue": "European Respiratory Journal",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:13781255",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4165557456652816,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 17001126,
+      "title": "The role of small adaptor proteins in the control of oncogenic signaling driven by tyrosine kinases in human cancer",
+      "abstract": "Protein phosphorylation on tyrosine (Tyr) residues has evolved as an important mechanism to coordinate cell communication in multicellular organisms. The importance of this process has been revealed by the discovery of the prominent oncogenic properties of tyrosine kinases (TK) upon deregulation of their physiological activities, often due to protein overexpression and/or somatic mutation. Recent reports suggest that TK oncogenic signaling is also under the control of small adaptor proteins. These cytosolic proteins lack intrinsic catalytic activity and signal by linking two functional members of a catalytic pathway. While most adaptors display positive regulatory functions, a small group of this family exerts negative regulatory functions by targeting several components of the TK signaling cascade. Here, we review how these less studied adaptor proteins negatively control TK activities and how their loss of function induces abnormal TK signaling, promoting tumor formation. We also discuss the therapeutic consequences of this novel regulatory mechanism in human oncology.",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "C. Naudin",
+          "id": ""
+        },
+        {
+          "name": "Cl\u00e9ment Chevalier",
+          "id": ""
+        },
+        {
+          "name": "S. Roche",
+          "id": ""
+        }
+      ],
+      "venue": "OncoTarget",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:17001126",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.414082013971467,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 132287657,
+      "title": "Lung cancer stem cells and their aggressive progeny, controlled by EGFR/MIG6 inverse expression, dictate a novel NSCLC treatment approach",
+      "abstract": "The lung cancer stem cell (LuCSC) model comprises an attractive framework to explore acquired drug resistance in non-small cell lung cancer (NSCLC) treatment. Here, we used NSCLC cell line model to translate cellular heterogeneity into tractable populations to understand the origin of lung cancers and drug resistance. The epithelial LuCSCs, presumably arising from alveolar bipotent stem/progenitor cells, were lineage na\u00efve, noninvasive, and prone to creating aggressive progeny expressing AT2/AT1 markers. LuCSC-holoclones were able to initiate rimmed niches, where their specialization created pseudo-alveoli structures. Mechanistically, LuCSC transitioning from self-renewal (\u03b2-catenin and Nanog signaling) to malignant lineage differentiation is regulated by EGFR activation and the inverse inhibition of tumor suppressor MIG6. We further identified the functional roles of endogenous EGFR signaling in mediating progeny invasiveness and their ligands in LuCSC differentiation. Importantly, drug screening demonstrated that EGFR driving progeny were strongly responsive to TKIs; however, the LuCSCs were exclusively resistant but sensitive to AMPK agonist Metformin, antibiotic Salinomycin and to a lesser degree Carboplatin. Our data reveals previously an unknown mechanism of NSCLC resistance to EGFR-TKIs, which is associated with LuCSCs bearing a silenced EGFR and inversely expressed MIG6 suppressor gene. Taken altogether, successful NSCLC treatment requires development of a novel combination of drugs, efficiently targeting both LuCSCs and heterogeneous progeny.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Zhiguang Xiao",
+          "id": ""
+        },
+        {
+          "name": "Bianca Sperl",
+          "id": ""
+        },
+        {
+          "name": "Silvia G\u00e4rtner",
+          "id": ""
+        },
+        {
+          "name": "T. Nedelko",
+          "id": ""
+        },
+        {
+          "name": "E. Stacher-Priehse",
+          "id": ""
+        },
+        {
+          "name": "A. Ullrich",
+          "id": ""
+        },
+        {
+          "name": "P. Knyazev",
+          "id": ""
+        }
+      ],
+      "venue": "OncoTarget",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:132287657",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.41330176880297514,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 38001934,
+      "title": "Conversion of MIG6 peptide from the nonbinder to binder of lung cancer-related EGFR by phosphorylation and cyclization",
+      "abstract": "Abstract Development of chemical drugs and biologic agents to target human epidermal growth factor receptor (EGFR) has long been established as a promising therapeutic strategy for lung cancer. Previously, it was found that the tumor-suppressor protein MIG6 is a negative regulator of the EGFR kinase, which can bind at the activation interface of asymmetric dimer of EGFR kinase domains to disrupt EGFR dimerization and then inactivate the kinase. The protein adopts two separated segments, that is, MIG6s1 and MIG6s2, to directly interact with EGFR. Here, by computational modeling and analysis of the intermolecular interaction between EGFR kinase domain and MIG6s2 peptide, we demonstrated that the dephosphorylated MIG6s2 peptide can be converted from nonbinder to weak binder and then to moderate binder of EGFR by phosphorylation and cyclization, respectively; the former introduces strong electrostatic potential to EGFR\u2013peptide complex by forming two geometrically satisfactory salt bridges across the complex interface, while the latter minimizes entropy penalty upon the binding of highly flexible peptide to EGFR. Subsequently, the linear phosphorylated and dephosphorylated peptides and phosphorylated cyclic peptide were synthesized and purified, and their binding affinities to the recombinant protein of human EGFR kinase domain were determined by fluorescence polarization titration. As expected theoretically, the linear dephosphorylated peptide has no observable binding to the kinase, and further phosphorylation and cyclization can confer, respectively, low and moderate affinities to the peptide, suggesting a good consistence between the computational analysis and experimental assay.",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Na Li",
+          "id": ""
+        },
+        {
+          "name": "Meng Wei",
+          "id": ""
+        }
+      ],
+      "venue": "Artificial Cells Nanomedicine and Biotechnology",
+      "journal": null,
+      "url": "https://doi.org/10.1080/21691401.2016.1200058",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.39466170979647813,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 49427035,
+      "title": "Upregulation of E3 Ubiquitin Ligase CBLC Enhances EGFR Dysregulation and Signaling in Lung Adenocarcinoma.",
+      "abstract": "CBLC (CBL proto-oncogene c) belongs to the CBL protein family, which has E3 ubiquitin ligase activity toward activated receptor tyrosine kinases. CBLC is frequently upregulated in non-small cell lung cancer (NSCLC), yet very little is known about the functions of CBLC in tumorigenesis. Here we show that CBLC is an epigenetically demethylated target and its expression can be upregulated in NSCLC after treatment with the DNA methylation inhibitor 5'-azacytidine. Depletion of CBLC significantly inhibited cell viability and clonogenicity in vitro and reduced tumor growth in a xenograft model. CBLC silencing further sensitized EGFR-mutated NSCLC cells to treatment with tyrosine kinase inhibitors. Conversely, ectopic expression of CBLC enhanced the activation of EGFR and downstream ERK1/2 signaling after ligand stimulation by competing with CBL for EGFR binding. Analysis of ubiquitin linkages on activated EGFR (aEGFR) revealed that CBLC ubiquitinated and positively regulated aEGFR stability through the conjugation of polyubiquitin by K6 and K11 linkages. This CBLC-mediated polyubiquitination promoted either preferential recycling of aEGFR back to the plasma membrane or trafficking to the cell nucleus. IHC analyses revealed a positive correlation between phospho-EGFR and CBLC in lung adenocarcinoma. In summary, we demonstrate a novel mechanism by which aEGFR escapes lysosomal degradation in a CBLC/ubiquitin-dependent manner to sustain its activation. Our work identifies CBLC as a potential diagnostic biomarker and also points to its utilization as a novel therapeutic target for NSCLC therapy.Significance: This work demonstrates the role of CBLC expression as a diagnostic biomarker and potential therapeutic target in lung adenocarcinoma. Cancer Res; 78(17); 4984-96. \u00a92018 AACR.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Shiao-Ya Hong",
+          "id": ""
+        },
+        {
+          "name": "Yu-Rung Kao",
+          "id": ""
+        },
+        {
+          "name": "Te-Chang Lee",
+          "id": ""
+        },
+        {
+          "name": "Cheng-Wen Wu",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Research",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:49427035",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.39364927381343334,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 15593359,
+      "title": "Epidermal growth factor receptor mutation in combination with expression of MIG6 alters gefitinib sensitivity",
+      "abstract": "BackgroundEpidermal growth factor receptor (EGFR) signaling plays an important role in the regulation of cell proliferation, survival, metastasis, and invasion in various tumors. Earlier studies showed that the EGFR is frequently overexpressed in non-small-cell lung cancer (NSCLC) and EGFR mutations at specific amino acid residues in the kinase domain induce altered responsiveness to gefitinib, a small molecule EGFR tyrosine kinase inhibitor. However, the mechanism underlying the drug response modulated by EGFR mutation is still largely unknown. To elucidate drug response in EGFR signal transduction pathway in which complex dynamics of multiple molecules involved, a systematic approach is necessary. In this paper, we performed experimental and computational analyses to clarify the underlying mechanism of EGFR signaling and cell-specific gefitinib responsiveness in three H1299-derived NSCLC cell lines; H1299 wild type (H1299WT), H1299 with an overexpressed wild type EGFR (H1299EGFR-WT), and H1299 with an overexpressed mutant EGFR L858R (H1299L858R; gefitinib sensitive mutant).ResultsWe predicted and experimentally verified that Mig6, which is a known negative regulator of EGFR and specifically expressed in H1299L858R cells, synergized with gefitinib to suppress cellular growth. Computational analyses indicated that this inhibitory effect is amplified at the phosphorylation/dephosphorylation steps of MEK and ERK.ConclusionsThus, we showed that L858R receptor mutation in combination with expression of its negative regulator, Mig6, alters signaling outcomes and results in variable drug sensitivity.",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Yoshimi Naruo",
+          "id": ""
+        },
+        {
+          "name": "T. Nagashima",
+          "id": ""
+        },
+        {
+          "name": "Ryoko Ushikoshi-Nakayama",
+          "id": ""
+        },
+        {
+          "name": "Y. Saeki",
+          "id": ""
+        },
+        {
+          "name": "T. Nakakuki",
+          "id": ""
+        },
+        {
+          "name": "T. Naka",
+          "id": ""
+        },
+        {
+          "name": "Hiroshi Tanaka",
+          "id": ""
+        },
+        {
+          "name": "S. Tsai",
+          "id": ""
+        },
+        {
+          "name": "Mariko Okada",
+          "id": ""
+        }
+      ],
+      "venue": "BMC Systems Biology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:15593359",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3902547333872337,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 25628319,
+      "title": "Nexus of signaling and endocytosis in oncogenesis driven by non-small cell lung cancer-associated epidermal growth factor receptor mutants.",
+      "abstract": "Epidermal growth factor receptor (EGFR) controls a wide range of cellular processes, and aberrant EGFR signaling as a result of receptor overexpression and/or mutation occurs in many types of cancer. Tumor cells in non-small cell lung cancer (NSCLC) patients that harbor EGFR kinase domain mutations exhibit oncogene addiction to mutant EGFR, which confers high sensitivity to tyrosine kinase inhibitors (TKIs). As patients invariably develop resistance to TKIs, it is important to delineate the cell biological basis of mutant EGFR-induced cellular transformation since components of these pathways can serve as alternate therapeutic targets to preempt or overcome resistance. NSCLC-associated EGFR mutants are constitutively-active and induce ligand-independent transformation in nonmalignant cell lines. Emerging data suggest that a number of factors are critical for the mutant EGFR-dependent tumorigenicity, and bypassing the effects of TKIs on these pathways promotes drug resistance. For example, activation of downstream pathways such as Akt, Erk, STAT3 and Src is critical for mutant EGFR-mediated biological processes. It is now well-established that the potency and spatiotemporal features of cellular signaling by receptor tyrosine kinases such as EGFR, as well as the specific pathways activated, is determined by the nature of endocytic traffic pathways through which the active receptors traverse. Recent evidence indicates that NSCLC-associated mutant EGFRs exhibit altered endocytic trafficking and they exhibit reduced Cbl ubiquitin ligase-mediated lysosomal downregulation. More recent work has shown that mutant EGFRs undergo ligand-independent traffic into the endocytic recycling compartment, a behavior that plays a key role in Src pathway activation and oncogenesis. These studies are beginning to delineate the close nexus between signaling and endocytic traffic of EGFR mutants as a key driver of oncogenic processes. Therefore, in this review, we will discuss the links between mutant EGFR signaling and endocytic properties, and introduce potential mechanisms by which altered endocytic properties of mutant EGFRs may alter signaling and vice versa as well as their implications for NSCLC therapy.",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "B. Chung",
+          "id": ""
+        },
+        {
+          "name": "Eric C. Tom",
+          "id": ""
+        },
+        {
+          "name": "N. Zutshi",
+          "id": ""
+        },
+        {
+          "name": "Timothy A. Bielecki",
+          "id": ""
+        },
+        {
+          "name": "V. Band",
+          "id": ""
+        },
+        {
+          "name": "H. Band",
+          "id": ""
+        }
+      ],
+      "venue": "World Journal of Clinical Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:25628319",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3894957755503847,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 10939071,
+      "title": "DNAJB1 negatively regulates MIG6 to promote epidermal growth factor receptor signaling.",
+      "abstract": "Mitogen-inducible gene 6 (MIG6) is a tumor suppressor implicated in the development of human cancers; however, the regulatory mechanisms of MIG6 remain unknown. Here, using a yeast two-hybrid screen, we identified DnaJ homolog subfamily B member I (DNAJB1) as a novel MIG6-interacting protein. We found that DNAJB1 binds to and decreases MIG6 protein, but not mRNA, levels. DNAJB1 overexpression dosage-dependently decreased MIG6 protein levels. Conversely, DNAJB1 knockdown increased MIG6 protein levels. DNAJB1 destabilizes MIG6 by enhancing K48-linked ubiquitination of MIG6. However, knocking-down of DNAJB1 reduced the ubiquitination of MIG6. DNAJB1 positively regulates the epidermal growth factor receptors (EGFR) signaling pathway via destabilization of MIG6; however, DNAJB1 knockdown diminishes activation of EGFR signaling as well as elevation of MIG6. Importantly, the increased levels of MIG6 by DNAJB1 knockdown greatly enhanced the gefitinib sensitivity in A549 cells. Thus, our study provides a new molecular mechanism to regulate EGFR signaling through modulation of MIG6 by DNAJB1 as a negative regulator.",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Soo-yeon Park",
+          "id": ""
+        },
+        {
+          "name": "Hyo-Kyoung Choi",
+          "id": ""
+        },
+        {
+          "name": "Jaesung Seo",
+          "id": ""
+        },
+        {
+          "name": "Jung-Yoon Yoo",
+          "id": ""
+        },
+        {
+          "name": "Jae-Wook Jeong",
+          "id": ""
+        },
+        {
+          "name": "Youngsok Choi",
+          "id": ""
+        },
+        {
+          "name": "Kyung-Chul Choi",
+          "id": ""
+        },
+        {
+          "name": "Ho-Geun Yoon",
+          "id": ""
+        }
+      ],
+      "venue": "Biochimica et Biophysica Acta",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/26239118",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.388397586000132,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 195772080,
+      "title": "Loss of function Cbl-c mutations in solid tumors",
+      "abstract": "Receptor Tyrosine Kinase (RTK) signaling is essential for normal biological processes and disruption of this regulation can lead to tumor initiation and progression. Cbl proteins (Cbl, Cbl-b and Cbl-c) are a family of RING finger (RF) ubiquitin ligases that negatively regulate a variety of RTKs, including EGFR, MET, and RET. Recent studies have identified Cbl mutations associated with human myeloid neoplasias in approximately 5% of the cases. Cbl-c is the most recently identified human Cbl protein and is expressed exclusively in epithelial cells. We identified a novel cDNA that was isolated from a mouse mammary cancer from the C3(1) Large T Antigen transgenic model. This mutant cDNA encodes a protein that has a deletion in the RF domain of Cbl-c, thereby resembling known Cbl family mutations associated with myeoloid neoplasias. Genomic analysis of both parental and transgenic lines shows no evidence of germline mutation indicating that this mutation is likely a somatic mutation. The mutant protein enhances transformation of NIH 3T3 cells when expressed in combination with SV40 Large T antigen. Together these data are consistent with a second hit mutation. In overexpression studies, this mutant Cbl-c protein fails to mediate ubiquitination of activated EGFR and acts in a dominant negative fashion to prevent ubiquitination and downregulation of the activated EGFR by wild type Cbl proteins. Mechanistically, the mutant Cbl-c binds to the EGFR and prevents recruitment of the wild type Cbl protein. Furthermore, data mining reveals Cbl-c mutations associated with solid tumors in humans. Subsequent cell-based analysis demonstrates a similar loss of E3 function and dominant negative effects for one of these human mutations. These data suggest that like Cbl mutations in myeloid neoplasms, loss of Cbl-c function may contribute to the pathogenesis of solid tumors in murine models and in humans.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "S. Daniels",
+          "id": ""
+        },
+        {
+          "name": "Mariya Liyasova",
+          "id": ""
+        },
+        {
+          "name": "Stephen C. Kales",
+          "id": ""
+        },
+        {
+          "name": "M. Nau",
+          "id": ""
+        },
+        {
+          "name": "Philip E. Ryan",
+          "id": ""
+        },
+        {
+          "name": "Jeffrey E. Green",
+          "id": ""
+        },
+        {
+          "name": "S. Lipkowitz",
+          "id": ""
+        }
+      ],
+      "venue": "PLoS ONE",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:195772080",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.38084665071903184,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 262747122,
+      "title": "MIG6 Mediates Adaptive and Acquired Resistance to ALK/ROS1 Fusion Kinase Inhibition through EGFR Bypass Signaling",
+      "abstract": "Abstract Despite the initial benefit from tyrosine kinase inhibitors (TKI) targeting oncogenic ALK and ROS1 gene fusions in non\u2013small cell lung cancer, complete responses are rare and resistance ultimately emerges from residual tumor cells. Although several acquired resistance mechanisms have been reported at the time of disease progression, adaptative resistance mechanisms that contribute to residual diseases before the outgrowth of tumor cells with acquired resistance are less clear. For the patients who have progressed after TKI treatments, but do not demonstrate ALK/ROS1 kinase mutations, there is a lack of biomarkers to guide effective treatments. Herein, we found that phosphorylation of MIG6, encoded by the ERRFI1 gene, was downregulated by ALK/ROS1 inhibitors as were mRNA levels, thus potentiating EGFR activity to support cell survival as an adaptive resistance mechanism. MIG6 downregulation was sustained following chronic exposure to ALK/ROS1 inhibitors to support the establishment of acquired resistance. A higher ratio of EGFR to MIG6 expression was found in ALK TKI-treated and ALK TKI-resistant tumors and correlated with the poor responsiveness to ALK/ROS1 inhibition in patient-derived cell lines. Furthermore, we identified and validated a MIG6 EGFR-binding domain truncation mutation in mediating resistance to ROS1 inhibitors but sensitivity to EGFR inhibitors. A MIG6 deletion was also found in a patient after progressing to ROS1 inhibition. Collectively, this study identifies MIG6 as a novel regulator for EGFR-mediated adaptive and acquired resistance to ALK/ROS1 inhibitors and suggests EGFR to MIG6 ratios and MIG6-damaging alterations as biomarkers to predict responsiveness to ALK/ROS1 and EGFR inhibitors.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Nan Chen",
+          "id": ""
+        },
+        {
+          "name": "L. Tyler",
+          "id": ""
+        },
+        {
+          "name": "A. Le",
+          "id": ""
+        },
+        {
+          "name": "E. Welsh",
+          "id": ""
+        },
+        {
+          "name": "B. Fang",
+          "id": ""
+        },
+        {
+          "name": "A. Elliott",
+          "id": ""
+        },
+        {
+          "name": "K. Davies",
+          "id": ""
+        },
+        {
+          "name": "T. Danhorn",
+          "id": ""
+        },
+        {
+          "name": "Gregory Riely",
+          "id": ""
+        },
+        {
+          "name": "M. Ladanyi",
+          "id": ""
+        },
+        {
+          "name": "E. Haura",
+          "id": ""
+        },
+        {
+          "name": "R. Doebele",
+          "id": ""
+        }
+      ],
+      "venue": "Molecular Cancer Therapeutics",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:262747122",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.37141705105049944,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 263681582,
+      "title": "Intervention of AXL in EGFR Signaling via Phosphorylation and Stabilization of MIG6 in Non-Small Cell Lung Cancer",
+      "abstract": "About 80% of lung cancer patients are diagnosed with non\u2013small cell lung cancer (NSCLC). EGFR mutation and overexpression are common in NSCLC, thus making EGFR signaling a key target for therapy. While EGFR kinase inhibitors (EGFR\u2013TKIs) are widely used and efficacious in treatment, increases in resistance and tumor recurrence with alternative survival pathway activation, such as that of AXL and MET, occur frequently. AXL is one of the EMT (epithelial\u2013mesenchymal transition) signature genes, and EMT morphological changes are also responsible for EGFR\u2013TKI resistance. MIG6 is a negative regulator of ERBB signaling and has been reported to be positively correlated with EGFR\u2013TKI resistance, and downregulation of MIG6 by miR\u2013200 enhances EMT transition. While MIG6 and AXL are both correlated with EMT and EGFR signaling pathways, how AXL, MIG6 and EGFR interplay in lung cancer remains elusive. Correlations between AXL and MIG6 expression were analyzed using Oncomine or the CCLE. A luciferase reporter assay was used for determining MIG6 promoter activity. Ectopic overexpression, RNA interference, Western blot analysis, qRT\u2013PCR, a proximity ligation assay and a coimmunoprecipitation assay were performed to analyze the effects of certain gene expressions on protein\u2013protein interaction and to explore the underlying mechanisms. An in vitro kinase assay and LC\u2013MS/MS were utilized to determine the phosphorylation sites of AXL. In this study, we demonstrate that MIG6 is a novel substrate of AXL and is stabilized upon phosphorylation at Y310 and Y394/395 by AXL. This study reveals a connection between MIG6 and AXL in lung cancer. AXL phosphorylates and stabilizes MIG6 protein, and in this way EGFR signaling may be modulated. This study may provide new insights into the EGFR regulatory network and may help to advance cancer treatment.",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Ya-yu Yang",
+          "id": ""
+        },
+        {
+          "name": "Sheng-Chieh Lin",
+          "id": ""
+        },
+        {
+          "name": "J. Lay",
+          "id": ""
+        },
+        {
+          "name": "Chun\u2010Yu Cho",
+          "id": ""
+        },
+        {
+          "name": "Te-Hsuan Jang",
+          "id": ""
+        },
+        {
+          "name": "H. Ku",
+          "id": ""
+        },
+        {
+          "name": "C. Yao",
+          "id": ""
+        },
+        {
+          "name": "S. Chuang",
+          "id": ""
+        }
+      ],
+      "venue": "International Journal of Molecular Sciences",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:263681582",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.36917831837633475,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 3350777,
+      "title": "Mechanisms of receptor tyrosine kinase activation in cancer",
+      "abstract": "Receptor tyrosine kinases (RTKs) play an important role in a variety of cellular processes including growth, motility, differentiation, and metabolism. As such, dysregulation of RTK signaling leads to an assortment of human diseases, most notably, cancers. Recent large-scale genomic studies have revealed the presence of various alterations in the genes encoding RTKs such as EGFR, HER2/ErbB2, and MET, amongst many others. Abnormal RTK activation in human cancers is mediated by four principal mechanisms: gain-of-function mutations, genomic amplification, chromosomal rearrangements, and / or autocrine activation. In this manuscript, we review the processes whereby RTKs are activated under normal physiological conditions and discuss several mechanisms whereby RTKs can be aberrantly activated in human cancers. Understanding of these mechanisms has important implications for selection of anti-cancer therapies.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Z. Du",
+          "id": ""
+        },
+        {
+          "name": "C. Lovly",
+          "id": ""
+        }
+      ],
+      "venue": "Molecular Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:3350777",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.36914477837077975,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 8759938,
+      "title": "Structure and mechanism of activity-based inhibition of the EGF-Receptor by Mig6",
+      "abstract": "Mig6 is a feedback inhibitor that directly binds, inhibits and drives internalization of ErbB-family receptors. Mig6 selectively targets activated receptors. Here we found that the epidermal growth factor receptor (EGFR) phosphorylates Mig6 on Y394 and that this phosphorylation is primed by prior phosphorylation of an adjacent residue, Y395, by Src. Crystal structures of human EGFR\u2013Mig6 complexes reveal the structural basis for enhanced phosphorylation of primed Mig6 and show how Mig6 rearranges after phosphorylation by EGFR to effectively irreversibly inhibit the same receptor that catalyzed its phosphorylation. This dual phosphorylation site allows Mig6 to inactivate EGFR in a manner that requires activation of the target receptor and that can be modulated by Src. Loss of Mig6 is a driving event in human cancer; analysis of 1,057 gliomas reveals frequent focal deletions of ERRFI1, the gene that encodes Mig6, in EGFR-amplified glioblastomas.",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Eunyoung Park",
+          "id": ""
+        },
+        {
+          "name": "N. Kim",
+          "id": ""
+        },
+        {
+          "name": "S. Ficarro",
+          "id": ""
+        },
+        {
+          "name": "Yi Zhang",
+          "id": ""
+        },
+        {
+          "name": "B. Lee",
+          "id": ""
+        },
+        {
+          "name": "Ahye Cho",
+          "id": ""
+        },
+        {
+          "name": "Ki-Hong Kim",
+          "id": ""
+        },
+        {
+          "name": "A. K. Park",
+          "id": ""
+        },
+        {
+          "name": "W. Park",
+          "id": ""
+        },
+        {
+          "name": "Bradley A. Murray",
+          "id": ""
+        },
+        {
+          "name": "M. Meyerson",
+          "id": ""
+        },
+        {
+          "name": "R. Beroukhim",
+          "id": ""
+        },
+        {
+          "name": "J. Marto",
+          "id": ""
+        },
+        {
+          "name": "Jeonghee Cho",
+          "id": ""
+        },
+        {
+          "name": "M. Eck",
+          "id": ""
+        }
+      ],
+      "venue": "Nature Structural &Molecular Biology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:8759938",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3679217748516187,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 5881858,
+      "title": "Loss of Mig6 accelerates initiation and progression of mutant epidermal growth factor receptor-driven lung adenocarcinoma",
+      "abstract": "Somatic mutations in the epidermal growth factor receptor (EGFR) kinase domain drive lung adenocarcinoma. We have previously identified MIG6, an inhibitor of ERBB signaling and a potential tumor suppressor, as a target for phosphorylation by mutant EGFRs. Here we demonstrate that Mig6 is a tumor suppressor for the initiation and progression of mutant EGFR-driven lung adenocarcinoma in mouse models. Mutant EGFR-induced lung tumor formation was accelerated in Mig6-deficient mice, even with Mig6 haploinsufficiency. We demonstrate that constitutive phosphorylation of MIG6 at Y394/395 in EGFR-mutant human lung adenocarcinoma cell lines is associated with an increased interaction of MIG6 with mutant EGFR, which may stabilize EGFR protein. MIG6 also fails to promote mutant EGFR degradation. We propose a model whereby increased tyrosine phosphorylation of MIG6 decreases its capacity to inhibit mutant EGFR. Nonetheless, the residual inhibition is sufficient for Mig6 to delay mutant EGFR-driven tumor initiation and progression in mouse models.",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "T. Maity",
+          "id": ""
+        },
+        {
+          "name": "A. Venugopalan",
+          "id": ""
+        },
+        {
+          "name": "I. Linnoila",
+          "id": ""
+        },
+        {
+          "name": "C. Cultraro",
+          "id": ""
+        },
+        {
+          "name": "A. Giannakou",
+          "id": ""
+        },
+        {
+          "name": "Roxanne Nemati",
+          "id": ""
+        },
+        {
+          "name": "Xu Zhang",
+          "id": ""
+        },
+        {
+          "name": "J. Webster",
+          "id": ""
+        },
+        {
+          "name": "Daniel A. Ritt",
+          "id": ""
+        },
+        {
+          "name": "S. Ghosal",
+          "id": ""
+        },
+        {
+          "name": "H. Hoschuetzky",
+          "id": ""
+        },
+        {
+          "name": "R. M. Simpson",
+          "id": ""
+        },
+        {
+          "name": "Romi Biswas",
+          "id": ""
+        },
+        {
+          "name": "K. Politi",
+          "id": ""
+        },
+        {
+          "name": "D. Morrison",
+          "id": ""
+        },
+        {
+          "name": "H. Varmus",
+          "id": ""
+        },
+        {
+          "name": "U. Guha",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Discovery",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/25735773",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3669334300853794,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 58189361,
+      "title": "Abstract 2703: Loss of dependence on EGFR signaling by upregulation of Mig6 confers drug resistance to erlotinib",
+      "abstract": "Proceedings: AACR 101st Annual Meeting 2010\u2010\u2010 Apr 17\u201021, 2010; Washington, DC\n\nWe sought to elucidate mechanisms of resistance to epidermal growth factor receptor (EGFR)-targeted therapies and to identify markers that could better distinguish resistant from sensitive patients. Here we show that mitogen-inducible gene 6 (Mig6), a negative regulator of EGFR, was selectively upregulated during the evolution of resistance to the EGFR tyrosine kinase inhibitor (TKI) erlotinib in lung and head and neck cancer cell lines. Mig6 was a major determinant of EGFR activity in panels of cancer cell lines of different tissue origins, and in direct validation of approved human use, in a unique collection of directly xenografted human lung and pancreas tumors. Our work highlights the importance of cellular negative regulators of EGFR in predicting and subverting TKI responsiveness, and identifies the ratio of Mig6 to EGFR, rather than the absolute expression of either protein alone, to be a predictor of tumor cell response to erlotinib.\n\nCitation Format: {Authors}. {Abstract title} [abstract]. In: Proceedings of the 101st Annual Meeting of the American Association for Cancer Research; 2010 Apr 17-21; Washington, DC. Philadelphia (PA): AACR; Cancer Res 2010;70(8 Suppl):Abstract nr 2703.",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Xiaofei Chang",
+          "id": ""
+        },
+        {
+          "name": "Aditi Chatterjee",
+          "id": ""
+        },
+        {
+          "name": "Shyhmin Huang",
+          "id": ""
+        },
+        {
+          "name": "M. Kim",
+          "id": ""
+        },
+        {
+          "name": "Chunbo Shao",
+          "id": ""
+        },
+        {
+          "name": "C. Monitto",
+          "id": ""
+        },
+        {
+          "name": "P. Ha",
+          "id": ""
+        },
+        {
+          "name": "M. Hidalgo",
+          "id": ""
+        },
+        {
+          "name": "P. Harari",
+          "id": ""
+        },
+        {
+          "name": "D. Berman",
+          "id": ""
+        },
+        {
+          "name": "A. Bedi",
+          "id": ""
+        },
+        {
+          "name": "D. Sidransky",
+          "id": ""
+        }
+      ],
+      "venue": null,
+      "journal": null,
+      "url": "https://doi.org/10.1158/1538-7445.AM10-2703",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3659208084677675,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 21191601,
+      "title": "Mig6 is a negative regulator of EGF receptor\u2013mediated skin morphogenesis and tumor formation",
+      "abstract": "The growing number of recently identified negative feedback regulators of receptor tyrosine kinases (RTKs) highlights the importance of signal attenuation and modulation for correct signaling outcome. Mitogen-inducible gene 6 (Mig6 also known as RALT or Gene 33) is a multiadaptor protein thought to be involved in the regulation of RTK and stress signaling. Here, we show that deletion of the mouse gene encoding Mig6 (designated Errfi1, which stands for ERBB receptor feedback inhibitor 1) causes hyperactivation of endogenous epidermal growth factor receptor (EGFR) and sustained signaling through the mitogen-activated protein kinase (MAPK) pathway, resulting in overproliferation and impaired differentiation of epidermal keratinocytes. Furthermore, Errfi1\u2212/\u2212 mice develop spontaneous tumors in various organs and are highly susceptible to chemically induced formation of skin tumors. A tumor-suppressive role for Mig6 is supported by our finding that MIG6 is downregulated in various human cancers. Inhibition of endogenous Egfr signaling with the Egfr inhibitor gefitinib (Iressa) or replacement of wild-type Egfr with the kinase-deficient protein encoded by the hypomorphic Egfrwa2 allele completely rescued skin defects in Errffi1\u2212/\u2212* mice. Carcinogen-induced tumors displayed by Errfi1\u2212/\u2212 mice were highly sensitive to gefitinib. These results indicate that Mig6 is a specific negative regulator of Egfr signaling in skin morphogenesis and is a novel tumor suppressor of Egfr-dependent carcinogenesis.",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "I. Ferby",
+          "id": ""
+        },
+        {
+          "name": "M. Reschke",
+          "id": ""
+        },
+        {
+          "name": "O. Kudlacek",
+          "id": ""
+        },
+        {
+          "name": "P. Knyazev",
+          "id": ""
+        },
+        {
+          "name": "G. Pant\u00e8",
+          "id": ""
+        },
+        {
+          "name": "K. Amann",
+          "id": ""
+        },
+        {
+          "name": "W. Sommergruber",
+          "id": ""
+        },
+        {
+          "name": "N. Kraut",
+          "id": ""
+        },
+        {
+          "name": "A. Ullrich",
+          "id": ""
+        },
+        {
+          "name": "R. F\u00e4ssler",
+          "id": ""
+        },
+        {
+          "name": "R. Klein",
+          "id": ""
+        }
+      ],
+      "venue": "Nature Medicine",
+      "journal": null,
+      "url": "https://doi.org/10.1038/nm1401",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.35689809989114174,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 22828805,
+      "title": "The evolutionarily conserved EBR module of RALT/MIG6 mediates suppression of the EGFR catalytic activity",
+      "abstract": "Physiological signalling by the epidermal growth factor receptor (EGFR) controls developmental processes and tissue homeostasis, whereas aberrant EGFR activity drives oncogenic cell transformation. Under normal conditions, the EGFR must therefore generate outputs of defined strength and duration. To this aim, cells balance EGFR activity via different modalities of negative signalling. Increasing attention is being drawn on transcriptionally controlled feedback inhibitors of EGFR, namely RALT/MIG6, LRIG1, SOCS4 and SOCS5. Genetic studies in mice have revealed the essential role of Ralt/Mig6 in regulating Egfr-driven skin morphogenesis and tumour formation, yet the mechanisms through which RALT abrogates EGFR activity are still undefined. We report that RALT suppresses EGFR function by inhibiting its catalytic activity. The evolutionarily conserved ErbB-binding region (EBR) is necessary and sufficient to carry out RALT-dependent suppression of EGFR kinase activityin vitro and in intact cells. The mechanism involves binding of the EBR to the 953RYLVIQ958 sequence, which is located in the\u03b1I helix of the EGFR kinase and has been shown to participate in allosteric control of EGFR catalytic activity. Our results uncover a novel mechanism of temporal regulation of EGFR activity in vertebrate organisms.",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "S. Anastasi",
+          "id": ""
+        },
+        {
+          "name": "M. Baietti",
+          "id": ""
+        },
+        {
+          "name": "Y. Frosi",
+          "id": ""
+        },
+        {
+          "name": "S. Alema\u0300",
+          "id": ""
+        },
+        {
+          "name": "O. Segatto",
+          "id": ""
+        }
+      ],
+      "venue": "Oncogene",
+      "journal": null,
+      "url": "https://doi.org/10.1038/sj.onc.1210590",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3523261036693553,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 14413553,
+      "title": "Mig-6 controls EGFR trafficking and suppresses gliomagenesis",
+      "abstract": "Glioblastoma multiforme (GBM) is the most common and lethal primary brain cancer that is driven by aberrant signaling of growth factor receptors, particularly the epidermal growth factor receptor (EGFR). EGFR signaling is tightly regulated by receptor endocytosis and lysosome-mediated degradation, although the molecular mechanisms governing such regulation, particularly in the context of cancer, remain poorly delineated. Here, high-resolution genomic profiles of GBM identified a highly recurrent focal 1p36 deletion encompassing the putative tumor suppressor gene, Mig-6. We show that Mig-6 quells the malignant potential of GBM cells and dampens EGFR signaling by driving EGFR into late endosomes and lysosome-mediated degradation upon ligand stimulation. Mechanistically, this effect is mediated by the binding of Mig-6 to a SNARE protein STX8, a protein known to be required for late endosome trafficking. Thus, Mig-6 functions to ensure recruitment of internalized receptor to late endosomes and subsequently the lysosomal degradation compartment through its ability to specifically link EGFR and STX8 during ligand-stimulated EGFR trafficking. In GBM, the highly frequent loss of Mig-6 would therefore serve to sustain aberrant EGFR-mediated oncogenic signaling. Together, these data uncover a unique tumor suppression mechanism involving the regulation of receptor trafficking.",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Haoqiang Ying",
+          "id": ""
+        },
+        {
+          "name": "Hongwu Zheng",
+          "id": ""
+        },
+        {
+          "name": "Kenneth L. Scott",
+          "id": ""
+        },
+        {
+          "name": "R. Wiedemeyer",
+          "id": ""
+        },
+        {
+          "name": "Hai-yan Yan",
+          "id": ""
+        },
+        {
+          "name": "Carol S. Lim",
+          "id": ""
+        },
+        {
+          "name": "Joseph Huang",
+          "id": ""
+        },
+        {
+          "name": "S. Dhakal",
+          "id": ""
+        },
+        {
+          "name": "E. Ivanova",
+          "id": ""
+        },
+        {
+          "name": "Yonghong Xiao",
+          "id": ""
+        },
+        {
+          "name": "Hailei Zhang",
+          "id": ""
+        },
+        {
+          "name": "Jian Hu",
+          "id": ""
+        },
+        {
+          "name": "Jayne M. Stommel",
+          "id": ""
+        },
+        {
+          "name": "Michelle A. Lee",
+          "id": ""
+        },
+        {
+          "name": "An-Jou Chen",
+          "id": ""
+        },
+        {
+          "name": "J. Paik",
+          "id": ""
+        },
+        {
+          "name": "O. Segatto",
+          "id": ""
+        },
+        {
+          "name": "C. Brennan",
+          "id": ""
+        },
+        {
+          "name": "L. Elferink",
+          "id": ""
+        },
+        {
+          "name": "Y. A. Wang",
+          "id": ""
+        },
+        {
+          "name": "L. Chin",
+          "id": ""
+        },
+        {
+          "name": "R. DePinho",
+          "id": ""
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "journal": null,
+      "url": "https://doi.org/10.1073/pnas.0914930107",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.35038617944872763,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 536682,
+      "title": "CBL Is Frequently Altered in Lung Cancers: Its Relationship to Mutations in MET and EGFR Tyrosine Kinases",
+      "abstract": "Background Non-small cell lung cancer (NSCLC) is a heterogeneous group of disorders with a number of genetic and proteomic alterations. c-CBL is an E3 ubiquitin ligase and adaptor molecule important in normal homeostasis and cancer. We determined the genetic variations of c-CBL, relationship to receptor tyrosine kinases (EGFR and MET), and functionality in NSCLC. Methods and Findings Using archival formalin-fixed paraffin embedded (FFPE) extracted genomic DNA, we show that c-CBL mutations occur in somatic fashion for lung cancers. c-CBL mutations were not mutually exclusive of MET or EGFR mutations; however they were independent of p53 and KRAS mutations. In normal/tumor pairwise analysis, there was significant loss of heterozygosity (LOH) for the c-CBL locus (22%, n\u200a=\u200a8/37) and none of these samples revealed any mutation in the remaining copy of c-CBL. The c-CBL LOH also positively correlated with EGFR and MET mutations observed in the same samples. Using select c-CBL somatic mutations such as S80N/H94Y, Q249E and W802* (obtained from Caucasian, Taiwanese and African-American samples, respectively) transfected in NSCLC cell lines, there was increased cell viability and cell motility. Conclusions Taking the overall mutation rate of c-CBL to be a combination as somatic missense mutation and LOH, it is clear that c-CBL is highly mutated in lung cancers and may play an essential role in lung tumorigenesis and metastasis.",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Y. Tan",
+          "id": ""
+        },
+        {
+          "name": "S. Krishnaswamy",
+          "id": ""
+        },
+        {
+          "name": "S. Nandi",
+          "id": ""
+        },
+        {
+          "name": "R. Kanteti",
+          "id": ""
+        },
+        {
+          "name": "Sapana Vora",
+          "id": ""
+        },
+        {
+          "name": "K. Onel",
+          "id": ""
+        },
+        {
+          "name": "R. Hasina",
+          "id": ""
+        },
+        {
+          "name": "Fang-Yi Lo",
+          "id": ""
+        },
+        {
+          "name": "Essam El-Hashani",
+          "id": ""
+        },
+        {
+          "name": "Gustavo M. Cervantes",
+          "id": ""
+        },
+        {
+          "name": "Matthew Robinson",
+          "id": ""
+        },
+        {
+          "name": "Stephen C. Kales",
+          "id": ""
+        },
+        {
+          "name": "S. Lipkowitz",
+          "id": ""
+        },
+        {
+          "name": "T. Karrison",
+          "id": ""
+        },
+        {
+          "name": "M. Sattler",
+          "id": ""
+        },
+        {
+          "name": "E. Vokes",
+          "id": ""
+        },
+        {
+          "name": "Yi-Ching Wang",
+          "id": ""
+        },
+        {
+          "name": "R. Salgia",
+          "id": ""
+        }
+      ],
+      "venue": "PLoS ONE",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:536682",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.34306669471949486,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 286325804,
+      "title": "Cetuximab co-treatment with KRAS G12C inhibitors fulzerasib and sotorasib in human KRAS G12C non-small cell lung cancer cells",
+      "abstract": "Resistance to KRAS G12C inhibitors is a major cause of poor prognosis in non-small cell lung cancer (NSCLC). Sotorasib and fulzerasib target the KRAS protein in the guanosine diphosphate (GDP)-bound inactive state. Used in monotherapy in non-small cell lung cancer (NSCLC) patients, these drugs yielded response rates of 41% and 49% and median progression-free survival of 6.3 and 9.7 months, respectively. Mounting evidence points out that feedback activation of epidermal growth factor receptor (EGFR) inhibits the hydrolysis of KRAS guanosine triphosphate (GTP)-bound active state and reactivates RAS-mitogen-activated protein kinase (MAPK) signaling, leading to drug resistance. Here, we demonstrated that cetuximab enhanced the antitumor growth effect of fulzerasib in vitro in H358 cells and prolonged the survival of mice bearing subcutaneous H358 xenografts. Moreover, we demonstrated that cotreatment suppressed the expression of ERK, AKT, as well as MRAS and YAP1. Additionally, the combination of fulzerasib with cetuximab also abolished the viability of H358 cells, being less effective for H23 and H2030 cells. This effect was accompanied by YAP1 and MRAS overexpression, especially in H2030 cells. Ultimately, we demonstrated that MIG6, a feedback negative regulator of EGFR, is suppressed in the three cell lines starting at the 24-h time point with fulzerasib or sotorasib. Concurrently, ASS1, initially low in all three cell lines, was upregulated following therapy with fulzerasib or sotorasib, with or without cetuximab. These alterations were associated with increased fumarate levels in all three cell lines examined. Notably, the cotreatment response of H358 cells mirrors clinical trials with KRAS G12C colorectal cancer and NSCLC patients, where the combination of cetuximab with KRAS G12C inhibitors resulted in increased response and progression-free survival. Our findings provide insight into further tailoring EGFR inhibitor cotreatment in KRAS G12C NSCLC patients.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "D. Olmo-G\u00f3nzalez",
+          "id": ""
+        },
+        {
+          "name": "Mengxi Zhou",
+          "id": ""
+        },
+        {
+          "name": "Nuno G Oliveira",
+          "id": ""
+        },
+        {
+          "name": "Fusheng Zhou",
+          "id": ""
+        },
+        {
+          "name": "Feng Yan",
+          "id": ""
+        },
+        {
+          "name": "Jessica Gonz\u00e1lez",
+          "id": ""
+        },
+        {
+          "name": "K. Val\u00e8ncia-Clua",
+          "id": ""
+        },
+        {
+          "name": "M. Molina-Vila",
+          "id": ""
+        },
+        {
+          "name": "J. Bertran-Alamillo",
+          "id": ""
+        },
+        {
+          "name": "A. Gim\u00e9nez-Capit\u00e1n",
+          "id": ""
+        },
+        {
+          "name": "J. Codony-Servat",
+          "id": ""
+        },
+        {
+          "name": "R. Rosell",
+          "id": ""
+        }
+      ],
+      "venue": "Cell Death Discovery",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:286325804",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3425213697529628,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 19865218,
+      "title": "Laser Capture Microdissection and Protein Microarray Analysis of Human Non-small Cell Lung Cancer",
+      "abstract": "Little is known about lung carcinoma epidermal growth factor (EGF) kinase pathway signaling within the context of the tissue microenvironment. We quantitatively profiled the phosphorylation and abundance of signal pathway proteins relevant to the EGF receptor within laser capture microdissected untreated, human non-small cell lung cancer (NSCLC) (n = 25) of known epidermal growth factor receptor (EGFR) tyrosine kinase domain mutation status. We measured six phosphorylation sites on EGFR to evaluate whether EGFR mutation status in vivo was associated with the coordinated phosphorylation of specific multiple phosphorylation sites on the EGFR and downstream proteins. Reverse phase protein array quantitation of NSCLC revealed simultaneous increased phosphorylation of EGFR residues Tyr-1148 (p < 0.044) and Tyr-1068 (p < 0.026) and decreased phosphorylation of EGFR Tyr-1045 (p < 0.002), HER2 Tyr-1248 (p < 0.015), IRS-1 Ser-612 (p < 0.001), and SMAD Ser-465/467 (p < 0.011) across all classes of mutated EGFR patient samples compared with wild type. To explore which subset of correlations was influenced by ligand induction versus an intrinsic phenotype of the EGFR mutants, we profiled the time course of 115 cellular signal proteins for EGF ligand-stimulated (three dosages) NSCLC mutant and wild type cultured cell lines. EGFR mutant cell lines (H1975 L858R) displayed a pattern of EGFR Tyr-1045 and HER2 Tyr-1248 phosphorylation similar to that found in tissue. Persistence of phosphorylation for AKT Ser-473 following ligand stimulation was found for the mutant. These data suggest that a higher proportion of the EGFR mutant carcinoma cells may exhibit activation of the phosphatidylinositol 3-kinase/protein kinase B (AKT)/mammalian target of rapamycin (MTOR) pathway through Tyr-1148 and Tyr-1068 and suppression of IRS-1 Ser-612, altered heterodimerization with ERBB2, reduced response to transforming growth factor \u03b2 suppression, and reduced ubiquitination/degradation of the EGFR through EGFR Tyr-1045, thus providing a survival advantage. This is the first comparison of multiple, site-specific phosphoproteins with the EGFR tyrosine kinase domain mutation status in vivo.",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Amy J Vanmeter",
+          "id": ""
+        },
+        {
+          "name": "Adrianna S. Rodriguez",
+          "id": ""
+        },
+        {
+          "name": "E. Bowman",
+          "id": ""
+        },
+        {
+          "name": "J. Jen",
+          "id": ""
+        },
+        {
+          "name": "C. Harris",
+          "id": ""
+        },
+        {
+          "name": "Jianghong Deng",
+          "id": ""
+        },
+        {
+          "name": "V. Calvert",
+          "id": ""
+        },
+        {
+          "name": "A. Silvestri",
+          "id": ""
+        },
+        {
+          "name": "C. Fredolini",
+          "id": ""
+        },
+        {
+          "name": "V. Chandhoke",
+          "id": ""
+        },
+        {
+          "name": "E. Petricoin",
+          "id": ""
+        },
+        {
+          "name": "L. Liotta",
+          "id": ""
+        },
+        {
+          "name": "V. Espina",
+          "id": ""
+        }
+      ],
+      "venue": "Molecular & Cellular Proteomics",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:19865218",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.33201058833529684,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 23424592,
+      "title": "Mig-6 Is a Negative Regulator of the Epidermal Growth Factor Receptor Signal",
+      "abstract": "Abstract In contrast to signal generation and transmission, the mechanisms and molecules that negatively regulate receptor tyrosine kinase (RTK) signaling are poorly understood. Here we characterize Mig-6 as a novel negative feedback regulator of the epidermal growth factor receptor (EGFR) and potential tumor suppressor. Mig-6 was identified in a yeast twohybrid screen with the kinase active domain of the EGFR as bait. Upon EGF stimulation Mig-6 binds to the EGFR involving a highly acidic region between amino acids 985 995. This interaction is kinase activitydependent, but independent of tyrosine 992. Mig-6 overexpression results in reduced activation of the mitogenactivated protein kinase ERK2 in response to EGF, but not FGF or PDGF, stimulation and in enhanced receptor internalization without affecting the rate of degradation. The induction of Mig-6 mRNA expression in response to EGF, but not FGF, indicates the existence of a negative regulatory feedback loop. Consistent with these findings, a possible role as tumor suppressor is indicated by Mig-6-mediated inhibition of EGFR overexpressioninduced transformation of Rat1 cells.",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "P. Hackel",
+          "id": ""
+        },
+        {
+          "name": "M. Gishizky",
+          "id": ""
+        },
+        {
+          "name": "A. Ullrich",
+          "id": ""
+        }
+      ],
+      "venue": "Biological chemistry",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/11843178",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.33144803064544603,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 288962432,
+      "title": "ErbB Receptor Feedback Inhibitor 1 Mutation in Biliary Tract Cancers: Turning Resistance Into Response",
+      "abstract": "PURPOSE EGFR alterations occur in a subset of biliary tract cancers (BTCs) and are often linked to disease progression and poor prognosis, yet targeted approaches remain underexplored. ERRFI1, encoding the epidermal growth factor receptor (EGFR) inhibitor MIG6, is mutated in various cancers, including BTC, representing a potential predictive biomarker. We investigated whether loss of ERRFI1 function may enhance sensitivity to EGFR-targeted tyrosine kinase inhibitors (TKIs), presenting a potential therapeutic opportunity. METHODS This is a retrospective multicenter study of patients with BTC harboring ERRFI1 alterations. Data were extracted from electronic health records following institutional approval. ERRFI1 alterations were classified based on the alteration type, variant allele frequencies were documented, and coalterations were analyzed. Treatment outcomes including response, time to progression (TTP), overall survival (OS), safety profiles, and tumor marker kinetics were noted. RESULTS Fourteen BTC patients with ERRFI1 mutations were identified in our database; the median age was 50 years, 64% were males; all cases were intrahepatic cholangiocarcinomas. Common coalterations included IDH1 (36%), TP53 (29%), and ARID1A (29%). All patients received gemcitabine-cisplatin as first-line treatment, and 79% received immune checkpoint inhibitors. Eight patients (57%) received EGFR TKIs. Best responses to EGFR therapy included three partial responses (2 responses lasting >20 months), four stable diseases, and one progressive disease. The median TTP was 7 months (95% CI, 6 to 21 months). Treatment was well-tolerated: toxicities included rash (n = 2), transaminitis (n = 1), and diarrhea (n = 1). The median OS was 20 months (95% CI: 8-36 months); 50% remained alive at last follow-up. CONCLUSION ERRFI1 mutations represent actionable biomarkers in BTC, with EGFR-targeted therapy demonstrating meaningful clinical benefit in this heavily pretreated population. These findings support integration of ERRFI1 testing into routine molecular profiling of BTC and other EGFR-driven malignancies.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "S. Peshin",
+          "id": ""
+        },
+        {
+          "name": "F. Saj",
+          "id": ""
+        },
+        {
+          "name": "P. Kasi",
+          "id": ""
+        },
+        {
+          "name": "Felicity David",
+          "id": ""
+        },
+        {
+          "name": "J. Szklaruk",
+          "id": ""
+        },
+        {
+          "name": "Q. Kimana",
+          "id": ""
+        },
+        {
+          "name": "Shubham Pant",
+          "id": ""
+        },
+        {
+          "name": "Sunyoung S. Lee",
+          "id": ""
+        },
+        {
+          "name": "Jennifer J. Knox",
+          "id": ""
+        },
+        {
+          "name": "M. Borad",
+          "id": ""
+        },
+        {
+          "name": "M. Javle",
+          "id": ""
+        }
+      ],
+      "venue": "JCO Precision Oncology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:288962432",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.32881299365490196,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 215619792,
+      "title": "Targeting CDC34 E2 ubiquitin conjugating enzyme for lung cancer therapy",
+      "abstract": "Protein ubiquitylation is a common post-translational modification, catalyzed by an E1 ubiquitin activating enzyme, an E2 ubiquitin-conjugating enzyme, and an E3 ubiquitin ligase. CDC34 is a common E2 responsible for assembly of the Lys48-linked polyubiquitylation chains on a substrate for proteasomal degradation [1]. In coupling with unique E3s, CDC34 is well known to promote cell cycle progression by targeting several cyclin-dependent kinase inhibitors for degradation (e.g. p21 and p27) [1]. While potential involvement of CDC34 in human cancer has been proposed due to its overexpression in a number of human cancers [2,3], whether CDC34 is an attractive therapeutic target, and in what type(s) of human cancer, remains elusive. In the March 2020 issue of EBioMedicine [4], Zhao and colleagues focused on the involvement of the protein ubiquitylation pathway in controlling the growth of non-small cell lung cancer cells (NSCLCs), and identified CDC34 as a top candidate essential for cell proliferation via the functional screening of a siRNA library consisting of pooled siRNAs targeting 696 ubiquitin pathway genes. Subsequent studies confirmed that CDC34 knockdown inhibited, whereas CDC34 overexpression promoted, the growth and survival of lung cancer cells. Importantly, CDC34 was overexpressed in 66.7% of NSCLC tumor samples, and CDC34 overexpression predicted a worse prognosis of patients, implying an oncogenic role in NSCLCs. Furthermore, CDC34 is stress-responsive and induced by tobacco smoke in normal lung epithelial cells of the A/J mice. Consistently, tumors derived from smokers had higher CDC34 levels than those from nonsmokers. Taken together, these association studies strongly suggest that CDC34 could play a role in lung tumorigenesis. However, whether CDC34 is a valid lung cancer target and what the underlying mechanism(s) of CDC34 action is have not been systematically pursued. To this end, Zhao et al., analyzed previously published clinical data of the reverse phase protein array based on 235 lung adenocarcinomas and found a positive correlation between the levels of CDC34 and",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Shizhen Zhang",
+          "id": ""
+        },
+        {
+          "name": "Yi Sun",
+          "id": ""
+        }
+      ],
+      "venue": "EBioMedicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:215619792",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3157483182186003,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 24936452,
+      "title": "Regulation of the ErbB network by the MIG6 feedback loop in physiology, tumor suppression and responses to oncogene-targeted therapeutics.",
+      "abstract": "The ErbB signaling network instructs the execution of key cellular programs, such as cell survival, proliferation and motility, through the generation of robust signals of defined strength and duration. In contrast, unabated ErbB signaling disrupts tissue homeostasis and leads to cell transformation. Cells oppose the threat inherent in excessive ErbB activity through several mechanisms of negative feedback regulation. Inducible feedback inhibitors (IFIs) are expressed in the context of transcriptional responses triggered by ErbB signaling, thus being uniquely suited to regulate ErbB activity during the execution of complex cellular programs. This review focuses on MIG6, an IFI that restrains ErbB signaling by mediating ErbB kinase suppression and receptor down-regulation. We will review key issues in MIG6 function, regulation and tumor suppressor activity. Subsequently, the role for MIG6 loss in the pathogenesis of tumors driven by ErbB oncogenes as well as in the generation of cellular addiction to ErbB signaling will be discussed. We will conclude by analyzing feedback inhibition by MIG6 in the context of therapies directed against ErbB and non-ErbB oncogenes.",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "S. Anastasi",
+          "id": ""
+        },
+        {
+          "name": "Dante Lamberti",
+          "id": ""
+        },
+        {
+          "name": "S. Alema\u0300",
+          "id": ""
+        },
+        {
+          "name": "O. Segatto",
+          "id": ""
+        }
+      ],
+      "venue": "Seminars in Cell and Developmental Biology",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/26456277",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3060707252476395,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 32049161,
+      "title": "Cbl-mediated Ubiquitinylation Is Required for Lysosomal Sorting of Epidermal Growth Factor Receptor but Is Dispensable for Endocytosis*",
+      "abstract": "Ligand-induced down-regulation controls the signaling potency of the epidermal growth factor receptor (EGFR/ErbB1). Overexpression studies have identified Cbl-mediated ubiquitinylation of EGFR as a mechanism of ligand-induced EGFR down-regulation. However, the role of endogenous Cbl in EGFR down-regulation and the precise step in the endocytic pathway regulated by Cbl remain unclear. Using Cbl\u2013/\u2013 mouse embryonic fibroblast cell lines, we demonstrate that endogenous Cbl is essential for ligand-induced ubiquitinylation and efficient degradation of EGFR. Further analyses using Chinese hamster ovary cells with a temperature-sensitive defect in ubiquitinylation confirm a crucial role of the ubiquitin machinery in Cbl-mediated EGFR degradation. However, internalization into early endosomes did not require Cbl function or an intact ubiquitin pathway. Confocal immunolocalization studies indicated that Cbl-dependent ubiquitinylation plays a critical role at the early endosome to late endosome/lysosome sorting step of EGFR down-regulation. These findings establish Cbl as the major endogenous ubiquitin ligase responsible for EGFR degradation, and show that the critical role of Cbl-mediated ubiquitinylation is at the level of endosomal sorting, rather than at the level of internalization.",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Lei Duan",
+          "id": ""
+        },
+        {
+          "name": "Y. Miura",
+          "id": ""
+        },
+        {
+          "name": "M. Dimri",
+          "id": ""
+        },
+        {
+          "name": "B. Majumder",
+          "id": ""
+        },
+        {
+          "name": "I. Dodge",
+          "id": ""
+        },
+        {
+          "name": "A. L. Reddi",
+          "id": ""
+        },
+        {
+          "name": "A. Ghosh",
+          "id": ""
+        },
+        {
+          "name": "N. Fernandes",
+          "id": ""
+        },
+        {
+          "name": "P. Zhou",
+          "id": ""
+        },
+        {
+          "name": "Karen P. Mullane-Robinson",
+          "id": ""
+        },
+        {
+          "name": "N. Rao",
+          "id": ""
+        },
+        {
+          "name": "Stephen Donoghue",
+          "id": ""
+        },
+        {
+          "name": "R. Rogers",
+          "id": ""
+        },
+        {
+          "name": "D. Bowtell",
+          "id": ""
+        },
+        {
+          "name": "M. Naramura",
+          "id": ""
+        },
+        {
+          "name": "Hua Gu",
+          "id": ""
+        },
+        {
+          "name": "V. Band",
+          "id": ""
+        },
+        {
+          "name": "H. Band",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "journal": null,
+      "url": "https://doi.org/10.1074/JBC.M304474200",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.30353555871237076,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 278656439,
+      "title": "NDRG1 and its family members: More than just metastasis suppressor proteins and targets of thiosemicarbazones",
+      "abstract": "N-Myc downstream regulated gene-1 (NDRG1) and the other three members of this family (NDRG2, 3, and 4) play various functional roles in the cellular stress response, differentiation, migration, and development. These proteins are involved in regulating key signaling proteins and pathways that are often dysregulated in cancer, such as EGFR, PI3K/AKT, c-Met, and the Wnt pathway. NDRG1 is the primary, well-examined member of the NDRG family and is generally characterized as a metastasis suppressor that inhibits the first step in metastasis, the epithelial\u2013mesenchymal transition. While NDRG1 is well-studied, emerging evidence suggests NDRG2, NDRG3, and NDRG4 also play significant roles in modulating oncogenic signaling and cellular homeostasis. NDRG family members are regulated by multiple mechanisms, including transcriptional control by hypoxia-inducible factors, p53, and Myc, as well as post-translational modifications such as phosphorylation, ubiquitination, and acetylation. Pharmacological targeting of the NDRG family is a therapeutic strategy against cancer. For instance, di-2-pyridylketone 4,4-dimethyl-3-thiosemicarbazone (Dp44mT) and di-2-pyridylketone-4-cyclohexyl-4-methyl-3-thiosemicarbazone (DpC) have been extensively shown to upregulate NDRG1 expression, leading to metastasis suppression and inhibition of tumor growth in multiple cancer models. Similarly, targeting NDRG2 demonstrates its pro-apoptotic and anti-proliferative effects, particularly in glioblastoma and colorectal cancer. This review provides a comprehensive analysis of the structural features, regulatory mechanisms, and biological functions of the NDRG family and their roles in cancer and neurodegenerative diseases. Additionally, NDRG1-4 are explored as therapeutic targets in oncology, focusing on recent advances in anti-cancer agents that induce the expression of these proteins. Implications for future research and clinical applications are also discussed.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "M. G. Azad",
+          "id": ""
+        },
+        {
+          "name": "Tiffany M Russell",
+          "id": ""
+        },
+        {
+          "name": "X. Gu",
+          "id": ""
+        },
+        {
+          "name": "Xiao Zhao",
+          "id": ""
+        },
+        {
+          "name": "V. Richardson",
+          "id": ""
+        },
+        {
+          "name": "Tharushi P. Wijesinghe",
+          "id": ""
+        },
+        {
+          "name": "G. Babu",
+          "id": ""
+        },
+        {
+          "name": "Xin Guo",
+          "id": ""
+        },
+        {
+          "name": "Busra Kaya",
+          "id": ""
+        },
+        {
+          "name": "M. Dharmasivam",
+          "id": ""
+        },
+        {
+          "name": "Zhao Deng",
+          "id": ""
+        },
+        {
+          "name": "D.R. Richardson",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:278656439",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.2996538902731433,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 35969235,
+      "title": "Gene 33 Is an Endogenous Inhibitor of Epidermal Growth Factor (EGF) Receptor Signaling and Mediates Dexamethasone-induced Suppression of EGF Function*",
+      "abstract": "We report a mechanism by which the adapter protein Gene 33 (also called RALT and MIG6) regulates epidermal growth factor receptor (EGFR) signaling. We find that Gene 33 inhibits EGFR autophosphorylation and specifically blunts epidermal growth factor (EGF)-induced activation and/or phosphorylation of Ras, ERK, JNK, Akt/PKB, and retinoblastoma protein. The Ack homology domain of Gene 33, which contains the previously identified EGFR binding domain, is both necessary and sufficient for this inhibition of EGFR autophosphorylation. The endogenous Gene 33 polypeptide is induced by EGF, platelet-derived growth factor, serum, and dexamethasone (Dex) in Rat 2 rat fibroblasts. Dex induces Gene 33 expression and inhibits EGFR phosphorylation and EGF signaling. RNA interference-mediated silencing of Gene 33 significantly reverses this effect. Overexpression of Gene 33 completely blocks EGF-induced protein and DNA synthesis in Rat 2 cells, whereas gene 33 RNA interference substantially enhances EGF-induced protein and DNA synthesis in Rat 2 cells. Our results indicate that Gene 33 is a physiological feedback inhibitor of the EGFR, functioning to inhibit EGFR phosphorylation and all events induced by EGFR activation. Our results also indicate a role for Gene 33 in the suppression, by Dex, of EGF signaling pathways. We propose that Gene 33 may function in the cross-talk between EGF signaling and other mitogenic and/or stress signaling pathways.",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Dazhong Xu",
+          "id": ""
+        },
+        {
+          "name": "A. Makkinje",
+          "id": ""
+        },
+        {
+          "name": "J. Kyriakis",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "journal": null,
+      "url": "https://doi.org/10.1074/JBC.M408907200",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.2985469381097085,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    }
+  ],
+  "thread_id": null,
+  "narrative": null
+}

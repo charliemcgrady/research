@@ -1,0 +1,1407 @@
+{
+  "query": "MET receptor activation without MET amplification or exon14 skipping in lung adenocarcinoma; phosphoproteomic MET activation; HGF autocrine ligand-driven MET signaling in oncogene-negative LUAD",
+  "results": [
+    {
+      "corpusId": 20987358,
+      "title": "Activation of hepatocyte growth factor-met autocrine loop enhances tumorigenicity in a human lung adenocarcinoma cell line.",
+      "abstract": "Hepatocyte growth factor (HGF) is a multifunctional cytokine with effects on the proliferation, motility, and differentiation of cells that express its receptor Met. The co-expression of HGF and Met is common among nonsmall-cell lung cancers, especially adenocarcinoma. However, the biologic consequences of this putative HGF-Met autocrine signaling remain speculative. We have used retroviral gene transduction technique to express high levels of HGF in the NCI-H358 lung adenocarcinoma cells that have functionally active cell surface Met receptor. The activation of autocrine HGF-Met signaling was confirmed by the induction of spontaneous cell scattering activity. Compared to the parent and control cells transduced with the retroviral vector alone, HGF overexpressing H358 cells show enhanced capacity to colonize soft agar medium and to form xenograft tumors when implanted in the subcutaneous tissue of immune-deficient mice. These effects were not accompanied by changes in their growth rate in monolayer culture condition, or in the expression of vascular endothelial growth factor. The tumors formed by HGF overexpressing cells also showed more prominent glandular cell arrangement and functional activity. This report provides the direct in vivo evidence that autocrine HGF-Met signaling plays significant roles in the growth and differentiation of human lung adenocarcinoma cells.",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Seunghee Yi",
+          "id": ""
+        },
+        {
+          "name": "M S Tsao",
+          "id": ""
+        }
+      ],
+      "venue": "Neoplasia",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:20987358",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.6740328684870097,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 284693879,
+      "title": "Targeting Mesenchymal-Epidermal Transition (MET) Aberrations in Non-Small Cell Lung Cancer: Current Challenges and Therapeutic Advances",
+      "abstract": "Simple Summary Non-small cell lung cancer (NSCLC) represents the most prevalent form of lung cancer. Abnormal activation of mesenchymal transition (MET) proto-oncogenes serves as a key oncogenic driver in NSCLC and is correlated with poor clinical outcomes. The activation of the MET pathway is not only a carcinogenic factor for NSCLC but also a highly potential therapeutic target. Such abnormal MET activation may occur through MET gene mutations, MET gene amplification or transcriptional upregulation without amplification. Although MET tyrosine kinase inhibitors (TKIs) are currently the most widely employed class of MET-targeted agents, their clinical benefits remain limited and insufficient to fully meet clinical needs. In recent years, monoclonal antibodies directed against specific MET epitopes have demonstrated encouraging clinical efficacy in various trials. Furthermore, combination therapeutic strategies\u2014especially with EGFR inhibitors\u2014have demonstrated greater clinical potential compared to monotherapy by overcoming drug resistance and enhancing efficacy. Ongoing research in this field is essential to fully integrate MET-targeted therapies into routine clinical practice and expand treatment options for patients with NSCLC. This review comprehensively summarizes the structure and physiological functions of the MET receptor, the molecular mechanisms underlying aberrant MET activation, its role in acquired resistance to targeted therapies, and emerging strategies for effectively targeting MET alterations in NSCLC.",
+      "year": 2026,
+      "authors": [
+        {
+          "name": "Fahua Deng",
+          "id": ""
+        },
+        {
+          "name": "Weijie Ma",
+          "id": ""
+        },
+        {
+          "name": "Sixi Wei",
+          "id": ""
+        }
+      ],
+      "venue": "Cancers",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:284693879",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5926782157822483,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 198498038,
+      "title": "Impaired ligand\u2010dependent MET activation caused by an extracellular SEMA domain missense mutation in lung cancer",
+      "abstract": "Aberrant activation of the MET/hepatocyte growth factor (HGF) receptor participates in the malignant behavior of cancer cells, such as invasion\u2010metastasis and resistance to molecular targeted drugs. Many mutations in the MET extracellular region have been reported, but their significance is largely unknown. Here, we report the dysregulation of mutant MET originally found in a lung cancer patient with Val370 to Asp370 (V370D) replacement located in the extracellular SEMA domain. MET\u2010knockout cells were prepared and reconstituted with WT\u2010MET or V370D\u2010MET. HGF stimulation induced MET dimerization and biological responses in cells reconstituted with WT\u2010MET, but HGF did not induce MET dimerization and failed to induce biological responses in V370D\u2010MET cells. The V370D mutation abrogated HGF\u2010dependent drug resistance of lung cancer cells to epidermal growth factor receptor\u2010tyrosine kinase inhibitors (EGFR\u2010TKI). Compared with WT\u2010MET cells, V370D\u2010MET cells showed different activation patterns in receptor tyrosine kinases upon exposure to survival/growth\u2010stressed conditions. Surface plasmon resonance analysis indicated that affinity between the extracellular region of V370D\u2010MET and HGF was reduced compared with that for WT\u2010MET. Further analysis of the association between V370D\u2010MET and the separate domains of HGF indicated that the SP domain of HGF was unchanged, but its association with the NK4 domain of HGF was mostly lost in V370D\u2010MET. These results indicate that the V370D mutation in the MET receptor impairs the functional association with HGF and is therefore a loss\u2010of\u2010function mutation. This mutation may change the dependence of cancer cell growth/survival on signaling molecules, which may promote cancer cell characteristics under certain conditions.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Wenyu Miao",
+          "id": ""
+        },
+        {
+          "name": "Katsuya Sakai",
+          "id": ""
+        },
+        {
+          "name": "R. Imamura",
+          "id": ""
+        },
+        {
+          "name": "Nawaphat Jangphattananont",
+          "id": ""
+        },
+        {
+          "name": "J. Takagi",
+          "id": ""
+        },
+        {
+          "name": "M. Nishita",
+          "id": ""
+        },
+        {
+          "name": "Y. Minami",
+          "id": ""
+        },
+        {
+          "name": "Kunio Matsumoto",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Science",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:198498038",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5816515244785693,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 5109668,
+      "title": "A Novel Classification of Lung Cancer into Molecular Subtypes",
+      "abstract": "The remarkably heterogeneous nature of lung cancer has become more apparent over the last decade. In general, advanced lung cancer is an aggressive malignancy with a poor prognosis. The discovery of multiple molecular mechanisms underlying the development, progression, and prognosis of lung cancer, however, has created new opportunities for targeted therapy and improved outcome. In this paper, we define \u201cmolecular subtypes\u201d of lung cancer based on specific actionable genetic aberrations. Each subtype is associated with molecular tests that define the subtype and drugs that may potentially treat it. We hope this paper will be a useful guide to clinicians and researchers alike by assisting in therapy decision making and acting as a platform for further study. In this new era of cancer treatment, the \u2018one-size-fits-all\u2019 paradigm is being forcibly pushed aside\u2014allowing for more effective, personalized oncologic care to emerge.",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "L. West",
+          "id": ""
+        },
+        {
+          "name": "S. Vidwans",
+          "id": ""
+        },
+        {
+          "name": "N. Campbell",
+          "id": ""
+        },
+        {
+          "name": "Jeff Shrager",
+          "id": ""
+        },
+        {
+          "name": "G. Simon",
+          "id": ""
+        },
+        {
+          "name": "R. Bueno",
+          "id": ""
+        },
+        {
+          "name": "P. Dennis",
+          "id": ""
+        },
+        {
+          "name": "G. Otterson",
+          "id": ""
+        },
+        {
+          "name": "R. Salgia",
+          "id": ""
+        }
+      ],
+      "venue": "PLoS ONE",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:5109668",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5801047995597772,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 19408842,
+      "title": "Quantitative Profiling of Protein Tyrosine Kinases in Human Cancer Cell Lines by Multiplexed Parallel Reaction Monitoring Assays*",
+      "abstract": "Protein tyrosine kinases (PTKs) play key roles in cellular signal transduction, cell cycle regulation, cell division, and cell differentiation. Dysregulation of PTK-activated pathways, often by receptor overexpression, gene amplification, or genetic mutation, is a causal factor underlying numerous cancers. In this study, we have developed a parallel reaction monitoring-based assay for quantitative profiling of 83 PTKs. The assay detects 308 proteotypic peptides from 54 receptor tyrosine kinases and 29 nonreceptor tyrosine kinases in a single run. Quantitative comparisons were based on the labeled reference peptide method. We implemented the assay in four cell models: 1) a comparison of proliferating versus epidermal growth factor-stimulated A431 cells, 2) a comparison of SW480Null (mutant APC) and SW480APC (APC restored) colon tumor cell lines, and 3) a comparison of 10 colorectal cancer cell lines with different genomic abnormalities, and 4) lung cancer cell lines with either susceptibility (11\u201318) or acquired resistance (11\u201318R) to the epidermal growth factor receptor tyrosine kinase inhibitor erlotinib. We observed distinct PTK expression changes that were induced by stimuli, genomic features or drug resistance, which were consistent with previous reports. However, most of the measured expression differences were novel observations. For example, acquired resistance to erlotinib in the 11\u201318 cell model was associated not only with previously reported up-regulation of MET, but also with up-regulation of FLK2 and down-regulation of LYN and PTK7. Immunoblot analyses and shotgun proteomics data were highly consistent with parallel reaction monitoring data. Multiplexed parallel reaction monitoring assays provide a targeted, systems-level profiling approach to evaluate cancer-related proteotypes and adaptations. Data are available through Proteome eXchange Accession PXD002706.",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Hye-Jung Kim",
+          "id": ""
+        },
+        {
+          "name": "D. Lin",
+          "id": ""
+        },
+        {
+          "name": "Hyoung-joo Lee",
+          "id": ""
+        },
+        {
+          "name": "Ming Li",
+          "id": ""
+        },
+        {
+          "name": "D. Liebler",
+          "id": ""
+        }
+      ],
+      "venue": "Molecular & Cellular Proteomics",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:19408842",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.5437657881803978,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 51665575,
+      "title": "Oncogenic Function of a KIF5B-MET Fusion Variant in Non-Small Cell Lung Cancer",
+      "abstract": "A kinesin family member 5b (KIF5B)-MET proto-oncogene, receptor tyrosine kinase (MET) rearrangement was reported in patients with lung adenocarcinoma but its oncogenic function was not fully evaluated. We used one-step reverse transcription-polymerase chain reaction for RNA samples to screen for the KIF5B-MET fusion in 206 lung adenocarcinoma and 28 pulmonary sarcomatoid carcinoma patients. Genomic breakpoints of KIF5B-MET were determined by targeted next-generation sequencing. Soft agar colony formation assays, proliferation assays, and a xenograft mouse model were used to investigate its oncogenic activity. In addition, specific MET inhibitors were administered to evaluate their anti-tumor activities. A KIF5B-MET fusion variant in a patient with a mixed-type adenocarcinoma and sarcomatoid tumor was identified, and another case was found in a pulmonary sarcomatoid carcinoma patient. Both cases carried the same chimeric gene, a fusion between exons 1\u201324 of KIF5B and exons 15\u201321 of MET. KIF5B-MET-overexpressing cells exhibited significantly increased proliferation and colony-forming ability. Xenograft tumors harboring the fusion gene demonstrated significantly elevated tumor growth. Ectopic expression of the fusion gene stimulated the phosphorylation of KIF5B-MET as well as downstream STAT3, AKT, and ERK1/2 signaling pathways. The MET inhibitors significantly repressed cell proliferation; phosphorylation of downstream STAT3, AKT, and ERK1/2; and xenograft tumorigenicity. In conclusion, the KIF5B-MET variant was demonstrated to have an oncogenic function in cancer cells. These findings have immediate clinical implications for the targeted therapy of subgroups of non-small cell lung cancer patients.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "C. Gow",
+          "id": ""
+        },
+        {
+          "name": "Yi-Nan Liu",
+          "id": ""
+        },
+        {
+          "name": "Huei\u2010Ying Li",
+          "id": ""
+        },
+        {
+          "name": "Min-Shu Hsieh",
+          "id": ""
+        },
+        {
+          "name": "Shih-Han Chang",
+          "id": ""
+        },
+        {
+          "name": "S-C. Luo",
+          "id": ""
+        },
+        {
+          "name": "Tzu-Hsiu Tsai",
+          "id": ""
+        },
+        {
+          "name": "Peihong Chen",
+          "id": ""
+        },
+        {
+          "name": "Meng-Feng Tsai",
+          "id": ""
+        },
+        {
+          "name": "J. Shih",
+          "id": ""
+        }
+      ],
+      "venue": "Neoplasia",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:51665575",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4813914841002217,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 7797152,
+      "title": "Constitutive activation of c\u2010Met is correlated with c\u2010Met overexpression and dependent on cell\u2013matrix adhesion in lung adenocarcinoma cell lines",
+      "abstract": "In this study we explored the mechanisms of constitutive activation of c\u2010Met in lung adenocarcinoma cell lines. First, we examined levels of c\u2010Met and phospho\u2010c\u2010Met (Y1234/Y1235) in a panel of lung adenocarcinoma cell lines by Western blot analysis. c\u2010Met expression was found in 12 of 14 cell lines and an overall correlation between the expressions of c\u2010Met and phospho\u2010c\u2010Met was noted. c\u2010Met was constitutively activated particularly at high levels in five cell lines (PC3, LC\u20102/ad, L27, H1648, and H2009). c\u2010Met amplification was identified in L27 and H1648 by single nucleotide polymorphism array analysis, but no mutations were identified in the Sema domain or in any part of the cytoplasmic domain of c\u2010Met. Experiments with neutralizing anti\u2010hepatocyte growth factor (HGF) antibody, scatter assay using Madin\u2013Darby canine kidney cells, and Western blotting on conditioned media of the cell lines revealed that the constitutive phosphorylation of c\u2010Met was largely ligand\u2010independent. The inhibition of cell\u2013matrix adhesion induced the dephosphorylation of c\u2010Met in the five cell lines tested. This was accompanied by downregulation of c\u2010Met in three of the five cell lines. In contrast, the inhibition of cell\u2013cell adhesion by neutralizing E\u2010cadherin antibody had a minimal effect on the expression and phosphorylation of c\u2010Met. These results reveal three features of the constitutive activation of c\u2010Met in our panel of lung adenocarcinoma cell lines: (i) it correlates with c\u2010Met overexpression, either with or without gene amplification; (ii) it is largely ligand\u2010independent; and (iii) it depends on cell\u2013matrix adhesion. (Cancer Sci 2008; 99: 14\u201322)",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Yusuke Nakamura",
+          "id": ""
+        },
+        {
+          "name": "Daisuke Matsubara",
+          "id": ""
+        },
+        {
+          "name": "A. Goto",
+          "id": ""
+        },
+        {
+          "name": "S. Ota",
+          "id": ""
+        },
+        {
+          "name": "O. Sachiko",
+          "id": ""
+        },
+        {
+          "name": "S. Ishikawa",
+          "id": ""
+        },
+        {
+          "name": "H. Aburatani",
+          "id": ""
+        },
+        {
+          "name": "K. Miyazawa",
+          "id": ""
+        },
+        {
+          "name": "M. Fukayama",
+          "id": ""
+        },
+        {
+          "name": "T. Niki",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Science",
+      "journal": null,
+      "url": "https://doi.org/10.1111/j.1349-7006.2007.00640.x",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.47963047545277887,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 18382182,
+      "title": "Hepatocyte growth factor/MET in cancer progression and biomarker discovery",
+      "abstract": "Signaling driven by hepatocyte growth factor (HGF) and MET receptor facilitates conspicuous biological responses such as epithelial cell migration, 3\u2010D morphogenesis, and survival. The dynamic migration and promotion of cell survival induced by MET activation are bases for invasion\u2013metastasis and resistance, respectively, against targeted drugs in cancers. Recent studies indicated that MET in tumor\u2010derived exosomes facilitates metastatic niche formation and metastasis in malignant melanoma. In lung cancer, gene amplification\u2010induced MET activation and ligand\u2010dependent MET activation in an autocrine/paracrine manner are causes for resistance to epidermal growth factor receptor tyrosine kinase inhibitors and anaplastic lymphoma kinase inhibitors. Hepatocyte growth factor secreted in the tumor microenvironment contributes to the innate and acquired resistance to RAF inhibitors. Changes in serum/plasma HGF, soluble MET (sMET), and phospho\u2010MET have been confirmed to be associated with disease progression, metastasis, therapy response, and survival. Higher serum/plasma HGF levels are associated with therapy resistance and/or metastasis, while lower HGF levels are associated with progression\u2010free survival and overall survival after treatment with targeted drugs in lung cancer, gastric cancer, colon cancer, and malignant melanoma. Urinary sMET levels in patients with bladder cancer are higher than those in patients without bladder cancer and associated with disease progression. Some of the multi\u2010kinase inhibitors that target MET have received regulatory approval, whereas none of the selective HGF\u2010MET inhibitors have shown efficacy in phase III clinical trials. Validation of the HGF\u2010MET pathway as a critical driver in cancer development/progression and utilization of appropriate biomarkers are key to development and approval of HGF\u2010MET inhibitors for clinical use.",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Kunio Matsumoto",
+          "id": ""
+        },
+        {
+          "name": "M. Umitsu",
+          "id": ""
+        },
+        {
+          "name": "Dinuka M. De Silva",
+          "id": ""
+        },
+        {
+          "name": "A. Roy",
+          "id": ""
+        },
+        {
+          "name": "D. Bottaro",
+          "id": ""
+        }
+      ],
+      "venue": "Cancer Science",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:18382182",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4081155359041346,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 233740628,
+      "title": "MET alterations and their impact on the future of non-small cell lung cancer (NSCLC) targeted therapies",
+      "abstract": "ABSTRACT Introduction: The MET gene and its pathway normally plays a crucial role in cell homeostasis, motility, and apoptosis. However, when the MET gene is altered, there is an imbalance toward cell proliferation and invasion commonly seen in numerous different types of cancers. The heterogeneous group of MET alterations that includes MET amplification, MET exon 14 skipping mutation, and MET fusions has been difficult to diagnose and treat. Currently, treatments are focused on tyrosine kinase inhibitors but now there is emerging data on novel MET-targeted therapies including monoclonal antibodies and antibody-drug conjugates that have emerged. Areas covered: We introduce new emerging data on MET alterations in non-small cell lung cancer (NSCLC) that has contributed to advances in MET targeted therapeutics. We offer our perspective and examine new information on the mechanisms of the MET alterations in this review. Expert opinion: Given the trends currently involving the targeting of MET altered malignancies, there will most likely be a continued rapid expansion of testing, novel tyrosine kinase inhibitors and potent antibody approaches. Combination treatments will be necessary to optimize management of advanced and early disease.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "M. Lee",
+          "id": ""
+        },
+        {
+          "name": "P. Jain",
+          "id": ""
+        },
+        {
+          "name": "Feng Wang",
+          "id": ""
+        },
+        {
+          "name": "P. Ma",
+          "id": ""
+        },
+        {
+          "name": "A. Borczuk",
+          "id": ""
+        },
+        {
+          "name": "B. Halmos",
+          "id": ""
+        }
+      ],
+      "venue": "Expert opinion on therapeutic targets",
+      "journal": null,
+      "url": "https://doi.org/10.1080/14728222.2021.1925648",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.40613460977148236,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 284017206,
+      "title": "MET alterations are enriched in lung adenocarcinoma brain metastases, defining a distinct biologic subtype",
+      "abstract": "Non\u2013small cell lung cancer exhibits the highest rates of brain metastases (BMs) among all solid tumors, presenting a major clinical challenge. The development of novel therapeutic strategies targeting BMs is clearly needed. We identified a significant enrichment of MET amplification in lung adenocarcinoma (LUAD) BMs compared with primary LUAD and extracranial metastases in oncogene driver\u2013negative patients. Of note, MET-amplified BMs were responsive to MET inhibitors in vivo, including models with acquired MET amplification at the time of metastasis. MET alterations (amplifications and/or mutations) were also more frequently detected in circulating tumor DNA from patients with LUAD BMs than in those without BMs. MET-altered BMs also demonstrated unique genomic features compared with non\u2013MET-altered BMs. Transcriptomic analyses revealed that in contrast to MET WT BMs, MET-amplified BMs exhibited a more inflamed tumor microenvironment and displayed evidence of metabolic adaptation, particularly a reliance on glycolysis in contrast to OXPHOS in MET WT BMs. Furthermore, MET-amplified BMs demonstrated evidence of epithelial-mesenchymal transition signaling, including increased expression of TWIST1. Patients with MET-amplified BMs had significantly shorter overall survival. These findings highlight MET amplification as a critical driver of LUAD BMs, emphasizing its potential as a therapeutic target.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Timothy F. Burns",
+          "id": ""
+        },
+        {
+          "name": "S. Dacic",
+          "id": ""
+        },
+        {
+          "name": "A. Chakka",
+          "id": ""
+        },
+        {
+          "name": "E. Miller",
+          "id": ""
+        },
+        {
+          "name": "M. A. V\u00e9lez",
+          "id": ""
+        },
+        {
+          "name": "Ashwin Somasundaram",
+          "id": ""
+        },
+        {
+          "name": "Saveri Bhattacharya",
+          "id": ""
+        },
+        {
+          "name": "Autumn Gaither-Davis",
+          "id": ""
+        },
+        {
+          "name": "Princey Devadassan",
+          "id": ""
+        },
+        {
+          "name": "Jingxiao Jin",
+          "id": ""
+        },
+        {
+          "name": "Vinod Kumar",
+          "id": ""
+        },
+        {
+          "name": "A. Pennathur",
+          "id": ""
+        },
+        {
+          "name": "Joanne Xiu",
+          "id": ""
+        },
+        {
+          "name": "M. Oberley",
+          "id": ""
+        },
+        {
+          "name": "Michael J Glantz",
+          "id": ""
+        },
+        {
+          "name": "Sonikpreet Aulakh",
+          "id": ""
+        },
+        {
+          "name": "U. Chandran",
+          "id": ""
+        },
+        {
+          "name": "R. Bao",
+          "id": ""
+        },
+        {
+          "name": "C. Tatsuoka",
+          "id": ""
+        },
+        {
+          "name": "L.P. Stabile",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Clinical Investigation",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:284017206",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4042234357327814,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 41635054,
+      "title": "Expression and Mutational Analysis of MET in Human Solid Cancers",
+      "abstract": "MET receptor tyrosine kinase and its ligand hepatocyte growth factor (HGF) regulate a variety of cellular functions, many of which can be dysregulated in human cancers. Activated MET signaling can lead to cell motility and scattering, angiogenesis, proliferation, branching morphogenesis, invasion, and eventual metastasis. We performed systematic analysis of the expression of the MET receptor and its ligand HGF in tumor tissue microarrays (TMA) from human solid cancers. Standard immunohistochemistry (IHC) and a computerized automated scoring system were used. DNA sequencing for MET mutations in both nonkinase and kinase domains was also performed. MET was differentially overexpressed in human solid cancers. The ligand HGF was widely expressed in both tumors, primarily intratumoral, and nonmalignant tissues. The MET/HGF likely is functional and may be activated in autocrine fashion in vivo. MET and stem cell factor (SCF) were found to be positively stained in the bronchioalevolar junctions of lung tumors. A number of novel mutations of MET were identified, particularly in the extracellular semaphorin domain and the juxtamembrane domain. MET\u2010HGF pathway can be assayed in TMAs and is often overexpressed in a wide variety of human solid cancers. MET can be activated through overexpression, mutation, or autocrine signaling in malignant cells. Mutations in the nonkinase regions of MET might play an important role in tumorigenesis and tumor progression. MET would be an important therapeutic antitumor target to be inhibited, and in lung cancer, MET may represent a cancer early progenitor cell marker. \u00a9 2008 Wiley\u2010Liss, Inc.",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "P. C. Ma",
+          "id": ""
+        },
+        {
+          "name": "M. Tretiakova",
+          "id": ""
+        },
+        {
+          "name": "A. Mackinnon",
+          "id": ""
+        },
+        {
+          "name": "N. Ramnath",
+          "id": ""
+        },
+        {
+          "name": "Candace S. Johnson",
+          "id": ""
+        },
+        {
+          "name": "S. Dietrich",
+          "id": ""
+        },
+        {
+          "name": "T. Seiwert",
+          "id": ""
+        },
+        {
+          "name": "James G. Christensen",
+          "id": ""
+        },
+        {
+          "name": "R. Jagadeeswaran",
+          "id": ""
+        },
+        {
+          "name": "T. Krausz",
+          "id": ""
+        },
+        {
+          "name": "E. Vokes",
+          "id": ""
+        },
+        {
+          "name": "A. N. Husain",
+          "id": ""
+        },
+        {
+          "name": "R. Salgia",
+          "id": ""
+        }
+      ],
+      "venue": "Genes, Chromosomes and Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:41635054",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.40396820000978145,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 235128069,
+      "title": "When the MET receptor kicks in to resist targeted therapies",
+      "abstract": "Although targeted therapies have increased the life expectancy of patients with druggable molecular alterations directly involved in tumor development, the efficacy of these therapies is limited by acquired resistances leading to treatment failure. Most targeted therapies, including ones exploiting therapeutic antibodies and kinase inhibitors, are directed against receptor tyrosine kinases (RTKs) or major signaling hubs. Resistances to these therapies arise when inhibition of these targets is bypassed through activation of alternative signaling pathways. In recent years, activation of the receptor tyrosine kinase MET has been shown to promote resistance to various targeted therapies. This casts MET as important actor in resistance. In this review, we describe how the MET receptor triggers resistance to targeted therapies against RTKs such as EGFR, VEGFR, and HER2 and against signaling hubs such as BRAF. We also describe how MET can be its own resistance factor, as illustrated by on-target resistance of lung tumors harboring activating mutations causing MET exon 14 skipping. Interestingly, investigation of all these situations reveals functional physiological relationships between MET and the target of the therapy to which the cancer becomes resistant, suggesting that resistance stems from preexisting mechanisms. Identification of MET as a resistance factor opens the way to co-treatment strategies that are being tested in current clinical trials.",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "M. Fernandes",
+          "id": ""
+        },
+        {
+          "name": "P. Jamme",
+          "id": ""
+        },
+        {
+          "name": "A. Cortot",
+          "id": ""
+        },
+        {
+          "name": "Z. Kherrouche",
+          "id": ""
+        },
+        {
+          "name": "D. Tulasne",
+          "id": ""
+        }
+      ],
+      "venue": "Oncogene",
+      "journal": null,
+      "url": "https://doi.org/10.1038/s41388-021-01835-0",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4037655302834997,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 273940265,
+      "title": "Research progress on the role of bypass activation mechanisms in resistance to tyrosine kinase inhibitors in non-small cell lung cancer",
+      "abstract": "The clinical application of small molecule tyrosine kinase inhibitors (TKIs) has significantly improved the quality of life and prognosis of patients with non-small cell lung cancer (NSCLC) carrying driver genes. However, resistance to TKI treatment is inevitable. Bypass signal activation is one of the important reasons for TKI resistance. Although TKI drugs inhibit downstream signaling pathways of driver genes, key signaling pathways within tumor cells can still be persistently activated through bypass routes such as MET gene amplification, EGFR gene amplification, and AXL activation. This continuous activation maintains tumor cell growth and proliferation, leading to TKI resistance. The fundamental strategy to treat TKI resistance mediated by bypass activation involves simultaneously inhibiting the activated bypass signals and the original driver gene signaling pathways. Some clinical trials based on this combined treatment approach have yielded promising preliminary results, offering more treatment options for NSCLC patients with TKI resistance. Additionally, early identification of resistance mechanisms through liquid biopsy, personalized targeted therapy against these mechanisms, and preemptive targeting of drug-tolerant persistent cells may provide NSCLC patients with more sustained and effective treatment.",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Ziyang Jiang",
+          "id": ""
+        },
+        {
+          "name": "Zhihan Gu",
+          "id": ""
+        },
+        {
+          "name": "Xiaomin Yu",
+          "id": ""
+        },
+        {
+          "name": "Tao Cheng",
+          "id": ""
+        },
+        {
+          "name": "Bofu Liu",
+          "id": ""
+        }
+      ],
+      "venue": "Frontiers in Oncology",
+      "journal": null,
+      "url": "https://pdfs.semanticscholar.org/3bdc/124cf0d7a49b551aedabae7b6069a373d7aa.pdf",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.402289652133945,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 17099142,
+      "title": "The landscape of kinase fusions in cancer",
+      "abstract": "Human cancer genomes harbour a variety of alterations leading to the deregulation of key pathways in tumour cells. The genomic characterization of tumours has uncovered numerous genes recurrently mutated, deleted or amplified, but gene fusions have not been characterized as extensively. Here we develop heuristics for reliably detecting gene fusion events in RNA-seq data and apply them to nearly 7,000 samples from The Cancer Genome Atlas. We thereby are able to discover several novel and recurrent fusions involving kinases. These findings have immediate clinical implications and expand the therapeutic options for cancer patients, as approved or exploratory drugs exist for many of these kinases. Kinases activated by gene fusions represent potentially important targets for the development of cancer drugs. Here, the authors develop a method for detecting gene fusion events in RNA sequencing data from The Cancer Genome Atlas and identify several novel recurrent fusions involving kinases.",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Nicolas Stransky",
+          "id": ""
+        },
+        {
+          "name": "E. Cerami",
+          "id": ""
+        },
+        {
+          "name": "S. Schalm",
+          "id": ""
+        },
+        {
+          "name": "Joseph L. Kim",
+          "id": ""
+        },
+        {
+          "name": "C. Lengauer",
+          "id": ""
+        }
+      ],
+      "venue": "Nature Communications",
+      "journal": null,
+      "url": "https://doi.org/10.1038/ncomms5846",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.40202707638052465,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 52072347,
+      "title": "Status of Agents Targeting the HGF/c-Met Axis in Lung Cancer",
+      "abstract": "Hepatocyte growth factor (HGF) is the ligand for the tyrosine kinase receptor c-Met (Mesenchymal Epithelial Transition Factor also known as Hepatocyte Growth Factor Receptor, HGFR), a receptor with expression throughout epithelial and endothelial cell types. Activation of c-Met enhances cell proliferation, invasion, survival, angiogenesis, and motility. The c-Met pathway also stimulates tissue repair in normal cells. A body of past research shows that increased levels of HGF and/or overexpression of c-Met are associated with poor prognosis in several solid tumors, including lung cancer, as well as cancers of the head and neck, gastro-intestinal tract, breast, ovary and cervix. The HGF/c-Met signaling network is complex; both ligand-dependent and ligand-independent signaling occur. This article will provide an update on signaling through the HGF/c-Met axis, the mechanism of action of HGF/c-Met inhibitors, the lung cancer patient populations most likely to benefit, and possible mechanisms of resistance to these inhibitors. Although c-Met as a target in non-small cell lung cancer (NSCLC) showed promise based on preclinical data, clinical responses in NSCLC patients have been disappointing in the absence of MET mutation or MET gene amplification. New therapeutics that selectively target c-Met or HGF, or that target c-Met and a wider spectrum of interacting tyrosine kinases, will be discussed.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "O. Miranda",
+          "id": ""
+        },
+        {
+          "name": "M. Farooqui",
+          "id": ""
+        },
+        {
+          "name": "J. Siegfried",
+          "id": ""
+        }
+      ],
+      "venue": "Cancers",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:52072347",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.40183749031822424,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 3925642,
+      "title": "Structural Alterations of MET Trigger Response to MET Kinase Inhibition in Lung Adenocarcinoma Patients",
+      "abstract": "Purpose: We sought to investigate the clinical response to MET inhibition in patients diagnosed with structural MET alterations and to characterize their functional relevance in cellular models. Experimental Design: Patients were selected for treatment with crizotinib upon results of hybrid capture\u2013based next-generation sequencing. To confirm the clinical observations, we analyzed cellular models that express these MET kinase alterations. Results: Three individual patients were identified to harbor alterations within the MET receptor. Two patients showed genomic rearrangements, leading to a gene fusion of KIF5B or STARD3NL and MET. One patient diagnosed with an EML4-ALK rearrangement developed a MET kinase domain duplication as a resistance mechanism to ceritinib. All 3 patients showed a partial response to crizotinib that effectively inhibits MET and ALK among other kinases. The results were further confirmed using orthogonal cellular models. Conclusions: Crizotinib leads to a clinical response in patients with MET rearrangements. Our functional analyses together with the clinical data suggest that these structural alterations may represent actionable targets in lung cancer patients. Clin Cancer Res; 24(6); 1337\u201343. \u00a92017 AACR.",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "D. Plenker",
+          "id": ""
+        },
+        {
+          "name": "M. Bertrand",
+          "id": ""
+        },
+        {
+          "name": "A. D. de Langen",
+          "id": ""
+        },
+        {
+          "name": "R. Riedel",
+          "id": ""
+        },
+        {
+          "name": "C. Lorenz",
+          "id": ""
+        },
+        {
+          "name": "A. Scheel",
+          "id": ""
+        },
+        {
+          "name": "Judith M\u00fcller",
+          "id": ""
+        },
+        {
+          "name": "J. Br\u00e4gelmann",
+          "id": ""
+        },
+        {
+          "name": "J. Da\u00dfler-Plenker",
+          "id": ""
+        },
+        {
+          "name": "C. Kobe",
+          "id": ""
+        },
+        {
+          "name": "T. Persigehl",
+          "id": ""
+        },
+        {
+          "name": "A. Kluge",
+          "id": ""
+        },
+        {
+          "name": "T. Wurdinger",
+          "id": ""
+        },
+        {
+          "name": "Pepijn Schellen",
+          "id": ""
+        },
+        {
+          "name": "G. Hartmann",
+          "id": ""
+        },
+        {
+          "name": "T. Zacherle",
+          "id": ""
+        },
+        {
+          "name": "R. Menon",
+          "id": ""
+        },
+        {
+          "name": "E. Thunnissen",
+          "id": ""
+        },
+        {
+          "name": "R. B\u00fcttner",
+          "id": ""
+        },
+        {
+          "name": "F. Griesinger",
+          "id": ""
+        },
+        {
+          "name": "J. Wolf",
+          "id": ""
+        },
+        {
+          "name": "L. Heukamp",
+          "id": ""
+        },
+        {
+          "name": "M. Sos",
+          "id": ""
+        },
+        {
+          "name": "J. Heuckmann",
+          "id": ""
+        }
+      ],
+      "venue": "Clinical Cancer Research",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:3925642",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.39810394986427194,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 3379891,
+      "title": "EGFR-TKIs resistance via EGFR-independent signaling pathways",
+      "abstract": "Tyrosine kinase inhibitors (TKIs)-treatments bring significant benefit for patients harboring epidermal growth factor receptor (EGFR) mutations, especially for those with lung cancer. Unfortunately, the majority of these patients ultimately develop to the acquired resistance after a period of treatment. Two central mechanisms are involved in the resistant process: EGFR secondary mutations and bypass signaling activations. In an EGFR-dependent manner, acquired mutations, such as T790 M, interferes the interaction between TKIs and the kinase domain of EGFR. While in an EGFR-independent manner, dysregulation of other receptor tyrosine kinases (RTKs) or abnormal activation of downstream compounds both have compensatory functions against the inhibition of EGFR through triggering phosphatidylinositol 3-kinase (PI3K)/Akt and mitogen-activated protein kinase (MAPK) signaling axes. Nowadays, many clinical trials aiming to overcome and prevent TKIs resistance in various cancers are ongoing or completed. EGFR-TKIs in accompany with the targeted agents for resistance-related factors afford a promising first-line strategy to further clinical application.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Qian Liu",
+          "id": ""
+        },
+        {
+          "name": "Shengnan Yu",
+          "id": ""
+        },
+        {
+          "name": "Weiheng Zhao",
+          "id": ""
+        },
+        {
+          "name": "Shuang Qin",
+          "id": ""
+        },
+        {
+          "name": "Q. Chu",
+          "id": ""
+        },
+        {
+          "name": "Kongming Wu",
+          "id": ""
+        }
+      ],
+      "venue": "Molecular Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:3379891",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3976171988324766,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 283100282,
+      "title": "MET (c-Met) protein overexpression is an emerging protein biomarker in non-small cell lung cancer",
+      "abstract": "MET protein (also known as c-Met protein) overexpression (OE) is an emerging clinically relevant biomarker that is targetable with antibody-drug conjugates. c-Met protein\u2019s prevalence varies, depending on the different OE thresholds, antibodies, and detection methodologies used. Unlike MET genomic aberrations, MET protein OE is a protein biomarker requiring immunohistochemistry (IHC)-based testing. Herein, we summarize the current evidence on MET protein OE, including prognostic value, heterogeneity, and stability. We also provide key considerations for enabling optimal real-world testing of this IHC-based biomarker.",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Ming-Sound Tsao",
+          "id": ""
+        },
+        {
+          "name": "L. Sholl",
+          "id": ""
+        },
+        {
+          "name": "Michelle Shiller",
+          "id": ""
+        },
+        {
+          "name": "Peter Illei",
+          "id": ""
+        },
+        {
+          "name": "Ignacio I. Wistuba",
+          "id": ""
+        },
+        {
+          "name": "M.B. Beasley",
+          "id": ""
+        },
+        {
+          "name": "K. Schalper",
+          "id": ""
+        },
+        {
+          "name": "Archana Simmons",
+          "id": ""
+        },
+        {
+          "name": "Peter Ansell",
+          "id": ""
+        },
+        {
+          "name": "S. Beruti",
+          "id": ""
+        },
+        {
+          "name": "M. Mino-Kenudson",
+          "id": ""
+        }
+      ],
+      "venue": "npj Precision Oncology",
+      "journal": null,
+      "url": "https://doi.org/10.1038/s41698-025-01144-9",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3962344240397255,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 208498014,
+      "title": "MET inhibitors in cancer: pitfalls and challenges",
+      "abstract": "ABSTRACT Introduction: The HGF/MET axis is a key therapeutic pathway in cancer; it is aberrantly activated because of mutations, fusions, amplification or aberrant ligand production. Extensive efforts have been made to discover predictive factors of anti-MET therapeutic efficacy, but they have mostly unsuccessful. An understanding of the intrinsic and acquired mechanism of MET resistance will be fundamental for the development of new therapeutic interventions. Areas covered: This article provides a systematic review of phase II randomized and phase III clinical trials investigating the use of MET inhibitors in the treatment of cancer. We discuss preliminary findings on efficacy and methodologic design flaws in these trials. Expert opinion: MET inhibitors showed poor activity in unselected patients or patients selected by MET expression, p-MET or high HGF basal levels. The efficacy in advanced solid tumors is very modest and in phase III clinical trials, survival differences did not fulfill the stringent requirements of ESMO-Magnitude Clinical Benefit Score (MCBS). Prospective novel liquid biomarker-driven studies and novel trial designs such as Umbrella and Basket trials are necessary to progress MET inhibitor development.",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "H. Oliveres",
+          "id": ""
+        },
+        {
+          "name": "E. Pineda",
+          "id": ""
+        },
+        {
+          "name": "J. Maurel",
+          "id": ""
+        }
+      ],
+      "venue": "Expert Opinion on Investigational Drugs",
+      "journal": null,
+      "url": "https://doi.org/10.1080/13543784.2020.1699532",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.39552681533798045,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 31239371,
+      "title": "MET molecular mechanisms and therapies in lung cancer",
+      "abstract": "The MET tyrosine kinase signaling pathway is upregulated in many cancers, including lung cancer. The pathway normally promotes mitosis, cell motility and cell survival; but in cancer it can also promote cell proliferation, invasion, metastasis, and angiogenesis. The activating ligand, hepatocyte growth factor, is normally secreted by fibroblasts and smooth muscle cells, but can also be produced by tumor cells. MET upregulation in lung cancer is caused by overexpression and mutation. These mutations can vary with ethnicity. MET signaling affects cytoskeletal proteins such as paxillin, which participates in cell adhesion, growth and motility. Therapeutic approaches that block MET signaling are being studied, and include the use of: small interference RNA, Geldanamycin, competitive HGF homologues, decoy receptors, and direct MET inhibitors such as K252a, SU11274, PHA665752 and PF2341066. It is hoped that blocking MET signaling may one day become an effective treatment for some lung cancers.",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Ryan E Lawrence",
+          "id": ""
+        },
+        {
+          "name": "R. Salgia",
+          "id": ""
+        }
+      ],
+      "venue": "Cell Adhesion & Migration",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:31239371",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3951129207657337,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 21809800,
+      "title": "Co-overexpression of Met and hepatocyte growth factor promotes systemic metastasis in NCI-H460 non-small cell lung carcinoma cells.",
+      "abstract": "Complete resection of early-stage non-small cell lung cancer (NSCLC) is potentially curative, yet approximately 50% of patients are at risk for developing metastatic recurrence. Met, the receptor for hepatocyte growth factor (HGF) is a receptor tyrosine kinase with demonstrated roles in regulating cellular proliferation, motility, morphogenesis, and apoptosis. Met receptor and its ligand, HGF, are commonly overexpressed in NSCLC, and their overexpression has been associated with poor prognosis, which could potentially involve a paracrine and/or autocrine activation loop. However, there is as yet no direct evidence that HGF-Met signaling directly promotes metastasis in NSCLC cells. Using retroviral transduction, we overexpressed the human c-met and hgf complementary DNA, alone or in combination in the NCI-H460 human large cell carcinoma cell line. The HGF/Met co-overexpressing (H460-HGF/Met) cells demonstrated enhanced tumorigenicity in xenograft SCID mice. When these cells are implanted orthotopically into the lungs of nude rats, only the H460-HGF/Met cells showed higher spontaneous metastases to distant organs including bone, brain, and kidney. These results provide evidence that autocrine overactivation of the Met- HGF loop enhances systemic metastases in NSCLC. Targeted interference of this loop may potentially be an effective adjuvant therapy to improve survival of early-stage NSCLC patients.",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "R. Navab",
+          "id": ""
+        },
+        {
+          "name": "Jiang Liu",
+          "id": ""
+        },
+        {
+          "name": "I. Seiden-Long",
+          "id": ""
+        },
+        {
+          "name": "Warren Shih",
+          "id": ""
+        },
+        {
+          "name": "Ming Li",
+          "id": ""
+        },
+        {
+          "name": "B. Bandarchi",
+          "id": ""
+        },
+        {
+          "name": "Yan Chen",
+          "id": ""
+        },
+        {
+          "name": "D. Lau",
+          "id": ""
+        },
+        {
+          "name": "Yen-Fen Zu",
+          "id": ""
+        },
+        {
+          "name": "D. Cescon",
+          "id": ""
+        },
+        {
+          "name": "Changjun Zhu",
+          "id": ""
+        },
+        {
+          "name": "S. Organ",
+          "id": ""
+        },
+        {
+          "name": "E. Ibrahimov",
+          "id": ""
+        },
+        {
+          "name": "Dina Ohanessian",
+          "id": ""
+        },
+        {
+          "name": "M. Tsao",
+          "id": ""
+        }
+      ],
+      "venue": "Neoplasia",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:21809800",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3936215567532766,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 45840463,
+      "title": "KIF5B-MET Gene Rearrangement with Robust Antitumor Activity in Response to Crizotinib in Lung Adenocarcinoma.",
+      "abstract": null,
+      "year": 2017,
+      "authors": [
+        {
+          "name": "J. Cho",
+          "id": ""
+        },
+        {
+          "name": "B. Ku",
+          "id": ""
+        },
+        {
+          "name": "Jong-Mu Sun",
+          "id": ""
+        },
+        {
+          "name": "Se-Hoon Lee",
+          "id": ""
+        },
+        {
+          "name": "J. Ahn",
+          "id": ""
+        },
+        {
+          "name": "Keunchil Park",
+          "id": ""
+        },
+        {
+          "name": "M. Ahn",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Thoracic Oncology",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29102694",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3905957127389196,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 18825413,
+      "title": "Detection of Hepatocyte Growth Factor (HGF) Ligand-c-MET Receptor Activation in Formalin-Fixed Paraffin Embedded Specimens by a Novel Proximity Assay",
+      "abstract": "Aberrant activation of membrane receptors frequently occurs in human carcinomas. Detection of phosphorylated receptors is commonly used as an indicator of receptor activation in formalin-fixed paraffin embedded (FFPE) tumor specimens. FFPE is a standard method of specimen preparation used in the histological analysis of solid tumors. Due to variability in FFPE preparations and the labile nature of protein phosphorylation, measurements of phospho-proteins are unreliable and create ambiguities in clinical interpretation. Here, we describe an alternative, novel approach to measure receptor activation by detecting and quantifying ligand-receptor complexes in FFPE specimens. We used hepatocyte growth factor (HGF)-c-MET as our model ligand-receptor system. HGF is the only known ligand of the c-MET tyrosine kinase receptor and HGF binding triggers c-MET phosphorylation. Novel antibody proximity-based assays were developed and used to detect and quantify total c-MET, total HGF, and HGF-c-MET ligand-receptor interactions in FFPE cell line and tumor tissue. In glioma cells, autocrine activation of c-MET by HGF-c-MET increased basal levels of c-MET phosphorylation at tyrosine (Tyr) 1003. Furthermore, HGF-c-MET activation in glioma cell lines was verified by Surface Protein-Protein Interaction by Crosslinking ELISA (SPPICE) assay in corresponding soluble cell lysates. Finally, we profiled levels of c-MET, HGF, and HGF-c-MET complexes in FFPE specimens of human Non-Small Cell Lung Cancer (NSCLC), Gastric Cancer, Head and Neck Squamous Cell, and Head and Neck Non-Squamous Cell carcinomas. This report describes a novel approach for the detection and quantification of ligand-receptor interactions that can be widely applied to measure receptor activation in FFPE preclinical models and archived FFPE human tissue specimens.",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "R. Dua",
+          "id": ""
+        },
+        {
+          "name": "Jianhuan Zhang",
+          "id": ""
+        },
+        {
+          "name": "G. Parry",
+          "id": ""
+        },
+        {
+          "name": "E. Penuel",
+          "id": ""
+        }
+      ],
+      "venue": "PLoS ONE",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:18825413",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.38565897236896785,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 24133788,
+      "title": "Mutations in the met Oncogene Unveil a \u201cDual Switch\u201d Mechanism Controlling Tyrosine Kinase Activity*",
+      "abstract": "The met oncogene, encoding the high affinity hepatocyte growth factor receptor, is the only known gene inherited in human cancer that is invariably associated with somatic duplication of the mutant locus. Intriguingly, mutated Met requires ligand stimulation in order to unleash its transforming potential. Furthermore, individuals bearing a germ line met mutation develop cancer only late in life and with incomplete penetrance. To date, there is no molecular explanation for this unique behavior, which is unusual for a dominant oncogene. Here we investigate the molecular mechanisms underlying met oncogenic conversion by generating antibodies specific for the differently phosphorylated forms of the Met protein. Using these antibodies, we show that activation of wild-type Met is achieved through sequential phosphorylation of Tyr1235 and Tyr1234 in the activation loop and that mutagenesis of either tyrosine dramatically impairs kinase function. Surprisingly, oncogenic Met mutants never become phosphorylated on Tyr1234 despite their high enzymatic activity, and mutagenesis of Tyr1234 does not affect their biochemical or biological function. By analyzing the enzymatic properties of the mutant proteins in different conditions, we demonstrate that oncogenic mutations do not elicit constitutive kinase activation but simply overcome the requirement for the second phosphorylation step, thus reducing the threshold for activation. In the presence of activating signals, these mutations result therefore in a dynamic imbalance toward the active conformation of the kinase. This explains why mutant met provides an oncogenic predisposition but needs a second activating \u201chit,\u201d provided by sustained ligand stimulation or receptor overexpression, to achieve a fully transformed phenotype.",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "F. Chiara",
+          "id": ""
+        },
+        {
+          "name": "P. Michieli",
+          "id": ""
+        },
+        {
+          "name": "L. Pugliese",
+          "id": ""
+        },
+        {
+          "name": "P. Comoglio",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Biological Chemistry",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:24133788",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3794327782592849,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 34466628,
+      "title": "MET targeted therapy for lung cancer: clinical development and future directions.",
+      "abstract": "MET, the receptor for hepatocyte growth factor, has been identified as a novel promising target in various human malignancies, including lung cancer. Research studies have demonstrated that MET signaling plays important physiologic roles in embryogenesis and early development, whereas its deregulation from an otherwise quiescent signaling state in mature adult tissues can lead to upregulated cell proliferation, survival, scattering, motility and migration, angiogenesis, invasion, and metastasis in tumorigenesis and tumor progression. The MET pathway can be activated through ligand (hepatocyte growth factor, HGF) or MET receptor overexpression, genomic amplification, MET mutations, and alternative splicing. A number of novel therapeutic agents that target the MET/hepatocyte growth factor pathway have been tested in early-phase clinical studies with promising results. Phase III studies of MET targeting agents have recently been initiated. This paper will review the MET signaling pathway and biology in lung cancer, and the recent clinical development and advances of MET/hepatocyte growth factor targeting agents. Emphasis will be placed on discussing various unanswered issues and key strategies needed to optimize further clinical development of MET targeting personalized lung cancer therapy.",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Yan Feng",
+          "id": ""
+        },
+        {
+          "name": "P. Ma",
+          "id": ""
+        }
+      ],
+      "venue": "Lung Cancer",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:34466628",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3790215193345703,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 9176769,
+      "title": "Targeting MET in Cancer: Obstacles and Potentials",
+      "abstract": "MET is a tyrosine kinase receptor involved in cell proliferation, survival, and migration. MET pathway is activated in cancer by gene amplification and overexpression, ligand overexpression and autocrine/paracrine activation, and activating MET mutations. MET dysregulation is also found to be responsible for resistance to treatment and targeted therapy including EGFR TKIs for NSCLC. Preclinical studies and early phase clinical trials of inhibitors of HGF-MET pathway showed encouraging results but several late phase clinical trials failed. In trials evaluating drugs designed to inhibit HGF-MET binding, patient selection may explain the lack of efficacy in those carrying MET amplification or activating mutations. Novel drugs capable of inducing MET degradation in addition to targeting HGF-MET binding have great potential in blocking MET oncogenic pathway and demonstrating clinical efficacy.",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Tong Dai",
+          "id": ""
+        }
+      ],
+      "venue": null,
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:9176769",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3768301545666769,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 216074367,
+      "title": "Use of Fluorescence In Situ Hybridization (FISH) in Diagnosis and Tailored Therapies in Solid Tumors",
+      "abstract": "Fluorescence in situ hybridization (FISH) is a standard technique used in routine diagnostics of genetic aberrations. Thanks to simple FISH procedure is possible to recognize tumor-specific abnormality. Its applications are limited to designed probe type. Gene rearrangements e.g., ALK, ROS1 reflecting numerous translocational partners, deletions of critical regions e.g., 1p and 19q, gene fusions e.g., COL1A1-PDGFB, genomic imbalances e.g., 6p, 6q, 11q and amplifications e.g., HER2 are targets in personalized oncology. Confirmation of genetic marker is frequently a direct indication to start specific, targeted treatment. In other cases, detected aberration helps pathologists to better distinguish soft tissue sarcomas, or to state a final diagnosis. Our main goal is to show that applying FISH to formalin-fixed paraffin-embedded tissue sample (FFPE) enables assessing genomic status in the population of cells deriving from a primary tumor or metastasis. Although many more sophisticated techniques are available, like Real-Time PCR or new generation sequencing, FISH remains a commonly used method in many genetic laboratories.",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Natalia Chrzanowska",
+          "id": ""
+        },
+        {
+          "name": "J. Kowalewski",
+          "id": ""
+        },
+        {
+          "name": "M. Lewandowska",
+          "id": ""
+        }
+      ],
+      "venue": "Molecules",
+      "journal": null,
+      "url": "https://pdfs.semanticscholar.org/c30e/216f7dddaf04ae300b1fc7d28edebc810884.pdf",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3638338446042195,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 12776060,
+      "title": "Bronchioalveolar morphogenesis of human bronchial epithelial cells depending upon hepatocyte growth factor",
+      "abstract": "Lung alveolar regeneration occurs in adult human lungs as a result of proliferation, differentiation and alveolar morphogenesis of stem cells. It is increasingly being believed that bronchial epithelial cells (BECs) have a potential as stem cells, because they are potent to differentiate into multiple central and peripheral lung cell types in three\u2010dimensional (3D) cultures, and they develop multiple foci with well\u2010differentiated histogenesis after transformed into neoplastic cells. In this study, we investigated morphogenic abilities of HBE135 human BECs immortalized by E6/E7 oncogene in 3D cultures. When HBE135 cells were cultured alone or co\u2010cultured with endothelial cells, the cells formed spherical colonies without branching. However, in co\u2010culture with lung fibroblast MRC\u20109 cells, HBE135 cells formed colonies with bronchioalveolar\u2010like complex branching, suggesting that MRC\u20109\u2010derived soluble factor(s) are responsible for the branching formation. MRC\u20109 cells, not endothelial cells, were found to highly express hepatocyte growth factor (HGF), a soluble molecule involved in liver and kidney regeneration. An anti\u2010HGF neutralizing antibody severely suppressed the complex branching formation, but addition of HGF could not sufficiently compensate the morphogenic effects of MRC\u20109 cells, suggesting that MCR\u20109\u2010derived HGF was necessary but insufficient for the bronchioalveolar structure formation. Immunohistochemistry revealed that Met, a cognate receptor for HGF, was highly expressed and phosphorylated in neoplastic BECs from lung adenocarcinomas with well\u2010differentiated, not poorly differentiated, histogenesis. These results are consistent with the notion that BECs have an aspect of stem cells. This aspect appears to become manifest through HGF\u2013Met signalling pathway activation.",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Takashi Kato",
+          "id": ""
+        },
+        {
+          "name": "K. Oka",
+          "id": ""
+        },
+        {
+          "name": "Toshikazu Nakamura",
+          "id": ""
+        },
+        {
+          "name": "Akihiko Ito",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Cellular and Molecular Medicine",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:12776060",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.36287342442039067,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 207035495,
+      "title": "Signaling control by epidermal growth factor receptor and MET: rationale for cotargeting strategies in lung cancer.",
+      "abstract": "In a report accompanying our article, Spigel et al present their findings on combining erlotinib, an epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI), with onartuzumab (MetMAb; Genentech, South San Francisco, CA), a humanized monovalent monoclonal antibody that blocks ligand activation of MET receptor tyrosine kinase (RTK). MET-positive patients (defined by immunohistochemistry) treated with erlotinib and onartuzumab demonstrated improved progression-free and overall survival, whereas MET-negative patients had worse outcomes. This article provides an overview of signaling control by EGFR and MET and the biologic rationale for cotargeting strategies. EGFR and MET are membrane-bound RTKs consisting of extracellular domains that bind to growth factors and intracellular domains that contain a kinase domain (Fig 1). MET is activated by its cognate ligand, hepatocyte growth factor (HGF), which is produced by stromal cells, also in an autocrine fashion. EGFR is activated by several ligands, including EGF, transforming growth factor alpha (TGF ), and heparin-binding EGF. On receptor binding of the ligands, the kinase domain becomes activated, leading to transautophosphorylation of tyrosine residues on the cytoplasmic tail. Phosphorylation of these tyrosine residues creates intramolecular docking sites for proteins containing Src homology 2 domains that serve as readers for tyrosine phosphorylation. This includes adaptor proteins such as growth factor receptor\u2013bound protein 2 (GRB2), GAB1 (GRB2-associated binding protein 1), and Src homology 2\u2013containing transforming protein 1 (SHC1). These proteins serve as scaffolds to support signal transduction to the mitogen-activated protein kinase (MAPK), phosphoinositide 3-kinase (PI3K), phospholipase C (PLC), and signal transducer and activator of transcription (STAT) pathways. EGFR and MET use a highly overlapping repertoire of signaling adaptors and downstream effector pathways, highlighting their combined ability to codrive oncogenic signaling. Three general approaches are being employed in clinic to target EGFR and MET. The first uses small-molecule TKIs, such as erlotinib for EGFR and crizotinib for MET, that bind the ATP-binding pocket in the kinase domain and inhibit the kinase function. The second approach uses antibody therapy directed against the extracellular domain of the MET receptor (onartuzumab) or the HGF ligand (ficlatuzumab). The third approach targets downstream proteins involved in signaling, such as inhibitors of PI3K, or molecules regulating receptor trafficking and degradation, such as heat shock proteins. The EGFR pathway can be activated in lung cancer through genomic events, such as activating EGFR mutations or gene amplification, or through tumor environmental events, such as autocrine production of EGFR-activating ligands. Likewise, MET activation occurs through HGF produced in the tumor microenvironment and through MET gene amplification. MET amplification by fluorescent in situ hybridization occurs in approximately 5% to 15% of lung adenocarcinomas. Increased MET is associated with advanced stage of disease, poor outcome, brain metastasis, and high levels of EGFR. Coactivation of EGFR and MET occurs in subsets of lung cancer cell lines and tumor tissues and is associated with aggressive disease. In cells lacking EGFR mutation or high levels of MET, activation of either receptor can produce extensive signaling crosstalk to the opposing RTK and downstream substrates. EGFR activation can induce accumulation of activated MET protein through a c-SRC\u2013 dependent mechanism, and dual MET/EGFR inhibition has shown increased activity in xenograft models. Phosphoproteomic analysis of lung tumors and cell lines can identify tumors with concomitant EGFR and MET activation. EGFR, either through mutation or ligand-mediated activation, can also regulate MET levels through hypoxia-inducible factor-1 . Importantly, MET signaling is one actionable mechanism driving resistance to EGFR TKIs. MET activation can drive intrinsic as well as acquired resistance to EGFR through genomic and tumor microenvironment\u2013mediated mechanisms. Primary resistance to anti-EGFR antibody therapy has been associated with MET activation in primary explant models of lung cancer. Approximately 5% of EGFR mutation\u2013positive tumors with acquired resistance to EGFR TKIs are found to have MET gene amplification. Mechanistically, amplified MET co-opts use of ERBB3 to maintain the PI3K pathway activation. Combining MET and EGFR TKIs or EGFR/HSP90 inhibition has been effective in mouse models of lung cancer with T790M EGFR and MET amplification. High levels of HGF are associated with intrinsic or acquired resistance to EGFR TKIs in patients with lung cancer with activating EGFR mutations and in those with other solid tumors. HGF production by stromal fibroblasts leads to fibroblast-induced JOURNAL OF CLINICAL ONCOLOGY U N D E R S T A N D I N G T H E P A T H W A Y VOLUME 31 NUMBER 32 NOVEMBER 1",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "E. Haura",
+          "id": ""
+        },
+        {
+          "name": "Matthew A. Smith",
+          "id": ""
+        }
+      ],
+      "venue": "Journal of Clinical Oncology",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/24101046",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.35052346039790394,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 28083280,
+      "title": "H441 pulmonary epithelial cell mitogenic effects and signaling pathways in response to HGF and TGF-alpha.",
+      "abstract": "Pulmonary epithelial cells are important in lung growth, development, and injury. H441 pulmonary adenocarcinoma cells may be a useful model for studying pulmonary epithelial cell growth factor responses in vitro. Isolated pulmonary epithelial type II cells proliferate in response to transforming growth factor (TGF)-alpha via the epidermal growth factor (EGF) receptor. Type II cells also proliferate in response to hepatocyte growth factor (HGF). In the present study, H441 cell responses to these growth factors were examined, and compared to type II cells. Both the EGF-R and the c-met proto-oncogene receptor, to which HGF binds, were immunoprecipitated from H441 cells. In H441 cells, addition of TGF-alpha resulted in phosphorylation of the EGF receptor and increased cell number and tritiated thymidine incorporation. Incubation with HGF resulted in phosphorylation of its c-met proto-oncogene receptor in type II and H441 cells, and also increased cell number and tritiated thymidine incorporation. Both HGF and TGF-alpha stimulated phosphorylation of the intracellular signaling molecules p42 and p44 mitogen activated protein kinases in H441 cells. H441 cells exhibited responses to mitogenic growth factors similar to type II cells and may be useful as a model for type II cell growth factor responses and signal transduction.",
+      "year": 1998,
+      "authors": [
+        {
+          "name": "P. Chess",
+          "id": ""
+        },
+        {
+          "name": "R. Ryan",
+          "id": ""
+        },
+        {
+          "name": "J. Finkelstein",
+          "id": ""
+        }
+      ],
+      "venue": "Experimental Lung Research",
+      "journal": null,
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/9457467",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.28905997009142603,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    }
+  ],
+  "thread_id": null,
+  "narrative": null
+}

@@ -1,0 +1,243 @@
+{
+  "query": "DDR2 collagen receptor activation in lung adenocarcinoma tumor cells versus stromal fibroblasts; DDR2 phosphoproteomic activation without mutation; DDR2 driver in oncogene-negative NSCLC",
+  "results": [
+    {
+      "corpusId": 7237244,
+      "title": "Phosphoproteomics of collagen receptor networks reveals SHP-2 phosphorylation downstream of wild-type DDR2 and its lung cancer mutants",
+      "abstract": "Collagen is an important extracellular matrix component that directs many fundamental cellular processes including differentiation, proliferation and motility. The signalling networks driving these processes are propagated by collagen receptors such as the \u03b21 integrins and the DDRs (discoidin domain receptors). To gain an insight into the molecular mechanisms of collagen receptor signalling, we have performed a quantitative analysis of the phosphorylation networks downstream of collagen activation of integrins and DDR2. Temporal analysis over seven time points identified 424 phosphorylated proteins. Distinct DDR2 tyrosine phosphorylation sites displayed unique temporal activation profiles in agreement with in vitro kinase data. Multiple clustering analysis of the phosphoproteomic data revealed several DDR2 candidate downstream signalling nodes, including SHP-2 (Src homology 2 domain-containing protein tyrosine phosphatase 2), NCK1 (non-catalytic region of tyrosine kinase adaptor protein 1), LYN, SHIP-2 [SH2 (Src homology 2)-domain-containing inositol phosphatase 2], PIK3C2A (phosphatidylinositol-4-phosphate 3-kinase, catalytic subunit type 2\u03b1) and PLCL2 (phospholipase C-like 2). Biochemical validation showed that SHP-2 tyrosine phosphorylation is dependent on DDR2 kinase activity. Targeted proteomic profiling of a panel of lung SCC (squamous cell carcinoma) DDR2 mutants demonstrated that SHP-2 is tyrosine-phosphorylated by the L63V and G505S mutants. In contrast, the I638F kinase domain mutant exhibited diminished DDR2 and SHP-2 tyrosine phosphorylation levels which have an inverse relationship with clonogenic potential. Taken together, the results of the present study indicate that SHP-2 is a key signalling node downstream of the DDR2 receptor which may have therapeutic implications in a subset of DDR2 mutations recently uncovered in genome-wide lung SCC sequencing screens.",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "L. Iwai",
+          "id": ""
+        },
+        {
+          "name": "L. Payne",
+          "id": ""
+        },
+        {
+          "name": "Maciej T. Luczynski",
+          "id": ""
+        },
+        {
+          "name": "Francis Chang",
+          "id": ""
+        },
+        {
+          "name": "Huifang Xu",
+          "id": ""
+        },
+        {
+          "name": "Ryan W. Clinton",
+          "id": ""
+        },
+        {
+          "name": "A. Paul",
+          "id": ""
+        },
+        {
+          "name": "Edward A. Esposito",
+          "id": ""
+        },
+        {
+          "name": "S. Gridley",
+          "id": ""
+        },
+        {
+          "name": "B. Leitinger",
+          "id": ""
+        },
+        {
+          "name": "Kristen M. Naegle",
+          "id": ""
+        },
+        {
+          "name": "Paul H. Huang",
+          "id": ""
+        }
+      ],
+      "venue": "Biochemical Journal",
+      "journal": null,
+      "url": "https://pdfs.semanticscholar.org/d4a1/03ec38c617dcdba404b516e983159541addd.pdf",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.454689077398411,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 23738260,
+      "title": "Discoidin Domain Receptors in Disease",
+      "abstract": "Discoidin domain receptors, DDR1 and DDR2, lie at the intersection of two large receptor families, namely the extracellular matrix and tyrosine kinase receptors. As such, DDRs are uniquely positioned to function as sensors for extracellular matrix and to regulate a wide range of cell functions from migration and proliferation to cytokine secretion and extracellular matrix homeostasis/remodeling. While activation of DDRs by extracellular matrix collagens is required for normal development and tissue homeostasis, aberrant activation of these receptors following injury or in disease is detrimental. The availability of mice lacking DDRs has enabled us to identify key roles played by these receptors in disease initiation and progression. DDR1 promotes inflammation in atherosclerosis, lung fibrosis and kidney injury, while DDR2 contributes to osteoarthritis. Furthermore, both DDRs have been implicated in cancer progression. Yet the mechanisms whereby DDRs contribute to diseases progression are poorly understood. In this review we highlight the mechanisms whereby DDRs regulate two important processes, namely inflammation and tissue fibrosis. In addition, we discuss the challenges of targeting DDRs in disease. Selective targeting of these receptors requires understanding of how they interact with and are activated by extracellular matrix, and whether their cellular function is dependent on or independent of receptor kinase activity.",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "C. Borza",
+          "id": ""
+        },
+        {
+          "name": "A. Pozzi",
+          "id": ""
+        }
+      ],
+      "venue": "Matrix Biology",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:23738260",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.4487967155414392,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 18972729,
+      "title": "Advances in mass spectrometry based strategies to study receptor tyrosine kinases",
+      "abstract": "This review discusses advances in mass spectrometry-based strategies to investigate receptor tyrosine kinase signalling networks and activation dynamics.",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "S. Vyse",
+          "id": ""
+        },
+        {
+          "name": "H. Desmond",
+          "id": ""
+        },
+        {
+          "name": "Paul H. Huang",
+          "id": ""
+        }
+      ],
+      "venue": "IUCrJ",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:18972729",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.43231250269405835,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 12953325,
+      "title": "Expression and mutation analysis of the discoidin domain receptors 1 and 2 in non-small cell lung carcinoma",
+      "abstract": "The discoidin domain receptors, (DDR)1 and DDR2, have been linked to numerous human cancers. We sought to determine expression levels of DDRs in human lung cancer, investigate prognostic determinates, and determine the prevalence of recently reported mutations in these receptor tyrosine kinases. Tumour samples from 146 non-small cell lung carcinoma (NSCLC) patients were analysed for relative expression of DDR1 and DDR2 using quantitative real-time PCR (qRT-PCR). An additional 23 matched tumour and normal tissues were tested for differential expression of DDR1 and DDR2, and previously reported somatic mutations. Discoidin domain receptor 1 was found to be significantly upregulated by 2.15-fold (P=0.0005) and DDR2 significantly downregulated to an equivalent extent (P=0.0001) in tumour vs normal lung tissue. Discoidin domain receptor 2 expression was not predictive for patient survival; however, DDR1 expression was significantly associated with overall (hazard ratio (HR) 0.43, 95% CI=0.22\u20130.83, P=0.014) and disease-free survival (HR=0.56, 95% CI=0.33\u20130.94, P=0.029). Multivariate analysis revealed DDR1 is an independent favourable predictor for prognosis independent of tumour differentiation, stage, histology, and patient age. However, contrary to previous work, we did not observe DDR mutations. We conclude that whereas altered expression of DDRs may contribute to malignant progression of NSCLC, it is unlikely that this results from mutations in the DDR1 and DDR2 genes that we investigated.",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "C. Ford",
+          "id": ""
+        },
+        {
+          "name": "S. K. Lau",
+          "id": ""
+        },
+        {
+          "name": "S. K. Lau",
+          "id": ""
+        },
+        {
+          "name": "Chang-Qi Zhu",
+          "id": ""
+        },
+        {
+          "name": "T. Andersson",
+          "id": ""
+        },
+        {
+          "name": "M. Tsao",
+          "id": ""
+        },
+        {
+          "name": "M. Tsao",
+          "id": ""
+        },
+        {
+          "name": "W. Vogel",
+          "id": ""
+        }
+      ],
+      "venue": "British Journal of Cancer",
+      "journal": null,
+      "url": "https://doi.org/10.1038/sj.bjc.6603614",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.3998168408452912,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    },
+    {
+      "corpusId": 15284060,
+      "title": "Type I collagen aging impairs discoidin domain receptor 2-mediated tumor cell growth suppression",
+      "abstract": "Tumor cells are confronted to a type I collagen rich environment which regulates cell proliferation and invasion. Biological aging has been associated with structural changes of type I collagen. Here, we address the effect of collagen aging on cell proliferation in a three-dimensional context (3D). We provide evidence for an inhibitory effect of adult collagen, but not of the old one, on proliferation of human fibrosarcoma HT-1080 cells. This effect involves both the activation of the tyrosine kinase Discoidin Domain Receptor 2 (DDR2) and the tyrosine phosphatase SHP-2. DDR2 and SHP-2 were less activated in old collagen. DDR2 inhibition decreased SHP-2 phosphorylation in adult collagen and increased cell proliferation to a level similar to that observed in old collagen. In the presence of old collagen, a high level of JAK2 and ERK1/2 phosphorylation was observed while expression of the cell cycle negative regulator p21CIP1 was decreased. Inhibition of DDR2 kinase function also led to an increase in ERK1/2 phosphorylation and a decrease in p21CIP1 expression. Similar signaling profile was observed when DDR2 was inhibited in adult collagen. Altogether, these data suggest that biological collagen aging could increase tumor cell proliferation by reducingthe activation of the key matrix sensor DDR2.",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "C. Saby",
+          "id": ""
+        },
+        {
+          "name": "\u00c9. Buache",
+          "id": ""
+        },
+        {
+          "name": "S. Brassart-Pasco",
+          "id": ""
+        },
+        {
+          "name": "H. El Btaouri",
+          "id": ""
+        },
+        {
+          "name": "M. Courageot",
+          "id": ""
+        },
+        {
+          "name": "L. Van Gulick",
+          "id": ""
+        },
+        {
+          "name": "R. Garnotel",
+          "id": ""
+        },
+        {
+          "name": "P. Jeannesson",
+          "id": ""
+        },
+        {
+          "name": "H. Morjani",
+          "id": ""
+        }
+      ],
+      "venue": "OncoTarget",
+      "journal": null,
+      "url": "https://api.semanticscholar.org/CorpusId:15284060",
+      "publicationDate": null,
+      "citationCount": null,
+      "categories": [],
+      "relevanceScore": 0.35397203647586517,
+      "relevanceJudgement": null,
+      "snippets": [],
+      "citationContexts": [],
+      "legalToShow": true,
+      "numOfOmittedCitationContextsDueLegal": 0
+    }
+  ],
+  "thread_id": null,
+  "narrative": null
+}

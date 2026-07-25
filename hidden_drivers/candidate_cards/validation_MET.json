@@ -1,0 +1,146 @@
+{
+ "tumor": "C3N-02422",
+ "dominant_lineage": "Basal",
+ "check1_phosphosite": {
+  "sites": [
+   {
+    "site": "MET:NP_001120972.1:T995t",
+    "robust_z": 3.67,
+    "percentile": 98.2,
+    "missingness": 0.5,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "MET:NP_001120972.1:T1010t",
+    "robust_z": 2.54,
+    "percentile": 97.1,
+    "missingness": 0.073,
+    "lineage_matched_rz": null
+   },
+   {
+    "site": "MET:NP_001120972.1:S984s",
+    "robust_z": 0.18,
+    "percentile": 55.0,
+    "missingness": 0.636,
+    "lineage_matched_rz": null
+   }
+  ],
+  "top_site": {
+   "site": "MET:NP_001120972.1:T995t",
+   "robust_z": 3.67,
+   "percentile": 98.2,
+   "missingness": 0.5,
+   "lineage_matched_rz": null
+  },
+  "total_protein_robust_z": 1.42,
+  "activation_source_vs_total_protein": "phospho_driven"
+ },
+ "check2_downstream": {
+  "modules": {
+   "adaptor": {
+    "n_sites": 30,
+    "max_rz": 4.77,
+    "mean_rz": 2.44
+   },
+   "SHP2": {
+    "n_sites": 5,
+    "max_rz": 4.26,
+    "mean_rz": 1.84
+   },
+   "AKT": {
+    "n_sites": 13,
+    "max_rz": 2.8,
+    "mean_rz": 0.7
+   },
+   "ERK": {
+    "n_sites": 5,
+    "max_rz": 1.0,
+    "mean_rz": 0.15
+   },
+   "STAT3": {
+    "n_sites": 9,
+    "max_rz": 1.23,
+    "mean_rz": -0.43
+   },
+   "SRC": {
+    "n_sites": 5,
+    "max_rz": 1.97,
+    "mean_rz": 0.45
+   }
+  },
+  "active_modules": [
+   "adaptor",
+   "SHP2",
+   "AKT",
+   "SRC"
+  ],
+  "coordinated_output": true
+ },
+ "check3_genomic": {
+  "gene_mutation": [],
+  "focal_CN_LR": 0.26,
+  "arm_level_CN": "not_available_open_calls",
+  "fusion_SV": "not_available_open_calls (0 SVs in study)",
+  "pathway_suppressor_alts": [],
+  "purity": 0.853,
+  "WGD": "not_available_open_calls",
+  "total_CNA_burden": 0.289,
+  "TMB_nonsyn": 1.5
+ },
+ "check4_rna": {
+  "gene_RNA_robust_z": 1.54,
+  "gene_RNA_percentile": 89.1,
+  "ligand_RNA_robust_z": {
+   "HGF": 0.07
+  },
+  "note": "RNA file is tumor abundance (log2 UQ-RPKM); T/N ratio not computed (normal RNA not downloaded)"
+ },
+ "check5_stromal": {
+  "tumor_purity": 0.853,
+  "CAF_sig_rz_in_tumor": -0.7,
+  "macrophage_sig_rz_in_tumor": -0.52,
+  "collagen_sig_rz_in_tumor": -0.93,
+  "corr_activation_vs_CAF_acrossTumors": 0.1,
+  "corr_activation_vs_collagen_acrossTumors": 0.09,
+  "receptor_RNA_vs_purity_corr": -0.11
+ },
+ "check6_negreg": {
+  "PTPN1": {
+   "protein_rz": -0.82,
+   "rna_rz": -1.11,
+   "CN_LR": -0.08,
+   "flagged_loss": true
+  },
+  "CBL": {
+   "protein_rz": -1.85,
+   "rna_rz": -0.26,
+   "CN_LR": -0.07,
+   "flagged_loss": true
+  },
+  "SPRY1": {
+   "protein_rz": 3.66,
+   "rna_rz": 1.71,
+   "CN_LR": 0.31,
+   "flagged_loss": false
+  },
+  "SPRY2": {
+   "protein_rz": null,
+   "rna_rz": 1.01,
+   "CN_LR": -0.38,
+   "flagged_loss": true
+  },
+  "SPRY4": {
+   "protein_rz": 2.76,
+   "rna_rz": 1.14,
+   "CN_LR": 0.36,
+   "flagged_loss": false
+  },
+  "DUSP6": {
+   "protein_rz": -0.07,
+   "rna_rz": 0.55,
+   "CN_LR": -0.39,
+   "flagged_loss": true
+  }
+ },
+ "recurrence_other_tumors": []
+}

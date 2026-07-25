@@ -1,0 +1,11 @@
+[19:20:37] START EGFR
+Results saved to: hidden_drivers/candidate_cards/lit/EGFR.json
+[19:25:03] DONE EGFR exit=0
+[19:25:03] START MET
+Results saved to: hidden_drivers/candidate_cards/lit/MET.json
+[19:28:41] DONE MET exit=0
+[19:28:41] START DDR2
+Error: Paper search failed: {'type': 'other', 'message': 'This query requires cross-referencing citation data across too many papers and exceeded the time limit. Try simplifying: e.g., remove the most complex constraint (author publication count, nested citation filters) or narrow the venue/year range.'}
+Results saved to: hidden_drivers/candidate_cards/lit/DDR2.json
+[19:31:56] DONE DDR2 exit=0
+ALL_DONE

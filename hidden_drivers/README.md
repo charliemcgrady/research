@@ -30,9 +30,12 @@ Supporting: `DATASET_ACCESS_REPORT.md`, `dataset_manifest.csv`, `driver_audit_pr
 
 1. **No single mechanism.** Largest cell-intrinsic class is **tumor-suppressor convergence** (~30% TCGA);
    a hidden-canonical tail is ~10–17%.
-2. **Protein-state activation is real and DNA/RNA-invisible.** 3/22 CPTAC tumors are driven by an RTK
-   (DDR2, EGFR, MET) activated at protein/phospho level with a silent genome and transcriptome — including
-   **EGFR with below-average RNA**. Undetectable without proteogenomics.
+2. **Protein-state activation is real and DNA/RNA-invisible — validated per candidate.** The engine
+   flagged 3/22 CPTAC tumors (MET, EGFR, DDR2); a dedicated validation pass
+   (`candidate_cards/CLASS3_VERDICTS.md`) refined all three: **MET → provisional Class 3 (weak)**,
+   **EGFR → candidate Class 5 (EREG ligand-driven; Class-3 read-out)**, **DDR2 → rejected (total-protein
+   abundance artifact) → Unknown**. The mechanism is real and proteogenomics-only, but no candidate is a
+   "supported" driver — current label: *candidate unexplained protein-state activation*.
 3. **~47% of oncogene-negative tumors lack any cell-intrinsic explanation** and are best described by
    microenvironment or transcriptional plasticity — ranked for follow-up in Deliverable #4.
 4. **Every measurable class reproduces across both cohorts**; positive controls pass (cleaner on CPTAC

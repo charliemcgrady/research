@@ -1,0 +1,117 @@
+{
+ "tumor": "C3N-02587",
+ "dominant_lineage": "AT2_TRU",
+ "check1_phosphosite": {
+  "sites": [
+   {
+    "site": "DDR2:NP_001014796.1:S461s",
+    "robust_z": -0.07,
+    "percentile": 42.9,
+    "missingness": 0.555,
+    "lineage_matched_rz": null
+   }
+  ],
+  "top_site": {
+   "site": "DDR2:NP_001014796.1:S461s",
+   "robust_z": -0.07,
+   "percentile": 42.9,
+   "missingness": 0.555,
+   "lineage_matched_rz": null
+  },
+  "total_protein_robust_z": 5.87,
+  "activation_source_vs_total_protein": "protein_abundance_driven"
+ },
+ "check2_downstream": {
+  "modules": {
+   "SRC_family": {
+    "n_sites": 15,
+    "max_rz": 0.46,
+    "mean_rz": -0.43
+   },
+   "SHP2": {
+    "n_sites": 5,
+    "max_rz": 1.7,
+    "mean_rz": 0.84
+   },
+   "ERK": {
+    "n_sites": 5,
+    "max_rz": 0.06,
+    "mean_rz": -0.66
+   },
+   "AKT": {
+    "n_sites": 12,
+    "max_rz": 1.5,
+    "mean_rz": 0.59
+   },
+   "focal_adhesion": {
+    "n_sites": 55,
+    "max_rz": 1.38,
+    "mean_rz": 0.22
+   }
+  },
+  "active_modules": [
+   "SHP2"
+  ],
+  "coordinated_output": true
+ },
+ "check3_genomic": {
+  "gene_mutation": [],
+  "focal_CN_LR": -0.065,
+  "arm_level_CN": "not_available_open_calls",
+  "fusion_SV": "not_available_open_calls (0 SVs in study)",
+  "pathway_suppressor_alts": [],
+  "purity": 0.712,
+  "WGD": "not_available_open_calls",
+  "total_CNA_burden": 0.022,
+  "TMB_nonsyn": 0.666666666667
+ },
+ "check4_rna": {
+  "gene_RNA_robust_z": 0.16,
+  "gene_RNA_percentile": 54.5,
+  "ligand_RNA_robust_z": {
+   "COL1A1": -2.17,
+   "COL1A2": -3.23,
+   "COL3A1": -3.66
+  },
+  "note": "RNA file is tumor abundance (log2 UQ-RPKM); T/N ratio not computed (normal RNA not downloaded)"
+ },
+ "check5_stromal": {
+  "tumor_purity": 0.712,
+  "CAF_sig_rz_in_tumor": -2.02,
+  "macrophage_sig_rz_in_tumor": 0.7,
+  "collagen_sig_rz_in_tumor": -3.05,
+  "corr_activation_vs_CAF_acrossTumors": 0.36,
+  "corr_activation_vs_collagen_acrossTumors": 0.31,
+  "receptor_RNA_vs_purity_corr": -0.39
+ },
+ "check6_negreg": {
+  "PTPN1": {
+   "protein_rz": -1.39,
+   "rna_rz": -0.93,
+   "CN_LR": -0.07,
+   "flagged_loss": true
+  },
+  "PTPRJ": {
+   "protein_rz": 1.98,
+   "rna_rz": 1.98,
+   "CN_LR": 0.25,
+   "flagged_loss": false
+  },
+  "SPRY1": {
+   "protein_rz": 1.69,
+   "rna_rz": 0.12,
+   "CN_LR": 0.25,
+   "flagged_loss": false
+  },
+  "SPRY4": {
+   "protein_rz": 3.13,
+   "rna_rz": 2.39,
+   "CN_LR": 0.25,
+   "flagged_loss": false
+  }
+ },
+ "recurrence_other_tumors": [
+  "C3L-00095",
+  "C3L-00009"
+ ]
+}
