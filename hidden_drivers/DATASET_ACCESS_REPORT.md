@@ -97,3 +97,37 @@ hg19↔GRCh38 liftover; A549(tumor)/IMR90(fibroblast) proxies, no adult-normal-A
 strictly corroborative per mission rule.
 
 *(CPTAC section pending — determines Phase 2 protein/phospho feasibility.)*
+
+### CPTAC-LUAD — OPEN (full multi-omic linkage) — Phase 2 enabler
+Gillette 2020 *Cell*; **110 treatment-naïve LUAD + 101 NAT**. FULL per-patient linkage across
+mutation/CN/RNA/**proteome/phospho/acetylome** via cBioPortal `luad_cptac_2020` (one ID space) +
+LinkedOmics (adds tumor-vs-NAT). Smoking, purity (TSNet/ESTIMATE), NMF subtypes, WGD/fragmentation
+(in Table S2/S3). **Driver-negative subset ≈ 18 (range 15–24)** RTK/RAS/RAF-WT tumors. No single-cell,
+no therapy response; raw spectra (MassIVE MSV000086793) and raw seq (dbGaP phs001287) CONTROLLED.
+**→ Enables the protein/phospho-state outlier experiments (Exp 9,10,32,33) — the most novel *open*
+direction — but at n≈18.**
+
+---
+
+## Feasibility by mission phase (all 6 families assessed)
+
+| Phase | Experiments | Feasible on OPEN data? | Binding constraint |
+|---|---|---|---|
+| 1 Cohort/lineage validation | 1–5 | **Yes** | — |
+| 2 Expression/protein/phospho outliers | 6–10 | **Yes, small n** | driver-neg n: TCGA RNA ~48–57, CPTAC protein/phospho **~18** |
+| 3 Structural/regulatory/splice | 11–20 | **No (mostly not testable)** | no open WGS-SV; splice via recount3 only; **pre-empted by Chen 2021**; needs dbGaP/EGA |
+| 4 Lineage-conditioned selection | 21–30 | Partial | expression/protein classes yes; structural class (24) blocked; small-n interactions underpowered |
+| 5 Pathway-output validation | 31–35 | **Yes** | RNA/protein/phospho pathway scores available |
+| 6 Functional dependency | 36–40 | **Yes** | DepMap ~8–15 driver-neg lines (≥5 rule met, thin) |
+| 7 State entropy | 41–45 | **Yes** | lineage entropy from LuCA/bulk |
+| 8 Ecosystem/spatial | 46–48 | Partial | LuCA ligand-receptor yes; open spatial (GSE189357) limited |
+| 9 Integrated classifier + replication | 49–50 | Partial | TCGA↔CPTAC discovery/validation pair exists but n small |
+
+### Dominant limitations
+1. **Sample size.** Oncogene-negative n is tiny: **TCGA ~48–57, CPTAC ~18, DepMap ~8–15 lines.**
+   Outlier discovery + cross-cohort replication + lineage-conditioning + 16-covariate confounder control
+   at this n is severely underpowered for most enrichment/interaction tests.
+2. **Structural aims blocked + pre-empted.** The mission's primary novel targets (SV/enhancer-hijacking/
+   promoter/splice/amplicon geometry) need controlled WGS AND were largely characterized by Chen 2021 in
+   the same TCGA set. Not doable novelly on open data.
+3. **Mucinous / gastric-like(HNF4A) lineage arm** has no open human scRNA — unvalidatable.
