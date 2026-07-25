@@ -18,6 +18,14 @@ ERBB2/MAP2K1/RIT1, a focal amplification of EGFR/ERBB2/MET/FGFR1 (CPTAC CNV log-
 only, as a fusion proxy) an ALK/ROS1/RET/NTRK RNA outlier (z > 3). TCGA negativity uses the
 patient-supplied RPA classification. Fusion detection is a known limitation (see failure report §F3).
 
+> **Strict-cohort robustness check.** 28 of the 118 TCGA RPA-negative tumors were assigned a driver on WGS
+> re-analysis (mostly KRAS point mutations). Rerunning the engine with these excluded (**n=89**) leaves the
+> class ranking and proportions essentially unchanged (C2 29.9%→31.5%, all classes ≤3 pts) — the taxonomy
+> does not depend on them. The excluded tumors are also diagnostic: KRAS point mutants (20/28) are invisible
+> to the bulk engine and hid in the entropy/microenvironment bins, while CNA/expression/fusion-visible
+> drivers were correctly caught (EGFR/MAPK1 amp→C1, NRG1 fusion→C5, RASA1 del→C2). Full analysis:
+> [`STRICT_COHORT.md`](STRICT_COHORT.md).
+
 ## The eight classes
 
 | ID | Class | Operational evidence | Best measured in |
