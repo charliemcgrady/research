@@ -73,9 +73,15 @@ this class even if not the winner; **mass** = mean posterior mass across the coh
 - **Typical evidence.** Top-quartile lineage-signature entropy, scored only as a **residual** after
   cell-intrinsic lesions are accounted for; concentrated in EMT/mesenchymal and proliferative tumors.
 - **Reproducibility.** ✅ both.
-- **Strength / limitation.** Represents genuine transcriptional plasticity as a candidate driver of
-  oncogene-independence. But bulk entropy cannot distinguish true single-cell plasticity from
-  intra-tumor admixture — single-cell is required to confirm any individual C7 call.
+- **Interpretation (revised).** C7 is a **residual / holding class — tumors whose mechanism cannot be
+  confidently inferred from currently available public RNA/CNA/protein evidence** — *not* a positive claim
+  of transcriptional plasticity. It may contain hidden point mutations, regulatory/non-coding mechanisms,
+  weak cooperating alterations, measurement limitations (purity/admixture), or genuinely novel biology; the
+  present analysis cannot distinguish these. The strict-cohort calibration (`STRICT_COHORT.md`) shows KRAS
+  point mutations — invisible to the feature space — preferentially land here (Fisher p=0.009, OR 11.2),
+  which *demonstrates the possibility* of hidden drivers in C7 without proving it for any specific tumor.
+  C7 (with C6) is therefore a **high-priority target for future genomic characterisation**, and any
+  individual C7 call needs single-cell/WGS to resolve.
 
 ## C8 — Unknown
 - **Prevalence.** TCGA 1 best, CPTAC 0; small residual mass elsewhere.

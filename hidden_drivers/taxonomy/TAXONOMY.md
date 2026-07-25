@@ -3,7 +3,8 @@
 **Mission.** Do not discover *one* driver. Assign *every* comprehensively oncogene-negative
 (RTK/RAS/RAF wild-type) LUAD tumor to the most plausible mechanistic class, using convergent evidence
 rather than a single significant association. Evidence from multiple weak sources is preferred over one
-strong RNA hit. "Unknown" and "high-plasticity" are legitimate terminal answers, not failures.
+strong RNA hit. "Unknown" and "mechanism-not-confidently-inferable (residual / state-entropy)" are
+legitimate terminal answers, not failures.
 
 ## Cohorts
 
@@ -18,12 +19,17 @@ ERBB2/MAP2K1/RIT1, a focal amplification of EGFR/ERBB2/MET/FGFR1 (CPTAC CNV log-
 only, as a fusion proxy) an ALK/ROS1/RET/NTRK RNA outlier (z > 3). TCGA negativity uses the
 patient-supplied RPA classification. Fusion detection is a known limitation (see failure report §F3).
 
-> **Strict-cohort robustness check.** 28 of the 118 TCGA RPA-negative tumors were assigned a driver on WGS
-> re-analysis (mostly KRAS point mutations). Rerunning the engine with these excluded (**n=89**) leaves the
-> class ranking and proportions essentially unchanged (C2 29.9%→31.5%, all classes ≤3 pts) — the taxonomy
-> does not depend on them. The excluded tumors are also diagnostic: KRAS point mutants (20/28) are invisible
-> to the bulk engine and hid in the entropy/microenvironment bins, while CNA/expression/fusion-visible
-> drivers were correctly caught (EGFR/MAPK1 amp→C1, NRG1 fusion→C5, RASA1 del→C2). Full analysis:
+> **Strict-cohort sensitivity analysis.** 28 of the 118 TCGA RPA-negative tumors were assigned a driver on
+> WGS re-analysis (mostly KRAS point mutations). Rerunning the engine with these excluded (**n=89**) leaves
+> the class ranking and proportions essentially unchanged (C2 29.9%→31.5%, all classes ≤3 pts, posterior
+> mass ~constant) — the primary result is **robustness**: the taxonomy does not depend on them. The excluded
+> 28 serve as a **retrospective calibration** set (not a held-out validation set — they were not withheld
+> from threshold/feature/weight selection). Two calibration findings: (i) drivers *visible* to the engine's
+> RNA/CNA/fusion inputs are assigned to concordant classes (7/8; EGFR/MAPK1 amp→C1, **NRG1 fusion→C5 from
+> ligand signal alone**, RASA1 del→C2); (ii) KRAS point mutations — *invisible* to that feature space —
+> preferentially fall into the nonspecific residual classes C6/C7 (Fisher p=0.009; OR 11.2, 95% CI 1.5–81).
+> This **defines the engine's modality-dependent limits**; it does **not** prove that other C6/C7 tumors
+> harbour hidden mutations. Posteriors here are ranking scores, not calibrated probabilities. Full analysis:
 > [`STRICT_COHORT.md`](STRICT_COHORT.md).
 
 ## The eight classes
@@ -36,7 +42,7 @@ patient-supplied RPA classification. Fusion detection is a known limitation (see
 | **C4** | Lineage-conditioned signaling | strong non-AT2 dominant lineage (mucinous/basal/EMT/proliferative) × pathway output | both |
 | **C5** | Ligand / autocrine signaling | ligand (NRG1/HGF/EGF-family/FGF/IGF/PDGF) RNA or protein outlier (z>2) | both |
 | **C6** | Microenvironment-dependent | high leukocyte fraction (TCGA) / immune+stromal signature (CPTAC) | both |
-| **C7** | High-plasticity / state-entropy | top-quartile lineage-signature entropy, as a **residual** after cell-intrinsic lesions | both |
+| **C7** | Residual / state-entropy (mechanism not confidently inferable) | top-quartile lineage-signature entropy, as a **residual** after cell-intrinsic lesions — a holding class, not a positive biological finding (may contain hidden point mutations, regulatory mechanisms, weak cooperating alterations, measurement limits, or novel biology) | both |
 | **C8** | Unknown | assigned residual mass when total evidence is weak | both |
 
 Scoring is a soft, evidence-weighted combiner (`hidden_drivers/build_{tcga,cptac}_taxonomy.py`): each class
@@ -57,7 +63,7 @@ Per-cohort prevalence (best-class call and mean posterior mass):
 | Lineage-conditioned (C4) | 1 (0.9%) | 0.061 | 0 | 0.052 | ➖ weak |
 | Ligand / autocrine (C5) | 5 (4.3%) | 0.062 | 4 (18.2%) | 0.162 | ✅ |
 | Microenvironment (C6) | 23 (19.7%) | 0.195 | 6 (27.3%) | 0.196 | ✅ |
-| High-plasticity / entropy (C7) | 32 (27.4%) | 0.223 | 5 (22.7%) | 0.233 | ✅ |
+| Residual / state-entropy (C7) | 32 (27.4%) | 0.223 | 5 (22.7%) | 0.233 | ✅ |
 | Unknown (C8) | 1 (0.9%) | 0.030 | 0 | 0.003 | ➖ |
 
 Full per-tumor tables: `tumor_evidence_TCGA.csv`, `tumor_evidence_CPTAC.csv`.
@@ -100,9 +106,12 @@ Per-tumor evidence graphs: `per_tumor_evidence.json` (Deliverable #2).
 
 4. **A large minority is not cell-intrinsically explained at all.** Cell-intrinsic evidence
    (max of C1–C5) reaches ≥0.35 in only **63/117 TCGA (54%)** and **10/22 CPTAC (45%)** oncogene-negative
-   tumors. The remainder are best described by **microenvironment** (C6) or **high transcriptional
-   plasticity / state-entropy** (C7), or remain **Unknown** (C8). These are ranked for follow-up in
-   Deliverable #4 — they are the tumors that most need new data (WGS/SV, single-cell, spatial).
+   tumors. The remainder fall to **microenvironment** (C6) or the **residual / state-entropy** class (C7 —
+   mechanism not confidently inferable from RNA/CNA/protein), or remain **Unknown** (C8). The strict-cohort
+   calibration shows this residual can *hide* feature-space-invisible drivers (e.g. KRAS point mutations),
+   so these are ranked for follow-up in Deliverable #4 — the tumors that most need new data (WGS/SV,
+   single-cell, spatial). This is a statement about the engine's limits, not a claim that every C6/C7 tumor
+   harbours a hidden driver.
 
 5. **Class reproducibility is strong.** Every mechanism that is measurable in both platforms recurs in
    both (C1, C2, C5, C6, C7). Protein-state (C3) is CPTAC-exclusive by construction. Only the

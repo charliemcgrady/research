@@ -1,0 +1,6 @@
+mechanism,C1_hidden_canonical,C2_suppressor_conv,C5_ligand,C6_microenv,C7_entropy
+MAPK_pathway_amplification,2,2,0,0,0
+RAS_point_mutation,2,4,0,4,10
+RAS_suppressor_deletion,0,1,0,1,0
+RTK_amplification,1,0,0,0,0
+ligand_fusion,0,0,1,0,0
