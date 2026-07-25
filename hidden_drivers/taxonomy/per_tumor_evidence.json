@@ -1,0 +1,8802 @@
+{
+ "TCGA-05-4382": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.42,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.91,
+  "posteriors": {
+   "C1_hidden_canonical": 0.018,
+   "C2_suppressor_conv": 0.346,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.424,
+   "C7_entropy": 0.212,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.424
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.346
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.212
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.46,
+    "weight": 0.601
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/loss+KEAP1/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.91,
+    "weight": 0.301
+   }
+  ]
+ },
+ "TCGA-05-4397": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.57,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.442,
+  "posteriors": {
+   "C1_hidden_canonical": 0.166,
+   "C2_suppressor_conv": 0.568,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.267,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.568
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.267
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.166
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+PTEN/loss+STK11/loss)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.657,
+    "weight": 0.329
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.408,
+    "weight": 0.204
+   }
+  ]
+ },
+ "TCGA-05-4398": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.54,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 2.026,
+  "posteriors": {
+   "C1_hidden_canonical": 0.537,
+   "C2_suppressor_conv": 0.194,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.076,
+   "C7_entropy": 0.193,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.537
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.194
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.193
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.076
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.815,
+    "weight": 0.736
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.026,
+    "weight": 0.264
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.286,
+    "weight": 0.104
+   }
+  ]
+ },
+ "TCGA-05-4422": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.43,
+  "dominant_lineage": "Mucinous_gastric",
+  "lineage_entropy": 1.968,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.428,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.18,
+   "C7_entropy": 0.393,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.428
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.393
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.18
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/mut+KEAP1/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.968,
+    "weight": 0.45
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.322,
+    "weight": 0.206
+   }
+  ]
+ },
+ "TCGA-05-4432": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.29,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 2.042,
+  "posteriors": {
+   "C1_hidden_canonical": 0.268,
+   "C2_suppressor_conv": 0.281,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.158,
+   "C7_entropy": 0.293,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.293
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.281
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.268
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.158
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.042,
+    "weight": 0.51
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/loss+KEAP1/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.934,
+    "weight": 0.467
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.346,
+    "weight": 0.274
+   }
+  ]
+ },
+ "TCGA-05-5429": {
+  "cohort": "TCGA",
+  "best_class": "C8_unknown",
+  "best_p": 0.43,
+  "dominant_lineage": "Mucinous_gastric",
+  "lineage_entropy": 1.759,
+  "posteriors": {
+   "C1_hidden_canonical": 0.056,
+   "C2_suppressor_conv": 0.245,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.269,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.43
+  },
+  "competing": [
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.43
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.269
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.245
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.056
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.539,
+    "weight": 0.269
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(PTEN/loss)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.111,
+    "weight": 0.056
+   }
+  ]
+ },
+ "TCGA-35-4122": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.44,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 2.001,
+  "posteriors": {
+   "C1_hidden_canonical": 0.202,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.022,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.339,
+   "C7_entropy": 0.437,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.437
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.339
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.202
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.022
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.001,
+    "weight": 0.684
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.436,
+    "weight": 0.53
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.521,
+    "weight": 0.316
+   }
+  ]
+ },
+ "TCGA-35-5375": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.78,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.762,
+  "posteriors": {
+   "C1_hidden_canonical": 0.776,
+   "C2_suppressor_conv": 0.224,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.776
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.224
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.895,
+    "weight": 0.85
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 3.543,
+    "weight": 0.771
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(KEAP1/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   }
+  ]
+ },
+ "TCGA-38-7271": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.5,
+  "dominant_lineage": "AT2_TRU",
+  "lineage_entropy": 2.001,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.031,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.467,
+   "C7_entropy": 0.502,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.502
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.467
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.031
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.001,
+    "weight": 0.941
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.557,
+    "weight": 0.876
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT2_TRUxoutput",
+    "value": 0.195,
+    "weight": 0.059
+   }
+  ]
+ },
+ "TCGA-38-A44F": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.39,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 1.837,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.27,
+   "C5_ligand": 0.203,
+   "C6_microenv": 0.386,
+   "C7_entropy": 0.141,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.386
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.27
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.203
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.141
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.4,
+    "weight": 0.428
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Ciliatedxoutput",
+    "value": 1.0,
+    "weight": 0.3
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.451,
+    "weight": 0.225
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.837,
+    "weight": 0.157
+   }
+  ]
+ },
+ "TCGA-44-2655": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.35,
+  "dominant_lineage": "AT2_TRU",
+  "lineage_entropy": 1.952,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.354,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.052,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.298,
+   "C7_entropy": 0.295,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.354
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.298
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.295
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.052
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/loss+KEAP1/mut)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.394,
+    "weight": 0.413
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.952,
+    "weight": 0.408
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT2_TRUxoutput",
+    "value": 0.24,
+    "weight": 0.072
+   }
+  ]
+ },
+ "TCGA-44-3398": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.34,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.972,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.237,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.15,
+   "C5_ligand": 0.104,
+   "C6_microenv": 0.169,
+   "C7_entropy": 0.34,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.34
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.237
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.169
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.15
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.104
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.972,
+    "weight": 0.552
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.346,
+    "weight": 0.274
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(PTEN/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=EMT_mesenchymalxoutput",
+    "value": 0.522,
+    "weight": 0.244
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.339,
+    "weight": 0.169
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "ssGSEA",
+    "feature": "pathway_output",
+    "value": 1.702,
+    "weight": 0.14
+   }
+  ]
+ },
+ "TCGA-44-4112": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.86,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 2.019,
+  "posteriors": {
+   "C1_hidden_canonical": 0.045,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.095,
+   "C7_entropy": 0.86,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.86
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.095
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.045
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.019,
+    "weight": 0.95
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.287,
+    "weight": 0.104
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.335,
+    "weight": 0.05
+   }
+  ]
+ },
+ "TCGA-44-5643": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.31,
+  "dominant_lineage": "Basal",
+  "lineage_entropy": 1.196,
+  "posteriors": {
+   "C1_hidden_canonical": 0.309,
+   "C2_suppressor_conv": 0.244,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.309,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.137,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.309
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.309
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.244
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.137
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 4.147,
+    "weight": 1.0
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Basalxoutput",
+    "value": 1.0,
+    "weight": 1.0
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.404,
+    "weight": 0.441
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "ssGSEA",
+    "feature": "pathway_output",
+    "value": 2.544,
+    "weight": 0.3
+   }
+  ]
+ },
+ "TCGA-44-6148": {
+  "cohort": "TCGA",
+  "best_class": "C5_ligand",
+  "best_p": 0.45,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 1.657,
+  "posteriors": {
+   "C1_hidden_canonical": 0.325,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.228,
+   "C5_ligand": 0.446,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.446
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.325
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.228
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 3.172,
+    "weight": 0.586
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.599,
+    "weight": 0.427
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.782,
+    "weight": 0.391
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Ciliatedxoutput",
+    "value": 1.0,
+    "weight": 0.3
+   }
+  ]
+ },
+ "TCGA-44-6778": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.29,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 1.887,
+  "posteriors": {
+   "C1_hidden_canonical": 0.067,
+   "C2_suppressor_conv": 0.227,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.171,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.294,
+   "C7_entropy": 0.241,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.294
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.241
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.227
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.171
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.067
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.39,
+    "weight": 0.4
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.887,
+    "weight": 0.327
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(KEAP1/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT1xoutput",
+    "value": 0.773,
+    "weight": 0.232
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.364,
+    "weight": 0.091
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "ssGSEA",
+    "feature": "pathway_output",
+    "value": 1.315,
+    "weight": 0.063
+   }
+  ]
+ },
+ "TCGA-44-7660": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.7,
+  "dominant_lineage": "Basal",
+  "lineage_entropy": 1.82,
+  "posteriors": {
+   "C1_hidden_canonical": 0.146,
+   "C2_suppressor_conv": 0.7,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.041,
+   "C8_unknown": 0.113
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.7
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.146
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.113
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.041
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(NF1/loss+RASA1/loss+PTEN/loss+STK11/loss+KEAP1/mut)",
+    "value": 5.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.402,
+    "weight": 0.146
+   }
+  ]
+ },
+ "TCGA-44-7669": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.45,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.896,
+  "posteriors": {
+   "C1_hidden_canonical": 0.206,
+   "C2_suppressor_conv": 0.454,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.323,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.017,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.454
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.323
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.206
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(PTEN/loss+STK11/mut+KEAP1/mut)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Proliferativexoutput",
+    "value": 0.861,
+    "weight": 0.664
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.844,
+    "weight": 0.422
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "ssGSEA",
+    "feature": "pathway_output",
+    "value": 2.156,
+    "weight": 0.231
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.363,
+    "weight": 0.09
+   }
+  ]
+ },
+ "TCGA-44-7670": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.43,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 1.897,
+  "posteriors": {
+   "C1_hidden_canonical": 0.425,
+   "C2_suppressor_conv": 0.298,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.182,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.095,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.425
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.298
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.182
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.095
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.79,
+    "weight": 0.7
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+KEAP1/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Ciliatedxoutput",
+    "value": 1.0,
+    "weight": 0.3
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.897,
+    "weight": 0.157
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.255,
+    "weight": 0.127
+   }
+  ]
+ },
+ "TCGA-44-8117": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.42,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.994,
+  "posteriors": {
+   "C1_hidden_canonical": 0.185,
+   "C2_suppressor_conv": 0.399,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.416,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.416
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.399
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.185
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.994,
+    "weight": 0.51
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(NF1/loss+KEAP1/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.459,
+    "weight": 0.227
+   }
+  ]
+ },
+ "TCGA-44-8120": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.61,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 1.932,
+  "posteriors": {
+   "C1_hidden_canonical": 0.039,
+   "C2_suppressor_conv": 0.615,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.072,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.09,
+   "C7_entropy": 0.184,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.615
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.184
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.09
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.072
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.039
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/mut+KEAP1/loss)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.932,
+    "weight": 0.21
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.286,
+    "weight": 0.102
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT1xoutput",
+    "value": 0.272,
+    "weight": 0.082
+   }
+  ]
+ },
+ "TCGA-49-4486": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.49,
+  "dominant_lineage": "AT2_TRU",
+  "lineage_entropy": 1.849,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.49,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.145,
+   "C8_unknown": 0.365
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.49
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.365
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.145
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/loss+KEAP1/mut)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.849,
+    "weight": 0.145
+   }
+  ]
+ },
+ "TCGA-49-4487": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.51,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.917,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.169,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.019,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.509,
+   "C7_entropy": 0.302,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.509
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.302
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.169
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.522,
+    "weight": 0.777
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.917,
+    "weight": 0.461
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   }
+  ]
+ },
+ "TCGA-49-4507": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.52,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.792,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.476,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.524,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.524
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.476
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.438,
+    "weight": 0.539
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/mut+KEAP1/mut)",
+    "value": 2.0,
+    "weight": 0.49
+   }
+  ]
+ },
+ "TCGA-49-6742": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.49,
+  "dominant_lineage": "Mucinous_gastric",
+  "lineage_entropy": 1.866,
+  "posteriors": {
+   "C1_hidden_canonical": 0.259,
+   "C2_suppressor_conv": 0.49,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.187,
+   "C8_unknown": 0.064
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.49
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.259
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.187
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.064
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/loss+KEAP1/mut)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.481,
+    "weight": 0.259
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.866,
+    "weight": 0.187
+   }
+  ]
+ },
+ "TCGA-49-6743": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.37,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.927,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.373,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.128,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.345,
+   "C7_entropy": 0.154,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.373
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.345
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.154
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.128
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.45,
+    "weight": 0.572
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+KEAP1/mut)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.927,
+    "weight": 0.256
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Proliferativexoutput",
+    "value": 0.493,
+    "weight": 0.212
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "ssGSEA",
+    "feature": "pathway_output",
+    "value": 1.646,
+    "weight": 0.129
+   }
+  ]
+ },
+ "TCGA-49-AAQV": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.43,
+  "dominant_lineage": "Club_secretory",
+  "lineage_entropy": 1.977,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.012,
+   "C5_ligand": 0.14,
+   "C6_microenv": 0.426,
+   "C7_entropy": 0.422,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.426
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.422
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.14
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.501,
+    "weight": 0.716
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.977,
+    "weight": 0.709
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.472,
+    "weight": 0.236
+   }
+  ]
+ },
+ "TCGA-49-AAR9": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.59,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.635,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.588,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.122,
+   "C5_ligand": 0.29,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.588
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.29
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.122
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/loss+KEAP1/mut)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.768,
+    "weight": 0.384
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Proliferativexoutput",
+    "value": 0.623,
+    "weight": 0.162
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "ssGSEA",
+    "feature": "pathway_output",
+    "value": 1.389,
+    "weight": 0.078
+   }
+  ]
+ },
+ "TCGA-49-AARE": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.61,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 1.954,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.615,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.073,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.099,
+   "C7_entropy": 0.213,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.615
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.213
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.099
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.073
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+PTEN/loss+KEAP1/mut)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.954,
+    "weight": 0.243
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.289,
+    "weight": 0.112
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Ciliatedxoutput",
+    "value": 0.278,
+    "weight": 0.084
+   }
+  ]
+ },
+ "TCGA-49-AARR": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.37,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 1.556,
+  "posteriors": {
+   "C1_hidden_canonical": 0.035,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.3,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.366,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.298
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.366
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.3
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.298
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.035
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.378,
+    "weight": 0.366
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Ciliatedxoutput",
+    "value": 1.0,
+    "weight": 0.3
+   }
+  ]
+ },
+ "TCGA-50-5049": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.47,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 2.008,
+  "posteriors": {
+   "C1_hidden_canonical": 0.207,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.017,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.468,
+   "C7_entropy": 0.308,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.468
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.308
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.207
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.568,
+    "weight": 0.91
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.008,
+    "weight": 0.599
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.581,
+    "weight": 0.401
+   }
+  ]
+ },
+ "TCGA-50-5931": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.49,
+  "dominant_lineage": "Basal",
+  "lineage_entropy": 1.439,
+  "posteriors": {
+   "C1_hidden_canonical": 0.136,
+   "C2_suppressor_conv": 0.49,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.374
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.49
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.374
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.136
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/loss+KEAP1/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.272,
+    "weight": 0.136
+   }
+  ]
+ },
+ "TCGA-50-5939": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.53,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 2.044,
+  "posteriors": {
+   "C1_hidden_canonical": 0.526,
+   "C2_suppressor_conv": 0.15,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.014,
+   "C5_ligand": 0.01,
+   "C6_microenv": 0.301,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.526
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.301
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.15
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 3.061,
+    "weight": 1.0
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.45,
+    "weight": 0.573
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.836,
+    "weight": 0.418
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(KEAP1/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   }
+  ]
+ },
+ "TCGA-50-6590": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.66,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.681,
+  "posteriors": {
+   "C1_hidden_canonical": 0.059,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.099,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.659,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.183
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.659
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.183
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.099
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.059
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.481,
+    "weight": 0.659
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Proliferativexoutput",
+    "value": 0.646,
+    "weight": 0.099
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.341,
+    "weight": 0.059
+   }
+  ]
+ },
+ "TCGA-50-6592": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.44,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.905,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.222,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.106,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.445,
+   "C7_entropy": 0.227,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.445
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.227
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.222
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.106
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.5,
+    "weight": 0.713
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.905,
+    "weight": 0.365
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/loss)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Proliferativexoutput",
+    "value": 0.464,
+    "weight": 0.171
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "ssGSEA",
+    "feature": "pathway_output",
+    "value": 1.552,
+    "weight": 0.11
+   }
+  ]
+ },
+ "TCGA-53-7624": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.49,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.47,
+  "posteriors": {
+   "C1_hidden_canonical": 0.451,
+   "C2_suppressor_conv": 0.491,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.057,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.491
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.451
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.057
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(NF1/loss+RASA1/loss+STK11/loss+KEAP1/mut)",
+    "value": 4.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 3.332,
+    "weight": 0.666
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.586,
+    "weight": 0.409
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Proliferativexoutput",
+    "value": 1.0,
+    "weight": 0.085
+   }
+  ]
+ },
+ "TCGA-53-7626": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.29,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 1.847,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.234,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.199,
+   "C5_ligand": 0.13,
+   "C6_microenv": 0.287,
+   "C7_entropy": 0.149,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.287
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.234
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.199
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.149
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.13
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.378,
+    "weight": 0.366
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT1xoutput",
+    "value": 0.848,
+    "weight": 0.254
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.847,
+    "weight": 0.19
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.333,
+    "weight": 0.166
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "ssGSEA",
+    "feature": "pathway_output",
+    "value": 1.272,
+    "weight": 0.054
+   }
+  ]
+ },
+ "TCGA-55-1594": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.54,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.963,
+  "posteriors": {
+   "C1_hidden_canonical": 0.537,
+   "C2_suppressor_conv": 0.412,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.052,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.537
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.412
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.052
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 3.526,
+    "weight": 1.0
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/loss+KEAP1/loss)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.857,
+    "weight": 0.429
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Proliferativexoutput",
+    "value": 0.434,
+    "weight": 0.096
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "ssGSEA",
+    "feature": "pathway_output",
+    "value": 1.332,
+    "weight": 0.066
+   }
+  ]
+ },
+ "TCGA-55-5899": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.43,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.689,
+  "posteriors": {
+   "C1_hidden_canonical": 0.429,
+   "C2_suppressor_conv": 0.306,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.012,
+   "C5_ligand": 0.253,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.429
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.306
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.253
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 1.309,
+    "weight": 1.0
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+PTEN/loss+KEAP1/mut)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 3.18,
+    "weight": 0.59
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.179,
+    "weight": 0.089
+   }
+  ]
+ },
+ "TCGA-55-6712": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.38,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 2.005,
+  "posteriors": {
+   "C1_hidden_canonical": 0.257,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.022,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.381,
+   "C7_entropy": 0.34,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.381
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.34
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.257
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.022
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.474,
+    "weight": 0.639
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.005,
+    "weight": 0.57
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.601,
+    "weight": 0.43
+   }
+  ]
+ },
+ "TCGA-55-6969": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.69,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.79,
+  "posteriors": {
+   "C1_hidden_canonical": 0.061,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.246,
+   "C6_microenv": 0.689,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.003
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.689
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.246
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.061
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.491,
+    "weight": 0.689
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.493,
+    "weight": 0.246
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.123,
+    "weight": 0.061
+   }
+  ]
+ },
+ "TCGA-55-6972": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.64,
+  "dominant_lineage": "AT2_TRU",
+  "lineage_entropy": 1.929,
+  "posteriors": {
+   "C1_hidden_canonical": 0.173,
+   "C2_suppressor_conv": 0.639,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.187,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.639
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.187
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.173
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(NF1/loss+RASA1/loss+STK11/loss+KEAP1/mut)",
+    "value": 4.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.929,
+    "weight": 0.205
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.433,
+    "weight": 0.19
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.113,
+    "weight": 0.057
+   }
+  ]
+ },
+ "TCGA-55-6987": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.49,
+  "dominant_lineage": "Club_secretory",
+  "lineage_entropy": 2.041,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.149,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.01,
+   "C6_microenv": 0.495,
+   "C7_entropy": 0.346,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.495
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.346
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.149
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.61,
+    "weight": 1.0
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.041,
+    "weight": 0.7
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(KEAP1/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "ssGSEA",
+    "feature": "pathway_output",
+    "value": 1.277,
+    "weight": 0.055
+   }
+  ]
+ },
+ "TCGA-55-7574": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.5,
+  "dominant_lineage": "AT2_TRU",
+  "lineage_entropy": 2.008,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.057,
+   "C5_ligand": 0.032,
+   "C6_microenv": 0.411,
+   "C7_entropy": 0.5,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.5
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.411
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.057
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.032
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.008,
+    "weight": 0.898
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.509,
+    "weight": 0.739
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT2_TRUxoutput",
+    "value": 0.339,
+    "weight": 0.102
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.114,
+    "weight": 0.057
+   }
+  ]
+ },
+ "TCGA-55-8085": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.27,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 2.006,
+  "posteriors": {
+   "C1_hidden_canonical": 0.265,
+   "C2_suppressor_conv": 0.26,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.111,
+   "C6_microenv": 0.099,
+   "C7_entropy": 0.266,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.266
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.265
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.26
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.111
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.099
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.006,
+    "weight": 0.501
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.649,
+    "weight": 0.499
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/loss+KEAP1/mut)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.417,
+    "weight": 0.208
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.315,
+    "weight": 0.186
+   }
+  ]
+ },
+ "TCGA-55-8208": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.5,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 2.052,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.058,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.441,
+   "C7_entropy": 0.5,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.5
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.441
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.058
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.052,
+    "weight": 0.896
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.527,
+    "weight": 0.79
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=EMT_mesenchymalxoutput",
+    "value": 0.389,
+    "weight": 0.104
+   }
+  ]
+ },
+ "TCGA-55-8301": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.57,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.971,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.431,
+   "C7_entropy": 0.569,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.569
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.431
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.971,
+    "weight": 0.894
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.487,
+    "weight": 0.677
+   }
+  ]
+ },
+ "TCGA-55-8507": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.32,
+  "dominant_lineage": "AT2_TRU",
+  "lineage_entropy": 2.019,
+  "posteriors": {
+   "C1_hidden_canonical": 0.315,
+   "C2_suppressor_conv": 0.31,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.057,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.317,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.317
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.315
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.31
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.057
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.019,
+    "weight": 0.501
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.649,
+    "weight": 0.499
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/mut)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT2_TRUxoutput",
+    "value": 0.303,
+    "weight": 0.091
+   }
+  ]
+ },
+ "TCGA-55-8510": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.42,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 2.01,
+  "posteriors": {
+   "C1_hidden_canonical": 0.101,
+   "C2_suppressor_conv": 0.136,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.088,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.255,
+   "C7_entropy": 0.42,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.42
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.255
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.136
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.101
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.088
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.01,
+    "weight": 0.755
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.411,
+    "weight": 0.459
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(KEAP1/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.427,
+    "weight": 0.181
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT1xoutput",
+    "value": 0.528,
+    "weight": 0.158
+   }
+  ]
+ },
+ "TCGA-55-8513": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.4,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 1.821,
+  "posteriors": {
+   "C1_hidden_canonical": 0.401,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.255,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.28,
+   "C7_entropy": 0.064,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.401
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.28
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.255
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.064
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.943,
+    "weight": 0.472
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.365,
+    "weight": 0.33
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Ciliatedxoutput",
+    "value": 1.0,
+    "weight": 0.3
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.821,
+    "weight": 0.075
+   }
+  ]
+ },
+ "TCGA-55-8614": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.7,
+  "dominant_lineage": "Basal",
+  "lineage_entropy": 1.693,
+  "posteriors": {
+   "C1_hidden_canonical": 0.022,
+   "C2_suppressor_conv": 0.7,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.104,
+   "C6_microenv": 0.02,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.154
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.7
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.154
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.104
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.022
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/loss+KEAP1/loss)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.208,
+    "weight": 0.104
+   }
+  ]
+ },
+ "TCGA-55-8619": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.61,
+  "dominant_lineage": "Mucinous_gastric",
+  "lineage_entropy": 1.861,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.166,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.611,
+   "C7_entropy": 0.222,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.611
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.222
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.166
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.512,
+    "weight": 0.75
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.861,
+    "weight": 0.273
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Mucinous_gastricxoutput",
+    "value": 0.995,
+    "weight": 0.204
+   }
+  ]
+ },
+ "TCGA-55-A48X": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.43,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 1.959,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.158,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.408,
+   "C7_entropy": 0.434,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.434
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.408
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.158
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.959,
+    "weight": 0.64
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.46,
+    "weight": 0.601
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Ciliatedxoutput",
+    "value": 0.778,
+    "weight": 0.233
+   }
+  ]
+ },
+ "TCGA-55-A48Y": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.5,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.936,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.12,
+   "C6_microenv": 0.38,
+   "C7_entropy": 0.5,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.5
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.38
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.12
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.936,
+    "weight": 0.614
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.413,
+    "weight": 0.467
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.296,
+    "weight": 0.148
+   }
+  ]
+ },
+ "TCGA-55-A491": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.61,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 2.041,
+  "posteriors": {
+   "C1_hidden_canonical": 0.012,
+   "C2_suppressor_conv": 0.199,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.176,
+   "C7_entropy": 0.613,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.613
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.199
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.176
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.041,
+    "weight": 0.755
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.326,
+    "weight": 0.216
+   }
+  ]
+ },
+ "TCGA-55-A492": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.49,
+  "dominant_lineage": "Club_secretory",
+  "lineage_entropy": 1.846,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.49,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.034,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.137,
+   "C8_unknown": 0.338
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.49
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.338
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.137
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.034
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/mut+KEAP1/mut)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.846,
+    "weight": 0.137
+   }
+  ]
+ },
+ "TCGA-55-A493": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.47,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.844,
+  "posteriors": {
+   "C1_hidden_canonical": 0.102,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.379,
+   "C6_microenv": 0.465,
+   "C7_entropy": 0.053,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.465
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.379
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.102
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.053
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.529,
+    "weight": 0.798
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 3.301,
+    "weight": 0.651
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.423,
+    "weight": 0.176
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.844,
+    "weight": 0.091
+   }
+  ]
+ },
+ "TCGA-55-A4DF": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.49,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.829,
+  "posteriors": {
+   "C1_hidden_canonical": 0.037,
+   "C2_suppressor_conv": 0.49,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.232,
+   "C7_entropy": 0.094,
+   "C8_unknown": 0.148
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.49
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.232
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.148
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.094
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.037
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/loss+KEAP1/mut)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.331,
+    "weight": 0.232
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.829,
+    "weight": 0.094
+   }
+  ]
+ },
+ "TCGA-62-8395": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.49,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 1.942,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.49,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.061,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.382,
+   "C8_unknown": 0.067
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.49
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.382
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.067
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.061
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.942,
+    "weight": 0.382
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT1xoutput",
+    "value": 0.203,
+    "weight": 0.061
+   }
+  ]
+ },
+ "TCGA-62-8399": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.39,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 2.053,
+  "posteriors": {
+   "C1_hidden_canonical": 0.114,
+   "C2_suppressor_conv": 0.37,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.012,
+   "C5_ligand": 0.119,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.385,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.385
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.37
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.119
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.114
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.053,
+    "weight": 0.51
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/loss+KEAP1/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.314,
+    "weight": 0.157
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.406,
+    "weight": 0.151
+   }
+  ]
+ },
+ "TCGA-62-A46P": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.41,
+  "dominant_lineage": "Club_secretory",
+  "lineage_entropy": 1.927,
+  "posteriors": {
+   "C1_hidden_canonical": 0.296,
+   "C2_suppressor_conv": 0.408,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.008,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.287,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.408
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.296
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.287
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/mut+KEAP1/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.712,
+    "weight": 0.356
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.927,
+    "weight": 0.345
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.495,
+    "weight": 0.279
+   }
+  ]
+ },
+ "TCGA-62-A470": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.52,
+  "dominant_lineage": "Club_secretory",
+  "lineage_entropy": 1.988,
+  "posteriors": {
+   "C1_hidden_canonical": 0.218,
+   "C2_suppressor_conv": 0.521,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.042,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.219,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.521
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.219
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.218
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.042
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/mut+KEAP1/mut)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.988,
+    "weight": 0.294
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.585,
+    "weight": 0.292
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.405,
+    "weight": 0.15
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Club_secretoryxoutput",
+    "value": 0.19,
+    "weight": 0.057
+   }
+  ]
+ },
+ "TCGA-62-A471": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.49,
+  "dominant_lineage": "Basal",
+  "lineage_entropy": 1.73,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.49,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.169,
+   "C6_microenv": 0.091,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.25
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.49
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.25
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.169
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.091
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/mut)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.338,
+    "weight": 0.169
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.282,
+    "weight": 0.091
+   }
+  ]
+ },
+ "TCGA-64-5779": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.35,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.876,
+  "posteriors": {
+   "C1_hidden_canonical": 0.35,
+   "C2_suppressor_conv": 0.353,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.144,
+   "C7_entropy": 0.153,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.353
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.35
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.153
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.144
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+PTEN/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.973,
+    "weight": 0.487
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.876,
+    "weight": 0.213
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.32,
+    "weight": 0.2
+   }
+  ]
+ },
+ "TCGA-67-3771": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.56,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 2.037,
+  "posteriors": {
+   "C1_hidden_canonical": 0.047,
+   "C2_suppressor_conv": 0.182,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.211,
+   "C7_entropy": 0.56,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.56
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.211
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.182
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.047
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.037,
+    "weight": 0.755
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.35,
+    "weight": 0.284
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(KEAP1/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.344,
+    "weight": 0.063
+   }
+  ]
+ },
+ "TCGA-69-7763": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.69,
+  "dominant_lineage": "AT2_TRU",
+  "lineage_entropy": 1.993,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.224,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.087,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.689,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.689
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.224
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.087
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.993,
+    "weight": 0.755
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT2_TRUxoutput",
+    "value": 0.317,
+    "weight": 0.095
+   }
+  ]
+ },
+ "TCGA-69-8255": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.47,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.84,
+  "posteriors": {
+   "C1_hidden_canonical": 0.144,
+   "C2_suppressor_conv": 0.473,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.334,
+   "C7_entropy": 0.048,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.473
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.334
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.144
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.048
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(PTEN/loss+STK11/loss+KEAP1/loss)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.423,
+    "weight": 0.494
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.449,
+    "weight": 0.213
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.337,
+    "weight": 0.169
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.84,
+    "weight": 0.072
+   }
+  ]
+ },
+ "TCGA-73-4670": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.67,
+  "dominant_lineage": "Basal",
+  "lineage_entropy": 1.849,
+  "posteriors": {
+   "C1_hidden_canonical": 0.249,
+   "C2_suppressor_conv": 0.67,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.082,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.67
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.249
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.082
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/mut+KEAP1/mut)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.482,
+    "weight": 0.26
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.849,
+    "weight": 0.085
+   }
+  ]
+ },
+ "TCGA-73-7499": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.39,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 1.917,
+  "posteriors": {
+   "C1_hidden_canonical": 0.388,
+   "C2_suppressor_conv": 0.344,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.101,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.103,
+   "C7_entropy": 0.064,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.388
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.344
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.103
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.101
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.064
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.853,
+    "weight": 0.79
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(PTEN/loss+STK11/loss+KEAP1/loss)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.323,
+    "weight": 0.209
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Ciliatedxoutput",
+    "value": 0.686,
+    "weight": 0.206
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.917,
+    "weight": 0.131
+   }
+  ]
+ },
+ "TCGA-73-A9RS": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.55,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 1.602,
+  "posteriors": {
+   "C1_hidden_canonical": 0.245,
+   "C2_suppressor_conv": 0.551,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.203,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.551
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.245
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.203
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(NF1/loss+RASA1/loss+PTEN/loss+STK11/mut)",
+    "value": 4.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.518,
+    "weight": 0.311
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Ciliatedxoutput",
+    "value": 0.86,
+    "weight": 0.258
+   }
+  ]
+ },
+ "TCGA-75-5125": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.31,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.913,
+  "posteriors": {
+   "C1_hidden_canonical": 0.132,
+   "C2_suppressor_conv": 0.315,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.04,
+   "C5_ligand": 0.142,
+   "C6_microenv": 0.202,
+   "C7_entropy": 0.169,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.315
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.202
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.169
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.142
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.132
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.04
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/loss+KEAP1/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.369,
+    "weight": 0.34
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.913,
+    "weight": 0.284
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.477,
+    "weight": 0.238
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.455,
+    "weight": 0.221
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Proliferativexoutput",
+    "value": 0.528,
+    "weight": 0.067
+   }
+  ]
+ },
+ "TCGA-75-5147": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.62,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 2.01,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.2,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.049,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.132,
+   "C7_entropy": 0.618,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.618
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.2
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.132
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.049
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.01,
+    "weight": 0.755
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.307,
+    "weight": 0.162
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Ciliatedxoutput",
+    "value": 0.201,
+    "weight": 0.06
+   }
+  ]
+ },
+ "TCGA-75-6214": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.64,
+  "dominant_lineage": "Basal",
+  "lineage_entropy": 1.641,
+  "posteriors": {
+   "C1_hidden_canonical": 0.645,
+   "C2_suppressor_conv": 0.316,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.039,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.645
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.316
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.039
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 1.345,
+    "weight": 1.0
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/loss+KEAP1/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.121,
+    "weight": 0.06
+   }
+  ]
+ },
+ "TCGA-78-7149": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.69,
+  "dominant_lineage": "Club_secretory",
+  "lineage_entropy": 1.954,
+  "posteriors": {
+   "C1_hidden_canonical": 0.039,
+   "C2_suppressor_conv": 0.685,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.037,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.238,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.685
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.238
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.039
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.037
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/loss+KEAP1/mut)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.954,
+    "weight": 0.243
+   }
+  ]
+ },
+ "TCGA-78-7150": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.53,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.868,
+  "posteriors": {
+   "C1_hidden_canonical": 0.35,
+   "C2_suppressor_conv": 0.533,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.021,
+   "C5_ligand": 0.018,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.079,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.533
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.35
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.079
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.021
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/loss+KEAP1/loss)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.63,
+    "weight": 0.471
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.868,
+    "weight": 0.106
+   }
+  ]
+ },
+ "TCGA-78-7155": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.8,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.121,
+  "posteriors": {
+   "C1_hidden_canonical": 0.803,
+   "C2_suppressor_conv": 0.197,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.803
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.197
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 1.896,
+    "weight": 1.0
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(PTEN/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   }
+  ]
+ },
+ "TCGA-78-7156": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.27,
+  "dominant_lineage": "AT2_TRU",
+  "lineage_entropy": 1.977,
+  "posteriors": {
+   "C1_hidden_canonical": 0.274,
+   "C2_suppressor_conv": 0.266,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.212,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.248,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.274
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.266
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.248
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.212
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.653,
+    "weight": 0.504
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/mut+KEAP1/mut)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.977,
+    "weight": 0.458
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.782,
+    "weight": 0.391
+   }
+  ]
+ },
+ "TCGA-78-7158": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.58,
+  "dominant_lineage": "AT2_TRU",
+  "lineage_entropy": 1.947,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.245,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.062,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.583,
+   "C8_unknown": 0.109
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.583
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.245
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.109
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.062
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.947,
+    "weight": 0.583
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(KEAP1/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT2_TRUxoutput",
+    "value": 0.208,
+    "weight": 0.062
+   }
+  ]
+ },
+ "TCGA-78-7159": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.38,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 2.012,
+  "posteriors": {
+   "C1_hidden_canonical": 0.151,
+   "C2_suppressor_conv": 0.364,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.107,
+   "C7_entropy": 0.378,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.378
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.364
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.151
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.107
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.012,
+    "weight": 0.51
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/mut+KEAP1/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.407,
+    "weight": 0.204
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.3,
+    "weight": 0.144
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.376,
+    "weight": 0.109
+   }
+  ]
+ },
+ "TCGA-78-7162": {
+  "cohort": "TCGA",
+  "best_class": "C4_lineage_cond",
+  "best_p": 0.29,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 1.805,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.245,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.295,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.234,
+   "C7_entropy": 0.043,
+   "C8_unknown": 0.184
+  },
+  "competing": [
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.295
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.245
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.234
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.184
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.043
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT1xoutput",
+    "value": 0.982,
+    "weight": 0.295
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(KEAP1/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.332,
+    "weight": 0.234
+   }
+  ]
+ },
+ "TCGA-78-7536": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.46,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.659,
+  "posteriors": {
+   "C1_hidden_canonical": 0.341,
+   "C2_suppressor_conv": 0.463,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.196,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.463
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.341
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.196
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(NF1/loss+RASA1/loss+STK11/loss+KEAP1/loss)",
+    "value": 4.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 3.187,
+    "weight": 0.594
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Proliferativexoutput",
+    "value": 0.973,
+    "weight": 0.34
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.522,
+    "weight": 0.317
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "ssGSEA",
+    "feature": "pathway_output",
+    "value": 1.524,
+    "weight": 0.105
+   }
+  ]
+ },
+ "TCGA-78-8640": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.39,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.962,
+  "posteriors": {
+   "C1_hidden_canonical": 0.255,
+   "C2_suppressor_conv": 0.174,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.182,
+   "C7_entropy": 0.389,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.389
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.255
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.182
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.174
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.962,
+    "weight": 0.547
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.551,
+    "weight": 0.359
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.34,
+    "weight": 0.256
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss)",
+    "value": 1.0,
+    "weight": 0.245
+   }
+  ]
+ },
+ "TCGA-78-8648": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.76,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.78,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.143,
+   "C5_ligand": 0.093,
+   "C6_microenv": 0.764,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.764
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.143
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.093
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.523,
+    "weight": 0.78
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=EMT_mesenchymalxoutput",
+    "value": 0.932,
+    "weight": 0.146
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.19,
+    "weight": 0.095
+   }
+  ]
+ },
+ "TCGA-80-5611": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.44,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.756,
+  "posteriors": {
+   "C1_hidden_canonical": 0.439,
+   "C2_suppressor_conv": 0.426,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.136,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.439
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.426
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.136
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.805,
+    "weight": 0.721
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+PTEN/loss+STK11/loss+KEAP1/loss)",
+    "value": 4.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.328,
+    "weight": 0.223
+   }
+  ]
+ },
+ "TCGA-86-6851": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.64,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 2.061,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.358,
+   "C7_entropy": 0.642,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.642
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.358
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.061,
+    "weight": 1.0
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.445,
+    "weight": 0.557
+   }
+  ]
+ },
+ "TCGA-86-7701": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.41,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.956,
+  "posteriors": {
+   "C1_hidden_canonical": 0.165,
+   "C2_suppressor_conv": 0.164,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.03,
+   "C6_microenv": 0.228,
+   "C7_entropy": 0.413,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.413
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.228
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.165
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.164
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.03
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.956,
+    "weight": 0.619
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.37,
+    "weight": 0.342
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.494,
+    "weight": 0.247
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.393,
+    "weight": 0.133
+   }
+  ]
+ },
+ "TCGA-86-7711": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.46,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.81,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.292,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.088,
+   "C5_ligand": 0.138,
+   "C6_microenv": 0.46,
+   "C7_entropy": 0.022,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.46
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.292
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.138
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.088
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.022
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.55,
+    "weight": 0.858
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "ssGSEA",
+    "feature": "pathway_output",
+    "value": 2.85,
+    "weight": 0.3
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.514,
+    "weight": 0.257
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Proliferativexoutput",
+    "value": 0.165,
+    "weight": 0.165
+   }
+  ]
+ },
+ "TCGA-86-7954": {
+  "cohort": "TCGA",
+  "best_class": "C5_ligand",
+  "best_p": 0.46,
+  "dominant_lineage": "Club_secretory",
+  "lineage_entropy": 2.05,
+  "posteriors": {
+   "C1_hidden_canonical": 0.069,
+   "C2_suppressor_conv": 0.274,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.011,
+   "C5_ligand": 0.457,
+   "C6_microenv": 0.189,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.457
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.274
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.189
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.069
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 4.965,
+    "weight": 1.0
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/loss+KEAP1/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.394,
+    "weight": 0.412
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.406,
+    "weight": 0.151
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "ssGSEA",
+    "feature": "pathway_output",
+    "value": 1.545,
+    "weight": 0.109
+   }
+  ]
+ },
+ "TCGA-86-7955": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.51,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.814,
+  "posteriors": {
+   "C1_hidden_canonical": 0.43,
+   "C2_suppressor_conv": 0.513,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.034,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.023,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.513
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.43
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.034
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.023
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+PTEN/loss+STK11/loss+KEAP1/loss)",
+    "value": 4.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.71,
+    "weight": 0.586
+   }
+  ]
+ },
+ "TCGA-86-8358": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.64,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.59,
+  "posteriors": {
+   "C1_hidden_canonical": 0.636,
+   "C2_suppressor_conv": 0.364,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.636
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.364
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.9,
+    "weight": 0.857
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(PTEN/loss+STK11/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.643,
+    "weight": 0.321
+   }
+  ]
+ },
+ "TCGA-86-8585": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.62,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 2.036,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.379,
+   "C7_entropy": 0.621,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.621
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.379
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.036,
+    "weight": 1.0
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.464,
+    "weight": 0.611
+   }
+  ]
+ },
+ "TCGA-86-8673": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.67,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.991,
+  "posteriors": {
+   "C1_hidden_canonical": 0.665,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.243,
+   "C7_entropy": 0.091,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.665
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.243
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.091
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.915,
+    "weight": 0.879
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.362,
+    "weight": 0.321
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.991,
+    "weight": 0.121
+   }
+  ]
+ },
+ "TCGA-91-6830": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.45,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 1.96,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.207,
+   "C5_ligand": 0.193,
+   "C6_microenv": 0.155,
+   "C7_entropy": 0.446,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.446
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.207
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.193
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.155
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.96,
+    "weight": 0.603
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT1xoutput",
+    "value": 0.933,
+    "weight": 0.28
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.522,
+    "weight": 0.261
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.323,
+    "weight": 0.209
+   }
+  ]
+ },
+ "TCGA-91-6840": {
+  "cohort": "TCGA",
+  "best_class": "C5_ligand",
+  "best_p": 0.61,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 2.01,
+  "posteriors": {
+   "C1_hidden_canonical": 0.044,
+   "C2_suppressor_conv": 0.3,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.044,
+   "C5_ligand": 0.612,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.612
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.3
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.044
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.044
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 4.94,
+    "weight": 1.0
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.145,
+    "weight": 0.072
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT1xoutput",
+    "value": 0.241,
+    "weight": 0.072
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.344,
+    "weight": 0.063
+   }
+  ]
+ },
+ "TCGA-91-6848": {
+  "cohort": "TCGA",
+  "best_class": "C5_ligand",
+  "best_p": 0.4,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.482,
+  "posteriors": {
+   "C1_hidden_canonical": 0.204,
+   "C2_suppressor_conv": 0.136,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.127,
+   "C5_ligand": 0.398,
+   "C6_microenv": 0.135,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.398
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.204
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.136
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.135
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.127
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 4.647,
+    "weight": 1.0
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 3.027,
+    "weight": 0.514
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.369,
+    "weight": 0.339
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.53,
+    "weight": 0.329
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=EMT_mesenchymalxoutput",
+    "value": 1.0,
+    "weight": 0.32
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(KEAP1/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "ssGSEA",
+    "feature": "pathway_output",
+    "value": 1.48,
+    "weight": 0.096
+   }
+  ]
+ },
+ "TCGA-91-7771": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.6,
+  "dominant_lineage": "Mucinous_gastric",
+  "lineage_entropy": 1.972,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.232,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.022,
+   "C5_ligand": 0.046,
+   "C6_microenv": 0.104,
+   "C7_entropy": 0.596,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.596
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.232
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.104
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.046
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.022
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.972,
+    "weight": 0.667
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.291,
+    "weight": 0.117
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.103,
+    "weight": 0.051
+   }
+  ]
+ },
+ "TCGA-91-A4BC": {
+  "cohort": "TCGA",
+  "best_class": "C5_ligand",
+  "best_p": 0.52,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.958,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.515,
+   "C6_microenv": 0.413,
+   "C7_entropy": 0.071,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.515
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.413
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.071
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 3.715,
+    "weight": 0.857
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.491,
+    "weight": 0.687
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.958,
+    "weight": 0.119
+   }
+  ]
+ },
+ "TCGA-95-7039": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.53,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 2.033,
+  "posteriors": {
+   "C1_hidden_canonical": 0.528,
+   "C2_suppressor_conv": 0.325,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.011,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.136,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.528
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.325
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.136
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.857,
+    "weight": 0.796
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.033,
+    "weight": 0.204
+   }
+  ]
+ },
+ "TCGA-95-7948": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.44,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 1.882,
+  "posteriors": {
+   "C1_hidden_canonical": 0.075,
+   "C2_suppressor_conv": 0.441,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.093,
+   "C5_ligand": 0.307,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.085,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.441
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.307
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.093
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.085
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.075
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(NF1/loss+RASA1/loss+PTEN/loss+STK11/loss+KEAP1/loss)",
+    "value": 5.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.975,
+    "weight": 0.487
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Ciliatedxoutput",
+    "value": 0.49,
+    "weight": 0.147
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.882,
+    "weight": 0.135
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.237,
+    "weight": 0.119
+   }
+  ]
+ },
+ "TCGA-95-8494": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.9,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.85,
+  "posteriors": {
+   "C1_hidden_canonical": 0.895,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.105,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.895
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.105
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 1.697,
+    "weight": 1.0
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.234,
+    "weight": 0.117
+   }
+  ]
+ },
+ "TCGA-97-7552": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.67,
+  "dominant_lineage": "Mucinous_gastric",
+  "lineage_entropy": 1.782,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.311,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.673,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.016
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.673
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.311
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.485,
+    "weight": 0.673
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Mucinous_gastricxoutput",
+    "value": 1.0,
+    "weight": 0.311
+   }
+  ]
+ },
+ "TCGA-97-7937": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.36,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 2.045,
+  "posteriors": {
+   "C1_hidden_canonical": 0.361,
+   "C2_suppressor_conv": 0.329,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.31,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.361
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.329
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.31
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.677,
+    "weight": 0.539
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.045,
+    "weight": 0.461
+   }
+  ]
+ },
+ "TCGA-97-8172": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.68,
+  "dominant_lineage": "AT2_TRU",
+  "lineage_entropy": 1.959,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.093,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.223,
+   "C7_entropy": 0.684,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.684
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.223
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.093
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.959,
+    "weight": 0.75
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.336,
+    "weight": 0.244
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT2_TRUxoutput",
+    "value": 0.341,
+    "weight": 0.102
+   }
+  ]
+ },
+ "TCGA-97-8174": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.39,
+  "dominant_lineage": "AT2_TRU",
+  "lineage_entropy": 1.886,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.17,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.063,
+   "C7_entropy": 0.389,
+   "C8_unknown": 0.378
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.389
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.378
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.17
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.063
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.886,
+    "weight": 0.389
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT2_TRUxoutput",
+    "value": 0.567,
+    "weight": 0.17
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.272,
+    "weight": 0.063
+   }
+  ]
+ },
+ "TCGA-97-8179": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.61,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 2.047,
+  "posteriors": {
+   "C1_hidden_canonical": 0.61,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.39,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.61
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.39
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.727,
+    "weight": 0.61
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.047,
+    "weight": 0.39
+   }
+  ]
+ },
+ "TCGA-97-A4LX": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.54,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 2.008,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.463,
+   "C7_entropy": 0.537,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.537
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.463
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.008,
+    "weight": 1.0
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.552,
+    "weight": 0.863
+   }
+  ]
+ },
+ "TCGA-97-A4M2": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.47,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 1.885,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.217,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.473,
+   "C7_entropy": 0.309,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.473
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.309
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.217
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.437,
+    "weight": 0.534
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.885,
+    "weight": 0.349
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT1xoutput",
+    "value": 0.818,
+    "weight": 0.245
+   }
+  ]
+ },
+ "TCGA-99-AA5R": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.46,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 1.662,
+  "posteriors": {
+   "C1_hidden_canonical": 0.253,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.29,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.457,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.457
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.29
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.253
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.416,
+    "weight": 0.474
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT1xoutput",
+    "value": 1.0,
+    "weight": 0.3
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.524,
+    "weight": 0.262
+   }
+  ]
+ },
+ "TCGA-J2-A4AD": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.65,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 2.006,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.654,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.066,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.28,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.654
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.28
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.066
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/loss+KEAP1/loss)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.006,
+    "weight": 0.3
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Ciliatedxoutput",
+    "value": 0.235,
+    "weight": 0.071
+   }
+  ]
+ },
+ "TCGA-L9-A7SV": {
+  "cohort": "TCGA",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.49,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.942,
+  "posteriors": {
+   "C1_hidden_canonical": 0.487,
+   "C2_suppressor_conv": 0.421,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.007,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.086,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.487
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.421
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.086
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.867,
+    "weight": 0.81
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+STK11/loss+KEAP1/loss)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.942,
+    "weight": 0.143
+   }
+  ]
+ },
+ "TCGA-L9-A8F4": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.4,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.954,
+  "posteriors": {
+   "C1_hidden_canonical": 0.039,
+   "C2_suppressor_conv": 0.161,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.399,
+   "C7_entropy": 0.401,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.401
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.399
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.161
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.039
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.954,
+    "weight": 0.611
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.463,
+    "weight": 0.608
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.342,
+    "weight": 0.06
+   }
+  ]
+ },
+ "TCGA-MN-A4N4": {
+  "cohort": "TCGA",
+  "best_class": "C7_entropy",
+  "best_p": 0.38,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.916,
+  "posteriors": {
+   "C1_hidden_canonical": 0.38,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.132,
+   "C6_microenv": 0.084,
+   "C7_entropy": 0.383,
+   "C8_unknown": 0.02
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.383
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.38
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.132
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.084
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.916,
+    "weight": 0.383
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.566,
+    "weight": 0.38
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 2.264,
+    "weight": 0.132
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.279,
+    "weight": 0.084
+   }
+  ]
+ },
+ "TCGA-MP-A4TA": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.56,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.926,
+  "posteriors": {
+   "C1_hidden_canonical": 0.132,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.558,
+   "C7_entropy": 0.31,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.558
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.31
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.132
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.578,
+    "weight": 0.936
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.926,
+    "weight": 0.521
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.444,
+    "weight": 0.222
+   }
+  ]
+ },
+ "TCGA-MP-A4TH": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.37,
+  "dominant_lineage": "AT2_TRU",
+  "lineage_entropy": 1.901,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.373,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.102,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.314,
+   "C7_entropy": 0.211,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.373
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.314
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.211
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.102
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/loss+KEAP1/loss)",
+    "value": 2.0,
+    "weight": 0.49
+   },
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.394,
+    "weight": 0.412
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.901,
+    "weight": 0.277
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT2_TRUxoutput",
+    "value": 0.445,
+    "weight": 0.134
+   }
+  ]
+ },
+ "TCGA-MP-A5C7": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.47,
+  "dominant_lineage": "AT2_TRU",
+  "lineage_entropy": 1.885,
+  "posteriors": {
+   "C1_hidden_canonical": 0.057,
+   "C2_suppressor_conv": 0.467,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.012,
+   "C5_ligand": 0.372,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.093,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.467
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.372
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.093
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.057
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(NF1/loss+RASA1/loss+STK11/loss+KEAP1/mut)",
+    "value": 4.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA",
+    "feature": "ligand_outlier",
+    "value": 3.115,
+    "weight": 0.558
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.885,
+    "weight": 0.139
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.172,
+    "weight": 0.086
+   }
+  ]
+ },
+ "TCGA-NJ-A4YF": {
+  "cohort": "TCGA",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.49,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 1.932,
+  "posteriors": {
+   "C1_hidden_canonical": 0.364,
+   "C2_suppressor_conv": 0.489,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.146,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.489
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.364
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.146
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/loss+PTEN/loss+STK11/mut+KEAP1/loss)",
+    "value": 4.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_amp",
+    "value": 0.665,
+    "weight": 0.521
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.932,
+    "weight": 0.209
+   }
+  ]
+ },
+ "TCGA-NJ-A4YQ": {
+  "cohort": "TCGA",
+  "best_class": "C6_microenv",
+  "best_p": 0.45,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 2.012,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.136,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.448,
+   "C7_entropy": 0.416,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.448
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.416
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.136
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "GDC",
+    "feature": "leukocyte_fraction",
+    "value": 0.534,
+    "weight": 0.812
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.012,
+    "weight": 0.754
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(KEAP1/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   }
+  ]
+ },
+ "C3L-00009": {
+  "cohort": "CPTAC",
+  "best_class": "C7_entropy",
+  "best_p": 0.6,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.969,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.208,
+   "C3_protein_state": 0.026,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.031,
+   "C6_microenv": 0.136,
+   "C7_entropy": 0.599,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.599
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.208
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.136
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.031
+   },
+   {
+    "class": "C3_protein_state",
+    "label": "Protein-state activation",
+    "p": 0.026
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.969,
+    "weight": 0.707
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(KEAP1/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C6_microenv",
+    "source": "RNA",
+    "feature": "immune/stromal_signature",
+    "value": 0.66,
+    "weight": 0.16
+   }
+  ]
+ },
+ "C3L-00080": {
+  "cohort": "CPTAC",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.45,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.987,
+  "posteriors": {
+   "C1_hidden_canonical": 0.364,
+   "C2_suppressor_conv": 0.45,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.008,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.178,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.45
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.364
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.178
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(RASA1/mut+PTEN/loss+STK11/loss+KEAP1/loss)",
+    "value": 4.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_subthreshold_amp",
+    "value": 0.474,
+    "weight": 0.579
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.882,
+    "weight": 0.441
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.987,
+    "weight": 0.284
+   }
+  ]
+ },
+ "C3L-00083": {
+  "cohort": "CPTAC",
+  "best_class": "C6_microenv",
+  "best_p": 0.37,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 1.902,
+  "posteriors": {
+   "C1_hidden_canonical": 0.219,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.111,
+   "C5_ligand": 0.209,
+   "C6_microenv": 0.37,
+   "C7_entropy": 0.09,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.37
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.219
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.209
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.111
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.09
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "RNA",
+    "feature": "immune/stromal_signature",
+    "value": 1.746,
+    "weight": 1.0
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 3.185,
+    "weight": 0.593
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA/PROTEIN",
+    "feature": "ligand_outlier",
+    "value": 3.131,
+    "weight": 0.565
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Ciliated(strength=1.65)xoutput",
+    "value": 1.649,
+    "weight": 0.3
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.902,
+    "weight": 0.242
+   }
+  ]
+ },
+ "C3L-00095": {
+  "cohort": "CPTAC",
+  "best_class": "C7_entropy",
+  "best_p": 0.4,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.954,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.18,
+   "C3_protein_state": 0.079,
+   "C4_lineage_cond": 0.02,
+   "C5_ligand": 0.007,
+   "C6_microenv": 0.313,
+   "C7_entropy": 0.401,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.401
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.313
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.18
+   },
+   {
+    "class": "C3_protein_state",
+    "label": "Protein-state activation",
+    "p": 0.079
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.954,
+    "weight": 0.621
+   },
+   {
+    "class": "C6_microenv",
+    "source": "RNA",
+    "feature": "immune/stromal_signature",
+    "value": 0.984,
+    "weight": 0.484
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C3_protein_state",
+    "source": "PHOSPHO/PROTEIN",
+    "feature": "PDGFRA:activation_z=2.2(protein/phospho),RNA_z=1.0,amp=0.06",
+    "value": 0.122,
+    "weight": 0.122
+   }
+  ]
+ },
+ "C3L-00144": {
+  "cohort": "CPTAC",
+  "best_class": "C5_ligand",
+  "best_p": 0.73,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.978,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.731,
+   "C6_microenv": 0.269,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.731
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.269
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C5_ligand",
+    "source": "RNA/PROTEIN",
+    "feature": "ligand_outlier",
+    "value": 4.112,
+    "weight": 1.0
+   },
+   {
+    "class": "C6_microenv",
+    "source": "RNA",
+    "feature": "immune/stromal_signature",
+    "value": 0.868,
+    "weight": 0.368
+   }
+  ]
+ },
+ "C3L-00422": {
+  "cohort": "CPTAC",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.37,
+  "dominant_lineage": "Mucinous_gastric",
+  "lineage_entropy": 1.926,
+  "posteriors": {
+   "C1_hidden_canonical": 0.37,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.303,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.327,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.37
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.327
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.303
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.895,
+    "weight": 0.447
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.926,
+    "weight": 0.396
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA/PROTEIN",
+    "feature": "ligand_outlier",
+    "value": 2.732,
+    "weight": 0.366
+   }
+  ]
+ },
+ "C3L-01682": {
+  "cohort": "CPTAC",
+  "best_class": "C6_microenv",
+  "best_p": 0.31,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 1.888,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.128,
+   "C4_lineage_cond": 0.124,
+   "C5_ligand": 0.219,
+   "C6_microenv": 0.306,
+   "C7_entropy": 0.223,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.306
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.223
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.219
+   },
+   {
+    "class": "C3_protein_state",
+    "label": "Protein-state activation",
+    "p": 0.128
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.124
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "RNA",
+    "feature": "immune/stromal_signature",
+    "value": 0.979,
+    "weight": 0.479
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.888,
+    "weight": 0.348
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA/PROTEIN",
+    "feature": "ligand_outlier",
+    "value": 2.683,
+    "weight": 0.341
+   },
+   {
+    "class": "C3_protein_state",
+    "source": "PHOSPHO/PROTEIN",
+    "feature": "PDGFRA:activation_z=2.4(protein/phospho),RNA_z=0.1,amp=-0.01",
+    "value": 0.2,
+    "weight": 0.2
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT1(strength=1.15)xoutput",
+    "value": 1.147,
+    "weight": 0.194
+   }
+  ]
+ },
+ "C3L-01683": {
+  "cohort": "CPTAC",
+  "best_class": "C6_microenv",
+  "best_p": 0.6,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.565,
+  "posteriors": {
+   "C1_hidden_canonical": 0.075,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.325,
+   "C6_microenv": 0.6,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.6
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.325
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.075
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "RNA",
+    "feature": "immune/stromal_signature",
+    "value": 2.067,
+    "weight": 1.0
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA/PROTEIN",
+    "feature": "ligand_outlier",
+    "value": 3.081,
+    "weight": 0.541
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.249,
+    "weight": 0.125
+   }
+  ]
+ },
+ "C3L-02508": {
+  "cohort": "CPTAC",
+  "best_class": "C6_microenv",
+  "best_p": 0.46,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 1.682,
+  "posteriors": {
+   "C1_hidden_canonical": 0.127,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.138,
+   "C5_ligand": 0.277,
+   "C6_microenv": 0.458,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.458
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.277
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.138
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.127
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "RNA",
+    "feature": "immune/stromal_signature",
+    "value": 2.024,
+    "weight": 1.0
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA/PROTEIN",
+    "feature": "ligand_outlier",
+    "value": 3.21,
+    "weight": 0.605
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT1(strength=1.77)xoutput",
+    "value": 1.773,
+    "weight": 0.3
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.552,
+    "weight": 0.276
+   }
+  ]
+ },
+ "C3N-00549": {
+  "cohort": "CPTAC",
+  "best_class": "C5_ligand",
+  "best_p": 0.35,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.686,
+  "posteriors": {
+   "C1_hidden_canonical": 0.237,
+   "C2_suppressor_conv": 0.32,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.091,
+   "C5_ligand": 0.353,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.353
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.32
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.237
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.091
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C5_ligand",
+    "source": "RNA/PROTEIN",
+    "feature": "ligand_outlier",
+    "value": 3.729,
+    "weight": 0.865
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(NF1/mut+RASA1/loss+STK11/mut+KEAP1/loss)",
+    "value": 4.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 3.16,
+    "weight": 0.58
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Proliferative(strength=1.29)xoutput",
+    "value": 1.286,
+    "weight": 0.222
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "PHOSPHO",
+    "feature": "pathway_output(ERK/AKT/S6)",
+    "value": 1.423,
+    "weight": 0.085
+   }
+  ]
+ },
+ "C3N-00737": {
+  "cohort": "CPTAC",
+  "best_class": "C7_entropy",
+  "best_p": 0.62,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.931,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.379,
+   "C7_entropy": 0.621,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.621
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.379
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.931,
+    "weight": 0.745
+   },
+   {
+    "class": "C6_microenv",
+    "source": "RNA",
+    "feature": "immune/stromal_signature",
+    "value": 0.954,
+    "weight": 0.454
+   }
+  ]
+ },
+ "C3N-00738": {
+  "cohort": "CPTAC",
+  "best_class": "C5_ligand",
+  "best_p": 0.5,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.934,
+  "posteriors": {
+   "C1_hidden_canonical": 0.009,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.243,
+   "C5_ligand": 0.5,
+   "C6_microenv": 0.155,
+   "C7_entropy": 0.092,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.5
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.243
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.155
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.092
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C5_ligand",
+    "source": "RNA/PROTEIN",
+    "feature": "ligand_outlier",
+    "value": 3.609,
+    "weight": 0.805
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=EMT_mesenchymal(strength=0.98)xoutput",
+    "value": 0.983,
+    "weight": 0.391
+   },
+   {
+    "class": "C6_microenv",
+    "source": "RNA",
+    "feature": "immune/stromal_signature",
+    "value": 0.75,
+    "weight": 0.25
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.934,
+    "weight": 0.149
+   }
+  ]
+ },
+ "C3N-01071": {
+  "cohort": "CPTAC",
+  "best_class": "C7_entropy",
+  "best_p": 0.64,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.959,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.275,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.023,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.642,
+   "C8_unknown": 0.06
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.642
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.275
+   },
+   {
+    "class": "C8_unknown",
+    "label": "Unknown",
+    "p": 0.06
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.023
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.959,
+    "weight": 0.642
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(NF1/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   }
+  ]
+ },
+ "C3N-01072": {
+  "cohort": "CPTAC",
+  "best_class": "C6_microenv",
+  "best_p": 0.55,
+  "dominant_lineage": "EMT_mesenchymal",
+  "lineage_entropy": 1.884,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.553,
+   "C7_entropy": 0.447,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.553
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.447
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "RNA",
+    "feature": "immune/stromal_signature",
+    "value": 1.129,
+    "weight": 0.629
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.884,
+    "weight": 0.508
+   }
+  ]
+ },
+ "C3N-01823": {
+  "cohort": "CPTAC",
+  "best_class": "C2_suppressor_conv",
+  "best_p": 0.65,
+  "dominant_lineage": "AT1",
+  "lineage_entropy": 2.01,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.654,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.043,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.022,
+   "C7_entropy": 0.28,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.654
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.28
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.043
+   },
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.022
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(NF1/mut+STK11/mut+KEAP1/mut)",
+    "value": 3.0,
+    "weight": 0.7
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 2.01,
+    "weight": 0.3
+   }
+  ]
+ },
+ "C3N-02000": {
+  "cohort": "CPTAC",
+  "best_class": "C1_hidden_canonical",
+  "best_p": 0.96,
+  "dominant_lineage": "Club_secretory",
+  "lineage_entropy": 2.008,
+  "posteriors": {
+   "C1_hidden_canonical": 0.962,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.01,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.028,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.962
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.028
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C1_hidden_canonical",
+    "source": "CNV",
+    "feature": "RTK_subthreshold_amp",
+    "value": 0.592,
+    "weight": 0.972
+   }
+  ]
+ },
+ "C3N-02003": {
+  "cohort": "CPTAC",
+  "best_class": "C6_microenv",
+  "best_p": 0.75,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.849,
+  "posteriors": {
+   "C1_hidden_canonical": 0.0,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.753,
+   "C7_entropy": 0.247,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C6_microenv",
+    "label": "Microenvironment-dependent",
+    "p": 0.753
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.247
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C6_microenv",
+    "source": "RNA",
+    "feature": "immune/stromal_signature",
+    "value": 1.721,
+    "weight": 1.0
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.849,
+    "weight": 0.328
+   }
+  ]
+ },
+ "C3N-02089": {
+  "cohort": "CPTAC",
+  "best_class": "C5_ligand",
+  "best_p": 0.4,
+  "dominant_lineage": "Proliferative",
+  "lineage_entropy": 1.342,
+  "posteriors": {
+   "C1_hidden_canonical": 0.368,
+   "C2_suppressor_conv": 0.231,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.401,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.0,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.401
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.368
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.231
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C5_ligand",
+    "source": "RNA/PROTEIN",
+    "feature": "ligand_outlier",
+    "value": 3.697,
+    "weight": 0.849
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 3.558,
+    "weight": 0.779
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/mut+KEAP1/mut)",
+    "value": 2.0,
+    "weight": 0.49
+   }
+  ]
+ },
+ "C3N-02149": {
+  "cohort": "CPTAC",
+  "best_class": "C7_entropy",
+  "best_p": 0.42,
+  "dominant_lineage": "Mucinous_gastric",
+  "lineage_entropy": 1.995,
+  "posteriors": {
+   "C1_hidden_canonical": 0.083,
+   "C2_suppressor_conv": 0.327,
+   "C3_protein_state": 0.0,
+   "C4_lineage_cond": 0.171,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.419,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.419
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.327
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.171
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.083
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.995,
+    "weight": 0.561
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(STK11/mut)",
+    "value": 1.0,
+    "weight": 0.245
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Mucinous_gastric(strength=0.85)xoutput",
+    "value": 0.855,
+    "weight": 0.229
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "PHOSPHO",
+    "feature": "pathway_output(ERK/AKT/S6)",
+    "value": 1.969,
+    "weight": 0.194
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.223,
+    "weight": 0.111
+   }
+  ]
+ },
+ "C3N-02422": {
+  "cohort": "CPTAC",
+  "best_class": "C3_protein_state",
+  "best_p": 0.42,
+  "dominant_lineage": "Basal",
+  "lineage_entropy": 1.954,
+  "posteriors": {
+   "C1_hidden_canonical": 0.012,
+   "C2_suppressor_conv": 0.206,
+   "C3_protein_state": 0.422,
+   "C4_lineage_cond": 0.0,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.36,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C3_protein_state",
+    "label": "Protein-state activation",
+    "p": 0.422
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.36
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "label": "Tumor-suppressor convergence",
+    "p": 0.206
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C3_protein_state",
+    "source": "PHOSPHO/PROTEIN",
+    "feature": "MET:activation_z=3.0(protein/phospho),RNA_z=1.1,amp=0.26",
+    "value": 0.502,
+    "weight": 0.502
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.954,
+    "weight": 0.429
+   },
+   {
+    "class": "C2_suppressor_conv",
+    "source": "MUT/CNV",
+    "feature": "suppressor_hits(NF1/loss)",
+    "value": 1.0,
+    "weight": 0.245
+   }
+  ]
+ },
+ "C3N-02587": {
+  "cohort": "CPTAC",
+  "best_class": "C3_protein_state",
+  "best_p": 0.58,
+  "dominant_lineage": "AT2_TRU",
+  "lineage_entropy": 1.827,
+  "posteriors": {
+   "C1_hidden_canonical": 0.314,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.577,
+   "C4_lineage_cond": 0.074,
+   "C5_ligand": 0.0,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.035,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C3_protein_state",
+    "label": "Protein-state activation",
+    "p": 0.577
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.314
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.074
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.035
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C3_protein_state",
+    "source": "PHOSPHO/PROTEIN",
+    "feature": "DDR2:activation_z=3.6(protein/phospho),RNA_z=0.1,amp=-0.07",
+    "value": 0.786,
+    "weight": 0.786
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.854,
+    "weight": 0.427
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=AT2_TRU(strength=0.84)xoutput",
+    "value": 0.837,
+    "weight": 0.101
+   }
+  ]
+ },
+ "C3N-02588": {
+  "cohort": "CPTAC",
+  "best_class": "C3_protein_state",
+  "best_p": 0.32,
+  "dominant_lineage": "Ciliated",
+  "lineage_entropy": 1.918,
+  "posteriors": {
+   "C1_hidden_canonical": 0.257,
+   "C2_suppressor_conv": 0.0,
+   "C3_protein_state": 0.319,
+   "C4_lineage_cond": 0.083,
+   "C5_ligand": 0.206,
+   "C6_microenv": 0.0,
+   "C7_entropy": 0.135,
+   "C8_unknown": 0.0
+  },
+  "competing": [
+   {
+    "class": "C3_protein_state",
+    "label": "Protein-state activation",
+    "p": 0.319
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "label": "Hidden canonical driver",
+    "p": 0.257
+   },
+   {
+    "class": "C5_ligand",
+    "label": "Ligand / autocrine signaling",
+    "p": 0.206
+   },
+   {
+    "class": "C7_entropy",
+    "label": "High-plasticity / state-entropy",
+    "p": 0.135
+   },
+   {
+    "class": "C4_lineage_cond",
+    "label": "Lineage-conditioned signaling",
+    "p": 0.083
+   }
+  ],
+  "evidence": [
+   {
+    "class": "C3_protein_state",
+    "source": "PHOSPHO/PROTEIN",
+    "feature": "EGFR:activation_z=3.2(protein/phospho),RNA_z=-0.3,amp=0.15",
+    "value": 0.616,
+    "weight": 0.616
+   },
+   {
+    "class": "C1_hidden_canonical",
+    "source": "RNA",
+    "feature": "RTK_expr_outlier",
+    "value": 2.992,
+    "weight": 0.496
+   },
+   {
+    "class": "C5_ligand",
+    "source": "RNA/PROTEIN",
+    "feature": "ligand_outlier",
+    "value": 2.795,
+    "weight": 0.397
+   },
+   {
+    "class": "C7_entropy",
+    "source": "RNA",
+    "feature": "lineage_entropy",
+    "value": 1.918,
+    "weight": 0.261
+   },
+   {
+    "class": "C4_lineage_cond",
+    "source": "RNA",
+    "feature": "dom=Ciliated(strength=1.03)xoutput",
+    "value": 1.034,
+    "weight": 0.16
+   }
+  ]
+ }
+}

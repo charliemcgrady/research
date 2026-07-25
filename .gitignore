@@ -19,3 +19,7 @@ __pycache__/
 *.pyc
 lag3_validation/scrna/**/*.log
 lag3_validation/scrna/**/*.gtf.gz
+
+# Open CPTAC-LUAD raw downloads (re-downloadable: LinkedOmics + cBioPortal)
+cptac_luad/raw/
+cptac_luad/*.json
